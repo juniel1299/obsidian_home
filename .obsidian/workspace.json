@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "defed461d1cc5916",
+    "type": "split",
+    "children": [
+      {
+        "id": "33baa39d85c20f2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "571ecf345bf89da2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVA (쌍용교육센터)/1월 2일 세 번째 내용.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "141cbdc9148fcf04",
+            "type": "leaf",
+            "state": {
+              "type": "make-file-view",
+              "state": {
+                "path": "https://www.make.md/static/latest.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eacda2dee9e7b73c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd54ae514b2264bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "408fbe75a45775cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42de44e82678178f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "33c83ecfad6ae375",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "39c4d3fcfe97064f",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "63ae1e1c5efb861c",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.5
+  },
+  "right": {
+    "id": "9bef0bdb72496ace",
+    "type": "split",
+    "children": [
+      {
+        "id": "16824702c2c01dc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1de61bc99429beb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "26254878742afed8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "663ad35fc7f82641",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "804f6e808327c183",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "6c1c26a38678bae3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-full-calendar:Open Full Calendar": false
+    }
+  },
+  "active": "141cbdc9148fcf04",
+  "lastOpenFiles": [
+    "Spaces/Home",
+    "Spaces",
+    "JAVA (쌍용교육센터)/1월 2일 세 번째 내용.md",
+    "JAVA (쌍용교육센터)/1월 2일 두 번째 내용.md",
+    "JAVA (쌍용교육센터)/1월 2일 첫 번째 내용.md",
+    "JAVA (쌍용교육센터)/12월 29일 내용.md",
+    "JAVA (쌍용교육센터)",
+    "학교 (캡스톤디자인)/필기.md.md",
+    "학교 (캡스톤디자인)/최종보고서.md",
+    "독서 정리/독서 정리.md",
+    "학교 (캡스톤디자인)/동작 설명.md",
+    "학교 (캡스톤디자인)/내가 한 부분.md",
+    "학교 (캡스톤디자인)/1128 포스터 관련.md",
+    "학교 (캡스톤디자인)/1028참고문헌.md",
+    "학교 (캡스톤디자인)/10_28정리.md",
+    "학교 (로보틱스)/1128.md",
+    "학교 (로보틱스)/무제 파일.md",
+    "학교 (로보틱스)/12_05.md",
+    "첨부파일 폴더/캡스톤디자인1학기 7조 설계 프로젝트  최종 보고서.hwp",
+    "Q0Tj8DCaNirmxV0j_DSyuOsmtGp6GZp76F_z2pN8_vQCPP-dUUHyrTBxR3oxV2Tn_E-3FjC1Lq-yTAx-iPWJKA.webp.md",
+    "학교 (캡스톤디자인)/제어 캡스톤 1차 보고서.md",
+    "학교 (캡스톤디자인)/제어 캡스톤 2차 보고서 (상세 설계).md",
+    "블로그 글 아이디어 정리/무제 파일.md",
+    "블로그 글 아이디어 정리/요즘것들.md",
+    "블로그 글 아이디어 정리/법은 공정한가.md",
+    "블로그 글 아이디어 정리/모노노케 히메.md",
+    "블로그 글 아이디어 정리/일방적인 신뢰는 옳은가.md",
+    "블로그 글 아이디어 정리/큰 힘에는 큰 책임이 따르는가.md",
+    "학교 (캡스톤디자인)/아이디어 낸 과정.md",
+    "첨부파일 폴더/Q0Tj8DCaNirmxV0j_DSyuOsmtGp6GZp76F_z2pN8_vQCPP-dUUHyrTBxR3oxV2Tn_E-3FjC1Lq-yTAx-iPWJKA.webp",
+    "첨부파일 폴더/img.jpg",
+    "첨부파일 폴더/00500079_20181211.jpg",
+    "Context/spacesLastSync.log",
+    "Context",
+    "노트북 파일 정리",
+    "학교 (로보틱스)",
+    "자율주행_논문_발행증가.png",
+    "학교(SNS로 톡하고)",
+    "일정",
+    "학교 (캡스톤디자인)"
+  ]
+}
