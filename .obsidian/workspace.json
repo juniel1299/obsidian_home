@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "141cbdc9148fcf04",
-            "type": "leaf",
-            "state": {
-              "type": "make-file-view",
-              "state": {
-                "path": "https://www.make.md/static/latest.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,8 +81,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JAVA (쌍용교육센터)/1월 2일 세 번째 내용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JAVA (쌍용교육센터)/1월 2일 세 번째 내용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JAVA (쌍용교육센터)/1월 2일 세 번째 내용.md"
+              }
             }
           },
           {
@@ -179,7 +171,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "141cbdc9148fcf04",
+  "active": "571ecf345bf89da2",
   "lastOpenFiles": [
     "Spaces/Home",
     "Spaces",
