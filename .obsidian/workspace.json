@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 2일 세 번째 내용.md",
+                "file": "JAVA (쌍용교육센터)/1월 3일 첫 번째 내용.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 2일 세 번째 내용.md",
+                "file": "JAVA (쌍용교육센터)/1월 3일 첫 번째 내용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 2일 세 번째 내용.md",
+                "file": "JAVA (쌍용교육센터)/1월 3일 첫 번째 내용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 2일 세 번째 내용.md"
+                "file": "JAVA (쌍용교육센터)/1월 3일 첫 번째 내용.md"
               }
             }
           },
@@ -173,12 +173,15 @@
   },
   "active": "571ecf345bf89da2",
   "lastOpenFiles": [
+    "JAVA (쌍용교육센터)/12월 29일 내용.md",
+    "JAVA (쌍용교육센터)/1월 3일 첫 번째 내용.md",
+    "obsidian_home/README.md",
+    "obsidian_home",
+    "JAVA (쌍용교육센터)/1월 2일 세 번째 내용.md",
     "Spaces/Home",
     "Spaces",
-    "JAVA (쌍용교육센터)/1월 2일 세 번째 내용.md",
     "JAVA (쌍용교육센터)/1월 2일 두 번째 내용.md",
     "JAVA (쌍용교육센터)/1월 2일 첫 번째 내용.md",
-    "JAVA (쌍용교육센터)/12월 29일 내용.md",
     "JAVA (쌍용교육센터)",
     "학교 (캡스톤디자인)/필기.md.md",
     "학교 (캡스톤디자인)/최종보고서.md",
@@ -201,7 +204,6 @@
     "블로그 글 아이디어 정리/모노노케 히메.md",
     "블로그 글 아이디어 정리/일방적인 신뢰는 옳은가.md",
     "블로그 글 아이디어 정리/큰 힘에는 큰 책임이 따르는가.md",
-    "학교 (캡스톤디자인)/아이디어 낸 과정.md",
     "첨부파일 폴더/Q0Tj8DCaNirmxV0j_DSyuOsmtGp6GZp76F_z2pN8_vQCPP-dUUHyrTBxR3oxV2Tn_E-3FjC1Lq-yTAx-iPWJKA.webp",
     "첨부파일 폴더/img.jpg",
     "첨부파일 폴더/00500079_20181211.jpg",
@@ -210,8 +212,6 @@
     "노트북 파일 정리",
     "학교 (로보틱스)",
     "자율주행_논문_발행증가.png",
-    "학교(SNS로 톡하고)",
-    "일정",
-    "학교 (캡스톤디자인)"
+    "학교(SNS로 톡하고)"
   ]
 }
