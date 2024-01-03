@@ -52,7 +52,7 @@ System.out.println(s1); // 복사본
 
 *명시적 형변환 예시*
 b2는 byte , s2는 short 이므로 
-byte = short 
+byte = short 로 short가 byte에 맞춰서 들어가도록 수정해야함.
 ```java
 byte b2;
 
@@ -72,3 +72,93 @@ b2 = (byte)s2; // 이렇게 수정해야함
 
 System.out.println(b2); // 복사본
 ```
+
+## 오버플로우
+> 원본 s3는 2byte -> 16칸 , b3는 1byte -> 8칸인데 
+> 형변환을 통해 s3를 byte로 만들게 되면 형변환이 발생하면서 8칸에 맞추기 위해 
+> 본인이 가진 16칸 중 8칸을버림 
+> 여기서 맨 앞 비트는 부호 (0일때 양수 1일때 음수)를 의미하는데 
+> 앞에 8칸을 버리면서 원래 숫자를 나타내던 비트가 맨 앞으로 오면서 음수가 되어버림
+
+예시 
+```java
+byte b3;
+
+short s3;
+
+s3 = 128;
+
+b3 = (byte)s3;
+
+System.out.println(b3);
+```
+예시2
+```java
+//기업은행 > 계좌
+
+int m1;
+
+long m2 = 3000000000L;
+
+//계좌이체
+
+// 형변환을 통해 int = int로 맞춰줌
+
+m1 = (int)m2;
+
+// 앞에 설명과 같이 long은 8byte -> 64bit 총 64칸임 , int는 4byte -> 32bit 총 32칸임
+
+// int = int로 맞춰주는 과정에서 long이 앞에 32칸을 버림
+
+// 원래 숫자를 나타내던 칸이 부호를 나타내는 칸이되며 결과값이 음수로 나오게 되어버림 .
+
+System.out.println("계좌이체결과: " + m1);
+```
+형변환 정리
+>  큰형 = 작은형 (암시형변환)
+>  long = int
+>  long = byte
+>  long = short
+>  int = short
+>  int = byte
+>  short = byte
+
+
+> 작은형 = 큰형 (명시적 형변환)
+> byte = short
+> byte = int
+> byte = long
+> short = int
+> short = long
+> int = long
+> 
+
+long = int
+
+ long = short
+
+long = byte
+
+ int = short
+
+ int = byte
+
+short = byte
+
+작은형 = 큰형 (명시적형변환)
+
+byte = short
+
+byte = int
+
+byte = long
+
+ short = int
+
+ short = long
+
+ int = long
+
+정수형 리터럴은 int이다.
+
+실수형 리터럴은 double이다.
