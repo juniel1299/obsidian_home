@@ -252,3 +252,82 @@ t2 = (short)c2;
 System.out.println(t2);
 ```
 
+예시3) char 형변환
+```java
+char c2; // 2byte
+
+short t2; //2byte
+
+c2 = '가';
+
+//문자 코드값으로 변환
+
+// short = char , 작은형 = 큰형이라 인식하여 오류 , 명시적 형변환 필요 , char가 더 큰 범위라고 인식함.
+
+//t2 = c2;
+
+t2 = (short)c2;
+
+System.out.println(t2);
+
+char c3;
+
+short t3;
+
+t3 = 65;
+
+// char = short 작은형 = 큰형이라 인식하여 오류, 명시적 형변환이 필요
+
+//c3 = t3;
+
+c3 = (char)t3;
+
+System.out.println(c3);
+```
+
+> short 는 -32768 ~ 32767 , char 는 0 ~ 65535 범위임.
+> - 결국 0~32767 이외는 범위 밖임 > 0 밑으로 갈 시 언더플로우 , 32767 위로 갈 시 오버플로우가 발생함.
+> - 결국 데이터가 깨질 수 있음.
+> - ex) 가 = 44000임 > short 범위 밖으로 나감 > 가를 넣으면 -21504라는 값이 출력이 됨
+
+**그러므로 char를 형변환 할 땐 반드시 int로 한다.**
+
+오류 예시 )
+**값형은 Stack에 값을 두는 반면 참조형은 Heap에 값을 두고 그 값의 위치 (주소)를 Stack에 적어놓으므로** 
+*그러므로 값형과 참조형은 서로 형변환을 할 수 없음.*
+
+즉, 참조형 -> 값형으로 바꾼게 아닌 표현임 .
+
+**문자열을 숫자로 바꿀 순 있으나 , 참조형 -> 값형으로 형변환을 
+```java
+//cannot cast from String to int
+
+//System.out.println((int)"A");
+// '을 써서 해야함 .
+
+System.out.println((int)'A');
+
+// 값형은 Stack에 값을 두는 반면 참조형은 Heap에 값을 두고 그 값의 위치 (주소)를 Stack에 적어놓으므로
+
+// 깂형과 참조형은 서로 형변환을 할 수 없음.
+
+// 참조형 -> 값형으로 바꾼게 아닌 표현임. (문자열 -> 숫자로 바꿀 순 있으나 참조형 -> 값형으로 형변환을 할 순 없다)
+```
+```java
+String txt = "100";
+
+int result;
+
+result = Integer.parseInt(txt); // "100" -> 100 문자 -> 숫자
+
+// 100 -> "100" 숫자 -> 문자
+
+String txt2 =String.valueOf(100); //정석 API
+
+String txt3 = 100 + ""; // 한쪽이 숫자, 한쪽이 문자열이면 문자열로 출력이 됨
+
+String txt5 = 3.14 +""; // 실수도 가능
+
+String txt6 = true +""; // true false도 가능.
+```
+
