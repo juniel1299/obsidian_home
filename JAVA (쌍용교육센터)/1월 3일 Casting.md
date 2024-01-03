@@ -131,34 +131,108 @@ System.out.println("계좌이체결과: " + m1);
 > short = int
 > short = long
 > int = long
-> 
+>	- 정수형 리터럴은 int이다
+>	- 실수형 리터럴은 double이다.
 
-long = int
+명시적 형변환 예시 
+```java
+//명시적 형변환
 
- long = short
+byte a1 = (byte)10; // 원래는 해야하지만 자동으로 맞춰줌
 
-long = byte
+//short a2 = 10;
 
- int = short
+short a2 = (byte)10;
 
- int = byte
+int a3 = 10;
 
-short = byte
+// 큰형 = 작은형
 
-작은형 = 큰형 (명시적형변환)
+// 암시적 형변환 ,
 
-byte = short
+long a4 = 10;
 
-byte = int
+// 명시적 형변환 (실수)
 
-byte = long
+//float f1 = 3.14; 작은형 = 큰형
 
- short = int
+float f1 = (float)3.14; // float = double이므로 변환해줘야함
 
- short = long
+float f2 = 3.14F; // 또는 뒤에 F
 
- int = long
+double f3 = 3.14F; //double = float -> 8 = 4 이므로 암시적 형변환
+```
 
-정수형 리터럴은 int이다.
+## 정수와 실수 변환 
 
-실수형 리터럴은 double이다.
+예시 ) 실수 = 정수 
+```java
+// 실수 = 정수 형태 , 암시적 형변환 > 안전 , 비트 수가 같으므로
+
+int n1 = 100; // 원본 (4)
+
+float n2; //복사본(4)
+
+n2 = n1;
+
+System.out.println(n2);
+
+int n3; //복사본(4)
+
+float n4 = 100; //원본(4)
+```
+
+예시 ) 정수 = 실수
+**데이터 크기는 둘 다 4byte로 같지만 float의 경우 소수점 아래 범위까지 표현이 가능하므로 int보다 더 넓은 범위를 가지고 있어 명시적 형변환을 해야함**
+```java
+int n3; //복사본(4)
+
+float n4 = 100; //원본(4)
+
+// 정수 = 실수 형태 , 명시적 형변환
+
+//n3 = n4;
+
+// 분명 비트는 같지만 실수는 소수점 아래 범위까지 존재하므로 int 데이터 비트 안에 들어갈 수 없음. (실제 수의 범위)
+
+n3 = (int)n4;
+
+System.out.println(n3);
+```
+**비트가 더 큰 long 이어도  float는 소수점 아래까지 표현이 가능하므로 명시를 해야함**
+```java
+long n5;
+
+float n6 = 10;
+
+//long (8) = float(4)
+
+//n5 = n6;
+
+//비트 크기 자체는 long이 더 크나, float은 소수점 아래 범위까지 수를 넣기 때문에 long에 비해 범위가 넓음.
+
+n5 = (long)n6;
+
+System.out.println(n5);
+```
+
+***정수와 실수간의 크기 비교는 단순한 메모리 크기가 아닌, 실제 저장하는 수의 범위로 비교한다.***
+
+*//byte(1) < short(2) < int(4) < long(8) <<<< float(4) < double(8)*
+
+예시 ) char 형변환 
+```java
+//char 형변환
+
+char c1 = 'A'; //겉으로는 문자 하나를 넣는 자료형이지만 내부에는 숫자임
+
+System.out.println(c1); // 문자 출력
+
+System.out.println((int)c1); //숫자로 출력이 됨
+
+System.out.println((char)65); //숫자를 char 형변환하여 문자로 출력
+```
+
+```java
+
+```
