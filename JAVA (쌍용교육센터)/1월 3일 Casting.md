@@ -232,7 +232,23 @@ System.out.println((int)c1); //숫자로 출력이 됨
 
 System.out.println((char)65); //숫자를 char 형변환하여 문자로 출력
 ```
-
+예시2) char 형변환 
+**같은 2byte여도 char가 더 큰 범위라고 인식하여 명시적 형변환을 하여야 함**
 ```java
+char c2; // 2byte
 
+short t2; //2byte
+
+c2 = '가';
+
+//문자 코드값으로 변환
+
+// short = char , 작은형 = 큰형이라 인식하여 오류 , 명시적 형변환 필요 , char가 더 큰 범위라고 인식함.
+
+//t2 = c2;
+
+t2 = (short)c2;
+
+System.out.println(t2);
 ```
+
