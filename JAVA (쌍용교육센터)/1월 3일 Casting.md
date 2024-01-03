@@ -298,7 +298,7 @@ System.out.println(c3);
 
 즉, 참조형 -> 값형으로 바꾼게 아닌 표현임 .
 
-**문자열을 숫자로 바꿀 순 있으나 , 참조형 -> 값형으로 형변환을 
+**문자열을 숫자로 바꿀 순 있으나 , 참조형 -> 값형으로 형변환을 하는건 아님. (할 수 없음)**
 ```java
 //cannot cast from String to int
 
@@ -330,4 +330,5 @@ String txt5 = 3.14 +""; // 실수도 가능
 
 String txt6 = true +""; // true false도 가능.
 ```
+
 
