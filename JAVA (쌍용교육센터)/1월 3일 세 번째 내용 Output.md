@@ -142,4 +142,89 @@ System.out.println();
 ```
 
 >형식 문자는 추가적 기능이 존재
->%d , %c 
+>%d , %s , %c %f %b 사이에 숫자 삽입할 수 있음.
+>출력할 내용의 너비 지정하기 위함.
+>+ 는 우측 정렬
+> -는 좌측 정렬이다
+> 공백을 넣어 길이를 맞춰 줄 수 있다.
+
+```java
+int num = 123;
+
+System.out.printf("[%d]\n", num);
+
+System.out.printf("[%10d]\n", num); //출력내용을 10칸 확보 (숫자가 3개니까 스페이스바 7번)
+
+System.out.printf("[%-10d]\n", num);//음수로 적을 경우 왼쪽에 숫자 오른쪽 공백,
+
+System.out.println();
+```
+
+>%f에서만 가능한 기능
+>소수점 이하 자릿수 지정하는 방법 
+>%.숫자f 
+
+예시1
+```java
+// 소수점 이하 자릿수 지정
+
+double num2 = 3.14;
+
+System.out.printf("[%f]\n", num2);
+
+System.out.printf("[%.2f]\n", num2); // 소수점 둘쨋자리까지 출력
+
+System.out.printf("[%.0f]\n", num2); // .0 시 정수만 출력
+
+System.out.printf("[%.3f]\n", 3.4567); // 소수점 셋째자리까지 출력 (반올림), 확인 후 작업(***)
+
+System.out.println();
+```
+
+> %d와 %f에서만 가능한 기능
+> %,d %,f 작성 시 천단위 표기 방식으로 숫자가 작성이 됨 (3칸 지날 때 , 찍힘)
+
+예시
+```java
+//3. %,d , %,f(%d, %f에만 사용 가능) 자릿수 표기(천단위 표기방식 - 3자리)
+
+int price = 123456;
+
+System.out.printf("[금액 : %,d]",price);
+
+double price2 = 1237.231;
+
+  
+
+System.out.printf("\n[금액 : %,f]",price2);
+
+//천단위 + 소수이하(2자리) + 출력너비 (28자리 , 우측정렬)
+
+double num3 = 1234567.7890123;
+
+System.out.printf("\n[%,20.2f]\n", num3);
+```
+
+**정렬 예시**
+
+```java
+//메뉴판 출력 > 열 정렬
+
+// 가장 긴거에 맞춰 정렬
+
+System.out.println("================================");
+
+System.out.println(" 음료 가격(단위:원)");
+
+  
+
+System.out.println("================================");
+
+System.out.printf("콜라:\t\t%,6d\n", 2500);
+
+System.out.printf("스무디:\t\t%,6d\n", 3500);
+
+System.out.printf("사이다:\t\t%,6d\n", 500);
+
+System.out.printf("아메리카노:\t%,6d\n", 15000);
+```
