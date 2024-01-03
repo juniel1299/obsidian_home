@@ -11,8 +11,12 @@
             "id": "9301997f14a946d6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JAVA (쌍용교육센터)/1월 3일 첫 번째 내용.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JAVA (쌍용교육센터)/1월 3일 첫 번째 내용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JAVA (쌍용교육센터)/1월 3일 첫 번째 내용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JAVA (쌍용교육센터)/1월 3일 첫 번째 내용.md"
+              }
             }
           },
           {
@@ -168,7 +175,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "6c1c26a38678bae3",
+  "active": "9301997f14a946d6",
   "lastOpenFiles": [
     "README.md",
     "JAVA (쌍용교육센터)/1월 3일 두 번째 내용.md",
