@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 3일 다섯 번째 내용 BufferedReader.md",
+                "file": "JAVA (쌍용교육센터)/1월 3일 Error.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 3일 첫 번째 내용 Variable.md",
+                "file": "JAVA (쌍용교육센터)/1월 3일  Variable.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 3일 다섯 번째 내용 BufferedReader.md",
+                "file": "JAVA (쌍용교육센터)/1월 3일 Error.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 3일 다섯 번째 내용 BufferedReader.md",
+                "file": "JAVA (쌍용교육센터)/1월 3일 Error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 3일 다섯 번째 내용 BufferedReader.md"
+                "file": "JAVA (쌍용교육센터)/1월 3일 Error.md"
               }
             }
           },
@@ -177,11 +177,12 @@
   },
   "active": "217cdb2cd4ac8503",
   "lastOpenFiles": [
-    "JAVA (쌍용교육센터)/1월 3일 세 번째 내용 Output.md",
-    "JAVA (쌍용교육센터)/1월 3일 다섯 번째 내용 BufferedReader.md",
-    "JAVA (쌍용교육센터)/1월 3일 네 번째 내용 Input.md",
-    "JAVA (쌍용교육센터)/1월 3일 두 번째 내용 Escape .md",
-    "JAVA (쌍용교육센터)/1월 3일 첫 번째 내용 Variable.md",
+    "JAVA (쌍용교육센터)/1월 3일 Output.md",
+    "JAVA (쌍용교육센터)/1월 3일 Escape .md",
+    "JAVA (쌍용교육센터)/1월 3일  BufferedReader.md",
+    "JAVA (쌍용교육센터)/1월 3일 Input.md",
+    "JAVA (쌍용교육센터)/1월 3일  Variable.md",
+    "JAVA (쌍용교육센터)/1월 3일 Error.md",
     "README.md",
     "JAVA (쌍용교육센터)/1월 2일 두 번째 내용.md",
     "obsidian_home/README.md",
@@ -207,7 +208,6 @@
     "Q0Tj8DCaNirmxV0j_DSyuOsmtGp6GZp76F_z2pN8_vQCPP-dUUHyrTBxR3oxV2Tn_E-3FjC1Lq-yTAx-iPWJKA.webp.md",
     "학교 (캡스톤디자인)/제어 캡스톤 1차 보고서.md",
     "학교 (캡스톤디자인)/제어 캡스톤 2차 보고서 (상세 설계).md",
-    "블로그 글 아이디어 정리/무제 파일.md",
     "첨부파일 폴더/Q0Tj8DCaNirmxV0j_DSyuOsmtGp6GZp76F_z2pN8_vQCPP-dUUHyrTBxR3oxV2Tn_E-3FjC1Lq-yTAx-iPWJKA.webp",
     "첨부파일 폴더/img.jpg",
     "첨부파일 폴더/00500079_20181211.jpg",
