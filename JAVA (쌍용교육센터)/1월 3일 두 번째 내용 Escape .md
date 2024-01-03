@@ -4,4 +4,52 @@
 
 ## \\n  **줄 바꿈 (new line , line feed)**
 개행문자 (즉 엔터를 의미)
+예시 
+```java
+String msg = "안녕하세요.\n홍길동입니다.";
 
+System.out.println(msg);
+```
+
+## \\r (carriage return)
+
+//캐럿의 위치를 현재 라인의 맨 앞으로 이동
+
+// 키보드 > home 키 역할
+
+예시 
+```java
+msg = "안녕하세요.\r홍길동";
+
+System.out.println(msg);
+```
+
+### 운영체제의 엔터
+> 운영체제마다 엔터가 다름
+> 1. 윈도우의 경우 \\r\\n 
+> 2. 맥의 경우 \\r
+> 3. 리눅스의 경우 \\n
+
+
+```java
+System.out.println("하나\r\n둘"); //정석
+
+System.out.println("하나\n둘");
+```
+
+## \\t 탭 문자 (tab)
+
+```java
+msg = "하나\t둘\t셋";
+
+System.out.println(msg);
+```
+
+##  \\b (backspace)
+
+```java
+msg = "홍길동\b입니다."; //홍길입니다. [단 이클립스에서 지원x]
+
+System.out.println(msg);
+
+```
