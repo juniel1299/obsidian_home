@@ -14,5 +14,9 @@
 > 소멸 : 변수 선언문이 포함된 블럭을 빠져나갈 때
 > main 메서드 변수는 소멸이 늦음 > 메모리량 증가 
 
-	
+```java
+public static void checkNumber (int num) {
+
+//int num; 매개변수도 지역변수에 들어감.
+```
 
