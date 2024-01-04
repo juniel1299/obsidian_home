@@ -18,3 +18,21 @@
 > 1. 코드의 재사용
 > 2. 메서드 호출 (사용)
 
+# 메서드 선언
+>메서드 헤더 (header ), Signature (서명)
+>public (접근 지정자) , static(정적 키워드), void(메서드명), hello(인자리스트) ()
+>몸통(body) [구현부] {코드작성}
+
+예시
+```java
+public static void hello(){ // hello 라는 메서드 선언
+System.out.println("안녕하세요"); // 구현부 (메서드가 하려는 업무)
+}
+```
+
+main에서 
+```java
+hello(); // 작성 시 hello 메서드 내부의 업무를 가져옴 . 
+//안녕하세요 출력됨
+```
+
