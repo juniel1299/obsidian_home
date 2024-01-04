@@ -321,6 +321,43 @@ System.out.println(result);
 
 ```
 
+## 조건 연산자
+> ? : 3항 연산자 ( 유일한 3항 연산자이다.)
+> A ? "B" : "C" 의 형태이며
+> A 는 boolean으로 조건임 
+> true 일 경우 B가 출력되며 , false일 경우 C가 출력됨.
+> 
 
+```java
+System.out.println(1 + 1);
 
+System.out.println(1243124+ 124568);
 
+System.out.println(true ? "남자" : "여자"); // 남자 출력
+
+System.out.println(false ? "남자" : "여자"); // 여자 출력
+
+age = 25;
+
+System.out.println(age >= 18 ? "통과" : "거절"); // 25 >= 18 이므로 통과
+
+n = 5;
+
+System.out.println(n % 2 == 0 ? "짝수" : "홀수"); // 5를 2로 나누면 1 나옴 false 홀수
+```
+
+## 비트 연산자 , (논리 연산자) , 진짜 비트 연산
+
+```java
+a = 10;
+
+b = 5;
+
+System.out.println(a & b); // 10 > 1010 (2^3 + 2^1) , 5 > 0101 (2^2 + 2^0) 엔드이므로 1010 , 0101 비교 > 0000
+
+System.out.println(a | b); // 위에 숫자 계산 1111 > 8 + 4 + 2 + 1 = 15
+```
+
+템플릿 저장하는 법 
+
+// window > 설정 > Editor temlate > 작성
