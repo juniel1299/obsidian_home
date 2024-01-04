@@ -95,3 +95,67 @@ System.out.printf("%.0f / %.0f = %f\n", c, d, c / d);
 
 이유 : 데이터 손실(오버플로우) 방지를 위해 크기가 큰 곳에 맞춰 답이 나오게 된다.
 
+예제)
+```java
+System.out.println(10 / 3); // 정수 / 정수 = 3 -> 기본값 int 이기 때문에 정수로 나옴
+
+System.out.println(10.0 / 3.0); // 실수 / 실수 = 3.3333 -> 실수 기본 값이 double 이므로
+
+  
+
+System.out.println(10.0 / 3); // 정수 / 실수 = 3.3333
+
+System.out.println(10 / 3.0); // 실수 / 정수 = 3.3333
+
+int e = 1000;
+
+byte f = 10;
+
+System.out.println(e + f); // int + byte = int -> Integer로 변환됨
+
+int g = 1_000_000_000;
+
+int h = 2_000_000_000;
+
+long i = (long)g + h;
+
+System.out.println(i); // int
+
+//System.out.println(1000000000 + 2000000000); // 기본값이 int 이므로 30억은 오버플로우 발생
+
+System.out.println((long)1000000000 + 2000000000); // 앞에 형식을 바꿔줘야함 -> 하나만 해도 됨
+
+byte j = 10;
+
+byte k = 20;
+
+System.out.println(j + k);
+
+//Type mismatch: cannot convert from int to byte
+
+// *** byte와 short 연산의 결과는 항상 int이다.
+
+//byte l = j + k;
+
+byte l = (byte)(j+k); // 이렇게 수정하면 할 수 있으나 대부분 int 사용
+```
+
+*오류를 줄이기 위해서 정수는 대부분 int 를 사용 (가끔 long 씀)*
+*실수는 대부분 double을 사용함 (정밀도 때문에)*
+
+% 나머지 연산자.
+패턴 생성에 주로 쓰임 .
+```java
+System.out.println(10%2);
+
+System.out.println(9%2);
+
+//달력을 % 를 이용하여 만들 때.
+
+// 1. 만들고자 하는 년,월 > 1일은 무슨 요일?
+
+// 서기 1년 1월 1일 > 월요일
+
+// 2. 만들고자 하는 년 월에 마지막 일?
+```
+
