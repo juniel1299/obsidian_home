@@ -25,4 +25,77 @@
 > 7. public static int test () {} //불가능 1번과 겹침
 
 ### 메서드 호출하기
+ test(); //1번
 
+ test(10); //3번 [4번을 쓰게 되면 3,4번 모두 10을 받을 수 있기 때문에 안 됨]
+
+ test(10, 20); 5번은 매개변수 개수가 다르기 때문에 가능함 [ 2개가 들어가야하기 때문에 안 겹침]
+
+ 이름이 같아도 안에 변수를 넣으면 이름이 같아도 됨 .
+
+ test("문자열"); 6번의 경우 String 값형과 겹치지 않는 참조형이기 때문에 가능함.
+
+ 7번의 경우 1번과 구분이 안 감 int result = test(); 이므로 test(); 부터 실행 -> 겹침 (반환값의 자료형)
+
+
+예시)
+요구사항) 선을 그리는 메서드를 선언하시오.
+```java
+drawLine();
+
+System.out.println(" 성적표");
+
+drawLine();
+
+drawLine("+");
+
+System.out.println("");
+
+drawLine("-");
+
+System.out.println("");
+
+drawLine("*");
+
+System.out.println("");
+
+drawLine("^");
+
+System.out.println("");
+
+  
+
+System.out.println(10);
+
+System.out.println("문자열");
+
+public static void drawLine() {
+
+System.out.println("==========");
+
+System.out.println("");
+
+}
+
+  
+
+public static void drawLine(String c) {
+
+  
+
+System.out.print(c);
+
+System.out.print(c);
+
+System.out.print(c);
+
+System.out.print(c);
+
+System.out.print(c);
+
+System.out.print(c);
+
+  
+
+}
+```
