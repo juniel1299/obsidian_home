@@ -99,3 +99,17 @@ System.out.print(c);
 
 }
 ```
+
+### 코드 컨벤션
+네이밍 규칙 > 변수명, 클래스명, 메서드명 등 . 
+
+> K&R 스타일 (중괄호 위치)
+
+```java
+public static void m1(){
+
+
+}
+```
+
+>Allma
