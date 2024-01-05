@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3f295668460cad04",
+        "id": "f28116f0bb43492c",
         "type": "tabs",
         "children": [
           {
-            "id": "217cdb2cd4ac8503",
+            "id": "6c2e6736a1bc8e6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#C",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,10 +175,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "217cdb2cd4ac8503",
+  "active": "6c2e6736a1bc8e6a",
   "lastOpenFiles": [
-    "JAVA (쌍용교육센터)/1월 4일 Method (4).md",
+    "학교 (캡스톤디자인)/필기.md.md",
     "JAVA (쌍용교육센터)/1월 5일 Method (5).md",
+    "JAVA (쌍용교육센터)/1월 4일 Method (4).md",
     "JAVA (쌍용교육센터)/1월 4일 LocalVariable.md",
     "JAVA (쌍용교육센터)/1월 4일 Method (3).md",
     "JAVA (쌍용교육센터)/1월 4일 Method (2).md",
@@ -204,7 +205,6 @@
     "Spaces",
     "JAVA (쌍용교육센터)/1월 2일 첫 번째 내용.md",
     "JAVA (쌍용교육센터)",
-    "학교 (캡스톤디자인)/필기.md.md",
     "학교 (캡스톤디자인)/최종보고서.md",
     "독서 정리/독서 정리.md",
     "첨부파일 폴더/캡스톤디자인1학기 7조 설계 프로젝트  최종 보고서.hwp",
