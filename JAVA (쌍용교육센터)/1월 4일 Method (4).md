@@ -112,4 +112,12 @@ public static void m1(){
 }
 ```
 
->Allma
+>Allman 스타일 (중괄호 위치)
+
+```java
+public static void m1()
+{
+
+
+}
+```
