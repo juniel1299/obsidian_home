@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 5일 if문 (조건문).md",
+                "file": "JAVA (쌍용교육센터)/1월 2일 첫 번째 내용.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 5일 if문 (조건문).md",
+                "file": "JAVA (쌍용교육센터)/1월 2일 첫 번째 내용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 5일 if문 (조건문).md",
+                "file": "JAVA (쌍용교육센터)/1월 2일 첫 번째 내용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 5일 if문 (조건문).md"
+                "file": "JAVA (쌍용교육센터)/1월 2일 첫 번째 내용.md"
               }
             }
           },
@@ -175,11 +175,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "408fbe75a45775cf",
+  "active": "d8ce663834983cee",
   "lastOpenFiles": [
+    "JAVA (쌍용교육센터)/12월 29일 내용.md",
+    "question/Q001 문제 .md",
+    "obsidian_home/README.md",
+    "JAVA (쌍용교육센터)/1월 5일 if문 (조건문).md",
+    "question",
     "ｑｕｅｓｔｉｏｎ",
     "JAVA (쌍용교육센터)/1월 5일 DateTime.md",
-    "JAVA (쌍용교육센터)/1월 5일 if문 (조건문).md",
     "JAVA (쌍용교육센터)/1월 3일 Input.md",
     "JAVA (쌍용교육센터)/1월 5일 Method (5).md",
     "JAVA (쌍용교육센터)/1월 4일 Method (3).md",
@@ -200,8 +204,6 @@
     "JAVA (쌍용교육센터)/1월 3일  BufferedReader.md",
     "JAVA (쌍용교육센터)/1월 3일  Variable.md",
     "JAVA (쌍용교육센터)/1월 2일 두 번째 내용.md",
-    "obsidian_home/README.md",
-    "JAVA (쌍용교육센터)/12월 29일 내용.md",
     "obsidian_home",
     "JAVA (쌍용교육센터)/1월 2일 세 번째 내용.md",
     "Spaces/Home",
@@ -214,8 +216,6 @@
     "Context/spacesLastSync.log",
     "Context",
     "노트북 파일 정리",
-    "학교 (로보틱스)",
-    "자율주행_논문_발행증가.png",
-    "학교(SNS로 톡하고)"
+    "자율주행_논문_발행증가.png"
   ]
 }
