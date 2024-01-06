@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "443985e5cd84d4ee",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "53df098216880158",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA (쌍용교육센터)/1월 2일 첫 번째 내용.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "cd898cf2f4c73ffd",
         "type": "tabs",
         "children": [
@@ -202,7 +184,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d8ce663834983cee",
+  "active": "e67a60c749ee34eb",
   "lastOpenFiles": [
     "JAVA (쌍용교육센터)/1월 2일 첫 번째 내용.md",
     "question/2024-01-07-Java-Type.md",
