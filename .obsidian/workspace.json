@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,12 +195,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a48d69d9ef2224fa",
+  "active": "9e765a169e42603a",
   "lastOpenFiles": [
-    "JAVA (쌍용교육센터)/1월 2일 세 번째 내용.md",
-    "JAVA (쌍용교육센터)/1월 2일 두 번째 내용.md",
-    "JAVA (쌍용교육센터)/1월 2일 첫 번째 내용.md",
     "question/2024-01-13-식별자.md",
+    "JAVA (쌍용교육센터)/1월 2일 두 번째 내용.md",
+    "JAVA (쌍용교육센터)/1월 2일 세 번째 내용.md",
+    "JAVA (쌍용교육센터)/1월 2일 첫 번째 내용.md",
     "question/2024-01-07-Java-Type.md",
     "question/.md",
     "JAVA (쌍용교육센터)/12월 29일 내용.md",
