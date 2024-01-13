@@ -30,18 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a48d69d9ef2224fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA (쌍용교육센터)/1월 2일 두 번째 내용.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -210,10 +198,10 @@
   },
   "active": "e3a293dabb0552c8",
   "lastOpenFiles": [
-    "question/ValueError.0113.png",
     "JAVA (쌍용교육센터)/1월 2일 세 번째 내용.md",
     "question/2024-01-13-ValueError.md",
     "JAVA (쌍용교육센터)/1월 2일 두 번째 내용.md",
+    "question/ValueError.0113.png",
     "question/2024-01-07-Java-Type.md",
     "question/2024-01-13-식별자(표기법).md",
     "question/2024-01-13-식별자.md",
