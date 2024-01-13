@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 2일 두 번째 내용.md",
+                "file": "question/2024-01-13-식별자.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 2일 두 번째 내용.md",
+                "file": "question/2024-01-13-식별자.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 2일 두 번째 내용.md",
+                "file": "question/2024-01-13-식별자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 2일 두 번째 내용.md"
+                "file": "question/2024-01-13-식별자.md"
               }
             }
           },
@@ -197,11 +197,11 @@
   },
   "active": "9e765a169e42603a",
   "lastOpenFiles": [
+    "question/2024-01-07-Java-Type.md",
     "question/2024-01-13-식별자.md",
     "JAVA (쌍용교육센터)/1월 2일 두 번째 내용.md",
     "JAVA (쌍용교육센터)/1월 2일 세 번째 내용.md",
     "JAVA (쌍용교육센터)/1월 2일 첫 번째 내용.md",
-    "question/2024-01-07-Java-Type.md",
     "question/.md",
     "JAVA (쌍용교육센터)/12월 29일 내용.md",
     "obsidian_home/README.md",
