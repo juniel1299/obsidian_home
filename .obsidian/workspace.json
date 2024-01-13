@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-13-Print.md",
+                "file": "JAVA (쌍용교육센터)/1월 3일 Output.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-13-Print.md",
+                "file": "JAVA (쌍용교육센터)/1월 3일 Output.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-13-Print.md"
+                "file": "JAVA (쌍용교육센터)/1월 3일 Output.md"
               }
             }
           },
@@ -195,38 +196,38 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "9bee5512e6ffd65e",
+  "active": "9e765a169e42603a",
   "lastOpenFiles": [
-    "JAVA (쌍용교육센터)/1월 3일 Output.md",
     "2024-01-13-Print.md",
-    "JAVA (쌍용교육센터)/1월 4일 LocalVariable.md",
-    "JAVA (쌍용교육센터)/1월 2일 세 번째 내용.md",
+    "question/2024-01-07-Java-Type.md",
+    "question/2024-01-13-식별자(표기법).md",
     "question/2024-01-13-ValueError.md",
+    "JAVA (쌍용교육센터)/1월 3일 Output.md",
+    "JAVA (쌍용교육센터)/12월 29일 내용.md",
+    "JAVA (쌍용교육센터)/1월 5일 DateTime.md",
+    "JAVA (쌍용교육센터)/1월 4일 Operator (3).md",
+    "JAVA (쌍용교육센터)/1월 4일 LocalVariable.md",
+    "JAVA (쌍용교육센터)/1월 3일  BufferedReader.md",
+    "JAVA (쌍용교육센터)/1월 3일  Variable.md",
+    "JAVA (쌍용교육센터)/1월 3일 Casting.md",
+    "JAVA (쌍용교육센터)/1월 3일 Input.md",
+    "JAVA (쌍용교육센터)/1월 2일 세 번째 내용.md",
     "question/ValueError2.png",
     "JAVA (쌍용교육센터)/1월 2일 두 번째 내용.md",
     "question/ValueError.0113.png",
-    "question/2024-01-07-Java-Type.md",
-    "question/2024-01-13-식별자(표기법).md",
     "question/2024-01-13-식별자.md",
     "question/2024-01-13-식별자 - 복사본.md",
     "JAVA (쌍용교육센터)/1월 2일 첫 번째 내용.md",
     "question/.md",
-    "JAVA (쌍용교육센터)/12월 29일 내용.md",
     "obsidian_home/README.md",
     "JAVA (쌍용교육센터)/1월 5일 if문 (조건문).md",
     "question",
     "ｑｕｅｓｔｉｏｎ",
-    "JAVA (쌍용교육센터)/1월 5일 DateTime.md",
-    "JAVA (쌍용교육센터)/1월 3일 Input.md",
     "JAVA (쌍용교육센터)/1월 5일 Method (5).md",
     "JAVA (쌍용교육센터)/1월 4일 Method (3).md",
     "JAVA (쌍용교육센터)/1월 4일 Method (4).md",
     "JAVA (쌍용교육센터)/1월 4일 Operator (1).md",
     "학교 (캡스톤디자인)/필기.md.md",
-    "JAVA (쌍용교육센터)/1월 4일 Method (2).md",
-    "JAVA (쌍용교육센터)/1월 4일 Method (1).md",
-    "JAVA (쌍용교육센터)/1월 4일 Operator (3).md",
-    "JAVA (쌍용교육센터)/1월 4일 Operator (2).md",
     "obsidian_home",
     "Spaces/Home",
     "Spaces",
