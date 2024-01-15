@@ -196,4 +196,4 @@ t2 = c2;
 
 마찬가지로 Type mismatch가 발생하는데   
 
-이 또한 char가 나타낼 수 이
+이 또한 char가 나타낼 수 있는 범위가 shor
