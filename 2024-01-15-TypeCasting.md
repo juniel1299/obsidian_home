@@ -19,15 +19,35 @@
 
 ```java
 
+  
+
+public class ttttt {
+
+public static void main(String[] args) {
+
 byte b1;
+
+  
 
 short s1;
 
+  
+
 b1 = 10;
 
-s1 = b1; 
+  
+
+s1 = b1;
+
+  
 
 System.out.println(s1);
+
+  
+
+}
+
+}
 
 ```
 
@@ -40,6 +60,70 @@ System.out.println(s1);
 
 ## 명시적 형변환(강제 형변환) Casting
 
-작은 자료형 = 큰 자료형; 의 형태로 
+작은 자료형 = 큰 자료형; 의 구조로
+경우에 따라 가능할 수도 가능하지 않을 수도 있다
 
+
+예시 
+```java
+public class ttttt {
+
+public static void main(String[] args) {
+
+byte b1;
+
+  
+
+short s1;
+
+  
+
+b1 = 10;
+
+  
+
+b1 = s1;
+
+  
+
+System.out.println(s1);
+}
+
+}
+```
+
+![출력]()
+
+Type mismatch 라는 오류가 발생하는 것을 알 수 있다 . 
+
+이를 수정하기 위해선 앞에 자료형을 추가하여 명시적으로 형변환을 하여야 한다. 
+
+예시)
+
+```java
+byte b2;
+
+short s2;
+
+s2 = 10; //원본
+
+
+// 작은형 = 큰형
+
+// 이러한 경우 큰형 = 작은형처럼 자동으로 되지 않음
+
+
+
+b2 = (byte)s2; 
+
+System.out.println(b2); // 복사본
+```
+![출력]()
+
+앞에 (byte) 를 추가하니 바로 정상적으로 동작한다 . 
+
+
+# 오버플로우 
+
+이렇게 Type이 맞지 않아 발생할 수 있는 에러 중 하나가 오버플로우이다. 
 
