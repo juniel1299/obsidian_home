@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 3일 Casting.md",
+                "file": "2024-01-15-TypeCasting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 3일 Casting.md",
+                "file": "2024-01-15-TypeCasting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 3일 Casting.md"
+                "file": "2024-01-15-TypeCasting.md"
               }
             }
           },
@@ -195,10 +196,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "9bee5512e6ffd65e",
+  "active": "974a4729f5ba710f",
   "lastOpenFiles": [
-    "2024-01-15-TypeCasting.md",
     "JAVA (쌍용교육센터)/1월 3일 Casting.md",
+    "2024-01-15-TypeCasting.md",
     "첨부파일 폴더/Pasted image 20240115210935.png",
     "JAVA (쌍용교육센터)/1월 3일 Error.md",
     "JAVA (쌍용교육센터)/1월 3일 Escape .md",
