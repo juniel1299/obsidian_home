@@ -51,7 +51,7 @@ System.out.println(s1);
 
 ```
 
-![출력]()
+![출력](https://github.com/juniel1299/juniel1299.github.io/assets/62318700/225ebdb8-2ba3-455f-aa52-d7767705a805)
 
 
 이는 컴파일러 자체에서 컴파일을 할 때 s1 = (short)b1;의 형태로 변환하여 출력하기 때문에  
@@ -92,7 +92,7 @@ System.out.println(s1);
 }
 ```
 
-![출력]()
+![출력](https://github.com/juniel1299/juniel1299.github.io/assets/62318700/ca2545ee-9700-44b4-be02-85a005ae9a27)
 
 Type mismatch 라는 오류가 발생하는 것을 알 수 있다 . 
 
@@ -118,7 +118,7 @@ b2 = (byte)s2;
 
 System.out.println(b2); // 복사본
 ```
-![출력]()
+![출력](https://github.com/juniel1299/juniel1299.github.io/assets/62318700/6b1cdf54-00e6-4e60-997a-cf23ba75e5dc)
 
 앞에 (byte) 를 추가하니 바로 정상적으로 동작한다 . 
 
@@ -137,7 +137,7 @@ long m2 = 3000000000L;
 m1 = (int)m2;
 System.out.println("결과: " + m1);
 ```
-![출력]()
+![출력](https://github.com/juniel1299/juniel1299.github.io/assets/62318700/2900d47f-5bcc-4cd8-a376-fcc58bcd93b5)
 
 결과 값이 음수로 나오게 되는데 이는 2의 보수 개념을 통해 컴퓨터는 양수와 음수를 나타내는데   
 
@@ -172,7 +172,7 @@ n3 = n4;
 System.out.println(n3);
 
 ```
-![출력]()
+![출력](https://github.com/juniel1299/juniel1299.github.io/assets/62318700/501ec2cd-a4b3-4ed1-992b-ff900ea48d0d)
 
 결과는 Type mismatch라고 뜬다 
 
@@ -192,7 +192,7 @@ c2 = '가';
 
 t2 = c2;
 ```
-![출력]()
+![출력](https://github.com/juniel1299/juniel1299.github.io/assets/62318700/53742a3a-f0a0-40fb-9b3e-83274237da7a)
 
 마찬가지로 Type mismatch가 발생하는데   
 
