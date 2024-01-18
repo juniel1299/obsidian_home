@@ -140,3 +140,47 @@ ArrayList 같은 경우 값이 겹쳐도 첨자 즉 방번호 개념이 있어 �
 
 # HashSet이 중복을 걸러내는 방식
 
+우선 파일을 두개로 쪼개서 작성을 한 예시이다 
+
+```java
+public class Name {
+
+  
+
+private String name;
+
+private int age;
+
+public Name(String name, int age) {
+
+this.name = name;
+
+this.age = age;
+
+}
+
+public String getName() {
+
+return name;
+
+}
+
+
+public int getAge() {
+
+return age;
+
+}
+
+  
+
+public String toString() {
+
+return String.format("%s(%d)", this.name,this.age);
+
+}
+
+
+}
+```
+먼저 toString
