@@ -85,7 +85,7 @@ System.out.println("해당 경로에 파일이 없습니다.");
 근데 사실 위에서 말한 코드들을 볼 때 어차피 탐색기 속성 누르면 다 볼 수 있는 정도인데 왜 쓰는걸까  ? 
 
 
-## 파일 생성
+### 파일 생성
 
 ```java
 String path = "C:\\class\\code\\java\\file\\score.txt";
@@ -96,7 +96,7 @@ try {
 
 
 
-boolean result = file.createNewFile(); //file에 들어간 경로가 존재할 시 파일 생성을합니다// ( 경로 하나라도 빠지면 안됩니다. )
+boolean result = file.createNewFile(); //file에 들어간 경로가 존재할 시 파일 생성을합니다 // ( 경로 하나라도 빠지면 안됩니다. )
 
 System.out.println(result); //정상적으로 동작하는지 출력 true , 없으면 false
 
@@ -107,4 +107,50 @@ e.printStackTrace();
 }
 
 }
+```
+
+### 파일명 수정
+```java
+String path = "C:\\class\\code\\java\\file\\score.txt"; //기존 파일명
+
+File file = new File(path); //기존파일명 객체선언
+
+String path2 = "C:\\class\\code\\java\\file\\jumsu.txt"; //바꾸고 싶은 파일명
+
+File file2 = new File(path2); //수정하고 싶은 파일명 객체 선언
+
+boolean result = file.renameTo(file2); //renameTo를 통해 수정
+
+System.out.println(result); //결과가 올바르면 true 아니면 false
+```
+### 파일 이동
+
+```java
+String path = "C:\\class\\code\\java\\file\\score.txt;  //이동하고 싶은 파일
+
+File file = new File(path); //이동하고 싶은 파일 경로 객체선언
+
+String path2 = "C:\\class\\code\\java\\move\\score.txt"; //이동하고자 하는 경로+파일
+
+File file2 = new File(path2); // 이동하고자 하는 경로+파일 객체 선언
+
+boolean result = file.renameTo(file2); //renameTo를 통해 이동
+
+System.out.println(result); //결과가 올바르면 true 아니면 false
+```
+### 삭제
+```java
+String path = "C:\\class\\code\\java\\file\\score.txt";
+
+File file = new File(path);
+
+if (file.exists()) {
+
+//보통 삭제: 휴지통 폴더로 이동하기
+
+//진짜 삭제: 복구 불가능
+
+boolean result = file.delete();
+
+System.out.println(result);
 ```
