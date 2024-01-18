@@ -39,7 +39,7 @@
 	- 데이터 중복을 허락하지 않음 (중요) , 대표적으로 로또 문제에서 유리
 
 
-HashSet 문법
+## HashSet 문법
 HashSet은 제네릭 을 사용함
 
 예시
@@ -81,5 +81,58 @@ Iterator<String> iter = (set.iterator());
 Set과 똑같이 제네릭을 통해 선언을 해야한다.
 
 ```java
+HashSet<String> set = new HashSet<String>();
+
+set.add("사과");
+
+set.add("딸기");
+
+set.add("바나나");
+
+Iterator<String> iter = (set.iterator());
+
+System.out.println(iter.hasNext()); // 다음 요소가 존재하는가
+
+System.out.println(iter.next());
+
+System.out.println(iter.hasNext()); // 다음 요소가 존재하는가
+
+System.out.println(iter.next());
+
+System.out.println(iter.hasNext()); // 다음 요소가 존재하는가
+
+System.out.println(iter.next());
+
+  
+
+System.out.println(iter.hasNext()); // 다음 요소가 존재하는가 -> false 없음
+```
+
+![출력]()
+
+hasNext를 통해 다음에 요소가 존재하는지 확인을 하고 
+next를 통해 요소 하나를 출력한다 (단, 첨자나 번호가 없기 때문에 무조건 순서대로 나오진 않음)
+
+```java
+
+HashSet<String> set = new HashSet<String>();
+
+set.add("사과");
+
+set.add("딸기");
+
+set.add("바나나");
+
+Iterator<String> iter = (set.iterator());
+
+for(String item:set) {
+
+System.out.println(item);
+
+}
 
 ```
+향상된 for문을 활용하여 간결하게 할 수 있다
+
+
+ㅋ
