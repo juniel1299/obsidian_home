@@ -22,3 +22,11 @@ HashSet<String> set = new HashSet<String>();
 	set.add("사과");
 	set.add("딸기");
 	set.add("바나나");
+
+
+```java
+	set.add("사과");
+	set.add("딸기");
+	set.add("바나나");
+	
+	System.out.println(	set.add("딸기"));
