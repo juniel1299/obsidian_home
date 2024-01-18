@@ -16,6 +16,8 @@
 
 사용을 하기 위해선 import java.io.File; 필요하며 
 
+폴더 또한 파일이기 때문에 폴더에서도 적용 가능합니다.
+
 기본적인 코드들은
 
 ```java
@@ -83,3 +85,26 @@ System.out.println("해당 경로에 파일이 없습니다.");
 근데 사실 위에서 말한 코드들을 볼 때 어차피 탐색기 속성 누르면 다 볼 수 있는 정도인데 왜 쓰는걸까  ? 
 
 
+## 파일 생성
+
+```java
+String path = "C:\\class\\code\\java\\file\\score.txt";
+
+File file = new File(path);
+
+try {
+
+
+
+boolean result = file.createNewFile(); //file에 들어간 경로가 존재할 시 파일 생성을합니다( 경로 하나라도 빠지면 안됩니다. )
+
+System.out.println(result); //정상적으로 동작하는지 출력 true , 없으면 false
+
+} catch (IOException e) {
+
+e.printStackTrace();
+
+}
+
+}
+```
