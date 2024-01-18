@@ -183,4 +183,67 @@ return String.format("%s(%d)", this.name,this.age);
 
 }
 ```
-먼저 toString
+먼저 toString 과 이름 나이 정의를 Name 파일에 한 후 
+
+```java
+HashSet<Member> set = new HashSet<Member>();
+
+Member m1 = new Member("홍길동",20);
+
+set.add(m1);
+
+set.add((new Member("아무개",25)));
+
+set.add((new Member("강아지",4)));
+
+set.add((new Member("고양이",2)));
+
+System.out.println(set.add(m1));
+
+//m1에서 불린 값과 직접 홍길동을 넣은 값이 같은데 출력이 되는 이유
+
+//객체지향인 자바에선
+
+//객체가 구분되므로 m1의 홍길동과 new Member("홍길동",20) 주소값이 다름
+
+//new 작성할 때 인스턴스가 생성되므로 다름
+
+set.add(new Member("홍길동",20)); //동일 인물로 처리하고 싶음
+
+System.out.println(set);
+
+System.out.println();
+
+Member m2 = new Member("유재석", 50);
+
+Member m3 = new Member("유재석", 50);
+
+System.out.println(m2==m3); //사용x (진짜 메모리 주소 값 비교)
+
+System.out.println(m2.equals(m3)); //사용o
+
+//주소값
+
+System.out.println(m2.hashCode());
+
+System.out.println(m3.hashCode());
+```
+
+우선 이렇게 한번 찍어보면 
+![출력]()
+
+출력 결과를 보면 
+
+처음에 
+Member m1 = new Member("홍길동",20); 선언으로 인해 
+System.out.println(set.add(m1)); 이 코드에서 false가 출력이 되었다 
+그야 똑같은 m1이 한번 더 add로 들어왔으니 당연한거지만 
+
+이후 set.add(new Member("홍길동",20)); 이 코드는 Set  안에 들어가 출력에도 홍길동이 2명이다
+
+그 이유는 아래에 예시 유재석을 보면 알 수 있다 
+
+
+우선 m2 == m3 가 같냐는 println 에서 false 가 나왔다 똑같은 유재석 50이라는 String과 int값이 들어갔는데 다르다는 것은  
+
+참조형은 Heap 이라는
