@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 18일_HashSet.md",
+                "file": "JAVA (쌍용교육센터)/1월 18일 HashSet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 18일_HashSet.md",
+                "file": "JAVA (쌍용교육센터)/1월 18일 HashSet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 18일_HashSet.md",
+                "file": "JAVA (쌍용교육센터)/1월 18일 HashSet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 18일_HashSet.md"
+                "file": "JAVA (쌍용교육센터)/1월 18일 HashSet.md"
               }
             }
           },
@@ -184,10 +183,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "408fbe75a45775cf",
+  "active": "5b2619b9d10b7a78",
   "lastOpenFiles": [
-    "JAVA (쌍용교육센터)/1월 3일 Casting.md",
+    "JAVA (쌍용교육센터)/12월 29일 내용.md",
     "JAVA (쌍용교육센터)/1월 18일_HashSet.md",
+    "JAVA (쌍용교육센터)/1월 18일 HashSet.md",
+    "JAVA (쌍용교육센터)/1월 3일 Casting.md",
     "question/2024-01-15-Input.md",
     "question/2024-01-15-TypeCasting.md",
     "JAVA (쌍용교육센터)/1월 3일 Error.md",
@@ -202,7 +203,6 @@
     "question/2024-01-07-Java-Type.md",
     "question/2024-01-13-식별자(표기법).md",
     "question/2024-01-13-ValueError.md",
-    "JAVA (쌍용교육센터)/12월 29일 내용.md",
     "JAVA (쌍용교육센터)/1월 5일 DateTime.md",
     "JAVA (쌍용교육센터)/1월 4일 Operator (3).md",
     "JAVA (쌍용교육센터)/1월 3일 Input.md",
@@ -215,7 +215,6 @@
     "JAVA (쌍용교육센터)/1월 2일 첫 번째 내용.md",
     "question/.md",
     "obsidian_home/README.md",
-    "JAVA (쌍용교육센터)/1월 5일 if문 (조건문).md",
     "question",
     "ｑｕｅｓｔｉｏｎ",
     "obsidian_home",
