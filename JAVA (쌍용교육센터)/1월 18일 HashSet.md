@@ -141,6 +141,7 @@ ArrayList 같은 경우 값이 겹쳐도 첨자 즉 방번호 개념이 있어 �
 # HashSet이 중복을 걸러내는 방식
 
 우선 파일을 두개로 쪼개서 작성을 한 예시이다 
+먼저  Name이라는 파일에 toString 과 이름 나이 정의를 한 후 
 
 ```java
 public class Name {
@@ -183,7 +184,7 @@ return String.format("%s(%d)", this.name,this.age);
 
 }
 ```
-먼저 toString 과 이름 나이 정의를 Name 파일에 한 후 
+메인에 코드를 작성한다.
 
 ```java
 HashSet<Member> set = new HashSet<Member>();
@@ -266,4 +267,39 @@ Heap 공간에 각자의 데이터를 생성 해놓았기에 둘은 같지 않�
 
 
 ## hashCode
-hashCode는 실제 Heap 주소값을 한 번 정리하여 출력한 값으로 이 hashCode를 
+hashCode는 실제 Heap 주소값을 한 번 정리하여 출력한 값으로 이 hashCode를 Override를 통해 재정의 하여 String 값과 int 값 모두 같으면 같은 객체라 인식하도록 해야한다.
+
+```java
+public int hashCode() {
+
+//이름+나이가 같으면 같은 사람이라 가정
+
+//홍길동20
+
+//아무개25
+
+// System.out.println((this.name + this.age).hashCode()); //하나로 묶어서 주소값 나옴
+
+return (this.name + this.age).hashCode();
+
+}
+
+//equals 재정의
+
+@Override
+
+public boolean equals(Object obj) {
+
+return this.hashCode() == obj.hashCode();
+
+}
+```
+
+위의 Name 파일 코드에서 아래에 이것만 추가하면 된다.
+
+앞으로 hashCode를 물으면 return을 통해 name과 age가 합쳐진 값을 정리하여 hashCode로 출력한다 . 
+
+![출력]()
+
+이렇게 m2와 m3는 같다라는 출력이 나오게 된다 
+
