@@ -96,7 +96,7 @@ try {
 
 
 
-boolean result = file.createNewFile(); //file에 들어간 경로가 존재할 시 파일 생성을합니다( 경로 하나라도 빠지면 안됩니다. )
+boolean result = file.createNewFile(); //file에 들어간 경로가 존재할 시 파일 생성을합니다// ( 경로 하나라도 빠지면 안됩니다. )
 
 System.out.println(result); //정상적으로 동작하는지 출력 true , 없으면 false
 
