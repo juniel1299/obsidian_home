@@ -19,5 +19,3 @@
 HashSet은 제네릭 <> 을 사용함
 HashSet<String> set = new HashSet<String>();
 
-
-```

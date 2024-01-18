@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 18일 HashSet.md",
+                "file": "JAVA (쌍용교육센터)/1월 18일_HashSet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 18일 HashSet.md",
+                "file": "JAVA (쌍용교육센터)/1월 18일_HashSet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 18일 HashSet.md",
+                "file": "JAVA (쌍용교육센터)/1월 18일_HashSet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 18일 HashSet.md"
+                "file": "JAVA (쌍용교육센터)/1월 18일_HashSet.md"
               }
             }
           },
@@ -183,10 +184,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "5b2619b9d10b7a78",
+  "active": "408fbe75a45775cf",
   "lastOpenFiles": [
     "JAVA (쌍용교육센터)/1월 3일 Casting.md",
-    "JAVA (쌍용교육센터)/1월 18일 HashSet.md",
+    "JAVA (쌍용교육센터)/1월 18일_HashSet.md",
     "question/2024-01-15-Input.md",
     "question/2024-01-15-TypeCasting.md",
     "JAVA (쌍용교육센터)/1월 3일 Error.md",
