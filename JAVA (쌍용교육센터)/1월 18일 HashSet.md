@@ -1,3 +1,5 @@
+# HashSet
+
  1. List 
 	- 순서가 있는 집합
 	- 첨자(방번호)
@@ -13,20 +15,9 @@
 	- 식별자가 없다. (방번호x 방이름x) > 방을 구분 할 수 없다.
 	- 데이터 중복을 허락하지 않음 (중요) , 대표적으로 로또 문제에서 유리
 
-
-HashSet은 제네릭 <> 을 사용함 
-
+## HashSet 문법
+HashSet은 제네릭 <> 을 사용함
 HashSet<String> set = new HashSet<String>();
 
-1. 요소 추가 방법 (add)
-	set.add("사과");
-	set.add("딸기");
-	set.add("바나나");
 
-
-```java
-	set.add("사과");
-	set.add("딸기");
-	set.add("바나나");
-	
-	System.out.println(	set.add("딸기"));
+```

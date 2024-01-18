@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3e3d1b3824744736",
+        "id": "b6b2d5af722dc33c",
         "type": "tabs",
         "children": [
           {
-            "id": "9bee5512e6ffd65e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA (쌍용교육센터)/1월 3일 Casting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "974a4729f5ba710f",
+            "id": "5b2619b9d10b7a78",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +183,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "974a4729f5ba710f",
+  "active": "5b2619b9d10b7a78",
   "lastOpenFiles": [
     "JAVA (쌍용교육센터)/1월 3일 Casting.md",
     "JAVA (쌍용교육센터)/1월 18일 HashSet.md",
