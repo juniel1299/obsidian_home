@@ -40,5 +40,27 @@
 
 
 HashSet 문법
-HashSet은 제네릭 을 사용함HashSet<<String>> set = new HashSet< <String> > 선언 필요함
+HashSet은 제네릭 을 사용함
 
+예시
+```java
+HashSet<String> set = new HashSet<String>();
+```
+
+요소를 추가할 땐 add를 이용하며 똑같은 내용이 들어가면 Set안에 추가가 되지 않는다 
+
+예시
+```java
+HashSet<String> set = new HashSet<String>();
+
+set.add("사과");
+
+set.add("딸기");
+
+set.add("바나나");
+
+System.out.println( set.add("딸기"));
+```
+![출력]()
+
+딸기가 이미 들어간 상태에서 또 들어가니 false가 출력되는 것을 볼 수 있다.
