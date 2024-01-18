@@ -34,16 +34,21 @@ if (file.exists()) {
 //지정한 경로 파일 이름을 알려줍니다. 
 System.out.println(file.getName());  // ex) data.txt
 
-//경로가 파일인지 폴더인지 알 수 있습니다 , true라면 파일 false면 폴더
+//경로가 파일인지 폴더인지 알 수 있습니다 , true라면 파일 false면 폴더입니다.
 System.out.println(file.isFile());  //ex) true
 
-System.out.println(file.isDirectory()); //false
+//경로가 폴더인지 파일인지 알 수 있습니다. true라면 폴더 false면 파일입니다.
+System.out.println(file.isDirectory()); // ex) false
 
-System.out.println(file.length()); //16 > 파일 크기(바이트)
+//지정한 경로 파일 크기를 알 수 있습니다. 
+System.out.println(file.length()); //ex) 16 > 파일 크기
 
-System.out.println(file.getAbsolutePath()); //C:\class\code\java\file\data.txt
+//경로를 볼 수 있습니다.
+System.out.println(file.getAbsolutePath()); //ex) C:\class\data.txt
 
-System.out.println(file.lastModified()); //1705547413588
+//작성된 시간을 알 수 있습니다. 
+//단, 1970년 1월 1일 기준으로 현재까지 흐른 Millisecond 값이 출력됨 , Calender를 통해 변환 할 수 있다.
+System.out.println(file.lastModified()); //ex) 1705547413588
 
 //tick > 년월일시분초
 
@@ -55,11 +60,14 @@ c1.setTimeInMillis(file.lastModified());
 
 System.out.printf("%tF %tT\n", c1, c1);
 
-System.out.println(file.isHidden()); //false
+//지정한 해당경로 파일이 숨김파일인지 알 수 있다
+System.out.println(file.isHidden()); //true면 숨김파일 false면 숨김x 파일
 
-System.out.println(file.canRead()); //true
+//읽기가 가능한 파일인지 확인
+System.out.println(file.canRead()); //읽기전용 또는 제한이 없을 경우 true , 아니면 false
 
-System.out.println(file.canWrite()); //true
+//쓰기가 가능한 파일인지 확인
+System.out.println(file.canWrite()); //쓰기전용 또는 제한 없을 때 true 아니면 false
 
 System.out.println(file.getParent()); //C:\class\code\java\file
 
