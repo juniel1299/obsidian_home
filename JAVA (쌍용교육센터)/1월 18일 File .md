@@ -243,4 +243,118 @@ System.out.println(dir.delete());
 }
 ```
 
-파일 삭제와 마찬가지로 delete
+파일 삭제와 마찬가지로 delete를 쓰는데 차이점은 
+빈 폴더만 삭제가 가능하다 
+
+즉 안에 파일이 들어있으면 삭제가 안되므로 파일 먼저 지우고 폴더를 지워야 한다
+
+### 폴더 내용 보기
+```java
+
+
+String path = "C:\\class\\dev\\eclipse";
+
+File dir = new File(path);
+
+if (dir.exists()) {
+
+
+File[] list = dir.listFiles(); 
+
+for (File item : list) {
+
+if (item.isDirectory()) {
+
+System.out.printf("[%s]\n", item.getName());
+
+}
+
+}
+
+for (File item : list) {
+
+if (item.isFile()) {
+
+System.out.println(item.getName());
+
+}
+
+}
+
+}
+```
+
+
+### 폴더 정보 보기
+
+```java
+String path = "C:\\class\\dev\\eclipse";
+
+File dir = new File(path);
+
+int count = 0; //파일 개수
+
+if (dir.exists()) {
+
+File[] list = dir.listFiles(); //부모
+
+for (File file : list) {
+
+if (file.isFile()) {
+
+count++;
+
+}
+
+}
+
+for (File subdir : list) {
+
+if (subdir.isDirectory()) {
+
+File[] sublist = subdir.listFiles(); //자식
+
+for (File subfile : sublist) {
+
+if (subfile.isFile()) {
+
+count++;
+
+}
+
+}
+
+for (File subsubdir : sublist) {
+
+if (subsubdir.isDirectory()) {
+
+File[] subsublist = subsubdir.listFiles(); //손자
+
+for (File subsubfile : subsublist) {
+
+if (subsubfile.isFile()) {
+
+count++;
+
+}
+
+}
+
+}
+
+}
+
+}
+
+}
+
+System.out.printf("총 파일 개수: %,d개\n", count);
+
+}
+```
+
+폴더에서 그냥 정보를 보게 되면 진짜 해당 폴더의 크기 0비트 , 1비트 
+즉 안에 내용물의 크기를 합한 값이 아닌 진짜 순수 폴더의 크기를 알려주기 때문에 
+
+반복문을 통해 계속 밑으로 내려가 카운트를 해야 정확한 총 용량과 파일량을 알 수 있다
+
