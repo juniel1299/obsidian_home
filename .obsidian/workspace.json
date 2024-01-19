@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 4일 Method (1).md",
+                "file": "JAVA (쌍용교육센터)/1월 4일 Method (2).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "359ecaae38078598",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "question/2024-01-20-Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 4일 Method (1).md",
+                "file": "JAVA (쌍용교육센터)/1월 4일 Method (2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 4일 Method (1).md",
+                "file": "JAVA (쌍용교육센터)/1월 4일 Method (2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 4일 Method (1).md"
+                "file": "JAVA (쌍용교육센터)/1월 4일 Method (2).md"
               }
             }
           },
@@ -185,8 +197,8 @@
   },
   "active": "408fbe75a45775cf",
   "lastOpenFiles": [
-    "question/2024-01-20-Method.md",
     "JAVA (쌍용교육센터)/1월 4일 Method (1).md",
+    "question/2024-01-20-Method.md",
     "JAVA (쌍용교육센터)/1월 4일 Method (3).md",
     "JAVA (쌍용교육센터)/1월 19일 File.md",
     "JAVA (쌍용교육센터)/1월 18일 File .md",
