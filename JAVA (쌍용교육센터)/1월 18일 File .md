@@ -126,7 +126,9 @@ System.out.println(result); //결과가 올바르면 true 아니면 false
 ### 파일 이동
 
 ```java
-String path = "C:\\class\\code\\java\\file\\score.txt;  //이동하고 싶은 파일
+
+//이동하고 싶은 파일
+String path = "C:\\class\\code\\java\\file\\score.txt;
 
 File file = new File(path); //이동하고 싶은 파일 경로 객체선언
 
@@ -140,17 +142,16 @@ System.out.println(result); //결과가 올바르면 true 아니면 false
 ```
 ### 삭제
 ```java
-String path = "C:\\class\\code\\java\\file\\score.txt";
+String path = "C:\\class\\code\\java\\file\\score.txt"; //삭제 하고 싶은 파일 
 
-File file = new File(path);
+File file = new File(path); //객체선언
 
-if (file.exists()) {
+if (file.exists()) { //파일이 있으면 동작하도록 제어문 작성
 
-//보통 삭제: 휴지통 폴더로 이동하기
 
-//진짜 삭제: 복구 불가능
+boolean result = file.delete(); //여기서 delete는 Shift + Delete 입니다; 
 
-boolean result = file.delete();
-
-System.out.println(result);
+System.out.println(result); //결과 확인
 ```
+
+ex48 )m6
