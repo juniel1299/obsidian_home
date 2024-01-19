@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 19일 File.md",
+                "file": "question/2024-01-20-Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 19일 File.md",
+                "file": "question/2024-01-20-Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 19일 File.md",
+                "file": "question/2024-01-20-Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 19일 File.md"
+                "file": "question/2024-01-20-Method.md"
               }
             }
           },
@@ -185,8 +186,11 @@
   },
   "active": "5b2619b9d10b7a78",
   "lastOpenFiles": [
-    "JAVA (쌍용교육센터)/1월 18일 File .md",
+    "JAVA (쌍용교육센터)/1월 4일 Method (1).md",
+    "question/2024-01-20-Method.md",
+    "JAVA (쌍용교육센터)/1월 4일 Method (3).md",
     "JAVA (쌍용교육센터)/1월 19일 File.md",
+    "JAVA (쌍용교육센터)/1월 18일 File .md",
     "JAVA (쌍용교육센터)/1월 18일 HashSet.md",
     "JAVA (쌍용교육센터)/12월 29일 내용.md",
     "JAVA (쌍용교육센터)/1월 18일_HashSet.md",
@@ -212,9 +216,6 @@
     "question/ValueError2.png",
     "JAVA (쌍용교육센터)/1월 2일 두 번째 내용.md",
     "question/ValueError.0113.png",
-    "question/2024-01-13-식별자.md",
-    "question/2024-01-13-식별자 - 복사본.md",
-    "JAVA (쌍용교육센터)/1월 2일 첫 번째 내용.md",
     "question",
     "ｑｕｅｓｔｉｏｎ",
     "obsidian_home",
