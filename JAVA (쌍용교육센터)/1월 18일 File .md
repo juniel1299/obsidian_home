@@ -215,3 +215,32 @@ System.out.println(dir.mkdirs());
 
 }
 ```
+### 폴더 수정 , 이동
+```java
+//폴더명 수정 or 폴더 이동
+
+//- renameTo
+
+File dir = new File("C:\\class\\code\\java\\file\\일정");
+
+File dir2 = new File("C:\\class\\code\\java\\file\\schedule");
+
+System.out.println(dir.renameTo(dir2));
+```
+dir은 수정하고자 하는 파일
+dir2는 어떻게 수정되면 되는지에 대해 작성하면 올바르게 변환이 된다.
+
+### 폴더 삭제
+```java
+File dir = new File("C:\\class\\code\\java\\file\\schedule");
+
+if (dir.exists()) {
+
+//빈폴더만 삭제 가능(***)
+
+System.out.println(dir.delete());
+
+}
+```
+
+파일 삭제와 마찬가지로 delete
