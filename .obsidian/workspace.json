@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "1da5f4dc482806e4",
+            "id": "cbd5de2f1c3f3548",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "question/2024-01-20-Method.md",
+                "file": "JAVA (쌍용교육센터)/1월 4일 Method (4).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b089e5d224dfbacf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVA (쌍용교육센터)/1월 5일 Method (5).md",
                 "mode": "source",
                 "source": false
               }
@@ -197,8 +209,10 @@
   },
   "active": "359ecaae38078598",
   "lastOpenFiles": [
-    "JAVA (쌍용교육센터)/1월 4일 Method (4).md",
+    "question/2024-01-20-Recursive Method.md",
     "question/2024-01-20-Method Overloading.md",
+    "JAVA (쌍용교육센터)/1월 4일 Method (4).md",
+    "JAVA (쌍용교육센터)/1월 5일 Method (5).md",
     "question/2024-01-20-Method.md",
     "JAVA (쌍용교육센터)/1월 4일 Method (3).md",
     "JAVA (쌍용교육센터)/1월 4일 Method (2).md",
@@ -223,8 +237,6 @@
     "question/2024-01-07-Java-Type.md",
     "question/2024-01-13-식별자(표기법).md",
     "question/2024-01-13-ValueError.md",
-    "JAVA (쌍용교육센터)/1월 5일 DateTime.md",
-    "JAVA (쌍용교육센터)/1월 4일 Operator (3).md",
     "question/ValueError2.png",
     "question/ValueError.0113.png",
     "question",
