@@ -158,7 +158,7 @@ System.out.println(result); //결과 확인
 ```java
 String path = "C:\\class\\code\\java\\file\\bbb\\ccc\\ddd";
 
-File dir = new File(path); ///파일 경로 객체 생성
+File dir = new File(path); ///폴더 경로 객체 생성
 
 if (!dir.exists()) { //폴더가 없을시 (if문)
 
@@ -175,4 +175,43 @@ System.out.println("같은 이름의 폴더가 존재함.");
 }
 ```
 
-mkdirs를 통해 파일을 생성할 수 있음
+mkdir와 mkdirs 통해 폴더를 생성할 수 있음
+
+mkdir은 경로를 정확하게 지정해야하며 중간에 하나라도 없으면 생성을 하지 않음 
+
+mkdirs는 위의 예시 기준으로 bbb 이후 경로가 없어도 ccc 폴더를 만들고 그 안에 ddd 폴더를 생성하여 경로대로 동작한다.
+
+이것을 응용하여 폴더를 여러개 만들수도 있다
+
+```java
+String[] member = { "홍길동", "아무개", "강아지", "고양이", "독수리" };
+
+for (int i=0; i<member.length; i++) {
+
+String path = String.format("C:\\class\\code\\java\\file\\회원\\[개인폴더]%s님", member[i]);
+
+File dir = new File(path);
+
+System.out.println(dir.mkdirs());
+
+}
+
+```
+배열에 문자열 여러개를 담은 뒤 for문을 통해 반복하면 여러개의 폴더를 생성 할 수 있다.
+
+
+또한 Calendar 를 응용할 수도 있다
+
+```java
+String[] member = { "홍길동", "아무개", "강아지", "고양이", "독수리" };
+
+for (int i=0; i<member.length; i++) {
+
+String path = String.format("C:\\class\\code\\java\\file\\회원\\[개인폴더]%s님", member[i]);
+
+File dir = new File(path);
+
+System.out.println(dir.mkdirs());
+
+}
+```
