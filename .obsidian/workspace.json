@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b2619b9d10b7a78",
+            "id": "359ecaae38078598",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 4일 Method (3).md",
+                "file": "question/2024-01-20-Method Overloading.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "359ecaae38078598",
+            "id": "1da5f4dc482806e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "question/2024-01-20-Method.md",
+                "file": "question/2024-01-20-Method Overloading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "question/2024-01-20-Method.md",
+                "file": "question/2024-01-20-Method Overloading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "question/2024-01-20-Method.md"
+                "file": "question/2024-01-20-Method Overloading.md"
               }
             }
           },
@@ -198,10 +197,12 @@
   },
   "active": "359ecaae38078598",
   "lastOpenFiles": [
+    "JAVA (쌍용교육센터)/1월 4일 Method (4).md",
+    "question/2024-01-20-Method Overloading.md",
+    "question/2024-01-20-Method.md",
     "JAVA (쌍용교육센터)/1월 4일 Method (3).md",
     "JAVA (쌍용교육센터)/1월 4일 Method (2).md",
     "JAVA (쌍용교육센터)/1월 4일 Method (1).md",
-    "question/2024-01-20-Method.md",
     "JAVA (쌍용교육센터)/1월 19일 File.md",
     "JAVA (쌍용교육센터)/1월 18일 File .md",
     "JAVA (쌍용교육센터)/1월 18일 HashSet.md",
@@ -224,8 +225,6 @@
     "question/2024-01-13-ValueError.md",
     "JAVA (쌍용교육센터)/1월 5일 DateTime.md",
     "JAVA (쌍용교육센터)/1월 4일 Operator (3).md",
-    "JAVA (쌍용교육센터)/1월 3일 Input.md",
-    "JAVA (쌍용교육센터)/1월 2일 세 번째 내용.md",
     "question/ValueError2.png",
     "question/ValueError.0113.png",
     "question",
