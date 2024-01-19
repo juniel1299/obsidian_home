@@ -154,4 +154,25 @@ boolean result = file.delete(); //여기서 delete는 Shift + Delete 입니다;
 System.out.println(result); //결과 확인
 ```
 
-ex48 )m6
+### 폴더 생성
+```java
+String path = "C:\\class\\code\\java\\file\\bbb\\ccc\\ddd";
+
+File dir = new File(path); ///파일 경로 객체 생성
+
+if (!dir.exists()) { //폴더가 없을시 (if문)
+
+//폴더 없음
+
+boolean result = dir.mkdirs(); //make directory
+
+System.out.println(result); //결과
+
+} else {
+
+System.out.println("같은 이름의 폴더가 존재함.");
+
+}
+```
+
+mkdirs를 통해 파일을 생성할 수 있음
