@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 18일 File .md",
+                "file": "JAVA (쌍용교육센터)/1월 19일 File.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#C",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 18일 File .md",
+                "file": "JAVA (쌍용교육센터)/1월 19일 File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 18일 File .md",
+                "file": "JAVA (쌍용교육센터)/1월 19일 File.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 18일 File .md"
+                "file": "JAVA (쌍용교육센터)/1월 19일 File.md"
               }
             }
           },
@@ -186,8 +185,9 @@
   },
   "active": "5b2619b9d10b7a78",
   "lastOpenFiles": [
-    "JAVA (쌍용교육센터)/1월 18일 HashSet.md",
     "JAVA (쌍용교육센터)/1월 18일 File .md",
+    "JAVA (쌍용교육센터)/1월 19일 File.md",
+    "JAVA (쌍용교육센터)/1월 18일 HashSet.md",
     "JAVA (쌍용교육센터)/12월 29일 내용.md",
     "JAVA (쌍용교육센터)/1월 18일_HashSet.md",
     "JAVA (쌍용교육센터)/1월 3일 Casting.md",
@@ -215,7 +215,6 @@
     "question/2024-01-13-식별자.md",
     "question/2024-01-13-식별자 - 복사본.md",
     "JAVA (쌍용교육센터)/1월 2일 첫 번째 내용.md",
-    "question/.md",
     "question",
     "ｑｕｅｓｔｉｏｎ",
     "obsidian_home",
