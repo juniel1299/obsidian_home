@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "359ecaae38078598",
+            "id": "5dbe2fc9c5d13cd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "5dbe2fc9c5d13cd4",
+            "id": "b01d49ff77b0b50c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 5일 DateTime.md",
+                "file": "JAVA (쌍용교육센터)/1월 5일 if문 (조건문).md",
                 "mode": "source",
                 "source": false
               }
@@ -195,9 +195,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "359ecaae38078598",
+  "active": "5dbe2fc9c5d13cd4",
   "lastOpenFiles": [
+    "question/2024-01-21-if.md",
     "JAVA (쌍용교육센터)/1월 5일 DateTime.md",
+    "JAVA (쌍용교육센터)/1월 5일 if문 (조건문).md",
     "question/2024-01-20-DateTime.md",
     "JAVA (쌍용교육센터)/1월 4일 Operator (1).md",
     "question/2024-01-20-LocalVariable.md",
@@ -222,8 +224,6 @@
     "JAVA (쌍용교육센터)/1월 3일 Escape .md",
     "첨부파일 폴더/Pasted image 20240115210935.png",
     "JAVA (쌍용교육센터)/1월 3일  Variable.md",
-    "JAVA (쌍용교육센터)/1월 3일  BufferedReader.md",
-    "question/2024-01-13-Print.md",
     "첨부파일 폴더/Pasted image 20240113155709.png",
     "question/ValueError2.png",
     "question/ValueError.0113.png",
