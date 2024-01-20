@@ -70,7 +70,7 @@ public class LocalVariable {
 
   
 
-int b = 20;
+static int b = 10;
 
 public static void main(String[] args) {
 
@@ -85,4 +85,19 @@ if(b>5) {
 System.out.println("a는 5보다 큽니다");
 
 }
+
+b = 20;
+
+if(b>19) {
+
+System.out.println("b는 19보다 큽니다");
+
+}else {
+
+System.out.println("b는 19보다 작습니다");
+
+}
+
+}
 ```
+![출]
