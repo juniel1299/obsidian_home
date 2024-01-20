@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "question/2024-01-20-Method.md",
+                "file": "question/2024-01-21-if.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "question/2024-01-20-Method.md",
+                "file": "question/2024-01-21-if.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "question/2024-01-20-Method.md",
+                "file": "question/2024-01-21-if.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "question/2024-01-20-Method.md"
+                "file": "question/2024-01-21-if.md"
               }
             }
           },
@@ -195,10 +195,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "408fbe75a45775cf",
+  "active": "5dbe2fc9c5d13cd4",
   "lastOpenFiles": [
-    "question/2024-01-20-LocalVariable.md",
+    "question/2024-01-20-Recursive Method.md",
     "question/2024-01-20-Method.md",
+    "question/2024-01-20-Method Overloading.md",
+    "question/2024-01-20-LocalVariable.md",
     "question/2024-01-20-DateTime.md",
     "question/2024-01-21-if.md",
     "JAVA (쌍용교육센터)/1월 5일 DateTime.md",
@@ -207,8 +209,6 @@
     "JAVA (쌍용교육센터)/1월 4일 LocalVariable.md",
     "JAVA (쌍용교육센터)/1월 5일 Method (5).md",
     "JAVA (쌍용교육센터)/1월 4일 Method (4).md",
-    "question/2024-01-20-Recursive Method.md",
-    "question/2024-01-20-Method Overloading.md",
     "JAVA (쌍용교육센터)/1월 4일 Method (3).md",
     "JAVA (쌍용교육센터)/1월 4일 Method (2).md",
     "JAVA (쌍용교육센터)/1월 4일 Method (1).md",

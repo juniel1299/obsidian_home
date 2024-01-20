@@ -17,3 +17,60 @@
 > 7. public static int test () {} //불가능 1번과 겹침
 
 
+예시 
+
+```java
+
+drawLine();
+
+drawLine();
+
+drawLine("+");
+
+System.out.println("");
+
+drawLine("-");
+
+System.out.println("");
+
+drawLine("*");
+
+System.out.println("");
+
+drawLine("^");
+
+System.out.println("");
+
+
+public static void drawLine() {
+
+System.out.println("==========");
+
+System.out.println("");
+
+}
+
+  
+
+public static void drawLine(String c) {
+
+  
+
+System.out.print(c);
+
+System.out.print(c);
+
+System.out.print(c);
+
+System.out.print(c);
+
+System.out.print(c);
+
+System.out.print(c);
+
+  
+
+}
+```
+
+![출력](https://github.com/juniel1299/juniel1299.github.io/assets/62318700/9bd28dab-07e3-4f8b-a223-454867c3ebf0)

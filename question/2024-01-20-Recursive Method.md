@@ -38,6 +38,7 @@ System.out.printf("%d! = %d\n",n, result);
 
 }
 ```
+![출력](https://github.com/juniel1299/juniel1299.github.io/assets/62318700/b0a3fb70-476d-4f1c-b34d-7e73b945202e)
 
 n=4를 factorial 메서드에 넣어 4 == 1 이 아니므로 밑에 factorial n-1 자기 자신을 계속 호출 및 리턴을 하여 
 4 * 3 * 2 까지 만들고  1일때 1 반환하므로 총
