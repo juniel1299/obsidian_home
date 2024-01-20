@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "question/2024-01-20-Recursive Method.md",
+                "file": "JAVA (쌍용교육센터)/1월 5일 Method (5).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "question/2024-01-20-Recursive Method.md",
+                "file": "JAVA (쌍용교육센터)/1월 5일 Method (5).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "question/2024-01-20-Recursive Method.md"
+                "file": "JAVA (쌍용교육센터)/1월 5일 Method (5).md"
               }
             }
           },
@@ -195,10 +196,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "359ecaae38078598",
+  "active": "b089e5d224dfbacf",
   "lastOpenFiles": [
-    "JAVA (쌍용교육센터)/1월 5일 Method (5).md",
     "question/2024-01-20-Recursive Method.md",
+    "JAVA (쌍용교육센터)/1월 5일 Method (5).md",
     "question/2024-01-20-Method Overloading.md",
     "JAVA (쌍용교육센터)/1월 4일 Method (4).md",
     "question/2024-01-20-Method.md",
