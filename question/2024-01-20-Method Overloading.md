@@ -74,3 +74,6 @@ System.out.print(c);
 ```
 
 ![출력](https://github.com/juniel1299/juniel1299.github.io/assets/62318700/9bd28dab-07e3-4f8b-a223-454867c3ebf0)
+
+메서드 명은 같은 drawLine 이지만 안에 값을 넣으니 아래쪽에 있는 메서드가 기존 메서드를 덮어쓰기 한 것 처럼 
+위의 메서드가 출력되는 것이 아닌 아래의 메서드가 출력이 된다.
