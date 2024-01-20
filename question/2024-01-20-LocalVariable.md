@@ -25,3 +25,38 @@
 
 물론 인스턴스 , 파이널 변수 등 더 많은 변수가 있지만 가장 대표적인 두 변수만 작성하였다.
 
+예시 
+```java
+public static void main(String[] args) {
+int a = 10; // 지역 변수
+
+int c = 50;
+
+int num=100;
+
+}
+
+public static void aaa() {
+
+int a = 10;
+
+bbb();
+
+}
+
+public static void bbb() {
+
+if(a>5) {
+
+System.out.println("a는 5보다 큽니다");
+
+}
+
+}
+
+
+```
+
+![결과](https://github.com/juniel1299/juniel1299.github.io/assets/62318700/13b98f21-f231-4c45-b52f-a407caa3e268)
+
+int a = 10; 으로 a가 선언이 되어있지만 bbb 메서드에서 a가 선언이 필요하다고 빨간 줄이 생성이 되어있는 모습을 볼 수 있으며 

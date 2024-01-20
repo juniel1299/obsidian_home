@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "question/2024-01-21-if.md",
+                "file": "question/2024-01-20-LocalVariable.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "question/2024-01-21-if.md",
+                "file": "question/2024-01-20-LocalVariable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "question/2024-01-21-if.md",
+                "file": "question/2024-01-20-LocalVariable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "question/2024-01-21-if.md"
+                "file": "question/2024-01-20-LocalVariable.md"
               }
             }
           },
@@ -197,12 +197,12 @@
   },
   "active": "5dbe2fc9c5d13cd4",
   "lastOpenFiles": [
+    "question/2024-01-21-if.md",
     "question/2024-01-20-Recursive Method.md",
     "question/2024-01-20-Method.md",
     "question/2024-01-20-Method Overloading.md",
     "question/2024-01-20-LocalVariable.md",
     "question/2024-01-20-DateTime.md",
-    "question/2024-01-21-if.md",
     "JAVA (쌍용교육센터)/1월 5일 DateTime.md",
     "JAVA (쌍용교육센터)/1월 5일 if문 (조건문).md",
     "JAVA (쌍용교육센터)/1월 4일 Operator (1).md",
