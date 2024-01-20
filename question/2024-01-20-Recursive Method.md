@@ -20,30 +20,7 @@ int result = factorial(n); //factorial 블럭 후 F3 누르면 선언된 위치�
 printFactorial(n, result);
 
 
-m3(n);
-
-result = m4(n);
 } //main 
-
-private static int m4(int n) {
-
-// TODO Auto-generated method stub
-
-return 0;
-
-}
-
-  
-
-  
-
-  
-
-private static void m3(int n) {
-
-// TODO Auto-generated method stub
-
-}
 
   
 public static int factorial(int n) {
@@ -61,4 +38,13 @@ System.out.printf("%d! = %d\n",n, result);
 
 }
 ```
+
+n=4를 factorial 메서드에 넣어 4 == 1 이 아니므로 밑에 factorial n-1 자기 자신을 계속 호출 및 리턴을 하여 
+4 * 3 * 2 까지 만들고  1일때 1 반환하므로 총
+
+4 * 3 * 2 * 1 = 24라는 값을 result에 삽입하고
+
+그 값을 최종 printFactorial 이라는 메서드에서 출력하게 된다
+
+
 

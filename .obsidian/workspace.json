@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "question/2024-01-20-Recursive Method.md",
+                "file": "question/2024-01-20-LocalVariable.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b089e5d224dfbacf",
+            "id": "7d1dedad4c23a7e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA (쌍용교육센터)/1월 5일 Method (5).md",
+                "file": "JAVA (쌍용교육센터)/1월 4일 LocalVariable.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "question/2024-01-20-Recursive Method.md",
+                "file": "question/2024-01-20-LocalVariable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "question/2024-01-20-Recursive Method.md",
+                "file": "question/2024-01-20-LocalVariable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "question/2024-01-20-Recursive Method.md"
+                "file": "question/2024-01-20-LocalVariable.md"
               }
             }
           },
@@ -197,10 +197,12 @@
   },
   "active": "359ecaae38078598",
   "lastOpenFiles": [
+    "JAVA (쌍용교육센터)/1월 4일 LocalVariable.md",
+    "question/2024-01-20-LocalVariable.md",
     "JAVA (쌍용교육센터)/1월 5일 Method (5).md",
+    "JAVA (쌍용교육센터)/1월 4일 Method (4).md",
     "question/2024-01-20-Recursive Method.md",
     "question/2024-01-20-Method Overloading.md",
-    "JAVA (쌍용교육센터)/1월 4일 Method (4).md",
     "question/2024-01-20-Method.md",
     "JAVA (쌍용교육센터)/1월 4일 Method (3).md",
     "JAVA (쌍용교육센터)/1월 4일 Method (2).md",
@@ -215,7 +217,6 @@
     "question/2024-01-15-TypeCasting.md",
     "JAVA (쌍용교육센터)/1월 3일 Error.md",
     "JAVA (쌍용교육센터)/1월 3일 Escape .md",
-    "JAVA (쌍용교육센터)/1월 4일 LocalVariable.md",
     "첨부파일 폴더/Pasted image 20240115210935.png",
     "JAVA (쌍용교육센터)/1월 3일  Variable.md",
     "JAVA (쌍용교육센터)/1월 3일  BufferedReader.md",
@@ -224,7 +225,6 @@
     "첨부파일 폴더/Pasted image 20240113155709.png",
     "question/2024-01-07-Java-Type.md",
     "question/2024-01-13-식별자(표기법).md",
-    "question/2024-01-13-ValueError.md",
     "question/ValueError2.png",
     "question/ValueError.0113.png",
     "question",
