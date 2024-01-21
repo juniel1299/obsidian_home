@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -198,6 +198,7 @@
   },
   "active": "5dbe2fc9c5d13cd4",
   "lastOpenFiles": [
+    "question/2024-01-22-(!)for문.md",
     "question/2024-01-21-if.md",
     "question/2024-01-21-switch.md",
     "question/2024-01-20-DateTime.md",
@@ -223,7 +224,6 @@
     "question/2024-01-15-Input.md",
     "question/2024-01-15-TypeCasting.md",
     "JAVA (쌍용교육센터)/1월 3일 Error.md",
-    "JAVA (쌍용교육센터)/1월 3일 Escape .md",
     "첨부파일 폴더/Pasted image 20240115210935.png",
     "첨부파일 폴더/Pasted image 20240113155709.png",
     "question/ValueError2.png",
