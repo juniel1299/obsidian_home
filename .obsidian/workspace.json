@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "question/2024-01-25-while.md",
+                "file": "question/2024-01-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "question/2024-01-25-while.md",
+                "file": "question/2024-01-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "question/2024-01-25-while.md",
+                "file": "question/2024-01-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "question/2024-01-25-while.md"
+                "file": "question/2024-01-28.md"
               }
             }
           },
@@ -198,6 +198,8 @@
   },
   "active": "5dbe2fc9c5d13cd4",
   "lastOpenFiles": [
+    "question/2024-01-25-while.md",
+    "question/2024-01-28.md",
     "question/2024-01-23-for(2).md",
     "question/2024-01-22-for.md",
     "question/2024-01-21-switch.md",
@@ -222,8 +224,6 @@
     "JAVA (쌍용교육센터)/12월 29일 내용.md",
     "JAVA (쌍용교육센터)/1월 18일_HashSet.md",
     "JAVA (쌍용교육센터)/1월 3일 Casting.md",
-    "question/2024-01-15-Input.md",
-    "question/2024-01-15-TypeCasting.md",
     "첨부파일 폴더/Pasted image 20240115210935.png",
     "첨부파일 폴더/Pasted image 20240113155709.png",
     "question/ValueError2.png",
