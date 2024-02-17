@@ -96,9 +96,17 @@
               "type": "mk-path-view",
               "state": {}
             }
+          },
+          {
+            "id": "c28bdd4501d0c28c",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -198,6 +206,8 @@
   },
   "active": "5dbe2fc9c5d13cd4",
   "lastOpenFiles": [
+    "Spaces/Home",
+    "Spaces",
     "question/2024-02-14-Class(2).md",
     "question/2024-02-14-Class(1).md",
     "question/2024-01-28-Array(1).md",
@@ -223,7 +233,6 @@
     "JAVA (쌍용교육센터)/1월 19일 File.md",
     "JAVA (쌍용교육센터)/1월 18일 File .md",
     "JAVA (쌍용교육센터)/1월 18일 HashSet.md",
-    "JAVA (쌍용교육센터)/12월 29일 내용.md",
     "첨부파일 폴더/Pasted image 20240115210935.png",
     "첨부파일 폴더/Pasted image 20240113155709.png",
     "question/ValueError2.png",
@@ -231,8 +240,6 @@
     "question",
     "ｑｕｅｓｔｉｏｎ",
     "obsidian_home",
-    "Spaces/Home",
-    "Spaces",
     "JAVA (쌍용교육센터)",
     "첨부파일 폴더/캡스톤디자인1학기 7조 설계 프로젝트  최종 보고서.hwp",
     "첨부파일 폴더/Q0Tj8DCaNirmxV0j_DSyuOsmtGp6GZp76F_z2pN8_vQCPP-dUUHyrTBxR3oxV2Tn_E-3FjC1Lq-yTAx-iPWJKA.webp",
