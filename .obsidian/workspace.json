@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "question/2024-02-14-Class(1).md",
+                "file": "SQL정리/2024-02-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "question/2024-02-14-Class(1).md",
+                "file": "SQL정리/2024-02-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "question/2024-02-14-Class(1).md",
+                "file": "SQL정리/2024-02-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "question/2024-02-14-Class(1).md"
+                "file": "SQL정리/2024-02-19.md"
               }
             }
           },
@@ -194,22 +194,24 @@
   },
   "active": "b01d49ff77b0b50c",
   "lastOpenFiles": [
+    "자바정리/2024-02-14-Class(1).md",
+    "SQL정리/2024-02-19.md",
+    "SQL정리",
     "JAVA (쌍용교육센터)/1월 5일 if문 (조건문).md",
-    "question/2024-02-14-Class(1).md",
     "Spaces/Home",
     "Spaces",
-    "question/2024-02-14-Class(2).md",
-    "question/2024-01-28-Array(1).md",
-    "question/2024-01-25-while.md",
-    "question/2024-01-23-for(2).md",
-    "question/2024-01-22-for.md",
-    "question/2024-01-21-switch.md",
-    "question/2024-01-21-if.md",
-    "question/2024-01-20-DateTime.md",
-    "question/2024-01-20-Recursive Method.md",
-    "question/2024-01-20-Method Overloading.md",
-    "question/2024-01-20-Method.md",
-    "question/2024-01-20-LocalVariable.md",
+    "자바정리/2024-02-14-Class(2).md",
+    "자바정리/2024-01-28-Array(1).md",
+    "자바정리/2024-01-25-while.md",
+    "자바정리/2024-01-23-for(2).md",
+    "자바정리/2024-01-22-for.md",
+    "자바정리/2024-01-21-switch.md",
+    "자바정리/2024-01-21-if.md",
+    "자바정리/2024-01-20-DateTime.md",
+    "자바정리/2024-01-20-Recursive Method.md",
+    "자바정리/2024-01-20-Method Overloading.md",
+    "자바정리/2024-01-20-Method.md",
+    "자바정리/2024-01-20-LocalVariable.md",
     "JAVA (쌍용교육센터)/1월 5일 DateTime.md",
     "JAVA (쌍용교육센터)/1월 4일 Operator (1).md",
     "JAVA (쌍용교육센터)/1월 4일 LocalVariable.md",
@@ -225,7 +227,7 @@
     "첨부파일 폴더/Pasted image 20240113155709.png",
     "question/ValueError2.png",
     "question/ValueError.0113.png",
-    "question",
+    "자바정리",
     "ｑｕｅｓｔｉｏｎ",
     "obsidian_home",
     "JAVA (쌍용교육센터)",
@@ -235,7 +237,6 @@
     "첨부파일 폴더/00500079_20181211.jpg",
     "Context/spacesLastSync.log",
     "Context",
-    "노트북 파일 정리",
     "자율주행_논문_발행증가.png"
   ]
 }
