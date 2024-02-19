@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL정리/2024-02-19.md",
+                "file": "SQL정리/2024-02-19-SQL 이란.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL정리/2024-02-19.md",
+                "file": "SQL정리/2024-02-19-SQL 이란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL정리/2024-02-19.md",
+                "file": "SQL정리/2024-02-19-SQL 이란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL정리/2024-02-19.md"
+                "file": "SQL정리/2024-02-19-SQL 이란.md"
               }
             }
           },
@@ -195,7 +195,7 @@
   "active": "b01d49ff77b0b50c",
   "lastOpenFiles": [
     "자바정리/2024-02-14-Class(1).md",
-    "SQL정리/2024-02-19.md",
+    "SQL정리/2024-02-19-SQL 이란.md",
     "SQL정리",
     "JAVA (쌍용교육센터)/1월 5일 if문 (조건문).md",
     "Spaces/Home",
