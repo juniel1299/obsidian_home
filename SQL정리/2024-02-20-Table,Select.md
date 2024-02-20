@@ -7,8 +7,8 @@ create table 테이블이름
 예시 
 ```sql
 create table school(
- name varchar2(10), --이름 ()
- korScore number,    -- 국어성적
- 
+ name varchar2(10), --이름 (문자)
+ korScore number,    -- 국어성적(숫자)
+ graduate 
 )
 ```
