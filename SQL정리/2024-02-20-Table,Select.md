@@ -31,4 +31,9 @@ values('훈이',90,'2024-02-23');
 ```
 ![출력](https://github.com/juniel1299/juniel1299.github.io/assets/62318700/a508af30-ed93-4696-9961-087fc75934ad)
 
-ㅋ
+처음 코드처럼 따로따로 넣으면 이렇게 하나만 들어가고 null이라고 뜬다   
+null은 oracle SQL에서 작성해준 것이지 실제로 null이 들어간게 아니라 빈칸이다.  
+
+그냥 데이터가 없다라는 내용이다.  
+
+그러므로 insert into 서
