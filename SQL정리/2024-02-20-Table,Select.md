@@ -40,4 +40,12 @@ null은 oracle SQL에서 작성해준 것이지 실제로 null이 들어간게 �
 
 
 # 테이블 데이터 가져오기 
-Select 를 통
+Select 를 통해 진행하는데 
+
+Select * from 테이블명; 으로 진행하게 된다  
+
+우선 코드 동작 순서가 중요한데 아직 2개밖에 없으니 (select , from)  
+
+우선 From이 실행되고 Select가 실행된다 알면 된다 .  
+
+즉 테이블을 가져오고 Select
