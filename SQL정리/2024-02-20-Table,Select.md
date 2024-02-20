@@ -19,8 +19,16 @@ create table school(
 select * from school;
 ```
 
-데이터를 안에 넣고 싶으면 
+데이터를 안에 넣고 싶을땐 insert into를 이용한다
 
 ```sql
-insert 
+insert into school (name) values('신짱구');
+insert into school (korScore) values(70);
+insert into school (graduation) values('2024-02-21');
+
+insert into school
+values('훈이',90,'2024-02-23'); 
 ```
+![출력](https://github.com/juniel1299/juniel1299.github.io/assets/62318700/a508af30-ed93-4696-9961-087fc75934ad)
+
+ㅋ
