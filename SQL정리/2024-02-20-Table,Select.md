@@ -9,6 +9,6 @@ create table 테이블이름
 create table school(
  name varchar2(10), --이름 (문자)
  korScore number,    -- 국어성적(숫자)
- graduate 
+ graduation date     --졸업날짜 (날짜형)
 )
 ```
