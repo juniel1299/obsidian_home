@@ -13,3 +13,4 @@ create table school(
 );
 ```
 
+![출력]()
