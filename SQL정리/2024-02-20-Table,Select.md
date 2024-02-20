@@ -49,4 +49,10 @@ Select * from 테이블명; 으로 진행하게 된다
 우선 From이 실행되고 Select가 실행된다 알면 된다 .  
 
 즉 테이블을 가져오고 Select 동작하는데 
- 우선 * 은 import 가져올 떄의 
+ 우선 * 은 import 가져올 때 * 과 동일하다 모두 선언을 의미하며 만약 위에 테이블에서 이름만 보고 싶으면 
+select name from school; 작성하면 이름만 출력이 되며,
+
+select 
+name,
+graduation
+from schoo; 작성하면 이름과 졸업년도만 나오
