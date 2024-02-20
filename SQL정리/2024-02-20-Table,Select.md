@@ -15,6 +15,12 @@ create table school(
 
 ![출력](https://github.com/juniel1299/juniel1299.github.io/assets/62318700/7a0b5e66-96a5-44ce-b1cc-ac57919f0d7e)
 생성한 테이블을 이렇게 보기 위해선 
-select * from school; 작성하면 나온다.
+```sql
+select * from school;
+```
 
+데이터를 안에 넣고 싶으면 
 
+```sql
+insert 
+```
