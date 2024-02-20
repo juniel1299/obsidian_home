@@ -6,5 +6,7 @@ create table 테이블이름
 
 예시 
 ```sql
-
+create table school(
+ name varchar2()
+)
 ```
