@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL정리/2024-02-20-Table,Select.md",
+                "file": "SQL정리/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL정리/2024-02-20-Table,Select.md",
+                "file": "SQL정리/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL정리/2024-02-20-Table,Select.md",
+                "file": "SQL정리/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL정리/2024-02-20-Table,Select.md"
+                "file": "SQL정리/무제 파일.md"
               }
             }
           },
@@ -194,8 +194,9 @@
   },
   "active": "b01d49ff77b0b50c",
   "lastOpenFiles": [
-    "SQL정리/2024-02-20-SQL자료형.md",
     "SQL정리/2024-02-20-Table,Select.md",
+    "SQL정리/무제 파일.md",
+    "SQL정리/2024-02-20-SQL자료형.md",
     "SQL정리/2024-02-19-SQL 이란.md",
     "자바정리/2024-02-14-Class(1).md",
     "SQL정리",
@@ -222,7 +223,6 @@
     "JAVA (쌍용교육센터)/1월 4일 Method (3).md",
     "JAVA (쌍용교육센터)/1월 4일 Method (2).md",
     "JAVA (쌍용교육센터)/1월 4일 Method (1).md",
-    "JAVA (쌍용교육센터)/1월 19일 File.md",
     "첨부파일 폴더/Pasted image 20240115210935.png",
     "첨부파일 폴더/Pasted image 20240113155709.png",
     "question/ValueError2.png",
