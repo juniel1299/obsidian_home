@@ -41,3 +41,5 @@ case when substr(ssn,8,1) = 1 then '남자'
 from tblinsa;
 
 ```
+
+
