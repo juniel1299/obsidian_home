@@ -18,3 +18,12 @@ select count(*) from tblInsa;
 
 앞에 있었던 distinct와 섞어서 부서 종류가 몇개인지 구한다던지 활용 방법이 많아 자주 쓰인다.  
 
+```sql
+select 
+    count(case
+        when buseo = '기획부' then 1
+        end)
+        from tblinsa;
+```
+![출력](https://github.com/juniel1299/juniel1299.github.io/assets/62318700/6c19f736-d7fe-4b2b-9991-62c6302064e5)
+이렇게 부서에 몇명이 있는지 case 조건문을 통해 알아낼 숟
