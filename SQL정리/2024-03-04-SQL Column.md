@@ -25,3 +25,7 @@ select distinct buseo from tblinsa;
 
 이렇게 중복되는 값을 다 없애고 출력이 된다.  
 
+## case
+SQL에서 조건문 실행을 할 수 있는 방법 중 하나이다.  
+
+case
