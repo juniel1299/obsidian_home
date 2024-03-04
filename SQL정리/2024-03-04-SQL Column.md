@@ -28,4 +28,6 @@ select distinct buseo from tblinsa;
 ## case
 SQL에서 조건문 실행을 할 수 있는 방법 중 하나이다.  
 
-case
+case when then end 으로 구성이 되어 있으며 
+when 조건 then 반환값 의 형식이다.  
+
