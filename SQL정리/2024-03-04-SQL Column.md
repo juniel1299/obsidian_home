@@ -17,4 +17,11 @@ OOO  대리  31    4000
 ![출력](https://github.com/juniel1299/juniel1299.github.io/assets/62318700/1ab7c560-384f-4c8b-9292-fc42a8e01380)
 
 기존 테이블의 값에서 
-select distinct 
+select distinct buseo from tblinsa;  
+
+즉 부서 컬럼에 distinct를 사용하게 되면  
+
+![출력](https://github.com/juniel1299/juniel1299.github.io/assets/62318700/fd09b66f-9612-4e50-839b-5f963377823a)
+
+이렇게 중복되는 값을 다 없애고 출력이 된다.  
+
