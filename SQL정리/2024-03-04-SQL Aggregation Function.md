@@ -5,3 +5,5 @@
 
 SQL에선 count() , sum() , avg() , max(), min() 그냥 똑같음...  
 
+
+## count()
