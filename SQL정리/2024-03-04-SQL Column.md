@@ -35,5 +35,9 @@ when 조건 then 반환값 의 형식이다.
 
 ```sql
 select 
-case(substr(from tblinsa;
+case(when substr(ssn,8,1) = 1 then '남자' 
+	 end),
+	 case(when substar(ssn,8,2) = 2 then '여자'
+	 end)
+from tblinsa;
 ```
