@@ -31,3 +31,9 @@ SQL에서 조건문 실행을 할 수 있는 방법 중 하나이다.
 case when then end 으로 구성이 되어 있으며 
 when 조건 then 반환값 의 형식이다.  
 
+앞의 테이블을 이용해서 사용하면
+
+```sql
+select 
+case(substr(from tblinsa;
+```
