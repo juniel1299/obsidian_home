@@ -45,4 +45,6 @@ from tblinsa;
 ![출력](https://github.com/juniel1299/juniel1299.github.io/assets/62318700/71e5788b-ff78-4d5d-9d9d-a510b123f8ec)
 
 주민등록 8번째 위치 즉 뒷자리 1번째 숫자가 1이면 남자 반환, 2이면 여자 반환을 하는 등
-이렇게 이용 할 수 있다.  
+이렇게 이용 할 수 있다.   
+
+
