@@ -14,4 +14,7 @@ OOO  대리  31    4000
 ## distinct 
 중복값을 제거해준다 
 
-![출력]()
+![출력](https://github.com/juniel1299/juniel1299.github.io/assets/62318700/1ab7c560-384f-4c8b-9292-fc42a8e01380)
+
+기존 테이블의 값에서 
+select distinct 
