@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL정리/2024-03-04-SQL Aggregation Function.md",
+                "file": "SQL정리/2024-03-05-numberical Function.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL정리/2024-03-04-SQL Aggregation Function.md",
+                "file": "SQL정리/2024-03-05-numberical Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL정리/2024-03-04-SQL Aggregation Function.md",
+                "file": "SQL정리/2024-03-05-numberical Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL정리/2024-03-04-SQL Aggregation Function.md"
+                "file": "SQL정리/2024-03-05-numberical Function.md"
               }
             }
           },
@@ -194,8 +194,9 @@
   },
   "active": "b01d49ff77b0b50c",
   "lastOpenFiles": [
-    "SQL정리/2024-03-04-SQL Order.md",
     "SQL정리/2024-03-04-SQL Aggregation Function.md",
+    "SQL정리/2024-03-05-numberical Function.md",
+    "SQL정리/2024-03-04-SQL Order.md",
     "SQL정리/2024-03-04-SQL Column.md",
     "SQL정리/2024-02-22-SQL where.md",
     "SQL정리/2024-02-22-SQL연산자.md",
@@ -222,7 +223,6 @@
     "JAVA (쌍용교육센터)/1월 5일 DateTime.md",
     "JAVA (쌍용교육센터)/1월 4일 Operator (1).md",
     "JAVA (쌍용교육센터)/1월 4일 LocalVariable.md",
-    "JAVA (쌍용교육센터)/1월 5일 Method (5).md",
     "첨부파일 폴더/Pasted image 20240115210935.png",
     "첨부파일 폴더/Pasted image 20240113155709.png",
     "question/ValueError2.png",
