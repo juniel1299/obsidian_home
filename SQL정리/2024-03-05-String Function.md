@@ -22,3 +22,4 @@ ex) Oracle 이라는 데이터가 들은 컬럼 a 검색시
 
 length(a) 하면 6이 나온다 ..  
 
+## instr()
