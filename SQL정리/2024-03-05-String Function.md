@@ -26,3 +26,4 @@ length(a) 하면 6이 나온다 ..
 
 java로 치면 indexof랑 똑같은 것이다.  
 
+instr(컬럼명,검색어)
