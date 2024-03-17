@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL정리/2024-03-05-String Function.md",
+                "file": "JAVA (쌍용교육센터)/1월 4일 수업내용.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL정리/2024-03-05-String Function.md",
+                "file": "JAVA (쌍용교육센터)/1월 4일 수업내용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL정리/2024-03-05-String Function.md",
+                "file": "JAVA (쌍용교육센터)/1월 4일 수업내용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL정리/2024-03-05-String Function.md"
+                "file": "JAVA (쌍용교육센터)/1월 4일 수업내용.md"
               }
             }
           },
@@ -200,12 +200,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b01d49ff77b0b50c",
+  "active": "408fbe75a45775cf",
   "lastOpenFiles": [
+    "알고리즘 정리",
+    "SQL정리/2024-03-05-String Function.md",
     "Spaces/Home",
     "Spaces",
     "SQL정리/2024-03-05-numerical Function.md",
-    "SQL정리/2024-03-05-String Function.md",
     "SQL정리/2024-03-04-SQL Aggregation Function.md",
     "SQL정리/2024-03-04-SQL Order.md",
     "SQL정리/2024-03-04-SQL Column.md",
