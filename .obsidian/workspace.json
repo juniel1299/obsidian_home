@@ -92,9 +92,17 @@
               "type": "mk-path-view",
               "state": {}
             }
+          },
+          {
+            "id": "bcf0d98f69925ae2",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -194,6 +202,8 @@
   },
   "active": "b01d49ff77b0b50c",
   "lastOpenFiles": [
+    "Spaces/Home",
+    "Spaces",
     "SQL정리/2024-03-05-numerical Function.md",
     "SQL정리/2024-03-05-String Function.md",
     "SQL정리/2024-03-04-SQL Aggregation Function.md",
@@ -207,8 +217,6 @@
     "자바정리/2024-02-14-Class(1).md",
     "SQL정리",
     "JAVA (쌍용교육센터)/1월 5일 if문 (조건문).md",
-    "Spaces/Home",
-    "Spaces",
     "자바정리/2024-02-14-Class(2).md",
     "자바정리/2024-01-28-Array(1).md",
     "자바정리/2024-01-25-while.md",
@@ -222,7 +230,6 @@
     "자바정리/2024-01-20-Method.md",
     "자바정리/2024-01-20-LocalVariable.md",
     "JAVA (쌍용교육센터)/1월 5일 DateTime.md",
-    "JAVA (쌍용교육센터)/1월 4일 Operator (1).md",
     "첨부파일 폴더/Pasted image 20240115210935.png",
     "첨부파일 폴더/Pasted image 20240113155709.png",
     "question/ValueError2.png",
