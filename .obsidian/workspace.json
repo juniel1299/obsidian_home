@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘 정리/버블 정렬(Bubble Sort).md",
+                "file": "알고리즘 정리/합병정렬(Merge Sort).md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 정리/버블 정렬(Bubble Sort).md",
+                "file": "알고리즘 정리/합병정렬(Merge Sort).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 정리/버블 정렬(Bubble Sort).md",
+                "file": "알고리즘 정리/합병정렬(Merge Sort).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 정리/버블 정렬(Bubble Sort).md"
+                "file": "알고리즘 정리/합병정렬(Merge Sort).md"
               }
             }
           },
@@ -202,10 +202,11 @@
   },
   "active": "b01d49ff77b0b50c",
   "lastOpenFiles": [
+    "알고리즘 정리/정렬 알고리즘.md",
+    "알고리즘 정리/합병정렬(Merge Sort).md",
+    "알고리즘 정리/버블 정렬(Bubble Sort).md",
     "알고리즘 정리/선택 정렬(Selection Sort).md",
     "알고리즘 정리/삽입 정렬(Insertion Sort).md",
-    "알고리즘 정리/버블 정렬(Bubble Sort).md",
-    "알고리즘 정리/정렬 알고리즘.md",
     "알고리즘 정리/버블정렬이미지.gif",
     "알고리즘 정리/삽입 정렬 이미지.gif",
     "알고리즘 정리/선택정렬이미지.gif",
@@ -236,7 +237,6 @@
     "JAVA (쌍용교육센터)/1월 5일 if문 (조건문).md",
     "자바정리/2024-02-14-Class(2).md",
     "자바정리/2024-01-28-Array(1).md",
-    "자바정리/2024-01-25-while.md",
     "첨부파일 폴더/Pasted image 20240115210935.png",
     "첨부파일 폴더/Pasted image 20240113155709.png",
     "question/ValueError2.png",
