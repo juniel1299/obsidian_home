@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "css/무제 파일.md",
+                "file": "css/ex19_box.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "css/무제 파일.md",
+                "file": "css/ex19_box.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "css/무제 파일.md",
+                "file": "css/ex19_box.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "css/무제 파일.md"
+                "file": "css/ex19_box.md"
               }
             }
           },
@@ -203,7 +203,7 @@
   "active": "b01d49ff77b0b50c",
   "lastOpenFiles": [
     "알고리즘 정리/빅오 표기법(big-O notation).md",
-    "css/무제 파일.md",
+    "css/ex19_box.md",
     "알고리즘 정리/빅오표기법.png",
     "알고리즘 정리/빅오표기법.png.crdownload",
     "JAVA (쌍용교육센터)/1월 4일 수업내용.md",
