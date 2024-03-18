@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "css/ex19_box.md",
+                "file": "css/ex20_align.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "css/ex19_box.md",
+                "file": "css/ex20_align.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "css/ex19_box.md",
+                "file": "css/ex20_align.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "css/ex19_box.md"
+                "file": "css/ex20_align.md"
               }
             }
           },
@@ -202,8 +202,9 @@
   },
   "active": "b01d49ff77b0b50c",
   "lastOpenFiles": [
-    "알고리즘 정리/빅오 표기법(big-O notation).md",
     "css/ex19_box.md",
+    "css/ex20_align.md",
+    "알고리즘 정리/빅오 표기법(big-O notation).md",
     "알고리즘 정리/빅오표기법.png",
     "알고리즘 정리/빅오표기법.png.crdownload",
     "JAVA (쌍용교육센터)/1월 4일 수업내용.md",
@@ -233,7 +234,6 @@
     "자바정리/2024-01-20-DateTime.md",
     "자바정리/2024-01-20-Recursive Method.md",
     "자바정리/2024-01-20-Method Overloading.md",
-    "자바정리/2024-01-20-Method.md",
     "첨부파일 폴더/Pasted image 20240115210935.png",
     "첨부파일 폴더/Pasted image 20240113155709.png",
     "question/ValueError2.png",
