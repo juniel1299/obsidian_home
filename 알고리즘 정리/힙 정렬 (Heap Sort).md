@@ -20,3 +20,4 @@ O(N log N) 을 가진다.
 O(N log N) 을 가진다.
 
 
+이미지출처(https://aiday.tistory.com/53)

@@ -22,3 +22,6 @@ Best , Avg , Worst (최선 평균 최악) 모두 O(N^2) 의 시간 복잡도를 
 
 ## 공간 복잡도 
 배열 하나에서 진행하기 때문에 O(N)을 가진다. 
+
+
+이미지 출처(https://aiday.tistory.com/53)

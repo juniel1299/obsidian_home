@@ -13,3 +13,4 @@ Worst 의 경우 시간 복잡도는 O(log N^2)으로 굉장히 느립니다.
 그리고 이미 정렬이 되어있는 경우 Worst의 결과가 나옵니다.  
 
 
+이미지 출처(https://aiday.tistory.com/53)

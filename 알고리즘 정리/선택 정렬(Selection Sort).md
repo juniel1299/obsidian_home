@@ -19,3 +19,4 @@
 
 Best , Avg , Worst (최선, 평균, 최악)의 모든 경우의 수가 O(N^2)으로 같아 무난하게 쓸 수 있는 정렬이다.  
 
+이미지 출처(https://aiday.tistory.com/53)

@@ -26,3 +26,4 @@ Best Avg Worst (최선 평균 최악) 모두의 경우에 대해 O(N log N) 을 
 O(2N)을 가진다 .
 
 
+이미지 출처(https://aiday.tistory.com/53)
