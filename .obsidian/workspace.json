@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b01d49ff77b0b50c",
+            "id": "cc412c07a02dc467",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘 정리/정렬 알고리즘.md",
+                "file": "알고리즘 정리/힙 정렬 (Heap Sort).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cc412c07a02dc467",
+            "id": "bb1c9f98cd700e55",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 정리/정렬 알고리즘.md",
+                "file": "알고리즘 정리/힙 정렬 (Heap Sort).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 정리/정렬 알고리즘.md",
+                "file": "알고리즘 정리/힙 정렬 (Heap Sort).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 정리/정렬 알고리즘.md"
+                "file": "알고리즘 정리/힙 정렬 (Heap Sort).md"
               }
             }
           },
@@ -212,15 +212,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b01d49ff77b0b50c",
+  "active": "cc412c07a02dc467",
   "lastOpenFiles": [
-    "알고리즘 정리/힙 정렬 (Heap Sort).md",
     "알고리즘 정리/정렬 알고리즘.md",
+    "알고리즘 정리/힙 정렬 (Heap Sort).md",
+    "알고리즘 정리/버블 정렬(Bubble Sort).md",
     "알고리즘 정리/힙 정렬 이미지.gif",
     "알고리즘 정리/합병정렬 , 병합정렬(Merge Sort).md",
     "알고리즘 정리/삽입 정렬(Insertion Sort).md",
     "알고리즘 정리/합병 정렬 이미지.gif",
-    "알고리즘 정리/버블 정렬(Bubble Sort).md",
     "알고리즘 정리/선택 정렬(Selection Sort).md",
     "알고리즘 정리/버블정렬이미지.gif",
     "알고리즘 정리/삽입 정렬 이미지.gif",
