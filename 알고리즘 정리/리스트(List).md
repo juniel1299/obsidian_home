@@ -5,6 +5,7 @@
 
 ## 순차 리스트 (Array List)
 ![[ArrayList 이미지.png]]
+이미지 출처(https://pangtrue.tistory.com/290)
 
 
 기본적인 Array는 사용하기 위해 선언 할 때 배열의 길이를 지정하므로,
