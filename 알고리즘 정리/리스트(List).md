@@ -3,6 +3,8 @@
 
 
 
-## 순차 리스트 (Array List)
+## 순차 리스트 (ArrayList)
 ![[ArrayList 이미지.png]]
 
+
+기본적인 ArrayList는 사용하기 위해 선언 할 때 배열의 길이를 지정하므로, 
