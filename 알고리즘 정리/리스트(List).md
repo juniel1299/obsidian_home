@@ -4,3 +4,5 @@
 
 
 ## 순차 리스트 (Array List)
+![[ArrayList 이미지.png]]
+
