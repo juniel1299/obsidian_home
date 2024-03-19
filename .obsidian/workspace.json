@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bb1c9f98cd700e55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘 정리/퀵 정렬 (Quick Sort).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 정리/퀵 정렬 (Quick Sort).md",
+                "file": "알고리즘 정리/리스트(List).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 정리/퀵 정렬 (Quick Sort).md",
+                "file": "알고리즘 정리/리스트(List).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 정리/퀵 정렬 (Quick Sort).md"
+                "file": "알고리즘 정리/리스트(List).md"
               }
             }
           },
@@ -213,8 +200,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "bb1c9f98cd700e55",
+  "active": "cc412c07a02dc467",
   "lastOpenFiles": [
+    "알고리즘 정리/퀵 정렬 (Quick Sort).md",
     "알고리즘 정리/정렬 알고리즘 정리.md",
     "알고리즘 정리/힙 정렬 (Heap Sort).md",
     "알고리즘 정리/합병정렬 , 병합정렬(Merge Sort).md",
@@ -229,7 +217,6 @@
     "알고리즘 정리/선택정렬이미지.gif",
     "알고리즘 정리/합병 정렬 이미지.gif",
     "알고리즘 정리/빅오 표기법(big-O notation).md",
-    "알고리즘 정리/퀵 정렬 (Quick Sort).md",
     "알고리즘 정리/퀵 정렬 이미지.gif",
     "알고리즘 정리/힙 정렬 이미지.gif",
     "알고리즘 정리/버블정렬이미지.gif",
