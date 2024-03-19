@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘 정리/리스트(List).md",
+                "file": "알고리즘 정리/1)정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 정리/리스트(List).md",
+                "file": "알고리즘 정리/1)정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 정리/리스트(List).md",
+                "file": "알고리즘 정리/1)정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 정리/리스트(List).md"
+                "file": "알고리즘 정리/1)정리.md"
               }
             }
           },
@@ -202,25 +202,26 @@
   },
   "active": "cc412c07a02dc467",
   "lastOpenFiles": [
+    "알고리즘 정리/리스트(List).md",
+    "알고리즘 정리/정렬 알고리즘 정리.md",
+    "알고리즘 정리/1)정리.md",
+    "알고리즘 정리/버블 정렬(Bubble Sort).md",
+    "알고리즘 정리/버블정렬이미지.gif",
+    "알고리즘 정리/삽입 정렬 이미지.gif",
+    "알고리즘 정리/연결 리스트 이미지.png",
     "알고리즘 정리/ArrayList 이미지.png",
     "알고리즘 정리/퀵 정렬 (Quick Sort).md",
-    "알고리즘 정리/정렬 알고리즘 정리.md",
     "알고리즘 정리/힙 정렬 (Heap Sort).md",
     "알고리즘 정리/합병정렬 , 병합정렬(Merge Sort).md",
-    "알고리즘 정리/버블 정렬(Bubble Sort).md",
     "알고리즘 정리/삽입 정렬(Insertion Sort).md",
     "알고리즘 정리/선택 정렬(Selection Sort).md",
-    "알고리즘 정리/리스트(List).md",
     "알고리즘 정리/선형구조 정리.md",
-    "알고리즘 정리/1)정리.md",
-    "알고리즘 정리/삽입 정렬 이미지.gif",
     "첨부파일 폴더/Pasted image 20240113155709.png",
     "알고리즘 정리/선택정렬이미지.gif",
     "알고리즘 정리/합병 정렬 이미지.gif",
     "알고리즘 정리/빅오 표기법(big-O notation).md",
     "알고리즘 정리/퀵 정렬 이미지.gif",
     "알고리즘 정리/힙 정렬 이미지.gif",
-    "알고리즘 정리/버블정렬이미지.gif",
     "알고리즘 정리/빅오표기법.png",
     "css/ex20_align.md",
     "학교 (로보틱스)/무제 파일.md",
@@ -241,8 +242,6 @@
     "SQL정리/2024-02-22-SQL연산자.md",
     "SQL정리/2024-02-20-SQL자료형.md",
     "SQL정리",
-    "첨부파일 폴더/Pasted image 20240115210935.png",
-    "question/ValueError2.png",
     "자바정리",
     "ｑｕｅｓｔｉｏｎ",
     "obsidian_home",
