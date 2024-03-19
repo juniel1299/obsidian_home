@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘 정리/힙 정렬 (Heap Sort).md",
+                "file": "알고리즘 정리/정렬 알고리즘.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 정리/힙 정렬 (Heap Sort).md",
+                "file": "알고리즘 정리/정렬 알고리즘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 정리/힙 정렬 (Heap Sort).md",
+                "file": "알고리즘 정리/정렬 알고리즘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 정리/힙 정렬 (Heap Sort).md"
+                "file": "알고리즘 정리/정렬 알고리즘.md"
               }
             }
           },
@@ -212,8 +212,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "cc412c07a02dc467",
+  "active": "408fbe75a45775cf",
   "lastOpenFiles": [
+    "알고리즘 정리/퀵 정렬 (Quick Sort).md",
+    "알고리즘 정리/퀵 정렬 이미지.gif",
     "알고리즘 정리/정렬 알고리즘.md",
     "알고리즘 정리/힙 정렬 (Heap Sort).md",
     "알고리즘 정리/버블 정렬(Bubble Sort).md",
@@ -249,12 +251,9 @@
     "SQL정리/2024-02-19-SQL 이란.md",
     "자바정리/2024-02-14-Class(1).md",
     "SQL정리",
-    "JAVA (쌍용교육센터)/1월 5일 if문 (조건문).md",
-    "자바정리/2024-02-14-Class(2).md",
     "첨부파일 폴더/Pasted image 20240115210935.png",
     "첨부파일 폴더/Pasted image 20240113155709.png",
     "question/ValueError2.png",
-    "question/ValueError.0113.png",
     "자바정리",
     "ｑｕｅｓｔｉｏｎ",
     "obsidian_home",
