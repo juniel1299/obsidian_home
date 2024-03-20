@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘 정리/선형구조 정리.md",
+                "file": "알고리즘 정리/큐(Queue).md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 정리/선형구조 정리.md",
+                "file": "알고리즘 정리/큐(Queue).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 정리/선형구조 정리.md",
+                "file": "알고리즘 정리/큐(Queue).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 정리/선형구조 정리.md"
+                "file": "알고리즘 정리/큐(Queue).md"
               }
             }
           },
@@ -215,9 +215,10 @@
   },
   "active": "fbd0813c2b74d0d2",
   "lastOpenFiles": [
-    "알고리즘 정리/정렬 알고리즘 정리.md",
-    "알고리즘 정리/스택(Stack).md",
+    "알고리즘 정리/이미지 폴더/스택(Stack).md",
     "알고리즘 정리/선형구조 정리.md",
+    "알고리즘 정리/스택 이미지.png",
+    "알고리즘 정리/정렬 알고리즘 정리.md",
     "알고리즘 정리/1)정리.md",
     "알고리즘 정리/정렬",
     "알고리즘 정리/빅 오 표기법",
@@ -241,7 +242,6 @@
     "알고리즘 정리/이미지 폴더/선택정렬이미지.gif",
     "알고리즘 정리/이미지 폴더/합병 정렬 이미지.gif",
     "알고리즘 정리/빅 오 표기법/빅오 표기법(big-O notation).md",
-    "알고리즘 정리/이미지 폴더/퀵 정렬 이미지.gif",
     "css/ex20_align.md",
     "학교 (로보틱스)/무제 파일.md",
     "학교 (로보틱스)/1128.md",
@@ -257,7 +257,6 @@
     "SQL정리/2024-03-04-SQL Aggregation Function.md",
     "SQL정리/2024-03-04-SQL Order.md",
     "SQL정리/2024-03-04-SQL Column.md",
-    "SQL정리/2024-02-22-SQL where.md",
     "SQL정리",
     "자바정리",
     "ｑｕｅｓｔｉｏｎ"
