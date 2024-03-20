@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘 정리/1)정리.md",
+                "file": "알고리즘 정리/트리(Tree).md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 정리/1)정리.md",
+                "file": "알고리즘 정리/트리(Tree).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 정리/1)정리.md",
+                "file": "알고리즘 정리/트리(Tree).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 정리/1)정리.md"
+                "file": "알고리즘 정리/트리(Tree).md"
               }
             }
           },
@@ -214,19 +214,19 @@
   },
   "active": "cc412c07a02dc467",
   "lastOpenFiles": [
+    "알고리즘 정리/비선형구조 정리.md",
+    "알고리즘 정리/1)정리.md",
     "알고리즘 정리/트리(Tree).md",
     "알고리즘 정리/이미지 폴더/이진힙 이미지.jpg",
     "알고리즘 정리/이미지 폴더/완전이진트리.png",
     "알고리즘 정리/이미지 폴더/포화이진트리.png",
     "알고리즘 정리/선형구조/스택(Stack).md",
     "알고리즘 정리/이미지 폴더/트리 이미지.webp",
-    "알고리즘 정리/비선형구조 정리.md",
     "알고리즘 정리/선형구조 정리.md",
     "알고리즘 정리/그래프(Graph).md",
     "알고리즘 정리/정렬 알고리즘 정리.md",
     "aws.md",
     "알고리즘 정리/ec2-class.pem",
-    "알고리즘 정리/1)정리.md",
     "알고리즘 정리/선형구조",
     "알고리즘 정리/선형구조/데크(Deque).md",
     "알고리즘 정리/이미지 폴더/데크 이미지.png",
