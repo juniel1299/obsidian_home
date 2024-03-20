@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘 정리/비선형구조 정리.md",
+                "file": "알고리즘 정리/트리(Tree).md",
                 "mode": "source",
                 "source": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 정리/비선형구조 정리.md",
+                "file": "알고리즘 정리/트리(Tree).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 정리/비선형구조 정리.md",
+                "file": "알고리즘 정리/트리(Tree).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 정리/비선형구조 정리.md"
+                "file": "알고리즘 정리/트리(Tree).md"
               }
             }
           },
@@ -239,9 +239,11 @@
   },
   "active": "6ea0c0ede70c6caa",
   "lastOpenFiles": [
-    "알고리즘 정리/정렬 알고리즘 정리.md",
-    "알고리즘 정리/선형구조 정리.md",
     "알고리즘 정리/비선형구조 정리.md",
+    "알고리즘 정리/트리(Tree).md",
+    "알고리즘 정리/선형구조 정리.md",
+    "알고리즘 정리/그래프(Graph).md",
+    "알고리즘 정리/정렬 알고리즘 정리.md",
     "aws.md",
     "알고리즘 정리/ec2-class.pem",
     "알고리즘 정리/1)정리.md",
@@ -282,7 +284,6 @@
     "SQL정리/2024-03-05-String Function.md",
     "Spaces/Home",
     "Spaces",
-    "SQL정리/2024-03-05-numerical Function.md",
     "SQL정리"
   ]
 }
