@@ -96,25 +96,9 @@
               "type": "mk-path-view",
               "state": {}
             }
-          },
-          {
-            "id": "c28bdd4501d0c28c",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "bcf0d98f69925ae2",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -214,17 +198,17 @@
   },
   "active": "cc412c07a02dc467",
   "lastOpenFiles": [
-    "알고리즘 정리/이미지 폴더/전위중위후위 이미지.jpg",
+    "알고리즘 정리/그래프(Graph).md",
+    "알고리즘 정리/트리(Tree).md",
     "알고리즘 정리/비선형구조 정리.md",
     "알고리즘 정리/1)정리.md",
-    "알고리즘 정리/트리(Tree).md",
+    "알고리즘 정리/이미지 폴더/전위중위후위 이미지.jpg",
     "알고리즘 정리/이미지 폴더/이진힙 이미지.jpg",
     "알고리즘 정리/이미지 폴더/완전이진트리.png",
     "알고리즘 정리/이미지 폴더/포화이진트리.png",
     "알고리즘 정리/선형구조/스택(Stack).md",
     "알고리즘 정리/이미지 폴더/트리 이미지.webp",
     "알고리즘 정리/선형구조 정리.md",
-    "알고리즘 정리/그래프(Graph).md",
     "알고리즘 정리/정렬 알고리즘 정리.md",
     "aws.md",
     "알고리즘 정리/ec2-class.pem",
@@ -243,7 +227,6 @@
     "알고리즘 정리/정렬/버블 정렬(Bubble Sort).md",
     "알고리즘 정리/이미지 폴더/배열 이미지.png",
     "알고리즘 정리/이미지 폴더/버블정렬이미지.gif",
-    "알고리즘 정리/이미지 폴더/삽입 정렬 이미지.gif",
     "알고리즘 정리/정렬/퀵 정렬 (Quick Sort).md",
     "알고리즘 정리/정렬/힙 정렬 (Heap Sort).md",
     "알고리즘 정리/정렬/합병정렬 , 병합정렬(Merge Sort).md",
