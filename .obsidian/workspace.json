@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e7dc9118a7adf379",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘 정리/1)정리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,7 +197,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e7dc9118a7adf379",
+  "active": "408fbe75a45775cf",
   "lastOpenFiles": [
     "알고리즘 정리/선형구조 정리.md",
     "알고리즘 정리/선형구조/스택(Stack).md",
