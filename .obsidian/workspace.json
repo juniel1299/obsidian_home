@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "a808270b95a475e0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
+          },
+          {
             "id": "bc7f64ebce1d7453",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -196,7 +207,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "cc412c07a02dc467",
+  "active": "a808270b95a475e0",
   "lastOpenFiles": [
     "알고리즘 정리/비선형구조 정리.md",
     "알고리즘 정리/비선형구조",
