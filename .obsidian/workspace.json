@@ -13,36 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘 정리/1)정리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a808270b95a475e0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
-          },
-          {
-            "id": "bc7f64ebce1d7453",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘 정리/비선형구조/트리(Tree).md",
+                "file": "알고리즘 정리/선형구조 정리.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 정리/1)정리.md",
+                "file": "알고리즘 정리/선형구조 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 정리/1)정리.md",
+                "file": "알고리즘 정리/선형구조 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 정리/1)정리.md"
+                "file": "알고리즘 정리/선형구조 정리.md"
               }
             }
           },
@@ -207,8 +184,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a808270b95a475e0",
+  "active": "cc412c07a02dc467",
   "lastOpenFiles": [
+    "알고리즘 정리/1)정리.md",
     "알고리즘 정리/비선형구조 정리.md",
     "알고리즘 정리/비선형구조",
     "알고리즘 정리/비선형구조/그래프(Graph).md",
@@ -220,7 +198,6 @@
     "알고리즘 정리/이미지 폴더/방향 그래프.png",
     "알고리즘 정리/이미지 폴더/무방향 그래프 이미지.png",
     "알고리즘 정리/이미지 폴더/완전 그래프 이미지.png",
-    "알고리즘 정리/1)정리.md",
     "알고리즘 정리/이미지 폴더/전위중위후위 이미지.jpg",
     "알고리즘 정리/이미지 폴더/이진힙 이미지.jpg",
     "알고리즘 정리/이미지 폴더/완전이진트리.png",
