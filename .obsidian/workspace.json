@@ -11,11 +11,9 @@
             "id": "ab8d7f1e960614e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "알고리즘 정리/해시 탐색.md",
-                "mode": "source",
-                "source": false
+                "path": "알고리즘 정리"
               }
             }
           }
@@ -86,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -106,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 정리/해시 탐색.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 정리/해시 탐색.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "알고리즘 정리/해시 탐색.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,10 +181,10 @@
   "active": "ab8d7f1e960614e8",
   "lastOpenFiles": [
     "알고리즘 정리/이진 탐색.md",
+    "알고리즘 정리/해시 탐색.md",
     "알고리즘 정리/탐색 정리.md",
     "알고리즘 정리/선형 탐색.md",
     "알고리즘 정리/이미지 폴더/이진 탐색 이미지.png",
-    "알고리즘 정리/해시 탐색.md",
     "알고리즘 정리/이미지 폴더/선형(순차) 탐색 이미지.gif",
     "알고리즘 정리/1)정리.md",
     "알고리즘 정리/비선형구조 정리.md",
