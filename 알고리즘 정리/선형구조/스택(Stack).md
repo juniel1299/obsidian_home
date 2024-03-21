@@ -37,3 +37,11 @@ https://www.acmicpc.net/problem/10799
 후위 표기식(골드2)
 https://www.acmicpc.net/problem/1918
 
+문자열 폭발(골드4)
+https://www.acmicpc.net/problem/9935
+
+외계인의 기타연주 (실버1)
+https://www.acmicpc.net/problem/2841
+
+코딩은 예쁘게(골드3)
+https://www.acmicpc.net/problem/2879
