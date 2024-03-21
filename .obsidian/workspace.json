@@ -66,19 +66,7 @@
             }
           },
           {
-            "id": "39c4d3fcfe97064f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA (쌍용교육센터)/1월 3일  Variable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63ae1e1c5efb861c",
+            "id": "8570027aa05db322",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -184,11 +172,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ab8d7f1e960614e8",
+  "active": "408fbe75a45775cf",
   "lastOpenFiles": [
+    "JAVA (쌍용교육센터)/1월 3일  Variable.md",
+    "알고리즘 정리/탐색/그리디(greedy).md",
     "알고리즘 정리/이미지 폴더/그리디 알고리즘 이미지.png",
     "알고리즘 정리/탐색 정리.md",
-    "알고리즘 정리/탐색/그리디(greedy).md",
     "알고리즘 정리/탐색",
     "알고리즘 정리/탐색/이진 탐색.md",
     "알고리즘 정리/해시 탐색.md",
@@ -216,7 +205,6 @@
     "알고리즘 정리/이미지 폴더/방향 그래프.png",
     "알고리즘 정리/이미지 폴더/무방향 그래프 이미지.png",
     "알고리즘 정리/이미지 폴더/완전 그래프 이미지.png",
-    "알고리즘 정리/이미지 폴더/전위중위후위 이미지.jpg",
     "aws.md",
     "알고리즘 정리/ec2-class.pem",
     "알고리즘 정리/선형구조",
