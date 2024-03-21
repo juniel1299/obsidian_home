@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘 정리/정렬/버블 정렬(Bubble Sort).md",
+                "file": "알고리즘 정리/선형구조/큐(Queue).md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 정리/정렬/버블 정렬(Bubble Sort).md",
+                "file": "알고리즘 정리/선형구조/큐(Queue).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 정리/정렬/버블 정렬(Bubble Sort).md",
+                "file": "알고리즘 정리/선형구조/큐(Queue).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 정리/정렬/버블 정렬(Bubble Sort).md"
+                "file": "알고리즘 정리/선형구조/큐(Queue).md"
               }
             }
           },
@@ -199,6 +199,7 @@
   },
   "active": "010a96ca1f025fd1",
   "lastOpenFiles": [
+    "알고리즘 정리/정렬/버블 정렬(Bubble Sort).md",
     "알고리즘 정리/정렬 알고리즘 정리.md",
     "알고리즘 정리/정렬/선택 정렬(Selection Sort).md",
     "알고리즘 정리/1)정리.md",
@@ -229,7 +230,6 @@
     "알고리즘 정리/정렬",
     "알고리즘 정리/빅 오 표기법",
     "알고리즘 정리/이미지 폴더",
-    "알고리즘 정리/정렬/버블 정렬(Bubble Sort).md",
     "알고리즘 정리/정렬/퀵 정렬 (Quick Sort).md",
     "알고리즘 정리/정렬/힙 정렬 (Heap Sort).md",
     "알고리즘 정리/정렬/합병정렬 , 병합정렬(Merge Sort).md",

@@ -47,3 +47,12 @@ rear = (rear + 1) % MAX_QSIZE
 
 예시 :  도로에서의 자동차 우선순위 
 응용 : OS작업 스케줄링, 시뮬레이션 네트워크 트래픽 제어 
+
+
+### 큐 예시문제 
+
+
+
+
+칠무해 (실버5)
+https://www.acmicpc.net/problem/14729
