@@ -51,7 +51,15 @@ rear = (rear + 1) % MAX_QSIZE
 
 ### 큐 예시문제 
 
+프린터 큐 (실버3)
+https://www.acmicpc.net/problem/1966
 
+카드2(실버4)
+https://www.acmicpc.net/problem/2164
+
+
+큐 (실버4)
+https://www.acmicpc.net/problem/10845
 
 
 칠무해 (실버5)
