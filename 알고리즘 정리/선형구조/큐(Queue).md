@@ -52,6 +52,12 @@ rear = (rear + 1) % MAX_QSIZE
 ### 큐 예시문제 
 
 
+요세푸 문제 0 (실버5)
+https://www.acmicpc.net/problem/11866
+
+회전하는 큐 (실버3)
+https://www.acmicpc.net/problem/1021
+
 
 프린터 큐 (실버3)
 https://www.acmicpc.net/problem/1966
