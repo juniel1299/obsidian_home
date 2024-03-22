@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘 정리/탐색 정리.md",
+                "file": "알고리즘 정리/너비 탐색(BFS).md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 정리/탐색 정리.md",
+                "file": "알고리즘 정리/너비 탐색(BFS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 정리/탐색 정리.md",
+                "file": "알고리즘 정리/너비 탐색(BFS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 정리/탐색 정리.md"
+                "file": "알고리즘 정리/너비 탐색(BFS).md"
               }
             }
           },
@@ -174,10 +174,13 @@
   },
   "active": "ab8d7f1e960614e8",
   "lastOpenFiles": [
+    "알고리즘 정리/탐색 정리.md",
+    "알고리즘 정리/1)정리.md",
+    "알고리즘 정리/깊이 탐색(DFS).md",
+    "알고리즘 정리/너비 탐색(BFS).md",
     "알고리즘 정리/이미지 폴더/BFS 이미지.gif",
     "알고리즘 정리/이미지 폴더/DFS 이미지.gif",
     "알고리즘 정리/탐색/그리디(greedy).md",
-    "알고리즘 정리/탐색 정리.md",
     "JAVA (쌍용교육센터)/1월 3일  Variable.md",
     "알고리즘 정리/이미지 폴더/그리디 알고리즘 이미지.png",
     "알고리즘 정리/탐색",
@@ -186,7 +189,6 @@
     "알고리즘 정리/탐색/선형 탐색.md",
     "알고리즘 정리/이미지 폴더/이진 탐색 이미지.png",
     "알고리즘 정리/이미지 폴더/선형(순차) 탐색 이미지.gif",
-    "알고리즘 정리/1)정리.md",
     "알고리즘 정리/비선형구조 정리.md",
     "알고리즘 정리/비선형구조/트리(Tree).md",
     "알고리즘 정리/비선형구조/그래프(Graph).md",
@@ -205,7 +207,6 @@
     "알고리즘 정리/이미지 폴더/인접행렬.png",
     "알고리즘 정리/이미지 폴더/가중치 그래프 이미지.png",
     "알고리즘 정리/이미지 폴더/방향 그래프.png",
-    "알고리즘 정리/이미지 폴더/무방향 그래프 이미지.png",
     "aws.md",
     "알고리즘 정리/ec2-class.pem",
     "알고리즘 정리/선형구조",
@@ -216,7 +217,6 @@
     "알고리즘 정리/정렬/퀵 정렬 (Quick Sort).md",
     "알고리즘 정리/정렬/힙 정렬 (Heap Sort).md",
     "알고리즘 정리/정렬/합병정렬 , 병합정렬(Merge Sort).md",
-    "알고리즘 정리/정렬/삽입 정렬(Insertion Sort).md",
     "알고리즘 정리/빅오표기법.png.crdownload",
     "알고리즘 정리",
     "Spaces/Home"
