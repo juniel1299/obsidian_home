@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘 정리/깊이 탐색(DFS).md",
+                "file": "알고리즘 정리/탐색 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 정리/깊이 탐색(DFS).md",
+                "file": "알고리즘 정리/탐색 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 정리/깊이 탐색(DFS).md",
+                "file": "알고리즘 정리/탐색 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 정리/깊이 탐색(DFS).md"
+                "file": "알고리즘 정리/탐색 정리.md"
               }
             }
           },
@@ -172,10 +172,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ab8d7f1e960614e8",
+  "active": "408fbe75a45775cf",
   "lastOpenFiles": [
-    "알고리즘 정리/너비 탐색(BFS).md",
-    "알고리즘 정리/깊이 탐색(DFS).md",
+    "알고리즘 정리/탐색/너비 탐색(BFS).md",
+    "알고리즘 정리/탐색/깊이 탐색(DFS).md",
     "알고리즘 정리/이미지 폴더/DFS 이미지.gif",
     "알고리즘 정리/탐색 정리.md",
     "알고리즘 정리/1)정리.md",
