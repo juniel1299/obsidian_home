@@ -20,3 +20,6 @@
 
 
 
+### 예시 문제
+신입 사원 (실버1)
+https://www.acmicpc.net/problem/1946
