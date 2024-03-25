@@ -11,6 +11,8 @@
 (단, 대부분은 DFS로 진행한다. )  
 
 ### 예시 문제
+N-Queen (골드4)
 https://www.acmicpc.net/problem/9663
+
 
 
