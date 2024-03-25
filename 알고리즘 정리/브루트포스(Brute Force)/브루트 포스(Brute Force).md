@@ -12,8 +12,6 @@
 
 ### 예시 문제
 
+리모컨(골드5)
+https://www.acmicpc.net/problem/1107
 
-리모컨
-
-결혼식(실버2)
-https://www.acmicpc.net/problem/5567
