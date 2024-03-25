@@ -91,3 +91,6 @@ https://www.acmicpc.net/problem/11559
 
 인성 문제 있어? (골드4)
 https://www.acmicpc.net/problem/19952
+
+숨바꼭질 (실버1)
+https://www.acmicpc.net/problem/6118
