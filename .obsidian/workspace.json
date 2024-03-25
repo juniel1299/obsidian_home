@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘 정리/다이나믹 프로그래밍(DP)/다이나믹 프로그래밍(Dynamic Programming)(동적 계획법).md",
+                "file": "알고리즘 정리/1)정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 정리/다이나믹 프로그래밍(DP)/다이나믹 프로그래밍(Dynamic Programming)(동적 계획법).md",
+                "file": "알고리즘 정리/1)정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 정리/다이나믹 프로그래밍(DP)/다이나믹 프로그래밍(Dynamic Programming)(동적 계획법).md",
+                "file": "알고리즘 정리/1)정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 정리/다이나믹 프로그래밍(DP)/다이나믹 프로그래밍(Dynamic Programming)(동적 계획법).md"
+                "file": "알고리즘 정리/1)정리.md"
               }
             }
           },
@@ -174,7 +174,9 @@
   },
   "active": "ab8d7f1e960614e8",
   "lastOpenFiles": [
+    "알고리즘 정리/냅색 알고리즘(Knapsack)/냅색 알고리즘(Knapsack).md",
     "알고리즘 정리/1)정리.md",
+    "알고리즘 정리/다이나믹 프로그래밍(DP)/다이나믹 프로그래밍(Dynamic Programming)(동적 계획법).md",
     "알고리즘 정리/백트래킹/백트래킹(Backtracking).md",
     "알고리즘 정리/브루트포스(Brute Force)/브루트 포스(Brute Force).md",
     "알고리즘 정리/재귀 함수/재귀 함수(Recursion).md",
@@ -185,9 +187,7 @@
     "알고리즘 정리/선형구조 정리.md",
     "알고리즘 정리/정렬 알고리즘 정리.md",
     "알고리즘 정리/최단거리 알고리즘 정리.md",
-    "알고리즘 정리/다이나믹 프로그래밍(DP)/다이나믹 프로그래밍(Dynamic Programming)(동적 계획법).md",
     "알고리즘 정리/선형구조/큐(Queue).md",
-    "알고리즘 정리/냅색 알고리즘(Knapsack)/냅색 알고리즘(Knapsack).md",
     "알고리즘 정리/탐색/이진 탐색.md",
     "알고리즘 정리/부분 배열 응용 알고리즘/슬라이딩 윈도우 알고리즘(Sliding Window).md",
     "알고리즘 정리/선형구조/리스트(List).md",
