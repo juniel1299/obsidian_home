@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘 정리/탐색/깊이 탐색(DFS).md",
+                "file": "알고리즘 정리/1)정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 정리/탐색/깊이 탐색(DFS).md",
+                "file": "알고리즘 정리/1)정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 정리/탐색/깊이 탐색(DFS).md",
+                "file": "알고리즘 정리/1)정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 정리/탐색/깊이 탐색(DFS).md"
+                "file": "알고리즘 정리/1)정리.md"
               }
             }
           },
@@ -175,6 +175,7 @@
   "active": "ab8d7f1e960614e8",
   "lastOpenFiles": [
     "알고리즘 정리/탐색/탐색 정리.md",
+    "알고리즘 정리/탐색/깊이 탐색(DFS).md",
     "알고리즘 정리/1)정리.md",
     "알고리즘 정리/최단거리 알고리즘/최단거리 알고리즘 정리.md",
     "알고리즘 정리/정렬/정렬 알고리즘 정리.md",
@@ -206,7 +207,6 @@
     "알고리즘 정리/최단거리 알고리즘",
     "알고리즘 정리/다이나믹 프로그래밍(DP)",
     "알고리즘 정리/냅색 알고리즘(Knapsack)",
-    "알고리즘 정리/냅색 알고리즘.md",
     "알고리즘 정리/재귀 함수",
     "알고리즘 정리/브루트포스(Brute Force)",
     "알고리즘 정리/이미지 폴더/DFS 이미지.gif",
