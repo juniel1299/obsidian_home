@@ -53,7 +53,7 @@ rear = (rear + 1) % MAX_QSIZE
 뱀 (골드4)
 https://www.acmicpc.net/problem/3190
 
-요세푸 문제 0 (실버5)
+요세푸스 문제 0 (실버5)
 https://www.acmicpc.net/problem/11866
 
 회전하는 큐 (실버3)
