@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,7 +172,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ab8d7f1e960614e8",
+  "active": "804f6e808327c183",
   "lastOpenFiles": [
     "알고리즘 정리/탐색/탐색 정리.md",
     "알고리즘 정리/탐색/선형 탐색.md",
