@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f416cccf2f6be61e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +191,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "408fbe75a45775cf",
+  "active": "f416cccf2f6be61e",
   "lastOpenFiles": [
     "Spaces/Home",
     "Spaces",
