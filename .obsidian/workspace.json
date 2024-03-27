@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘 정리/최단거리 알고리즘/최단거리 알고리즘 정리.md",
+                "file": "알고리즘 정리/1)정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 정리/최단거리 알고리즘/최단거리 알고리즘 정리.md",
+                "file": "알고리즘 정리/1)정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 정리/최단거리 알고리즘/최단거리 알고리즘 정리.md",
+                "file": "알고리즘 정리/1)정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 정리/최단거리 알고리즘/최단거리 알고리즘 정리.md"
+                "file": "알고리즘 정리/1)정리.md"
               }
             }
           },
@@ -182,12 +182,16 @@
   },
   "active": "f416cccf2f6be61e",
   "lastOpenFiles": [
+    "알고리즘 정리/비선형구조/비선형구조 정리.md",
+    "알고리즘 정리/비선형구조/그래프(Graph).md",
     "알고리즘 정리/1)정리.md",
+    "알고리즘 정리/에라토스테네스의 체/에라토스테네스의 체(Sieve of Eratosthenes).md",
+    "알고리즘 정리/최단거리 알고리즘/최단거리 알고리즘 정리.md",
+    "알고리즘 정리/최단거리 알고리즘/Astar 알고리즘.md",
     "알고리즘 정리/탐색/탐색 정리.md",
     "알고리즘 정리/탐색/이진 탐색.md",
     "알고리즘 정리/부분 배열 응용 알고리즘/부분 배열 응용 알고리즘 정리.md",
     "알고리즘 정리/플로이드 워셜/플로이드 워셜.md",
-    "알고리즘 정리/최단거리 알고리즘/최단거리 알고리즘 정리.md",
     "알고리즘 정리/정렬/정렬 알고리즘 정리.md",
     "알고리즘 정리/정렬/힙 정렬 (Heap Sort).md",
     "알고리즘 정리/냅색 알고리즘(Knapsack)/냅색 알고리즘(Knapsack).md",
@@ -195,8 +199,6 @@
     "알고리즘 정리/부분 배열 응용 알고리즘/슬라이딩 윈도우 알고리즘(Sliding Window).md",
     "알고리즘 정리/부분 배열 응용 알고리즘/투포인터 알고리즘(Two Pointers).md",
     "알고리즘 정리/브루트포스(Brute Force)/브루트 포스(Brute Force).md",
-    "알고리즘 정리/비선형구조/비선형구조 정리.md",
-    "알고리즘 정리/비선형구조/그래프(Graph).md",
     "알고리즘 정리/비선형구조/트리(Tree).md",
     "알고리즘 정리/선형구조/선형구조 정리.md",
     "알고리즘 정리/선형구조/배열(Array).md",
@@ -206,8 +208,6 @@
     "알고리즘 정리/재귀 함수/재귀 함수(Recursion).md",
     "알고리즘 정리/정렬/합병정렬 , 병합정렬(Merge Sort).md",
     "알고리즘 정리/정렬/선택 정렬(Selection Sort).md",
-    "알고리즘 정리/탐색/깊이 탐색(DFS).md",
-    "알고리즘 정리/백트래킹/백트래킹(Backtracking).md",
     "Spaces/Home",
     "Spaces",
     "알고리즘 정리/플로이드 워셜",
