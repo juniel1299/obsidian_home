@@ -9,7 +9,7 @@
 1. 소수를 판별할 범위만큼 배열을 할당한다.
 2. 해당하는 값을 넣고 소수에 해당하는 숫자가 아닐 경우 지운다. 
 
-## 구현
+## 구현(자바)
 
 일반적인 소수를 찾는 방법.
 
@@ -70,4 +70,25 @@ public class Algorithm {
         isPrime_fun(N);
     }
 }
+```
+
+
+## 구현(파이썬)
+```python
+import math
+
+MAX = 100
+prime = [True for i in range(MAX+1)]
+
+prime[1] = False
+
+for i in range(2, int(math.sqrt(MAX))+1):
+	if prime[i] == True:
+    	j = 2
+        while i*j <= MAX:
+        	prime[i] = False
+            j += 2
+    
+for i in range(2, number):
+    if(prime[i]): print(i)	
 ```
