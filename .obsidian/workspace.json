@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,9 +182,9 @@
   },
   "active": "f416cccf2f6be61e",
   "lastOpenFiles": [
-    "알고리즘 정리/최단거리 알고리즘/다익스트라 알고리즘(Dijkstra).md",
-    "알고리즘 정리/최단거리 알고리즘/최단거리 알고리즘 정리.md",
     "알고리즘 정리/1)정리.md",
+    "알고리즘 정리/최단거리 알고리즘/최단거리 알고리즘 정리.md",
+    "알고리즘 정리/최단거리 알고리즘/다익스트라 알고리즘(Dijkstra).md",
     "알고리즘 정리/에라토스테네스의 체/에라토스테네스의 체(Sieve of Eratosthenes).md",
     "알고리즘 정리/냅색 알고리즘(Knapsack)/냅색 알고리즘(Knapsack).md",
     "알고리즘 정리/탐색/탐색 정리.md",
