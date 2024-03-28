@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘 정리/에라토스테네스의 체/에라토스테네스의 체(Sieve of Eratosthenes).md",
+                "file": "알고리즘 정리/최단거리 알고리즘/다익스트라 알고리즘(Dijkstra).md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 정리/에라토스테네스의 체/에라토스테네스의 체(Sieve of Eratosthenes).md",
+                "file": "알고리즘 정리/최단거리 알고리즘/다익스트라 알고리즘(Dijkstra).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 정리/에라토스테네스의 체/에라토스테네스의 체(Sieve of Eratosthenes).md",
+                "file": "알고리즘 정리/최단거리 알고리즘/다익스트라 알고리즘(Dijkstra).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 정리/에라토스테네스의 체/에라토스테네스의 체(Sieve of Eratosthenes).md"
+                "file": "알고리즘 정리/최단거리 알고리즘/다익스트라 알고리즘(Dijkstra).md"
               }
             }
           },
@@ -182,7 +182,9 @@
   },
   "active": "f416cccf2f6be61e",
   "lastOpenFiles": [
+    "알고리즘 정리/최단거리 알고리즘/최단거리 알고리즘 정리.md",
     "알고리즘 정리/1)정리.md",
+    "알고리즘 정리/에라토스테네스의 체/에라토스테네스의 체(Sieve of Eratosthenes).md",
     "알고리즘 정리/냅색 알고리즘(Knapsack)/냅색 알고리즘(Knapsack).md",
     "알고리즘 정리/탐색/탐색 정리.md",
     "알고리즘 정리/재귀 함수/재귀 함수(Recursion).md",
@@ -199,10 +201,8 @@
     "학교 (로보틱스)/무제 파일.md",
     "학교 (로보틱스)/1128.md",
     "학교 (로보틱스)/12_05.md",
-    "알고리즘 정리/최단거리 알고리즘/최단거리 알고리즘 정리.md",
     "알고리즘 정리/비선형구조/비선형구조 정리.md",
     "알고리즘 정리/비선형구조/그래프(Graph).md",
-    "알고리즘 정리/에라토스테네스의 체/에라토스테네스의 체(Sieve of Eratosthenes).md",
     "알고리즘 정리/최단거리 알고리즘/Astar 알고리즘.md",
     "알고리즘 정리/부분 배열 응용 알고리즘/부분 배열 응용 알고리즘 정리.md",
     "알고리즘 정리/플로이드 워셜/플로이드 워셜.md",
