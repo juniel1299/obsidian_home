@@ -92,3 +92,6 @@ for i in range(2, int(math.sqrt(MAX))+1):
 for i in range(2, number):
     if(prime[i]): print(i)	
 ```
+
+100까지의 수 중에 소수를 찾도록 작성하였다 . 
+
