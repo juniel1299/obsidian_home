@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘 정리/다이나믹 프로그래밍(DP)/다이나믹 프로그래밍(Dynamic Programming)(동적 계획법).md",
+                "file": "알고리즘 정리/탐색/너비 탐색(BFS).md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 정리/다이나믹 프로그래밍(DP)/다이나믹 프로그래밍(Dynamic Programming)(동적 계획법).md",
+                "file": "알고리즘 정리/탐색/너비 탐색(BFS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 정리/다이나믹 프로그래밍(DP)/다이나믹 프로그래밍(Dynamic Programming)(동적 계획법).md",
+                "file": "알고리즘 정리/탐색/너비 탐색(BFS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 정리/다이나믹 프로그래밍(DP)/다이나믹 프로그래밍(Dynamic Programming)(동적 계획법).md"
+                "file": "알고리즘 정리/탐색/너비 탐색(BFS).md"
               }
             }
           },
@@ -182,12 +182,13 @@
   },
   "active": "f416cccf2f6be61e",
   "lastOpenFiles": [
+    "알고리즘 정리/탐색/탐색 정리.md",
     "알고리즘 정리/1)정리.md",
+    "알고리즘 정리/다이나믹 프로그래밍(DP)/다이나믹 프로그래밍(Dynamic Programming)(동적 계획법).md",
     "알고리즘 정리/플로이드 워셜/플로이드 워셜.md",
     "알고리즘 정리/부분 배열 응용 알고리즘/부분 배열 응용 알고리즘 정리.md",
     "알고리즘 정리/최단거리 알고리즘/최단거리 알고리즘 정리.md",
     "알고리즘 정리/에라토스테네스의 체/에라토스테네스의 체(Sieve of Eratosthenes).md",
-    "알고리즘 정리/탐색/탐색 정리.md",
     "알고리즘 정리/탐색/너비 탐색(BFS).md",
     "알고리즘 정리/탐색/깊이 탐색(DFS).md",
     "알고리즘 정리/탐색/그리디(greedy).md",
@@ -200,7 +201,6 @@
     "알고리즘 정리/최단거리 알고리즘/다익스트라 알고리즘(Dijkstra).md",
     "알고리즘 정리/냅색 알고리즘(Knapsack)/냅색 알고리즘(Knapsack).md",
     "알고리즘 정리/재귀 함수/재귀 함수(Recursion).md",
-    "알고리즘 정리/다이나믹 프로그래밍(DP)/다이나믹 프로그래밍(Dynamic Programming)(동적 계획법).md",
     "알고리즘 정리/탐색/이진 탐색.md",
     "알고리즘 정리/탐색/선형 탐색.md",
     "알고리즘 정리/백트래킹/백트래킹(Backtracking).md",
