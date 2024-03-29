@@ -33,3 +33,7 @@ https://www.acmicpc.net/problem/26156
 
 계단 오르기 (실버3)
 https://www.acmicpc.net/problem/2579
+
+카드 구매하기 (실버1)
+https://www.acmicpc.net/problem/11052
+
