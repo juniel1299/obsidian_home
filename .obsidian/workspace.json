@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘 정리/다이나믹 프로그래밍(DP)/다이나믹 프로그래밍(Dynamic Programming)(동적 계획법).md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e9888664bcfa20d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "포트폴리오 작성 할 때 쓸거.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -102,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 정리/다이나믹 프로그래밍(DP)/다이나믹 프로그래밍(Dynamic Programming)(동적 계획법).md",
+                "file": "포트폴리오 작성 할 때 쓸거.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 정리/다이나믹 프로그래밍(DP)/다이나믹 프로그래밍(Dynamic Programming)(동적 계획법).md",
+                "file": "포트폴리오 작성 할 때 쓸거.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 정리/다이나믹 프로그래밍(DP)/다이나믹 프로그래밍(Dynamic Programming)(동적 계획법).md"
+                "file": "포트폴리오 작성 할 때 쓸거.md"
               }
             }
           },
@@ -180,12 +193,16 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "f416cccf2f6be61e",
+  "active": "8e9888664bcfa20d",
   "lastOpenFiles": [
+    "README.md",
+    "포트폴리오 작성 할 때 쓸거.md",
+    "aws.md",
+    "알고리즘 정리/다이나믹 프로그래밍(DP)/다이나믹 프로그래밍(Dynamic Programming)(동적 계획법).md",
+    ".md",
     "알고리즘 정리/1)정리.md",
     "알고리즘 정리/탐색/탐색 정리.md",
     "알고리즘 정리/탐색/너비 탐색(BFS).md",
-    "알고리즘 정리/다이나믹 프로그래밍(DP)/다이나믹 프로그래밍(Dynamic Programming)(동적 계획법).md",
     "알고리즘 정리/플로이드 워셜/플로이드 워셜.md",
     "알고리즘 정리/부분 배열 응용 알고리즘/부분 배열 응용 알고리즘 정리.md",
     "알고리즘 정리/최단거리 알고리즘/최단거리 알고리즘 정리.md",
@@ -206,9 +223,6 @@
     "알고리즘 정리/백트래킹/백트래킹(Backtracking).md",
     "알고리즘 정리/다이나믹 프로그래밍(DP)/예시 문제/나락도 락이다(26156).md",
     "알고리즘 정리/다이나믹 프로그래밍(DP)/예시 문제",
-    "알고리즘 정리/브루트포스(Brute Force)/브루트 포스(Brute Force).md",
-    "학교 (로보틱스)/무제 파일.md",
-    "학교 (로보틱스)/1128.md",
     "Spaces/Home",
     "Spaces",
     "알고리즘 정리/플로이드 워셜",
@@ -217,7 +231,6 @@
     "알고리즘 정리/부분 배열 응용 알고리즘",
     "알고리즘 정리/최단거리 알고리즘",
     "알고리즘 정리/다이나믹 프로그래밍(DP)",
-    "알고리즘 정리/냅색 알고리즘(Knapsack)",
     "알고리즘 정리/이미지 폴더/DFS 이미지.gif",
     "알고리즘 정리/이미지 폴더/BFS 이미지.gif",
     "알고리즘 정리/이미지 폴더/그리디 알고리즘 이미지.png",
