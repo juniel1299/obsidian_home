@@ -39,3 +39,6 @@ https://www.acmicpc.net/problem/11052
 
 알약(골드5)
 https://www.acmicpc.net/problem/4811
+
+안녕(실버2)
+https://www.acmicpc.net/problem/1535
