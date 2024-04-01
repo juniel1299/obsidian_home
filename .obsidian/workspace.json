@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSP/기초.md",
+                "file": "JSP/ex04.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/기초.md",
+                "file": "JSP/ex04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/기초.md",
+                "file": "JSP/ex04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/기초.md"
+                "file": "JSP/ex04.md"
               }
             }
           },
@@ -193,10 +193,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "408fbe75a45775cf",
+  "active": "2458474e1c47ca27",
   "lastOpenFiles": [
-    "Servlet/ex03.md",
     "JSP/기초.md",
+    "JSP/ex04.md",
+    "Servlet/ex03.md",
     "JSP",
     "aws.md",
     "Servlet/기초.md",
@@ -223,7 +224,6 @@
     "알고리즘 정리/최단거리 알고리즘/다익스트라 알고리즘(Dijkstra).md",
     "알고리즘 정리/냅색 알고리즘(Knapsack)/냅색 알고리즘(Knapsack).md",
     "알고리즘 정리/재귀 함수/재귀 함수(Recursion).md",
-    "알고리즘 정리/탐색/이진 탐색.md",
     "알고리즘 정리/다이나믹 프로그래밍(DP)/예시 문제",
     "Spaces/Home",
     "Spaces",
