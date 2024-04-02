@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servlet/ex03.md",
+                "file": "JSP/기초.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 정리/1)정리.md",
+                "file": "JSP/기초.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 정리/1)정리.md",
+                "file": "JSP/기초.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 정리/1)정리.md"
+                "file": "JSP/기초.md"
               }
             }
           },
@@ -194,10 +193,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "2458474e1c47ca27",
+  "active": "3d444632dbfb67fd",
   "lastOpenFiles": [
-    "알고리즘 정리/비선형구조/비선형구조 정리.md",
+    "JSP/ex04.md",
+    "Servlet/ex03.md",
     "알고리즘 정리/1)정리.md",
+    "알고리즘 정리/비선형구조/비선형구조 정리.md",
     "알고리즘 정리/재귀 함수/재귀 함수(Recursion).md",
     "알고리즘 정리/탐색/탐색 정리.md",
     "알고리즘 정리/탐색/이진 탐색.md",
@@ -207,14 +208,12 @@
     "알고리즘 정리/부분 배열 응용 알고리즘/슬라이딩 윈도우 알고리즘(Sliding Window).md",
     "알고리즘 정리/플로이드 워셜/플로이드 워셜.md",
     "JSP/기초.md",
-    "Servlet/ex03.md",
     "css/ex20_align.md",
     "css/ex19_box.md",
     "css/ex18)box.md",
     "css/ex17)box.md",
     "css/ex15_box.md",
     "css/ex16) box.md",
-    "JSP/ex04.md",
     "html/ex18) form.md",
     "html/ex17) table.md",
     "html/ex15) table.md",
