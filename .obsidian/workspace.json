@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSP/기초.md",
+                "file": "알고리즘 정리/1)정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/기초.md",
+                "file": "알고리즘 정리/1)정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/기초.md",
+                "file": "알고리즘 정리/1)정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/기초.md"
+                "file": "알고리즘 정리/1)정리.md"
               }
             }
           },
@@ -195,6 +195,8 @@
   },
   "active": "3d444632dbfb67fd",
   "lastOpenFiles": [
+    "알고리즘 정리/플로이드 워셜/플로이드 워셜.md",
+    "JSP/기초.md",
     "JSP/ex04.md",
     "Servlet/ex03.md",
     "알고리즘 정리/1)정리.md",
@@ -206,8 +208,6 @@
     "알고리즘 정리/부분 배열 응용 알고리즘/부분 배열 응용 알고리즘 정리.md",
     "알고리즘 정리/부분 배열 응용 알고리즘/투포인터 알고리즘(Two Pointers).md",
     "알고리즘 정리/부분 배열 응용 알고리즘/슬라이딩 윈도우 알고리즘(Sliding Window).md",
-    "알고리즘 정리/플로이드 워셜/플로이드 워셜.md",
-    "JSP/기초.md",
     "css/ex20_align.md",
     "css/ex19_box.md",
     "css/ex18)box.md",
