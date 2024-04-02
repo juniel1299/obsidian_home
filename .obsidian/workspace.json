@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 정리/최단거리 알고리즘/Astar 알고리즘.md",
+                "file": "알고리즘 정리/1)정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 정리/최단거리 알고리즘/Astar 알고리즘.md",
+                "file": "알고리즘 정리/1)정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 정리/최단거리 알고리즘/Astar 알고리즘.md"
+                "file": "알고리즘 정리/1)정리.md"
               }
             }
           },
@@ -193,10 +194,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "3d444632dbfb67fd",
+  "active": "2458474e1c47ca27",
   "lastOpenFiles": [
-    "알고리즘 정리/최단거리 알고리즘/최단거리 알고리즘 정리.md",
+    "알고리즘 정리/최단거리 알고리즘/Astar 알고리즘.md",
     "알고리즘 정리/1)정리.md",
+    "알고리즘 정리/최단거리 알고리즘/최단거리 알고리즘 정리.md",
     "알고리즘 정리/에라토스테네스의 체/에라토스테네스의 체(Sieve of Eratosthenes).md",
     "알고리즘 정리/냅색 알고리즘(Knapsack)/냅색 알고리즘(Knapsack).md",
     "알고리즘 정리/플로이드 워셜/플로이드 워셜.md",
@@ -220,7 +222,6 @@
     "html/ex18) form.md",
     "html/ex17) table.md",
     "html/ex15) table.md",
-    "html/ex14) image.md",
     "JSP",
     "Servlet",
     ".md",
