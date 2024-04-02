@@ -93,7 +93,7 @@ def manhattan_distance(state, goal_state):
 # 테스트
 start_state = (0, 0)
 goal_state = (4, 4)
-# A* 알고리즘을 통해 얻은 최단 경로 
+# A* 알고리즘을 통해 얻은 최단 경로를 저장 
 path = astar(start_state, goal_state, neighbors, manhattan_distance)
 print("최단 경로:", path)
 
