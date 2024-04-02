@@ -5,6 +5,7 @@
 
 
 # display
-- block
-- inline
-- 
+- block , inline, none 이 있다.
+- visible , hidden과 달리 요소의 영역이 같이 사라진다
+
+
