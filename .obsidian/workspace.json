@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "css/ex26_display.md",
+                "file": "css/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "css/ex26_display.md",
+                "file": "css/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "css/ex26_display.md",
+                "file": "css/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "css/ex26_display.md"
+                "file": "css/무제 파일.md"
               }
             }
           },
@@ -183,8 +183,9 @@
   },
   "active": "898b564a7a333c55",
   "lastOpenFiles": [
-    "css/ex25_opacity.md",
     "css/ex26_display.md",
+    "css/무제 파일.md",
+    "css/ex25_opacity.md",
     "css/ex23_overflow.md",
     "css/ex24_visibility.md",
     "css/ex20_align.md",
@@ -208,7 +209,6 @@
     "알고리즘 정리/부분 배열 응용 알고리즘/슬라이딩 윈도우 알고리즘(Sliding Window).md",
     "css/ex19_box.md",
     "css/ex18)box.md",
-    "css/ex17)box.md",
     "JSP",
     "Servlet",
     ".md",

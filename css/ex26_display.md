@@ -4,5 +4,11 @@
 2. block
 3. inline
 4. inline-block
+- 블럭태그, 인라인블럭태그, 인라인태그 등등 존재 .
 
+```css
+div{
+display: inline-block;
 
+}
+```
