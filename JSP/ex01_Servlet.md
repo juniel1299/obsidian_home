@@ -21,6 +21,7 @@ b. 예외 미루기
 - FileWriter / BufferedWriter
 - 브라우저가 보게 될 페이지 \=\= HTML 페이지 > 내용이 HTML
 
+예시)
 ```java
 import java.io.IOException;
 
