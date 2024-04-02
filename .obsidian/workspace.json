@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSP/ex01_Servlet.md",
+                "file": "JSP/기초.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/ex01_Servlet.md",
+                "file": "JSP/기초.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/ex01_Servlet.md",
+                "file": "JSP/기초.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/ex01_Servlet.md"
+                "file": "JSP/기초.md"
               }
             }
           },
@@ -183,8 +183,8 @@
   },
   "active": "898b564a7a333c55",
   "lastOpenFiles": [
-    "Servlet/기초.md",
     "JSP/ex01_Servlet.md",
+    "Servlet/기초.md",
     "css/ex31_position.md",
     "css/ex30_css.md",
     "css/ex27_float.md",
