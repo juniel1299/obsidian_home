@@ -17,4 +17,7 @@ b. 예외 미루기
 - java.io.IOException
 - java.servlet.ServletException
 
-## 동적 
+## 동적 HTML 페이지 작성
+- FileWriter / BufferedWriter
+- 브라우저가 보게 될 페이지 \=\= HTML 페이지 > 내용이 HTML
+- 
