@@ -9,3 +9,8 @@
 - visible , hidden과 달리 요소의 영역이 같이 사라진다
 
 
+```css
+div{
+display:
+}
+```
