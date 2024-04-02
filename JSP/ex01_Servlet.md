@@ -9,5 +9,11 @@
 
 ## doGet / doPost 메소드 선언
 메소드 작성 규칙
-a. 매개 변수 작성
-- 
+a.매개 변수 작성
+- java.servlet.http.HttpServletRequest
+- java.servlet.http.HttpServletResponse
+
+b. 예외 미루기
+- java.io.IOException
+- java.servlet.ServletException
+
