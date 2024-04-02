@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servlet/기초.md",
+                "file": "JSP/ex01_Servlet.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servlet/기초.md",
+                "file": "JSP/ex01_Servlet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servlet/기초.md",
+                "file": "JSP/ex01_Servlet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servlet/기초.md"
+                "file": "JSP/ex01_Servlet.md"
               }
             }
           },
@@ -183,6 +183,8 @@
   },
   "active": "898b564a7a333c55",
   "lastOpenFiles": [
+    "Servlet/기초.md",
+    "JSP/ex01_Servlet.md",
     "css/ex31_position.md",
     "css/ex30_css.md",
     "css/ex27_float.md",
@@ -207,8 +209,6 @@
     "알고리즘 정리/탐색/이진 탐색.md",
     "알고리즘 정리/백트래킹/백트래킹(Backtracking).md",
     "알고리즘 정리/부분 배열 응용 알고리즘/부분 배열 응용 알고리즘 정리.md",
-    "알고리즘 정리/부분 배열 응용 알고리즘/투포인터 알고리즘(Two Pointers).md",
-    "알고리즘 정리/부분 배열 응용 알고리즘/슬라이딩 윈도우 알고리즘(Sliding Window).md",
     "JSP",
     "Servlet",
     ".md",
