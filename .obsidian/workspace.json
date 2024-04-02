@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "css/ex30_css.md",
+                "file": "css/ex31_position.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "css/ex30_css.md",
+                "file": "css/ex31_position.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "css/ex30_css.md",
+                "file": "css/ex31_position.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "css/ex30_css.md"
+                "file": "css/ex31_position.md"
               }
             }
           },
@@ -183,8 +183,9 @@
   },
   "active": "898b564a7a333c55",
   "lastOpenFiles": [
-    "css/ex27_float.md",
     "css/ex30_css.md",
+    "css/ex31_position.md",
+    "css/ex27_float.md",
     "css/ex26_display.md",
     "css/ex25_opacity.md",
     "css/ex23_overflow.md",
@@ -208,7 +209,6 @@
     "알고리즘 정리/부분 배열 응용 알고리즘/부분 배열 응용 알고리즘 정리.md",
     "알고리즘 정리/부분 배열 응용 알고리즘/투포인터 알고리즘(Two Pointers).md",
     "알고리즘 정리/부분 배열 응용 알고리즘/슬라이딩 윈도우 알고리즘(Sliding Window).md",
-    "css/ex19_box.md",
     "JSP",
     "Servlet",
     ".md",

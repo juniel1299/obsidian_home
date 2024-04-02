@@ -8,4 +8,5 @@
 	- BootStrap
 	- Tailwind
 
-3. 
+3. 템플릿 사용
+	- html5 template
