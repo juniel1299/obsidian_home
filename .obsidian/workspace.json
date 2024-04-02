@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "css/ex23_overflow.md",
+                "file": "css/ex26_display.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "css/ex23_overflow.md",
+                "file": "css/ex26_display.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "css/ex23_overflow.md",
+                "file": "css/ex26_display.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "css/ex23_overflow.md"
+                "file": "css/ex26_display.md"
               }
             }
           },
@@ -183,9 +183,10 @@
   },
   "active": "898b564a7a333c55",
   "lastOpenFiles": [
-    "css/ex24_visibility.md",
     "css/ex25_opacity.md",
+    "css/ex26_display.md",
     "css/ex23_overflow.md",
+    "css/ex24_visibility.md",
     "css/ex20_align.md",
     "알고리즘 정리/최단거리 알고리즘/Astar 알고리즘.md",
     "알고리즘 정리/최단거리 알고리즘/다익스트라 알고리즘(Dijkstra).md",
@@ -208,7 +209,6 @@
     "css/ex19_box.md",
     "css/ex18)box.md",
     "css/ex17)box.md",
-    "css/ex15_box.md",
     "JSP",
     "Servlet",
     ".md",

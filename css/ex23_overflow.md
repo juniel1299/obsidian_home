@@ -16,4 +16,10 @@
 - 네트워크 트래픽 감소 + 서버 운영 비용을 아낄 수 있음
 
 
-
+```css
+div{
+overflow:auto;
+overflow-x:hidden;
+overflow-y:auto;
+}
+```
