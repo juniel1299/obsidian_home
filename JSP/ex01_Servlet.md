@@ -17,3 +17,4 @@ b. 예외 미루기
 - java.io.IOException
 - java.servlet.ServletException
 
+## 동적 
