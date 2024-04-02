@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "23fdd7560a83914d",
+        "id": "13a83a036817df42",
         "type": "tabs",
         "children": [
           {
-            "id": "3d444632dbfb67fd",
+            "id": "898b564a7a333c55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "css/ex24_visibility.md",
+                "file": "css/ex23_overflow.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "css/ex24_visibility.md",
+                "file": "css/ex23_overflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "css/ex24_visibility.md",
+                "file": "css/ex23_overflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "css/ex24_visibility.md"
+                "file": "css/ex23_overflow.md"
               }
             }
           },
@@ -181,10 +181,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "3d444632dbfb67fd",
+  "active": "898b564a7a333c55",
   "lastOpenFiles": [
-    "css/ex25_opacity.md",
     "css/ex24_visibility.md",
+    "css/ex25_opacity.md",
     "css/ex23_overflow.md",
     "css/ex20_align.md",
     "알고리즘 정리/최단거리 알고리즘/Astar 알고리즘.md",

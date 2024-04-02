@@ -11,6 +11,12 @@
 
 ```css
 div{
-display:
+
+visibility:visible;
+visibility:hidden;
+display:inline;
+display:block;
+display:none;
+
 }
 ```
