@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘 정리/최단거리 알고리즘/Astar 알고리즘.md",
+                "file": "css/ex23_overflow.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 정리/최단거리 알고리즘/Astar 알고리즘.md",
+                "file": "css/ex23_overflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 정리/최단거리 알고리즘/Astar 알고리즘.md",
+                "file": "css/ex23_overflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 정리/최단거리 알고리즘/Astar 알고리즘.md"
+                "file": "css/ex23_overflow.md"
               }
             }
           },
@@ -183,8 +183,10 @@
   },
   "active": "3d444632dbfb67fd",
   "lastOpenFiles": [
-    "알고리즘 정리/최단거리 알고리즘/다익스트라 알고리즘(Dijkstra).md",
+    "css/ex20_align.md",
+    "css/ex23_overflow.md",
     "알고리즘 정리/최단거리 알고리즘/Astar 알고리즘.md",
+    "알고리즘 정리/최단거리 알고리즘/다익스트라 알고리즘(Dijkstra).md",
     "알고리즘 정리/최단거리 알고리즘/최단거리 알고리즘 정리.md",
     "알고리즘 정리/1)정리.md",
     "알고리즘 정리/에라토스테네스의 체/에라토스테네스의 체(Sieve of Eratosthenes).md",
@@ -201,14 +203,12 @@
     "알고리즘 정리/부분 배열 응용 알고리즘/부분 배열 응용 알고리즘 정리.md",
     "알고리즘 정리/부분 배열 응용 알고리즘/투포인터 알고리즘(Two Pointers).md",
     "알고리즘 정리/부분 배열 응용 알고리즘/슬라이딩 윈도우 알고리즘(Sliding Window).md",
-    "css/ex20_align.md",
     "css/ex19_box.md",
     "css/ex18)box.md",
     "css/ex17)box.md",
     "css/ex15_box.md",
     "css/ex16) box.md",
     "html/ex18) form.md",
-    "html/ex17) table.md",
     "JSP",
     "Servlet",
     ".md",
