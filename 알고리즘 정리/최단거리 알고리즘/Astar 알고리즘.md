@@ -33,7 +33,7 @@ import heapq
 
 
 
-# 그래프의 각 노드를 나타내는 클래스, 노드상태, 부모 노드, 시작노드로부터 
+# 그래프의 각 노드를 나타내는 클래스, 노드상태, 부모 노드, 시작노드로부터 현재까지의 경로 비용, 목표 노드까지의 예상 경로 비용 저장
 class Node:
     def __init__(self, state, parent=None, g=0, h=0):
         self.state = state  # 노드의 상태
@@ -43,7 +43,7 @@ class Node:
 
     def f(self):
         return self.g + self.h  # 총 경로 비용
-
+# A* 알고리즘 , 시작노드, 목표 노드, 이웃노드 찾기, 휴리스틱 함수 존재  -> 최단 경로 추적 
 def astar(start_state, goal_state, neighbors, heuristic):
     start_node = Node(start_state)
     goal_node = Node(goal_state)
