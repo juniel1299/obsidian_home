@@ -28,3 +28,72 @@ f(x) = g(x) + h(x) 라는 식을 통해 A\* 알고리즘은 구성이 되어있�
 
 
 ## 구현 
+```python
+import heapq
+
+
+
+# 그래프의 각 노드를 나타내는 클래스, 노드상태, 부모 노드, 시작노드로부터 
+class Node:
+    def __init__(self, state, parent=None, g=0, h=0):
+        self.state = state  # 노드의 상태
+        self.parent = parent  # 부모 노드
+        self.g = g  # 시작 노드로부터 현재까지의 경로 비용
+        self.h = h  # 목표 노드까지의 예상 경로 비용
+
+    def f(self):
+        return self.g + self.h  # 총 경로 비용
+
+def astar(start_state, goal_state, neighbors, heuristic):
+    start_node = Node(start_state)
+    goal_node = Node(goal_state)
+
+    open_set = []  # 열린 집합
+    closed_set = set()  # 닫힌 집합
+
+    heapq.heappush(open_set, (start_node.f(), id(start_node), start_node))
+
+    while open_set:
+        _, _, current_node = heapq.heappop(open_set)
+
+        if current_node.state == goal_state:
+            path = []
+            while current_node:
+                path.append(current_node.state)
+                current_node = current_node.parent
+            return path[::-1]
+
+        closed_set.add(current_node.state)
+
+        for neighbor_state in neighbors(current_node.state):
+            if neighbor_state in closed_set:
+                continue
+
+            g = current_node.g + 1  # 간선 비용은 1로 가정
+            h = heuristic(neighbor_state, goal_state)
+            neighbor_node = Node(neighbor_state, current_node, g, h)
+            heapq.heappush(open_set, (neighbor_node.f(), id(neighbor_node), neighbor_node))
+
+    return None
+
+# 예시: 그래프의 이웃 찾기
+def neighbors(state):
+    # 이웃을 반환하는 함수 (예시로 간단하게 구현)
+    x, y = state
+    return [(x+1, y), (x-1, y), (x, y+1), (x, y-1)]
+
+# 예시: 휴리스틱 함수 (맨해튼 거리)
+def manhattan_distance(state, goal_state):
+    x1, y1 = state
+    x2, y2 = goal_state
+    return abs(x1 - x2) + abs(y1 - y2)
+
+# 테스트
+start_state = (0, 0)
+goal_state = (4, 4)
+path = astar(start_state, goal_state, neighbors, manhattan_distance)
+print("최단 경로:", path)
+
+
+
+```
