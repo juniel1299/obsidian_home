@@ -77,12 +77,14 @@ def astar(start_state, goal_state, neighbors, heuristic):
     return None
 
 # 예시: 그래프의 이웃 찾기
+# 현재 노드의 이웃 노드를 찾는 함수 
 def neighbors(state):
     # 이웃을 반환하는 함수 (예시로 간단하게 구현)
     x, y = state
     return [(x+1, y), (x-1, y), (x, y+1), (x, y-1)]
 
 # 예시: 휴리스틱 함수 (맨해튼 거리)
+#두 노드 사이의 맨해튼 거리를 계산하는 휴리스틱 함수 
 def manhattan_distance(state, goal_state):
     x1, y1 = state
     x2, y2 = goal_state
@@ -91,6 +93,7 @@ def manhattan_distance(state, goal_state):
 # 테스트
 start_state = (0, 0)
 goal_state = (4, 4)
+# A* 알고리즘을 통해 얻은 최단 경로 
 path = astar(start_state, goal_state, neighbors, manhattan_distance)
 print("최단 경로:", path)
 
