@@ -71,8 +71,7 @@ https://www.acmicpc.net/problem/2164
 https://www.acmicpc.net/problem/10845
 
 
-칠무해 (실버5)
-https://www.acmicpc.net/problem/14729
 
 전생했더니 슬라임 연구자였던 건에 대하여 (Hard) (골드4)
 https://www.acmicpc.net/problem/14698
+[[큐 예시 문제]]
