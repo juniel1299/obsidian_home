@@ -78,4 +78,8 @@ writer.println("</body>\r\n"
 }
 ```
 
-vscode에서 작성한 html 코드를 그대로 옮겨서 이렇게 작성해도 되며, 
+vscode에서 작성한 html 코드를 그대로 옮겨서 이렇게 작성해도 되며, html 코드를 writer 함수에서 작성하면 된다 . 
+
+하나 하나씩 다 타이핑해야 하기 떄문에 JSP를 많이 사용한다. 
+
+
