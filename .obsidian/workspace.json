@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSP/기초.md",
+                "file": "알고리즘 정리/탐색/그리디(greedy).md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/기초.md",
+                "file": "알고리즘 정리/탐색/그리디(greedy).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/기초.md",
+                "file": "알고리즘 정리/탐색/그리디(greedy).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/기초.md"
+                "file": "알고리즘 정리/탐색/그리디(greedy).md"
               }
             }
           },
@@ -183,8 +183,12 @@
   },
   "active": "898b564a7a333c55",
   "lastOpenFiles": [
-    "JSP/ex04.md",
+    "알고리즘 정리/탐색/탐색 정리.md",
+    "알고리즘 정리/1)정리.md",
+    "알고리즘 정리/재귀 함수/재귀 함수(Recursion).md",
     "JSP/기초.md",
+    "포트폴리오 작성 할 때 쓸거.md",
+    "JSP/ex04.md",
     "Servlet/기초.md",
     "Servlet/ex03.md",
     "Servlet/ex02_Servlet.md",
@@ -200,15 +204,11 @@
     "알고리즘 정리/최단거리 알고리즘/Astar 알고리즘.md",
     "알고리즘 정리/최단거리 알고리즘/다익스트라 알고리즘(Dijkstra).md",
     "알고리즘 정리/최단거리 알고리즘/최단거리 알고리즘 정리.md",
-    "알고리즘 정리/1)정리.md",
     "알고리즘 정리/에라토스테네스의 체/에라토스테네스의 체(Sieve of Eratosthenes).md",
     "알고리즘 정리/냅색 알고리즘(Knapsack)/냅색 알고리즘(Knapsack).md",
     "알고리즘 정리/플로이드 워셜/플로이드 워셜.md",
     "알고리즘 정리/비선형구조/비선형구조 정리.md",
-    "알고리즘 정리/재귀 함수/재귀 함수(Recursion).md",
-    "알고리즘 정리/탐색/탐색 정리.md",
     "알고리즘 정리/탐색/이진 탐색.md",
-    "알고리즘 정리/백트래킹/백트래킹(Backtracking).md",
     "JSP",
     "Servlet",
     ".md",
