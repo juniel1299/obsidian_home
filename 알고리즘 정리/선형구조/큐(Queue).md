@@ -70,8 +70,4 @@ https://www.acmicpc.net/problem/2164
 큐 (실버4)
 https://www.acmicpc.net/problem/10845
 
-
-
-전생했더니 슬라임 연구자였던 건에 대하여 (Hard) (골드4)
-https://www.acmicpc.net/problem/14698
 [[큐 예시 문제]]

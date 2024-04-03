@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘 정리/선형구조/큐 예시 문제/14698 전생했더니 슬라임 연구자였던 건에 대하여 (Hard).md",
+                "file": "알고리즘 정리/정렬/삽입 정렬(Insertion Sort).md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 정리/선형구조/큐 예시 문제/14698 전생했더니 슬라임 연구자였던 건에 대하여 (Hard).md",
+                "file": "알고리즘 정리/정렬/삽입 정렬(Insertion Sort).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 정리/선형구조/큐 예시 문제/14698 전생했더니 슬라임 연구자였던 건에 대하여 (Hard).md",
+                "file": "알고리즘 정리/정렬/삽입 정렬(Insertion Sort).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 정리/선형구조/큐 예시 문제/14698 전생했더니 슬라임 연구자였던 건에 대하여 (Hard).md"
+                "file": "알고리즘 정리/정렬/삽입 정렬(Insertion Sort).md"
               }
             }
           },
@@ -195,8 +195,15 @@
   },
   "active": "898b564a7a333c55",
   "lastOpenFiles": [
-    "알고리즘 정리/선형구조/큐 예시 문제/큐 예시 문제.md",
+    "알고리즘 정리/정렬/선택 정렬(Selection Sort).md",
+    "알고리즘 정리/정렬/정렬 알고리즘 정리.md",
+    "알고리즘 정리/정렬/퀵 정렬 (Quick Sort).md",
+    "알고리즘 정리/정렬/합병정렬 , 병합정렬(Merge Sort).md",
+    "알고리즘 정리/정렬/힙 정렬 (Heap Sort).md",
+    "알고리즘 정리/재귀 함수/재귀 함수(Recursion).md",
+    "알고리즘 정리/에라토스테네스의 체/에라토스테네스의 체(Sieve of Eratosthenes).md",
     "알고리즘 정리/선형구조/큐(Queue).md",
+    "알고리즘 정리/선형구조/큐 예시 문제/큐 예시 문제.md",
     "알고리즘 정리/선형구조/큐 예시 문제/14698 전생했더니 슬라임 연구자였던 건에 대하여 (Hard).md",
     "알고리즘 정리/선형구조/큐 예시 문제/14729 칠무해.md",
     "알고리즘 정리/구현 문제/예시 문제/18109 도깨비불.md",
@@ -215,15 +222,8 @@
     "알고리즘 정리/브루트포스(Brute Force)/브루트 포스(Brute Force).md",
     "알고리즘 정리/브루트포스(Brute Force)/예시 문제/28447 마라탕 재료 고르기.md",
     "알고리즘 정리/브루트포스(Brute Force)/예시 문제/28447 마라탕 재료 고르기 .md",
-    "28447 마라탕 재료 고르기.md",
-    "포트폴리오 작성 할 때 쓸거.md",
-    "알고리즘 정리/구현 문제/구현 문제 정리.md",
     "알고리즘 정리/브루트포스(Brute Force)/예시 문제",
-    "알고리즘 정리/다이나믹 프로그래밍(DP)/예시 문제/나락도 락이다(26156).md",
-    "알고리즘 정리/냅색 알고리즘(Knapsack)/12865 평범한 베낭.md",
-    "알고리즘 정리/냅색 알고리즘(Knapsack)/냅색 알고리즘(Knapsack).md",
     "알고리즘 정리/구현 문제/예시 문제",
-    "알고리즘 정리/1)정리.md",
     "알고리즘 정리/구현 문제",
     "JSP",
     "Servlet",
