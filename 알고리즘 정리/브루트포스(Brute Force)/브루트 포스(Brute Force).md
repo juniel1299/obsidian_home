@@ -17,7 +17,7 @@
 ### 예시 문제
 
 
-
+[[예시 문제 정리]]
 
 리모컨(골드5)
 https://www.acmicpc.net/problem/1107
