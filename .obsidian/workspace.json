@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSP/ex10.md",
+                "file": "JSP/ex11.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/ex10.md",
+                "file": "JSP/ex11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/ex10.md",
+                "file": "JSP/ex11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/ex10.md"
+                "file": "JSP/ex11.md"
               }
             }
           },
@@ -183,9 +183,10 @@
   },
   "active": "38cbdc19f53670b2",
   "lastOpenFiles": [
-    "JSP/ex09.md",
-    "JSP/ex10.md",
     "JSP/기초.md",
+    "JSP/ex11.md",
+    "JSP/ex10.md",
+    "JSP/ex09.md",
     "JSP/ex06.md",
     "JSP/ex03.md",
     "JSP/ex02.md",
@@ -208,7 +209,6 @@
     "알고리즘 정리/구현 문제/구현 문제 정리.md",
     "알고리즘 정리/브루트포스(Brute Force)/예시 문제/28447 마라탕 재료 고르기.md",
     "알고리즘 정리/부분 배열 응용 알고리즘/투포인터 알고리즘(Two Pointers).md",
-    "알고리즘 정리/부분 배열 응용 알고리즘/부분 배열 응용 알고리즘 정리.md",
     "알고리즘 정리/탐색/이진 탐색 예시 문제",
     "알고리즘 정리/탐색/BFS 예시 문제",
     "알고리즘 정리/선형구조/큐 예시 문제",
