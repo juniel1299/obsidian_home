@@ -86,8 +86,7 @@ public class Bfs {
 }
 ```
 ### 예시 문제
-Puyo Puyo (골드4)
-https://www.acmicpc.net/problem/11559
+
 
 인성 문제 있어? (골드4)
 https://www.acmicpc.net/problem/19952
