@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSP/기초.md",
+                "file": "알고리즘 정리/구현 문제/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/기초.md",
+                "file": "알고리즘 정리/구현 문제/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/기초.md",
+                "file": "알고리즘 정리/구현 문제/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/기초.md"
+                "file": "알고리즘 정리/구현 문제/무제 파일.md"
               }
             }
           },
@@ -183,11 +183,14 @@
   },
   "active": "898b564a7a333c55",
   "lastOpenFiles": [
+    "알고리즘 정리/구현 문제/구현 문제 정리.md",
+    "알고리즘 정리/구현 문제/무제 파일.md",
     "알고리즘 정리/1)정리.md",
+    "알고리즘 정리/구현 문제",
+    "JSP/기초.md",
     "알고리즘 정리/탐색/탐색 정리.md",
     "알고리즘 정리/탐색/그리디(greedy).md",
     "알고리즘 정리/재귀 함수/재귀 함수(Recursion).md",
-    "JSP/기초.md",
     "포트폴리오 작성 할 때 쓸거.md",
     "JSP/ex04.md",
     "Servlet/기초.md",
@@ -207,8 +210,6 @@
     "알고리즘 정리/최단거리 알고리즘/최단거리 알고리즘 정리.md",
     "알고리즘 정리/에라토스테네스의 체/에라토스테네스의 체(Sieve of Eratosthenes).md",
     "알고리즘 정리/냅색 알고리즘(Knapsack)/냅색 알고리즘(Knapsack).md",
-    "알고리즘 정리/플로이드 워셜/플로이드 워셜.md",
-    "알고리즘 정리/비선형구조/비선형구조 정리.md",
     "JSP",
     "Servlet",
     ".md",
@@ -218,7 +219,6 @@
     "알고리즘 정리/플로이드 워셜",
     "알고리즘 정리/백트래킹",
     "알고리즘 정리/에라토스테네스의 체",
-    "알고리즘 정리/부분 배열 응용 알고리즘",
     "알고리즘 정리/이미지 폴더/DFS 이미지.gif",
     "알고리즘 정리/이미지 폴더/BFS 이미지.gif",
     "알고리즘 정리/이미지 폴더/그리디 알고리즘 이미지.png",
