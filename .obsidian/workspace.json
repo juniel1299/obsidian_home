@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘 정리/탐색/BFS 예시 문제/11559 Puyo Puyo.md",
+                "file": "알고리즘 정리/탐색/BFS 예시 문제/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 정리/탐색/BFS 예시 문제/11559 Puyo Puyo.md",
+                "file": "알고리즘 정리/탐색/BFS 예시 문제/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 정리/탐색/BFS 예시 문제/11559 Puyo Puyo.md",
+                "file": "알고리즘 정리/탐색/BFS 예시 문제/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 정리/탐색/BFS 예시 문제/11559 Puyo Puyo.md"
+                "file": "알고리즘 정리/탐색/BFS 예시 문제/무제 파일.md"
               }
             }
           },
@@ -195,8 +195,9 @@
   },
   "active": "898b564a7a333c55",
   "lastOpenFiles": [
-    "알고리즘 정리/탐색/BFS 예시 문제/BFS 예시 문제.md",
     "알고리즘 정리/탐색/BFS 예시 문제/11559 Puyo Puyo.md",
+    "알고리즘 정리/탐색/BFS 예시 문제/무제 파일.md",
+    "알고리즘 정리/탐색/BFS 예시 문제/BFS 예시 문제.md",
     "알고리즘 정리/탐색/너비 탐색(BFS).md",
     "알고리즘 정리/탐색/BFS 예시 문제",
     "알고리즘 정리/탐색/그리디(greedy).md",
@@ -222,7 +223,6 @@
     "알고리즘 정리/선형구조/배열(Array).md",
     "알고리즘 정리/선형구조/리스트(List).md",
     "알고리즘 정리/선형구조/데크(Deque).md",
-    "알고리즘 정리/빅 오 표기법/빅오 표기법(big-O notation).md",
     "알고리즘 정리/브루트포스(Brute Force)/예시 문제",
     "알고리즘 정리/구현 문제/예시 문제",
     "알고리즘 정리/구현 문제",
