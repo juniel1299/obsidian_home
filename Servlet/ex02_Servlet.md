@@ -78,4 +78,4 @@ writer.println("</body>\r\n"
 }
 ```
 
-vscode에서 작성한 코
+vscode에서 작성한 html 코드를 그대로 옮겨서 이렇게 작성해도 되며, 
