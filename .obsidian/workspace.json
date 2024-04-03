@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘 정리/탐색/그리디(greedy).md",
+                "file": "알고리즘 정리/1)정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 정리/탐색/그리디(greedy).md",
+                "file": "알고리즘 정리/1)정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 정리/탐색/그리디(greedy).md",
+                "file": "알고리즘 정리/1)정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 정리/탐색/그리디(greedy).md"
+                "file": "알고리즘 정리/1)정리.md"
               }
             }
           },
@@ -184,6 +184,7 @@
   "active": "898b564a7a333c55",
   "lastOpenFiles": [
     "알고리즘 정리/탐색/탐색 정리.md",
+    "알고리즘 정리/탐색/그리디(greedy).md",
     "알고리즘 정리/1)정리.md",
     "알고리즘 정리/재귀 함수/재귀 함수(Recursion).md",
     "JSP/기초.md",
@@ -208,7 +209,6 @@
     "알고리즘 정리/냅색 알고리즘(Knapsack)/냅색 알고리즘(Knapsack).md",
     "알고리즘 정리/플로이드 워셜/플로이드 워셜.md",
     "알고리즘 정리/비선형구조/비선형구조 정리.md",
-    "알고리즘 정리/탐색/이진 탐색.md",
     "JSP",
     "Servlet",
     ".md",
