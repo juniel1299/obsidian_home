@@ -94,3 +94,5 @@ https://www.acmicpc.net/problem/19952
 
 숨바꼭질 (실버1)
 https://www.acmicpc.net/problem/6118
+
+[[BFS 예시 문제]]
