@@ -9,7 +9,22 @@ n
 2. 수열 2n, even, odd 존재 
 
 ```css
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Document</title>
+
+<style>
+
 수열 가능 
+
     li:nth-child(2n){
         color: blue;
     
@@ -93,5 +108,366 @@ n
     background-color: gold;
 
 }
+
+</style>
+
+</head>
+
+<body>
+
+    <h1>목록</h1>
+
+  
+
+    <ul id="list1">
+
+        <li>사과</li>
+
+        <li>귤</li>
+
+        <li>바나나</li>
+
+        <li>포도</li>
+
+        <li>참외</li>
+
+        <li>딸기</li>
+
+        <li>복숭아</li>
+
+        <li>파인애플</li>
+
+        <li>망고</li>
+
+        <li>수박</li>
+
+    </ul>
+
+  
+
+    <ul id="list2">
+
+        <li>사과</li>
+
+        <li>귤</li>
+
+        <li>바나나</li>
+
+        <li>포도</li>
+
+        <li>참외</li>
+
+        <li>딸기</li>
+
+        <li>복숭아</li>
+
+        <li>파인애플</li>
+
+        <li>망고</li>
+
+        <li>수박</li>
+
+    </ul>
+
+  
+
+    <h1>테이블</h1>
+
+  
+
+    <!-- table#tbl>tr*20>td*5{data} -->
+
+    <table id="tbl1">
+
+        <tr>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+        </tr>
+
+        <tr>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+        </tr>
+
+        <tr>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+        </tr>
+
+        <tr>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+        </tr>
+
+        <tr>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+        </tr>
+
+        <tr>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+        </tr>
+
+        <tr>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+        </tr>
+
+        <tr>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+        </tr>
+
+        <tr>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+        </tr>
+
+        <tr>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+        </tr>
+
+        <tr>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+        </tr>
+
+        <tr>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+        </tr>
+
+        <tr>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+        </tr>
+
+        <tr>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+        </tr>
+
+        <tr>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+        </tr>
+
+        <tr>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+        </tr>
+
+        <tr>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+        </tr>
+
+        <tr>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+        </tr>
+
+        <tr>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+        </tr>
+
+        <tr>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+            <td>data</td>
+
+        </tr>
+
+    </table>
+
+  
+  
+
+</body>
+
+</html>
+
+
 ```
 
