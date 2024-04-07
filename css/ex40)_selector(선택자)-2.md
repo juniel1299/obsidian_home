@@ -13,14 +13,32 @@
 
 ```
 ## 속성 선택자 
-1.  선택자[속성명] : 해당 속성을 명시하고 있는 태그
+1.  선택자\[속성명\] : 해당 속성을 명시하고 있는 태그
 
-2. 선택자[속성명=값] : 해당 속성과 값을 명시하고 있는 태그
+2. 선택자\[속성명=값\] : 해당 속성과 값을 명시하고 있는 태그
 
-3. 선택자[속성명^=값] : 시작 (startsWith(), like '값%')
+3. 선택자\[속성명^=값\] : 시작 (startsWith(), like '값%')
 
-4. 선택자[속성명$=값] : 끝 (endsWith(), like '%값')
+4. 선택자\[속성명$=값\] : 끝 (endsWith(), like '%값')
 
-5. 선택자[속성명*=값] : 포함 (contains(), like '%값%'')
+5. 선택자\[속성명*=값\] : 포함 (contains(), like '%값%'')
 
+
+```html
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Document</title>
+
+<style>
+.list > a[href*='co']{color: blue;}
+
+```
 
