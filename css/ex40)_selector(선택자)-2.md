@@ -39,6 +39,38 @@
 
 <style>
 .list > a[href*='co']{color: blue;}
+  
 
+</style>
+
+</head>
+
+<body>
+
+    <h1>속성 선택자</h1>
+
+  
+
+    <!-- img[width] -->
+
+  
+
+    <div class="list">
+
+        <a href="http://naver.com" target="_self">네이버</a>
+
+        <a href="http://yes24.com" target="_blank">예스24</a>
+
+        <a href="https://daum.net">다음</a>
+
+        <a href="https://11st.cokr">11번가</a>
+
+        <a href="https://kma.go.kr" target="_blank">기상청</a>
+
+    </div>
+
+</body>
+
+</html>
 ```
 
