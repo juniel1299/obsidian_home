@@ -33,11 +33,65 @@ n
     li:nth-child(2){
         color: green;
     }
-    뒤에서 2번째 
+    뒤에서 n 번째 자식
         li:nth-last-child(3){
 
         color:blueviolet;
 
     }
+    
+   #tbl1{
+
+    border:1px solid gray;
+
+    border-collapse: collapse;
+
+}
+
+  
+
+#tbl1 td{
+
+    border: 1px solid gray;
+
+    padding: 5px 10px;
+
+}
+
+  
+  
+
+#tbl1 tr:first-child{
+
+    background-color: gold;
+
+}
+
+
+  
+
+#tbl1 tr:nth-child(2n){
+
+    background-color: #EEE;
+
+}
+
+  
+
+/* 앞에 조건 , 짝수행만 칠해짐 */
+
+#tbl1 tr:nth-child(even) td:nth-child(odd){
+
+    background-color: gold;
+
+}
+
+/* 앞에 조건 , 홀수만 칠해짐 */
+
+#tbl1 tr:nth-child(odd) td:nth-child(evem){
+
+    background-color: gold;
+
+}
 ```
 
