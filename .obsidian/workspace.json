@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "css/ex43)_shadow.md",
+                "file": "Servlet/기초.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "21f90d6943293b5e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "css/ex43)_shadow.md",
+                "file": "Servlet/기초.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "css/ex43)_shadow.md",
+                "file": "Servlet/기초.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "css/ex43)_shadow.md"
+                "file": "Servlet/기초.md"
               }
             }
           },
@@ -192,12 +181,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "21f90d6943293b5e",
+  "active": "38cbdc19f53670b2",
   "lastOpenFiles": [
-    "css/ex42)_selector(선택자)-4.md",
-    "css/ex43)_shadow.md",
-    "JSP/기초.md",
     "conflict-files-obsidian-git.md",
+    "css/ex43)_shadow.md",
+    "css/ex42)_selector(선택자)-4.md",
     "css/ex41)_selector(선택자)-3.md",
     "css/ex40)_selector(선택자)-2.md",
     "css/ex39)_selector(선택자).md",
@@ -205,6 +193,7 @@
     "css/ex35)_상속.md",
     "css/ex34_box.md",
     "css/ex33)_z-index.md",
+    "JSP/기초.md",
     "JSP/ex12.md",
     "JSP/ex11.md",
     "JSP/ex10.md",
