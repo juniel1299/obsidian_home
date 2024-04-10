@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "css/ex47_.md",
+                "file": "css/ex47_outline.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "css/ex47_.md",
+                "file": "css/ex47_outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "css/ex47_.md",
+                "file": "css/ex47_outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "css/ex47_.md"
+                "file": "css/ex47_outline.md"
               }
             }
           },
@@ -184,7 +184,7 @@
   "active": "38cbdc19f53670b2",
   "lastOpenFiles": [
     "css/ex46_border.md",
-    "css/ex47_.md",
+    "css/ex47_outline.md",
     "css/ex44_background.md",
     "css/ex43)_shadow.md",
     "Servlet/기초.md",
