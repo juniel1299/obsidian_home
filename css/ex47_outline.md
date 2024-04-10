@@ -1,4 +1,9 @@
 
+테두리 코드는 대표적으로 
+- border 
+- outline 
+두개가 존재  
+
 ```html
 <!DOCTYPE html>
 
