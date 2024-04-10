@@ -1,6 +1,9 @@
 border 대표적인 코드 
 
-border-radius : 모서리 둥글기 (px단위 또는 %)
+border : 1px solid black; (테두리 굵기, 타입, 색깔)
+border-radius : 모서리 둥글기 (px단위 또는 % )
+
+
 
 ```html
 <!DOCTYPE html>
