@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servlet/기초.md",
+                "file": "css/ex43)_shadow.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servlet/기초.md",
+                "file": "css/ex43)_shadow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servlet/기초.md",
+                "file": "css/ex43)_shadow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servlet/기초.md"
+                "file": "css/ex43)_shadow.md"
               }
             }
           },
@@ -181,8 +181,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "408fbe75a45775cf",
+  "active": "38cbdc19f53670b2",
   "lastOpenFiles": [
+    "Servlet/기초.md",
     "컴퓨터이론",
     "conflict-files-obsidian-git.md",
     "css/ex43)_shadow.md",
@@ -205,7 +206,6 @@
     "JSP/ex04.md",
     "JSP/ex01.md",
     "Servlet/ex03.md",
-    "Servlet/기초.md",
     "알고리즘 정리/정렬/합병정렬 , 병합정렬(Merge Sort).md",
     "알고리즘 정리/정렬/선택 정렬(Selection Sort).md",
     "알고리즘 정리/정렬/버블 정렬(Bubble Sort).md",
@@ -218,7 +218,6 @@
     "JSP",
     "Servlet",
     ".md",
-    "알고리즘 정리/다이나믹 프로그래밍(DP)/DP예시 문제",
     "알고리즘 정리/이미지 폴더/DFS 이미지.gif",
     "알고리즘 정리/이미지 폴더/BFS 이미지.gif",
     "알고리즘 정리/이미지 폴더/그리디 알고리즘 이미지.png",
