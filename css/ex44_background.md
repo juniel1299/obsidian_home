@@ -4,7 +4,9 @@ background 관련 코드 대표적인거
 - background-image : 배경 이미지
 - background-repeat : 반복 or 반복 안 함
 - background-position : 위치 
-- background-attachment : 
+- background-attachment : 배경 이미지에 대해 스크롤 여부 
+- background-size : 배경 크기 
+
 
 ```html
 <!DOCTYPE html>
