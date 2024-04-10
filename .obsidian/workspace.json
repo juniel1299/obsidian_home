@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "css/ex43)_shadow.md",
+                "file": "css/ex44_background.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "css/ex43)_shadow.md",
+                "file": "css/ex44_background.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "css/ex43)_shadow.md",
+                "file": "css/ex44_background.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "css/ex43)_shadow.md"
+                "file": "css/ex44_background.md"
               }
             }
           },
@@ -183,10 +183,11 @@
   },
   "active": "38cbdc19f53670b2",
   "lastOpenFiles": [
+    "css/ex43)_shadow.md",
+    "css/ex44_background.md",
     "Servlet/기초.md",
     "컴퓨터이론",
     "conflict-files-obsidian-git.md",
-    "css/ex43)_shadow.md",
     "css/ex42)_selector(선택자)-4.md",
     "css/ex41)_selector(선택자)-3.md",
     "css/ex40)_selector(선택자)-2.md",
