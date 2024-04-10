@@ -1,4 +1,10 @@
-backgr
+background 관련 코드 대표적인거 
+
+- background-color : 배경색
+- background-image : 배경 이미지
+- background-repeat : 반복 or 반복 안 함
+- background-position : 위치 
+- background-attachment : 
 
 ```html
 <!DOCTYPE html>
