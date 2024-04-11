@@ -1,6 +1,7 @@
 column-count  : 문단 
 column-gap : column 사이 간격 
-column-rule : 
+column-rule : 사이 구분 선 디자인
+
 
 ```html
 <!DOCTYPE html>
@@ -43,3 +44,261 @@ column-rule :
 
 </html>
 ```
+
+```html
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Document</title>
+
+<style>
+
+    #list{
+
+        width: 800px;
+
+        column-count: 5;
+
+    }
+
+  
+
+    #list .item{
+
+        border: 1px solid #555;
+
+        border-radius: 3px;
+
+        width: 150px;
+
+        margin: 0 auto 15px auto;
+
+        box-shadow: 3px 3px 2px #999;
+
+        page-break-inside: avoid;
+
+    }
+
+  
+
+    #list .item img{
+
+      display: block;
+
+      margin: 20px auto;
+
+      box-shadow: -1px -1px 1px #555;  
+
+    }
+
+  
+
+    #list .item .txt{
+
+        margin: 0 12px 20px 12px;
+
+    }
+
+</style>
+
+</head>
+
+<body>
+
+    <h1>Card Layout</h1>
+
+<!--
+
+    <div class="item">
+
+        <img src="images/rect_icon01.png" alt="">
+
+        <div class="txt">
+
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore, ad.
+
+        </div>
+
+    </div> -->
+
+  
+  
+
+    <!-- (div.item>((img[src=images/rect_icon$$.png])+(div.txt>lorem10)))*20 -->
+
+    <div id="list">
+
+    <div class="item">
+
+        <img src="images/rect_icon01.png" alt="">
+
+        <div class="txt">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex, sunt?</div>
+
+    </div>
+
+    <div class="item">
+
+        <img src="images/rect_icon02.png" alt="">
+
+        <div class="txt">Totam at ipsa quidem, dolorum hic neque adipisci odio facilis.</div>
+
+    </div>
+
+    <div class="item">
+
+        <img src="images/rect_icon03.png" alt="">
+
+        <div class="txt">Nemo, saepe eos? Reprehenderit, culpa recusandae consequuntur porro perspiciatis pariatur.</div>
+
+    </div>
+
+    <div class="item">
+
+        <img src="images/rect_icon04.png" alt="">
+
+        <div class="txt">Distinctio asperiores fugiat quos rerum repellat repellendus molestiae aliquam ad.</div>
+
+    </div>
+
+    <div class="item">
+
+        <img src="images/rect_icon05.png" alt="">
+
+        <div class="txt">Mollitia eum explicabo voluptatem at perspiciatis nostrum officiis quis obcaecati.</div>
+
+    </div>
+
+    <div class="item">
+
+        <img src="images/rect_icon06.png" alt="">
+
+        <div class="txt">Nesciunt est temporibus aperiam officia enim ex adipisci praesentium rerum.</div>
+
+    </div>
+
+    <div class="item">
+
+        <img src="images/rect_icon07.png" alt="">
+
+        <div class="txt">Nisi sequi minus voluptatibus sit inventore asperiores hic non expedita!</div>
+
+    </div>
+
+    <div class="item">
+
+        <img src="images/rect_icon08.png" alt="">
+
+        <div class="txt">Mollitia praesentium ab alias possimus cum in totam molestias deleniti.</div>
+
+    </div>
+
+    <div class="item">
+
+        <img src="images/rect_icon09.png" alt="">
+
+        <div class="txt">Neque sint, ipsam nemo rerum nihil perferendis numquam ullam libero.</div>
+
+    </div>
+
+    <div class="item">
+
+        <img src="images/rect_icon10.png" alt="">
+
+        <div class="txt">Ipsum explicabo mollitia ea velit, minima cumque vitae quis ipsa?</div>
+
+    </div>
+
+    <div class="item">
+
+        <img src="images/rect_icon11.png" alt="">
+
+        <div class="txt">Unde, odit ea eligendi amet molestiae illo perferendis soluta facere!</div>
+
+    </div>
+
+    <div class="item">
+
+        <img src="images/rect_icon12.png" alt="">
+
+        <div class="txt">Ipsum illum veritatis dolorem exercitationem voluptatem voluptates, error asperiores odit.</div>
+
+    </div>
+
+    <div class="item">
+
+        <img src="images/rect_icon13.png" alt="">
+
+        <div class="txt">Facilis ad laboriosam voluptates quod saepe provident maxime dolore nisi.</div>
+
+    </div>
+
+    <div class="item">
+
+        <img src="images/rect_icon14.png" alt="">
+
+        <div class="txt">Laborum facilis dignissimos quas, enim adipisci vel reprehenderit aut? Iste?</div>
+
+    </div>
+
+    <div class="item">
+
+        <img src="images/rect_icon15.png" alt="">
+
+        <div class="txt">Molestiae suscipit nisi voluptatum, voluptatibus assumenda sint cum repudiandae unde?</div>
+
+    </div>
+
+    <div class="item">
+
+        <img src="images/rect_icon16.png" alt="">
+
+        <div class="txt">Est deleniti illo fuga sapiente veritatis sint quidem saepe aliquam.</div>
+
+    </div>
+
+    <div class="item">
+
+        <img src="images/rect_icon17.png" alt="">
+
+        <div class="txt">Optio praesentium minus, a laudantium illum suscipit iure inventore illo!</div>
+
+    </div>
+
+    <div class="item">
+
+        <img src="images/rect_icon18.png" alt="">
+
+        <div class="txt">Animi asperiores itaque ullam consectetur! Ullam iusto nulla ducimus distinctio.</div>
+
+    </div>
+
+    <div class="item">
+
+        <img src="images/rect_icon15.png" alt="">
+
+        <div class="txt">Aperiam eum soluta ipsa expedita voluptas, natus odio quod iusto.</div>
+
+    </div>
+
+    <div class="item">
+
+        <img src="images/rect_icon13.png" alt="">
+
+        <div class="txt">Beatae nisi amet optio id corporis consectetur sequi veritatis dolor!</div>
+
+    </div>
+
+</div>
+
+</body>
+
+</html>
+```
+
