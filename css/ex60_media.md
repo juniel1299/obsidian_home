@@ -1,7 +1,13 @@
+# Media Query
+- 반응형 웹(Responsive Web) : 해상도에 따라 다른 화면을 구현하는 CSS 기술
+- 모바일 웹을 지원하기 위해 사용하기 시작 
+
+## 미디어 유형
+1. all
+2. screen : 컴퓨터 모바일 (기본값)
+3. print : 이
+
 ```html
-
-
-
 <!DOCTYPE html>
 
 <html lang="en">
@@ -16,17 +22,7 @@
 
     <style>
 
-        /*
-
-            Media Query
-
-            - 반응형 웹(Responsive Web) > 해상도에 다라 다른 화면을 구현하는 CSS 기술
-
-            - 모바일 웹을 지원하기 위해 사용하기 시작.
-
-  
-
-            */
+   
 
   
 
