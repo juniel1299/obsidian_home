@@ -5,7 +5,19 @@
 ## 미디어 유형
 1. all
 2. screen : 컴퓨터 모바일 (기본값)
-3. print : 이
+3. print : 프린터기 화면 기준 
+4. tv
+5. projection
+
+## 미디어 쿼리 연산자
+1. and
+2. only
+3. not
+
+## 미디어 쿼리 조건 
+1. 모바일 : 화면 <=480px
+2. 태블릿 : 화며
+
 
 ```html
 <!DOCTYPE html>
@@ -28,28 +40,6 @@
 
             /*
 
-                미디어 유형
-
-                1. all
-
-                2. screen > 컴퓨터 or 모바일 > 기본값
-
-                3. print > 인쇄
-
-                4. tv
-
-                5. projection
-
-  
-  
-
-                미디어 쿼리 연산자
-
-                1. and
-
-                2. only
-
-                3. not
 
   
 
