@@ -18,4 +18,7 @@
 
 ### 역사
 - 초반 (1990년대) : 폼태그 유효성 검사 + 링크 조작 + 이미지 조작 > BOM(browser object model)
-- 중반 (1999~)
+- 중반 (1999~2014) : 모든 태그 조작 > DOM (document object model)
+- 후반(2014~) : ECMA 2015(ES6) > Modern JavaScript 
+
+- ES6 > 
