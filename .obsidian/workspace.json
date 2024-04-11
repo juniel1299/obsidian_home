@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/무제 파일.md",
+                "file": "JavaScript/ex01_js.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/무제 파일.md",
+                "file": "JavaScript/ex01_js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/무제 파일.md",
+                "file": "JavaScript/ex01_js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/무제 파일.md"
+                "file": "JavaScript/ex01_js.md"
               }
             }
           },
@@ -184,7 +184,7 @@
   "active": "38cbdc19f53670b2",
   "lastOpenFiles": [
     "css/ex61_grid.md",
-    "JavaScript/무제 파일.md",
+    "JavaScript/ex01_js.md",
     "JavaScript",
     "css/ex60_media.md",
     "css/ex59_content.md",
