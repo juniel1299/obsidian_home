@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "css/ex48_column.md",
+                "file": "css/ex.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "css/ex48_column.md",
+                "file": "css/ex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "css/ex48_column.md",
+                "file": "css/ex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "css/ex48_column.md"
+                "file": "css/ex.md"
               }
             }
           },
@@ -183,8 +183,9 @@
   },
   "active": "38cbdc19f53670b2",
   "lastOpenFiles": [
-    "css/ex47_outline.md",
     "css/ex48_column.md",
+    "css/ex.md",
+    "css/ex47_outline.md",
     "포트폴리오 작성 할 때 쓸거.md",
     "README.md",
     "aws.md",
@@ -209,7 +210,6 @@
     "JSP/ex09.md",
     "JSP/ex06.md",
     "JSP/ex03.md",
-    "JSP/ex02.md",
     "알고리즘 정리/탐색/이진 탐색 예시 문제",
     "알고리즘 정리/탐색/BFS 예시 문제",
     "알고리즘 정리/선형구조/큐 예시 문제",
