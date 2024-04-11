@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "css/ex.md",
+                "file": "css/ex50_transform.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "css/ex.md",
+                "file": "css/ex50_transform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "css/ex.md",
+                "file": "css/ex50_transform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "css/ex.md"
+                "file": "css/ex50_transform.md"
               }
             }
           },
@@ -184,7 +184,7 @@
   "active": "38cbdc19f53670b2",
   "lastOpenFiles": [
     "css/ex48_column.md",
-    "css/ex.md",
+    "css/ex50_transform.md",
     "css/ex47_outline.md",
     "포트폴리오 작성 할 때 쓸거.md",
     "README.md",
