@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "css/ex61_grid.md",
+                "file": "JavaScript/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "css/ex61_grid.md",
+                "file": "JavaScript/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "css/ex61_grid.md",
+                "file": "JavaScript/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "css/ex61_grid.md"
+                "file": "JavaScript/무제 파일.md"
               }
             }
           },
@@ -183,8 +183,10 @@
   },
   "active": "38cbdc19f53670b2",
   "lastOpenFiles": [
-    "css/ex60_media.md",
     "css/ex61_grid.md",
+    "JavaScript/무제 파일.md",
+    "JavaScript",
+    "css/ex60_media.md",
     "css/ex59_content.md",
     "css/ex58_flex.md",
     "css/ex56_animation.md",
@@ -209,7 +211,6 @@
     "css/ex34_box.md",
     "css/ex33)_z-index.md",
     "JSP/기초.md",
-    "JSP/ex12.md",
     "알고리즘 정리/탐색/이진 탐색 예시 문제",
     "알고리즘 정리/탐색/BFS 예시 문제",
     "알고리즘 정리/선형구조/큐 예시 문제",
@@ -218,7 +219,6 @@
     "알고리즘 정리/구현 문제",
     "JSP",
     "Servlet",
-    ".md",
     "알고리즘 정리/이미지 폴더/DFS 이미지.gif",
     "알고리즘 정리/이미지 폴더/BFS 이미지.gif",
     "알고리즘 정리/이미지 폴더/그리디 알고리즘 이미지.png",

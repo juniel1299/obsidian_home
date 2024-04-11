@@ -131,3 +131,154 @@
 
 </html>
 ```
+
+```html
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Document</title>
+
+<link rel="stylesheet" href="css/ex62.css">
+
+</head>
+
+<body>
+
+    <main>
+
+        <div id="menu">
+
+            <h1>Study</h1>
+
+            <ul>
+
+                <li>Java</li>
+
+                <li>Oracle</li>
+
+                <li>HTML</li>
+
+                <li>CSS</li>
+
+                <li>JavaScript</li>
+
+            </ul>
+
+            <hr>
+
+            <ul>
+
+                <li>Class</li>
+
+                <li>Method</li>
+
+                <li>Interface</li>
+
+                <li>Property</li>
+
+                <li>Attiribute</li>
+
+            </ul>
+
+            <hr>
+
+            <div>
+
+                &copy;Copyright test.com <br>
+
+                All rights reserved.
+
+            </div>
+
+        </div>
+
+        <div id="search">
+
+            <input type="text">
+
+            <button>Search</button>
+
+        </div>
+
+        <div id="banner">
+
+            <img src="images/gimbal.jpg" alt="">
+
+        </div>
+
+        <div id="content">
+
+            <!-- <div>
+
+                <img src="images/rect_icon01.png" alt="">
+
+                <div>text</div>
+
+            </div> -->
+
+        <!-- (div>(img[src=images/rect_icon$$.png])+(div>lorem))*6 -->
+
+        <div>
+
+            <img src="images/rect_icon01.png" alt="">
+
+            <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci earum quidem mollitia quisquam officia assumenda tempora maxime autem nihil eos ut repellendus eaque, beatae est alias repellat consequuntur nulla illo.</div>
+
+        </div>
+
+        <div>
+
+            <img src="images/rect_icon02.png" alt="">
+
+            <div>Excepturi cupiditate voluptates est aspernatur at quae. Sequi, minima. Unde et, dolores tempore accusantium a fugiat nulla quisquam veritatis ea quo temporibus sit quas officiis repellendus dignissimos repudiandae fuga incidunt!</div>
+
+        </div>
+
+        <div>
+
+            <img src="images/rect_icon03.png" alt="">
+
+            <div>Consequatur corrupti doloremque veniam perferendis rerum repellat nihil, reiciendis maxime a sapiente cum doloribus fugiat deserunt recusandae, sequi delectus vel iure. Delectus quasi amet autem ab consequatur, nesciunt molestias. Placeat.</div>
+
+        </div>
+
+        <div>
+
+            <img src="images/rect_icon04.png" alt="">
+
+            <div>Fugiat a cumque sint repellat quos nostrum assumenda nemo. Autem, omnis! In praesentium tenetur mollitia eius ratione, accusantium delectus. Molestiae minus delectus non nemo nam qui officia culpa reiciendis magni!</div>
+
+        </div>
+
+        <div>
+
+            <img src="images/rect_icon05.png" alt="">
+
+            <div>Blanditiis doloribus adipisci quidem debitis ab, aliquam dolorum magnam iste sint beatae quasi provident possimus architecto minima ea reiciendis laudantium recusandae ut ratione vero repellat soluta temporibus nemo? Illo, dicta.</div>
+
+        </div>
+
+        <div>
+
+            <img src="images/rect_icon06.png" alt="">
+
+            <div>Iusto nulla eveniet beatae? Aliquid, quasi accusamus! Eum molestias voluptates quidem sunt minima dolorum numquam iure ea delectus labore dolore ut dolorem aperiam sit dicta, reprehenderit porro, fuga repellendus accusantium.</div>
+
+        </div>
+
+        </div>
+
+    </main>
+
+</body>
+
+</html>
+```
+
