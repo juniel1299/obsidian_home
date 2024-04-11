@@ -21,4 +21,13 @@
 - 중반 (1999~2014) : 모든 태그 조작 > DOM (document object model)
 - 후반(2014~) : ECMA 2015(ES6) > Modern JavaScript 
 
-- ES6 > 
+- ES6 > Node.js 출시(구글 크롬 V8 엔진) > 비 브라우저 환경에 JavaScript 동작 
+
+
+## JavaScript 하는 일 
+1. 기본적인 프로그램 언어로서의 행동 > core
+	- 변수
+	- 연산자
+	- 제어문
+	- 함수 사용 
+	- 
