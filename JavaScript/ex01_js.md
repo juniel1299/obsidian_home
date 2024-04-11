@@ -11,13 +11,13 @@ Front-end
 
  2. CSS
 
-       -  서식
+  -  서식
 
   
 
-        3. JavaScript
+  3. JavaScript
 
-            - 프로그래밍 기능
+ -  프로그래밍 기능
 
   
 
