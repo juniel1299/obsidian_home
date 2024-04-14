@@ -6,5 +6,9 @@
 
 - 자바스크립트
 	1. 전역 변수(global variable) : 한 페이지 
-	2. 지역 변수(local variable) 
+	2. 지역 변수(local variable) : 함수 스코프 변수 
+
+자바의 지역 변수 : 블럭 스코프 vs 자바스크립트의 지역 변수 : 함수 스코프 변수 
+
+
 
