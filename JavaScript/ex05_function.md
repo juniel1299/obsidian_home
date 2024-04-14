@@ -20,6 +20,13 @@ return 10;
 
 ## argument 내장 배열
 자바스크립트가 스스로 만들어서 제공해주는 배열 
+함수의 실인자들을 저장하는 내장 배열 
 
+```js 
+function m2(name){
+console.log(argument[0]);
+console.log(argument[1]);
+}
+```
 
 
