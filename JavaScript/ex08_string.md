@@ -6,4 +6,9 @@
 5. 치환 : replace 
 6. 공백 제거 : trim , trimLeft, trimRight, trimStart, trimEnd
 7. 분할 : split
-8. 검색 : startsWith
+8. 검색 : startsWith , endsWith
+9. 자릿수 맞추기 : padStart , padEnd
+
+
+자바와 거의 동일함 
+
