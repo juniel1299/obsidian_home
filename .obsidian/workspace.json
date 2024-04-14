@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/ex05_function.md",
+                "file": "JavaScript/ex06_scope.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/ex05_function.md",
+                "file": "JavaScript/ex06_scope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/ex05_function.md",
+                "file": "JavaScript/ex06_scope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/ex05_function.md"
+                "file": "JavaScript/ex06_scope.md"
               }
             }
           },
@@ -183,8 +183,9 @@
   },
   "active": "38cbdc19f53670b2",
   "lastOpenFiles": [
-    "JavaScript/ex04_datatype.md",
     "JavaScript/ex05_function.md",
+    "JavaScript/ex06_scope.md",
+    "JavaScript/ex04_datatype.md",
     "JavaScript/ex03_js.md",
     "JavaScript/ex02_js.md",
     "JavaScript/ex01_js.md",
@@ -210,7 +211,6 @@
     "css/ex42)_selector(선택자)-4.md",
     "css/ex41)_selector(선택자)-3.md",
     "css/ex40)_selector(선택자)-2.md",
-    "css/ex39)_selector(선택자).md",
     "알고리즘 정리/탐색/이진 탐색 예시 문제",
     "알고리즘 정리/탐색/BFS 예시 문제",
     "알고리즘 정리/선형구조/큐 예시 문제",
