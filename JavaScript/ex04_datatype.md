@@ -23,4 +23,100 @@
 	- JavaScirpt는 변수의 타입이 없다.
 	- 변수는 모든 자료형의 데이터를 저장 할 수 있다. (자바의 Object 변수)
 
-*typeof 를 통해 �
+*typeof 를 통해 자료형을 확인 할 수 있다.*
+
+```html
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Document</title>
+
+</head>
+
+<body>
+
+    <script>
+  
+
+        var num;
+
+        num = 10;
+
+        console.log(num);
+
+        num = "안녕";
+
+        console.log(num);
+
+        num = true;
+
+        console.log(num);
+
+  
+
+        //현재 변수나 상수의 자료형을 확인 > 연산자
+
+        console.log(typeof 100);
+
+        console.log(typeof 3.14);
+
+        console.log(typeof num);
+
+        console.log(typeof "홍길동");
+
+        console.log(typeof false);
+
+        console.log(typeof new Date());
+
+  
+  
+
+        // 연산자
+
+        //자바와 같음
+
+  
+
+        //제어문
+
+        //자바와 같음
+
+  
+
+        // Java > Strong Type
+
+        // SQL > Weak Type
+
+        // JavaScript > Weak Type
+
+  
+
+        console.log('10'+2);
+
+        console.log('10'*2);
+
+        console.log(2+'10');
+
+  
+
+        //문자 이스케이프
+
+        //자바와 같음
+
+  
+
+        console.log('C:\\class\\java');
+
+    </script>
+
+</body>
+
+</html>
+```
