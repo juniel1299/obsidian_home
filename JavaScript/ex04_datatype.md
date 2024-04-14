@@ -18,4 +18,9 @@
 	- undefined
 	- NaN(not a number)
 
-6. 변수 
+6. 변수, 상수(리터럴)
+	- var 변수명;
+	- JavaScirpt는 변수의 타입이 없다.
+	- 변수는 모든 자료형의 데이터를 저장 할 수 있다. (자바의 Object 변수)
+
+*typeof 를 통해 �
