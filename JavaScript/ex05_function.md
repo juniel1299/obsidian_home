@@ -27,6 +27,10 @@ function m2(name){
 console.log(argument[0]);
 console.log(argument[1]);
 }
+m2('홍길동');
 ```
+**undefined > 변수 생성 후 초기화가 안 된 상태**
+
+
 
 
