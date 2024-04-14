@@ -13,8 +13,13 @@ return 10;
 JavaScirpt에서의 Method (자바스크립트는 클래스가 없음)
 ```js
 function m1(num){
-
+return 10;
 }
 ```
+
+
+## argument 내장 배열
+
+
 
 
