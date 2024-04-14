@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "JavaScript/ex01_js.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "JavaScript/ex01_js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "JavaScript/ex01_js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "JavaScript/ex01_js.md"
               }
             }
           },
@@ -183,7 +183,6 @@
   },
   "active": "38cbdc19f53670b2",
   "lastOpenFiles": [
-    "포트폴리오 작성 할 때 쓸거.md",
     "JSP/기초.md",
     "JavaScript/ex01_js.md",
     "css/ex61_grid.md",
@@ -195,6 +194,7 @@
     "css/ex50_transform,transition.md",
     "css/ex48_column.md",
     "css/ex47_outline.md",
+    "포트폴리오 작성 할 때 쓸거.md",
     "README.md",
     "aws.md",
     "css/ex46_border.md",
