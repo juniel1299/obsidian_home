@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSP/기초.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/기초.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/기초.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/기초.md"
+                "file": "README.md"
               }
             }
           },
@@ -183,6 +183,8 @@
   },
   "active": "38cbdc19f53670b2",
   "lastOpenFiles": [
+    "포트폴리오 작성 할 때 쓸거.md",
+    "JSP/기초.md",
     "JavaScript/ex01_js.md",
     "css/ex61_grid.md",
     "JavaScript",
@@ -193,7 +195,6 @@
     "css/ex50_transform,transition.md",
     "css/ex48_column.md",
     "css/ex47_outline.md",
-    "포트폴리오 작성 할 때 쓸거.md",
     "README.md",
     "aws.md",
     "css/ex46_border.md",
@@ -210,7 +211,6 @@
     "css/ex35)_상속.md",
     "css/ex34_box.md",
     "css/ex33)_z-index.md",
-    "JSP/기초.md",
     "알고리즘 정리/탐색/이진 탐색 예시 문제",
     "알고리즘 정리/탐색/BFS 예시 문제",
     "알고리즘 정리/선형구조/큐 예시 문제",
