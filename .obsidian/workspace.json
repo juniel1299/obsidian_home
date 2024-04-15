@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSP/기초.md",
+                "file": "JavaScript/ex09_date.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/기초.md",
+                "file": "JavaScript/ex09_date.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/기초.md",
+                "file": "JavaScript/ex09_date.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/기초.md"
+                "file": "JavaScript/ex09_date.md"
               }
             }
           },
@@ -196,12 +196,14 @@
   },
   "active": "a6a5fb9165faae7c",
   "lastOpenFiles": [
+    "JavaScript/ex08_string.md",
+    "JavaScript/ex09_date.md",
+    "JSP/ex12.md",
+    "JSP/기초.md",
     "0415.md",
     "README.md",
     "aws.md",
     "포트폴리오 작성 할 때 쓸거.md",
-    "JSP/기초.md",
-    "JavaScript/ex08_string.md",
     "2024-04-15.md",
     "Excalidraw/Drawing 2024-04-15 08.40.33.excalidraw.md",
     "Excalidraw",
@@ -222,8 +224,6 @@
     "css/ex48_column.md",
     "css/ex47_outline.md",
     "css/ex46_border.md",
-    "css/ex44_background.md",
-    "css/ex43)_shadow.md",
     "컴퓨터이론",
     "알고리즘 정리/탐색/이진 탐색 예시 문제",
     "알고리즘 정리/탐색/BFS 예시 문제",
