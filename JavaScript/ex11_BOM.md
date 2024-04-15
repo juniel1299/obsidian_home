@@ -1,4 +1,4 @@
-# 자바스크립트 BOM
+# 자바스크립트 BOM (Browser Object Model)
 CSS > 선택자 > HTML 태그 검색 > 접근 > 조작 
 JavaScript > 검색 도구 > HTML 태그 검색 > 접근 > 조작 
 
@@ -14,4 +14,4 @@ HTML는 트리 계층 구조를 가짐
 - id, class를 인식하지 못 함 
 
 - window > 윈도우 객체 > 현재 문서가 실행되고 있는 브라우저 창 참조 
-- document > 
+- document > 문서 객체 > 현재 문서를 참조 
