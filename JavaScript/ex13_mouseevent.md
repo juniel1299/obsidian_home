@@ -15,6 +15,11 @@
 1. x,y
 	- 문서 좌측 상단을 기준
 	- 비표준(MS-IE) > 비권장
-2. clientX, clientY
+2. **clientX, clientY**
 	- 문서 좌측 상단을 기준 
-	- 
+	- 표준 > 권장 
+3. screenX, screenY
+	- 모니터 좌측 상단 기준 
+4. **offsetX,offsetY**
+	- 이벤트 객체의 좌측 상단 기준 
+
