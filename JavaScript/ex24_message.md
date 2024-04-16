@@ -2,7 +2,8 @@
 
 - 메세지 박스(대화 상자) (Dialog box)
 1. void alert(message)
-2. boolean confirm(me)
+2. boolean confirm(message)
+3. string prompt(message , value)
 
 
 ```html
@@ -47,24 +48,6 @@
         document.form1.btn3.onclick = m3;
 
   
-
-        /*
-
-  
-
-        메세지 박스, 대화 상자(Dialog box)
-
-        1. void alert(message)
-
-        2. boolean confirm(message)
-
-        ----------------------------------
-
-        3. string prompt(message, value)
-
-  
-
-        */
 
         function m1(){
 
