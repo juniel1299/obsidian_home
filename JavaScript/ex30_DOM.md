@@ -24,7 +24,11 @@
 ### DOM에서 제공하는 태그 검색 도구(함수) > 1,2,5 많이 씀 
 1. id 검색 > document.getElementById("id")
 2. class 검색 > document.getElementByClassName("class")
-3. name 검색 > document.getElement 
+3. name 검색 > document.getElementByName("name")
+4. tag 검색 > document.getElementByTagName("tag")
+5. CSS 선택자 검색
+	- ES6 추가(2014) > 이전에는 개발자가 직접 만들던가 각종 라이브러리 이용 
+	- document.query
 
 ```html
 <!DOCTYPE html>
