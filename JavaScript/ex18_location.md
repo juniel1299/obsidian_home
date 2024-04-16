@@ -7,4 +7,10 @@
 
 - location.href = 'ex16_window.html'; //쓰기 
 - location.reload(); //새로고침 
-- location.assign
+- location.assign('ex16_window.html');
+
+
+## 전역 이벤트
+- 어떤 상황에서 행동하던지 상관없이 > 항상 발생하는 이벤트 
+window.onkeydown = m2;
+
