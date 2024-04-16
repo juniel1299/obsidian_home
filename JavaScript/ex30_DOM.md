@@ -15,8 +15,13 @@
 - BOM 기능 + 확장 기능 
 - BOM > name 식별자 사용 가능 
 - DOM > name , id , class 등 ... > 태그 검색이 더 쉬워짐 
-- CSS > 
+- CSS 조작 가능 (BOM은 불가능함)
+- DOM Level 1 , 2 , 3 존재 
 
+
+- **BOM의 최상위 객체는 window , DOM의 최상위 객체는 document 이다**
+
+### DOM에서 제공하는 
 
 ```html
 <!DOCTYPE html>
