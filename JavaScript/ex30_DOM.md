@@ -12,7 +12,10 @@
 
 
 ## DOM
-
+- BOM 기능 + 확장 기능 
+- BOM > name 식별자 사용 가능 
+- DOM > name , id , class 등 ... > 태그 검색이 더 쉬워짐 
+- CSS > 
 
 
 ```html
