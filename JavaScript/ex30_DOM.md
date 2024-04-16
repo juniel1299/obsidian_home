@@ -2,7 +2,17 @@
 	- Browser Object Model
 		- 트리 구조 
 		- 일부 태그
-		- 
+		- 기능 부족
+
+2. DOM
+	- Document Object Model
+		- 트리 구조 
+		- 모든 태그 조작 
+		- 기능 풍부 
+
+
+## DOM
+
 
 
 ```html
