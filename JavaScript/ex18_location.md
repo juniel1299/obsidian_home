@@ -7,4 +7,4 @@
 
 - location.href = 'ex16_window.html'; //쓰기 
 - location.reload(); //새로고침 
-- 
+- location.assign
