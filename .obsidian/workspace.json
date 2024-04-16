@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/ex15_attribute.md",
+                "file": "JavaScript/ex16_child.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/ex15_attribute.md",
+                "file": "JavaScript/ex16_child.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/ex15_attribute.md",
+                "file": "JavaScript/ex16_child.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/ex15_attribute.md"
+                "file": "JavaScript/ex16_child.md"
               }
             }
           },
@@ -196,8 +196,9 @@
   },
   "active": "a6a5fb9165faae7c",
   "lastOpenFiles": [
-    "JavaScript/ex14_key.md",
     "JavaScript/ex15_attribute.md",
+    "JavaScript/ex16_child.md",
+    "JavaScript/ex14_key.md",
     "JavaScript/ex13_mouseevent.md",
     "JavaScript/ex12_event.md",
     "JavaScript/ex11_BOM.md",
@@ -223,7 +224,6 @@
     "css/ex61_grid.md",
     "JavaScript",
     "css/ex60_media.md",
-    "css/ex59_content.md",
     "컴퓨터이론",
     "알고리즘 정리/탐색/이진 탐색 예시 문제",
     "알고리즘 정리/탐색/BFS 예시 문제",
