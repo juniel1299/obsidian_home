@@ -1,3 +1,12 @@
+# 자바스크립트의 타이머 
+1. id setTimeout(할일, 시간)
+	- 1회용 타이머 
+
+2. id setInterval(할일, 시간)
+	- 반복 타이머 
+
+3. void clearTimeout 
+
 ```html
 <!DOCTYPE html>
 
@@ -125,33 +134,7 @@
 
   
 
-        /*
 
-            타이머, Timer
-
-  
-
-            1. id setTimeout(할일, 시간)
-
-                - 1회성 타이머
-
-  
-
-            2. id setInterval(할일, 시간)
-
-                - 반복 타이머
-
-  
-
-            3. void clearTimeout(id)
-
-  
-
-            4. void clearInterval(id)
-
-  
-
-        */
 
   
 
