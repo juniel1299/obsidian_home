@@ -12,5 +12,32 @@
 
 ## 전역 이벤트
 - 어떤 상황에서 행동하던지 상관없이 > 항상 발생하는 이벤트 
+
+```html
+
 window.onkeydown = m2;
+
+
+        function m2() {
+
+            //alert(event.keyCode);
+
+            //78, 71, 68
+
+            if (event.keyCode == 78) {
+
+                location.href = 'https://naver.com';
+
+            } else if (event.keyCode == 71) {
+
+                location.href = 'https://google.com';
+
+            } else if (event.keyCode == 68) {
+
+                location.href = 'https://daum.net';
+
+            }
+
+        }
+```
 
