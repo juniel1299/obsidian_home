@@ -21,7 +21,10 @@
 
 - **BOM의 최상위 객체는 window , DOM의 최상위 객체는 document 이다**
 
-### DOM에서 제공하는 
+### DOM에서 제공하는 태그 검색 도구(함수) > 1,2,5 많이 씀 
+1. id 검색 > document.getElementById("id")
+2. class 검색 > document.getElementByClassName("class")
+3. name 검색 > document.getElement 
 
 ```html
 <!DOCTYPE html>
