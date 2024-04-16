@@ -5,7 +5,10 @@
 2. id setInterval(할일, 시간)
 	- 반복 타이머 
 
-3. void clearTimeout 
+3. void clearTimeout(id)
+
+4. void clearInterval(id)
+
 
 ```html
 <!DOCTYPE html>
