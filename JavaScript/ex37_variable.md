@@ -7,4 +7,5 @@
 - 상수 선언 불가능 (final)
 
 2. let
-- ES6()
+- ES6(ECMAScript 2015)
+- 
