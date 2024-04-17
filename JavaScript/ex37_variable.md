@@ -8,4 +8,7 @@
 
 2. let
 - ES6(ECMAScript 2015)
+- block-scoped(함수, 제어문)
+- 중복 선언 불가능
+- 변수 
 - 
