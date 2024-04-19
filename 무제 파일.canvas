@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"723336c6496bbadb","x":-420,"y":-280,"width":250,"height":60,"type":"text","text":"태그를 달지 않고 어떤 가게에서 \n\n"},
-		{"id":"0fc196f08aaf181f","x":-120,"y":-280,"width":250,"height":60,"type":"text","text":""}
+		{"id":"723336c6496bbadb","x":-420,"y":-280,"width":250,"height":280,"type":"text","text":"태그를 달지 않고 \n결제 가게의 이름을 보고\n태그를 자동으로 달아주는 형태\n\n\n"},
+		{"id":"0fc196f08aaf181f","x":-60,"y":-170,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[]
 }
