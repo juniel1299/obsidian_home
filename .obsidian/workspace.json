@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f33e25bec4e1ef13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0419.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -115,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/ex37_variable.md",
+                "file": "0419.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/ex37_variable.md",
+                "file": "0419.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/ex37_variable.md"
+                "file": "0419.md"
               }
             }
           },
@@ -194,10 +206,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a6a5fb9165faae7c",
+  "active": "f33e25bec4e1ef13",
   "lastOpenFiles": [
-    "JavaScript/ex36_axis.md",
     "JavaScript/ex37_variable.md",
+    "0419.md",
+    "JavaScript/ex36_axis.md",
     "JavaScript/ex35_manipulation.md",
     "JavaScript/ex34_event.md",
     "JavaScript/ex31_content.md",
@@ -221,7 +234,6 @@
     "JavaScript/ex14_key.md",
     "JavaScript/ex13_mouseevent.md",
     "JavaScript/ex12_event.md",
-    "JavaScript/ex11_BOM.md",
     "Excalidraw",
     "JavaScript",
     "컴퓨터이론",
