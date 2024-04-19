@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"723336c6496bbadb","x":-420,"y":-280,"width":250,"height":60,"type":"text","text":"태그를 달지 않고 어떤 가게에서 \n\n"},
+		{"id":"0fc196f08aaf181f","x":-120,"y":-280,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[]
+}
