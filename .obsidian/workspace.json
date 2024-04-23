@@ -30,24 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f33e25bec4e1ef13",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "무제 파일.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,7 +194,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "f33e25bec4e1ef13",
+  "active": "408fbe75a45775cf",
   "lastOpenFiles": [
     "0419.md",
     "무제 파일.canvas",
