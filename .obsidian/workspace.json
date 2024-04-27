@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4453d48225c52a7d",
+        "id": "13a83a036817df42",
         "type": "tabs",
         "children": [
           {
-            "id": "d3cf1a6469daeec9",
+            "id": "38cbdc19f53670b2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/ex08_string.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6a5fb9165faae7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "포트폴리오 작성 할 때 쓸거.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "포트폴리오 작성 할 때 쓸거.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "포트폴리오 작성 할 때 쓸거.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "포트폴리오 작성 할 때 쓸거.md"
+              }
             }
           },
           {
@@ -173,12 +194,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d3cf1a6469daeec9",
+  "active": "a6a5fb9165faae7c",
   "lastOpenFiles": [
-    "JavaScript/ex08_string.md",
-    "JavaScript/ex37_variable.md",
     "무제 파일.canvas",
     "0419.md",
+    "JavaScript/ex37_variable.md",
     "JavaScript/ex36_axis.md",
     "JavaScript/ex35_manipulation.md",
     "JavaScript/ex34_event.md",
