@@ -151,4 +151,4 @@ src/main/resources -> log4j2.xml
       >"view.jsp"
 	 > "add.jsp"
 	
-
+- src/test/java > "com.test.code.dao" > 
