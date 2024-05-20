@@ -11,8 +11,12 @@
             "id": "f0470b22d64aba05",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spring MVC/Code 프로젝트.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -86,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spring MVC/Code 프로젝트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spring MVC/Code 프로젝트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spring MVC/Code 프로젝트.md"
+              }
             }
           },
           {
@@ -183,6 +191,8 @@
   },
   "active": "f0470b22d64aba05",
   "lastOpenFiles": [
+    "Spring MVC/Code 프로젝트.md",
+    "Spring MVC",
     "포트폴리오 작성 할 때 쓸거.md",
     "JavaScript/ex08_string.md",
     "Spaces/Home",
@@ -211,7 +221,6 @@
     "JavaScript/ex17_screen.md",
     "JavaScript/ex16_child.md",
     "JavaScript/ex15_attribute.md",
-    "JavaScript/ex14_key.md",
     "Excalidraw",
     "JavaScript",
     "컴퓨터이론",
@@ -219,7 +228,6 @@
     "알고리즘 정리/탐색/BFS 예시 문제",
     "알고리즘 정리/선형구조/큐 예시 문제",
     "알고리즘 정리/브루트포스(Brute Force)/예시 문제",
-    "알고리즘 정리/구현 문제/예시 문제",
     "알고리즘 정리/이미지 폴더/DFS 이미지.gif",
     "알고리즘 정리/이미지 폴더/BFS 이미지.gif",
     "알고리즘 정리/이미지 폴더/그리디 알고리즘 이미지.png",
