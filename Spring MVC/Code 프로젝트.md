@@ -94,6 +94,7 @@ ojdbc8.jar
 - Log4j \>  Logback \> Log4j2 
 
 - pom.xml \> 기존 log4j 의존성 제거  
+- pom.xml > log4j2 의존성을 추가한다.
 
 
 
