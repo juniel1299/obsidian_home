@@ -129,3 +129,7 @@ src/main/resources -> log4j2.xml
 - DEBUG : 디버깅 모드 시 사용하는 메세지 출력 
 - TRACE : 가장 상세한 레벨의 메세지 출력 
 밑에껄 고르면 위에꺼까지 포함됨 
+
+
+9. 리소스
+s
