@@ -147,9 +147,8 @@ src/main/resources -> log4j2.xml
 					> "CodeDAOImpl.java(C)"
 					
 - "com.test.code.dto" > "CodeDTO.java"
-
-- views > "list.jsp"
->"view.jsp"
+ views > "list.jsp"
+      >"view.jsp"
 	 > "add.jsp"
 	
 
