@@ -32,26 +32,26 @@
 
 4. jUnit
 - pom.xml
-<dependency>
-	<groupId>junit</groupId>
-	<artifactId>junit</artifactId>
-	<version>4.13.2</version>
-	<scope>test</scope>
-</dependency>
-<dependency>
-	<groupId>org.springframework</groupId>
-	<artifactId>spring-test</artifactId>
-	<version>${org.springframework-version}</version>
-</dependency>
+\<dependency>
+\	<groupId>junit</groupId>
+\	<artifactId>junit</artifactId>
+\	<version>4.13.2</version>
+\	<scope>test</scope>
+\</dependency>
+\<dependency>
+\	<groupId>org.springframework</groupId>
+\	<artifactId>spring-test</artifactId>
+\	<version>${org.springframework-version}</version>
+\</dependency>
 
 5. Lombok
 - pom.xml
-<dependency>
-    <groupId>org.projectlombok</groupId>
-    <artifactId>lombok</artifactId>
-    <version>1.18.30</version>
-    <scope>provided</scope>
-</dependency>
+\<dependency>
+\    <groupId>org.projectlombok</groupId>
+\    <artifactId>lombok</artifactId>
+\    <version>1.18.30</version>
+\    <scope>provided</scope>
+\</dependency>
 
 6. MyBatis 의존성 추가
 \<dependency>
@@ -93,7 +93,7 @@ ojdbc8.jar
 - 로깅 라이브러리
 - Log4j \>  Logback \> Log4j2 
 
-
+- pom.xml \> 기존 log4j 의존성 제거 
 
 
 
