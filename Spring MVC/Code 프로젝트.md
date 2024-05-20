@@ -134,3 +134,8 @@ src/main/resources -> log4j2.xml
 9. 리소스
 - src/main/resources > "mapper" > "code.xml"
 - src/main/resources > "config" > "mybatis-config.xml"
+
+10. 중간 점검 
+- src/test/java > com.test.code > "DBTest.java"
+
+11. D
