@@ -138,4 +138,6 @@ src/main/resources -> log4j2.xml
 10. 중간 점검 
 - src/test/java > com.test.code > "DBTest.java"
 
-11. D
+11. DB
+- Code > "script.sql"
+
