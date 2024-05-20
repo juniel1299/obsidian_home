@@ -54,22 +54,22 @@
 </dependency>
 
 6. MyBatis 의존성 추가
-<dependency>
-	<groupId>org.mybatis</groupId>
-	<artifactId>mybatis</artifactId>
-	<version>3.5.2</version>
-</dependency>
-<dependency>
-	<groupId>org.mybatis</groupId>
-	<artifactId>mybatis-spring</artifactId>
-	<version>1.3.2</version>
-</dependency>
+\<dependency>
+\	<groupId>org.mybatis</groupId>
+\	<artifactId>mybatis</artifactId>
+\	<version>3.5.2</version>
+\</dependency>
+\<dependency>
+\	<groupId>org.mybatis</groupId>
+\	<artifactId>mybatis-spring</artifactId>
+\	<version>1.3.2</version>
+\</dependency>
 
-<dependency>
-	<groupId>org.springframework</groupId>
-	<artifactId>spring-tx</artifactId>
-	<version>${org.springframework-version}</version>
-</dependency>
+\<dependency>
+\	<groupId>org.springframework</groupId>
+\	<artifactId>spring-tx</artifactId>
+\	<version>${org.springframework-version}</version>
+\</dependency>
 \<dependency>
 	\<groupId>org.springframework</groupId>
 \	<artifactId>spring-jdbc</artifactId>
@@ -89,7 +89,9 @@ ojdbc8.jar
 
 
 
-
+8. Log4j
+- 로깅 라이브러리
+- Log4j \> 
 
 
 
