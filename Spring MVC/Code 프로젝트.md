@@ -93,7 +93,7 @@ ojdbc8.jar
 - 로깅 라이브러리
 - Log4j \>  Logback \> Log4j2 
 
-- pom.xml \> 기존 log4j 의존성 제거 
+- pom.xml \> 기존 log4j 의존성 제거  
 
 
 
