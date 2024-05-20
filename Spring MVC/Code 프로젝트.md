@@ -120,5 +120,12 @@ Log4j2
 		\</dependency>
 
 
+src/main/resources -> log4j2.xml 
 
-
+- FATAL
+- ERROR
+- WARN
+- INFO
+- DEBUG
+- TRACE
+밑에껄 고르면 위에꺼까지 포함됨 
