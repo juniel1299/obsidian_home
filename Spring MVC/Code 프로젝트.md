@@ -146,3 +146,4 @@ src/main/resources -> log4j2.xml
 - "com.test.code.dao" > "CodeDAO.java(I)"
 					> "CodeDAOImpl.java(C)"
 					
+- "com.test.code.dto" > "CodeDTO.java"
