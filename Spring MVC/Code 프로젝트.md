@@ -122,9 +122,9 @@ Log4j2
 
 src/main/resources -> log4j2.xml 
 
-- FATAL
-- ERROR
-- WARN
+- FATAL : 아주 심각한 에러 발생 , 애플리케이션 동작 불가능한 에러  
+- ERROR : 요청과 관련해서 발생하는 에러 
+- WARN : 처리 가능하지만, 
 - INFO
 - DEBUG
 - TRACE
