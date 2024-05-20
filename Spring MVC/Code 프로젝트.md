@@ -91,7 +91,7 @@ ojdbc8.jar
 
 8. Log4j
 - 로깅 라이브러리
-- Log4j \> 
+- Log4j \>  Logback \> Log4j2 
 
 
 
