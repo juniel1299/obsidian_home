@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring MVC/Code 프로젝트.md",
+                "file": "Spring MVC/Spring Tiles 프로젝트.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring MVC/Code 프로젝트.md",
+                "file": "Spring MVC/Spring Tiles 프로젝트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring MVC/Code 프로젝트.md",
+                "file": "Spring MVC/Spring Tiles 프로젝트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring MVC/Code 프로젝트.md"
+                "file": "Spring MVC/Spring Tiles 프로젝트.md"
               }
             }
           },
@@ -192,6 +192,7 @@
   "active": "f0470b22d64aba05",
   "lastOpenFiles": [
     "Spring MVC/Code 프로젝트.md",
+    "Spring MVC/Spring Tiles 프로젝트.md",
     "Spring MVC",
     "포트폴리오 작성 할 때 쓸거.md",
     "JavaScript/ex08_string.md",
@@ -220,7 +221,6 @@
     "JavaScript/ex18_location.md",
     "JavaScript/ex17_screen.md",
     "JavaScript/ex16_child.md",
-    "JavaScript/ex15_attribute.md",
     "Excalidraw",
     "JavaScript",
     "컴퓨터이론",
