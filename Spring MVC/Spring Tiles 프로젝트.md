@@ -24,3 +24,8 @@ Spring Tiles
 
 
 - 관리자 
+	- 로그(admin/log.do)
+	- 환경설정(admin/setting.do)
+
+파일 생성
+- com.test.non
