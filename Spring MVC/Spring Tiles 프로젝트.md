@@ -34,4 +34,17 @@ Spring Tiles
 						
 
 - views \> index.jsp
-		> member > 
+		> member > info.jsp
+				> history.jsp
+				> favorite.jsp
+				
+- views > admin > log.jsp
+			  > setting.jsp
+			  
+
+
+
+
+
+
+
