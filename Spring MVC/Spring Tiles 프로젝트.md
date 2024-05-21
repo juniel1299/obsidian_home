@@ -28,4 +28,10 @@ Spring Tiles
 	- 환경설정(admin/setting.do)
 
 파일 생성
-- com.test.non
+- com.test.nontiles.controller \> MainController.java 
+						> MemberController.java
+						> AdminController.java
+						
+
+- views \> index.jsp
+		> member > 
