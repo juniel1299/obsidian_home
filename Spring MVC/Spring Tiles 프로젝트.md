@@ -45,6 +45,7 @@ Spring Tiles
 - views > inc  > main_menu.jsp  (주메뉴)
 			> member_menu.jsp (보조메뉴)
 			> admin_menu.jsp (보조메뉴)
+			> asset.jsp
 
 
 
