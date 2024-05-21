@@ -12,3 +12,15 @@ Spring Tiles
 - Templates : Spring MVC Project
 - Enter a topLevelPackage : "com.test.nontiles"
 
+구현 기능 
+- 메인 (index.do)
+
+
+- 회원
+	- 회원정보(member/info.do)
+	- 활동내역(member/history.do)
+	- 즐겨찾기(member/favorite.do)
+
+
+
+- 관리자 
