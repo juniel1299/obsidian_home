@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring MVC/Spring AOP.md",
+                "file": "Spring MVC/REST API.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring MVC/Spring AOP.md",
+                "file": "Spring MVC/REST API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring MVC/Spring AOP.md",
+                "file": "Spring MVC/REST API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring MVC/Spring AOP.md"
+                "file": "Spring MVC/REST API.md"
               }
             }
           },
@@ -191,6 +191,8 @@
   },
   "active": "a0e9d07ab388f77c",
   "lastOpenFiles": [
+    "Spring MVC/Spring AOP.md",
+    "Spring MVC/REST API.md",
     "알고리즘 정리/탐색/이진 탐색.md",
     "알고리즘 정리/탐색/깊이 탐색(DFS).md",
     "알고리즘 정리/탐색/그리디(greedy).md",
@@ -199,7 +201,6 @@
     "알고리즘 정리/최단거리 알고리즘/다익스트라 알고리즘(Dijkstra).md",
     "알고리즘 정리/에라토스테네스의 체/에라토스테네스의 체(Sieve of Eratosthenes).md",
     "Excalidraw/Drawing 2024-04-15 08.40.33.excalidraw.md",
-    "Spring MVC/Spring AOP.md",
     "Spring MVC/Spring Tiles 프로젝트.md",
     "Spring MVC/Code 프로젝트.md",
     "Spring MVC",
@@ -220,7 +221,6 @@
     "JavaScript/ex28_select.md",
     "JavaScript/ex27_radio.md",
     "JavaScript/ex26_checkbox.md",
-    "JavaScript/ex25_form.md",
     "Excalidraw",
     "JavaScript",
     "컴퓨터이론",
