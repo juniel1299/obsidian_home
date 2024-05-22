@@ -7,9 +7,10 @@
 				> AOPDAOImpl.java (C)
 - com.test.aop.dto > AOPDTO.java
 
-views > list.jsp
-	> add.jsp
-	> view.jsp
+- views > list.jsp
+	-   >add.jsp
+	-   >view.jsp
 	
+- com.test.aop.aspect > Logger.java
 
 
