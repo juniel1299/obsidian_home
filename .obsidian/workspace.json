@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring MVC/REST API.md",
+                "file": "Spring MVC/WebSocket.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring MVC/REST API.md",
+                "file": "Spring MVC/WebSocket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring MVC/REST API.md",
+                "file": "Spring MVC/WebSocket.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring MVC/REST API.md"
+                "file": "Spring MVC/WebSocket.md"
               }
             }
           },
@@ -191,8 +191,9 @@
   },
   "active": "a0e9d07ab388f77c",
   "lastOpenFiles": [
-    "Spring MVC/Spring AOP.md",
     "Spring MVC/REST API.md",
+    "Spring MVC/WebSocket.md",
+    "Spring MVC/Spring AOP.md",
     "알고리즘 정리/탐색/이진 탐색.md",
     "알고리즘 정리/탐색/깊이 탐색(DFS).md",
     "알고리즘 정리/탐색/그리디(greedy).md",
@@ -220,7 +221,6 @@
     "JavaScript/ex29_timer.md",
     "JavaScript/ex28_select.md",
     "JavaScript/ex27_radio.md",
-    "JavaScript/ex26_checkbox.md",
     "Excalidraw",
     "JavaScript",
     "컴퓨터이론",
