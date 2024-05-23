@@ -32,6 +32,129 @@ REST API
 </dependency>
 
 
+4. jUnit
+<!-- Test -->
+<dependency>
+	<groupId>junit</groupId>
+	<artifactId>junit</artifactId>
+	<version>4.13.2</version>
+	<scope>test</scope>
+</dependency>
+<dependency>
+	<groupId>org.springframework</groupId>
+	<artifactId>spring-test</artifactId>
+	<version>${org.springframework-version}</version>
+</dependency>
+
+5. Lombok
+- pom.xml
+<dependency>
+    <groupId>org.projectlombok</groupId>
+    <artifactId>lombok</artifactId>
+    <version>1.18.30</version>
+    <scope>provided</scope>
+</dependency>
+
+6. MyBatis 의존성 추가
+<dependency>
+	<groupId>org.mybatis</groupId>
+	<artifactId>mybatis</artifactId>
+	<version>3.5.2</version>
+</dependency>
+<dependency>
+	<groupId>org.mybatis</groupId>
+	<artifactId>mybatis-spring</artifactId>
+	<version>1.3.2</version>
+</dependency>
+
+<dependency>
+	<groupId>org.springframework</groupId>
+	<artifactId>spring-tx</artifactId>
+	<version>${org.springframework-version}</version>
+</dependency>
+<dependency>
+	<groupId>org.springframework</groupId>
+	<artifactId>spring-jdbc</artifactId>
+	<version>${org.springframework-version}</version>
+</dependency>
+
+
+7. ojdbc8.jar
+
+
+8. HikariCP
+- pom.xml
+<dependency>
+	<groupId>com.zaxxer</groupId>
+	<artifactId>HikariCP</artifactId>
+	<version>2.7.4</version>
+</dependency>
+
+
+9. Log4j2
+- 로깅 라이브러리
+- Log4j > Logback > Log4j2
+
+- pom.xml > 기존의 log4j 의존성을 제거한다.
+- pom.xml > log4j2 의존성을 추가한다.
+<dependency>
+	<groupId>org.apache.logging.log4j</groupId>
+	<artifactId>log4j-api</artifactId>
+	<version>2.23.1</version>
+</dependency>
+<dependency>
+	<groupId>org.apache.logging.log4j</groupId>
+	<artifactId>log4j-core</artifactId>
+	<version>2.23.1</version>
+</dependency>
+<dependency>
+	<groupId>org.apache.logging.log4j</groupId>
+	<artifactId>log4j-slf4j-impl</artifactId>
+	<version>2.23.1</version>
+	<scope>test</scope>
+</dependency>
+<dependency>
+	<groupId>org.bgee.log4jdbc-log4j2</groupId>
+	<artifactId>log4jdbc-log4j2-jdbc4</artifactId>
+	<version>1.16</version>
+</dependency>
+
+- src/main/resources > log4j.xml > log4j2.xml
+- src/main/resources > log4jdbc.log4j2.properties
+
+
+
+
+결과 = Spring MVC Project + MyBatis + log4j2 + Lombok + jUnit
+
+
+10. 파일 생성
+- RESTfulTest > "script.sql"
+
+- "com.test.rest.controller" > "AddressController.java"
+- "com.test.rest.dao" > "AddressDAO.java"(I)
+                      > "AddressDAOImpl.java"(C)
+- "com.test.rest.dto" > "AddressDTO.java"
+
+- views > 생성(X)
+
+
+11. REST Client
+- CURL
+- Postman
+- Insomnia
+- VS Code(Thunder Client)
+- VS Code(REST Client)
+- Swagger(API 명세) > springfox, springdocs
+
+
+
+
+
+
+
+
+
 
 
 
@@ -40,6 +163,7 @@ REST API, RESTful Service
 - 웹상의 자원(문서, 이미지, 동영상, 데이터 등)을 자원명으로 표시해서 자원의 상태를 주고 받기 행위
 - HTTP URI를 통해서 자원을 명시하고, HTTP Method를 통해서 자원에 대한 CRUD 처리하는 방식
 - 기존에 생성하는 URL의 형식(X) > 별도의 규칙을 만족하는 URL을 생성(O)
+- 표준이 없다.
 
 URI 작성
 1. 기존 방식
@@ -74,22 +198,11 @@ REST API 설계 규칙
 10. REST API의 요청 결과(반환값)는 순수 데이터만 반환한다.
 	- 기본 방식: 페이지를 반환 > 브라우저 출력
 	- REST 방식: 순수 데이터를 반환 > 다양한 클라이언트들이 제각기 목적과 상황에 맞게 데이터를 사용
-
-
-
+	
+	
 REST API 구현 서비스
 1. Ajax 용
 2. Open API 
-
-
-11. REST Client
-- CURL
-- Postman
-- Insomnia
-- Thunder Client
-- Swagger(API 명세) > springfox, springdocs
-
-
 
 
 
