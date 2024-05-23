@@ -147,11 +147,34 @@ REST API
 - VS Code(REST Client)
 - Swagger(API 명세) > springfox, springdocs
 
+12. Swagger
+- REST Client 역할
+- REST API 명세서(도움말) > 관리 용이, 제 3자 편리하게 사용
+- 2011년
 
 
+12.1 pom.xml
+<!-- Swagger -->
+<dependency>
+	<groupId>io.springfox</groupId>
+	<artifactId>springfox-swagger2</artifactId>
+	<version>2.9.2</version>
+</dependency>
 
+<dependency>
+	<groupId>io.springfox</groupId>
+	<artifactId>springfox-swagger-ui</artifactId>
+	<version>2.9.2</version>
+</dependency>
 
+12.2 SwaggerConfig
+- "com.test.rest.config" > "SwaggerConfig.java"
 
+12.3 servlet-context.xml
+- resources location 추가
+
+12.4 실행
+- http://localhost:8080/rest/swagger-ui.html
 
 
 
@@ -206,8 +229,7 @@ REST API 구현 서비스
 
 
 
-12.2 SwaggerConfig
-- com.test.rest
+
 
 
 
