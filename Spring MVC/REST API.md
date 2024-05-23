@@ -206,7 +206,8 @@ REST API 구현 서비스
 
 
 
-
+12.2 SwaggerConfig
+- com.test.rest
 
 
 
