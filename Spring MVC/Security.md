@@ -8,3 +8,6 @@ security-context.xml 위에 버전 지워야 정상동작
 - 실행
 	- index.do
 	- member.do
+
+21. 단순 로그인 처리 
+- 
