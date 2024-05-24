@@ -354,4 +354,4 @@ CSRF, Cross-site request forgery
 
 
 
-
+28. 미리 정해진 구종
