@@ -318,10 +318,10 @@ or
 - 실패 이유 > CSRF
 
 CSRF, Cross-site request forgery
-- \<securty:csrf disabled="true" />
+- <securty:csrf disabled="true" />
 
 - customlogin.jsp > CSRF 토큰 추가
-	- \<input type="hidden" name="${_csrf.parameterName}" value="${_csrf.token}">
+	- <input type="hidden" name="${_csrf.parameterName}" value="${_csrf.token}">
 
 
 25. 로그인 성공 > 후속 동작 처리
@@ -345,8 +345,12 @@ CSRF, Cross-site request forgery
 - InMemoryUserDetailsManager 방식
 	- \<security:user name="hong" password+"{noop}1111" authorities="ROLE_MEMBER"/\>
 
+- JDBC 기반의 계정 정보
+	- 미리 정해진 구조의 스키마 사용 > 편함 + 제약 발생
+	- 사용자가 직접 만든 구조의 스키마 사용 > 직접 구현
 
 
+- SecurityTest > "script.sql"
 
 
 
