@@ -355,4 +355,7 @@ CSRF, Cross-site request forgery
 
 
 28. 미리 정해진 구조의 스키마 사용 
-	- 
+	- script.sql > 테이블 생성 + 계정 생성
+	- security-context.xml > JDBC 기반의 인증 작업 설정 
+
+
