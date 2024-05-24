@@ -354,4 +354,5 @@ CSRF, Cross-site request forgery
 
 
 
-28. 미리 정해진 구종
+28. 미리 정해진 구조의 스키마 사용 
+	- 
