@@ -359,3 +359,7 @@ CSRF, Cross-site request forgery
 	- security-context.xml > JDBC 기반의 인증 작업 설정 
 
 
+29. PasswordEnder 문제 해결 
+- 스프링 시큐리티 5 부터 PasswordEnder 사용이 필수
+- 위의 상황은 임시로 '{noop}' 붙여서 문제를 잠시 무시
+- 데이터베이스를 사용하려면 
