@@ -365,5 +365,8 @@ CSRF, Cross-site request forgery
 - 데이터베이스를 사용하려면 반드시 PasswordEncoder를 사용해야 한다.
 - PasswordEncoder > 암호화 작업 
 
-30. 사용자가 직접 만든 구조의 스키마 사용 
-31. 
+30. 사용자가 직접 만든 구조의 스키마 사용
+
+
+31. 사용자 계정 생성하기 
+- member + member_auth > 계정 추가 
