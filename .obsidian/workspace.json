@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "포트폴리오 작성 할 때 쓸거.md",
+                "file": "블로그 글 아이디어 정리/카프카 변신 (우린 우리 그 자체로 사랑 받을 수 없는가).md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "포트폴리오 작성 할 때 쓸거.md",
+                "file": "블로그 글 아이디어 정리/카프카 변신 (우린 우리 그 자체로 사랑 받을 수 없는가).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "포트폴리오 작성 할 때 쓸거.md",
+                "file": "블로그 글 아이디어 정리/카프카 변신 (우린 우리 그 자체로 사랑 받을 수 없는가).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "포트폴리오 작성 할 때 쓸거.md"
+                "file": "블로그 글 아이디어 정리/카프카 변신 (우린 우리 그 자체로 사랑 받을 수 없는가).md"
               }
             }
           },
@@ -196,12 +196,14 @@
   },
   "active": "a6a5fb9165faae7c",
   "lastOpenFiles": [
-    "Spring MVC/WebSocket.md",
+    "Spring MVC/Security.md",
+    "블로그 글 아이디어 정리/카프카 변신 (우린 우리 그 자체로 사랑 받을 수 없는가).md",
     "Spring MVC/Spring Tiles 프로젝트.md",
+    "Spring MVC/WebSocket.md",
+    "포트폴리오 작성 할 때 쓸거.md",
     "Spring MVC/Spring AOP.md",
     "Spring MVC/REST API.md",
     "Spring MVC/Code 프로젝트.md",
-    "Spring MVC/Security.md",
     "Spring MVC",
     "무제 파일.canvas",
     "0419.md",
@@ -222,8 +224,6 @@
     "JavaScript/ex22_image.md",
     "JavaScript/ex21_link.md",
     "JavaScript/ex20_collection.md",
-    "JavaScript/ex19_history.md",
-    "JavaScript/ex18_location.md",
     "Excalidraw",
     "JavaScript",
     "컴퓨터이론",
