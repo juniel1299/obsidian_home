@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "773630bc7d519ae0",
+        "id": "13a83a036817df42",
         "type": "tabs",
         "children": [
           {
-            "id": "c63bf96c3ce76c65",
+            "id": "38cbdc19f53670b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring MVC/Security.md",
+                "file": "JavaScript/ex08_string.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6a5fb9165faae7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "블로그 글 아이디어 정리/카프카 변신 (우린 우리 그 자체로 사랑 받을 수 없는가).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,14 +93,6 @@
               "type": "mk-path-view",
               "state": {}
             }
-          },
-          {
-            "id": "af5c345bec08d6be",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
           }
         ],
         "currentTab": 5
@@ -110,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring MVC/Security.md",
+                "file": "블로그 글 아이디어 정리/카프카 변신 (우린 우리 그 자체로 사랑 받을 수 없는가).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring MVC/Security.md",
+                "file": "블로그 글 아이디어 정리/카프카 변신 (우린 우리 그 자체로 사랑 받을 수 없는가).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring MVC/Security.md"
+                "file": "블로그 글 아이디어 정리/카프카 변신 (우린 우리 그 자체로 사랑 받을 수 없는가).md"
               }
             }
           },
@@ -179,37 +184,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c63bf96c3ce76c65",
+  "active": "a6a5fb9165faae7c",
   "lastOpenFiles": [
-    "포트폴리오 작성 할 때 쓸거.md",
     "Spring MVC/Security.md",
-    "Spring MVC/WebSocket.md",
-    "Spring MVC/REST API.md",
-    "Spring MVC/Spring AOP.md",
-    "알고리즘 정리/탐색/이진 탐색.md",
-    "알고리즘 정리/탐색/깊이 탐색(DFS).md",
-    "알고리즘 정리/탐색/그리디(greedy).md",
-    "알고리즘 정리/최단거리 알고리즘/Astar 알고리즘.md",
-    "알고리즘 정리/최단거리 알고리즘/최단거리 알고리즘 정리.md",
-    "알고리즘 정리/최단거리 알고리즘/다익스트라 알고리즘(Dijkstra).md",
-    "알고리즘 정리/에라토스테네스의 체/에라토스테네스의 체(Sieve of Eratosthenes).md",
-    "Excalidraw/Drawing 2024-04-15 08.40.33.excalidraw.md",
+    "블로그 글 아이디어 정리/카프카 변신 (우린 우리 그 자체로 사랑 받을 수 없는가).md",
     "Spring MVC/Spring Tiles 프로젝트.md",
+    "Spring MVC/WebSocket.md",
+    "포트폴리오 작성 할 때 쓸거.md",
+    "Spring MVC/Spring AOP.md",
+    "Spring MVC/REST API.md",
     "Spring MVC/Code 프로젝트.md",
     "Spring MVC",
-    "JavaScript/ex08_string.md",
-    "Spaces/Home",
-    "Spaces",
     "무제 파일.canvas",
     "0419.md",
     "JavaScript/ex37_variable.md",
@@ -221,6 +216,14 @@
     "JSP/기초.md",
     "JavaScript/ex29_timer.md",
     "JavaScript/ex28_select.md",
+    "JavaScript/ex27_radio.md",
+    "JavaScript/ex26_checkbox.md",
+    "JavaScript/ex25_form.md",
+    "JavaScript/ex24_message.md",
+    "JavaScript/ex23_event.md",
+    "JavaScript/ex22_image.md",
+    "JavaScript/ex21_link.md",
+    "JavaScript/ex20_collection.md",
     "Excalidraw",
     "JavaScript",
     "컴퓨터이론",
@@ -228,6 +231,8 @@
     "알고리즘 정리/탐색/BFS 예시 문제",
     "알고리즘 정리/선형구조/큐 예시 문제",
     "알고리즘 정리/브루트포스(Brute Force)/예시 문제",
+    "알고리즘 정리/구현 문제/예시 문제",
+    "알고리즘 정리/구현 문제",
     "알고리즘 정리/이미지 폴더/DFS 이미지.gif",
     "알고리즘 정리/이미지 폴더/BFS 이미지.gif",
     "알고리즘 정리/이미지 폴더/그리디 알고리즘 이미지.png",
