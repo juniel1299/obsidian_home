@@ -23,11 +23,14 @@
             "id": "a6a5fb9165faae7c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "블로그 글 아이디어 정리/카프카 변신 (우린 우리 그 자체로 사랑 받을 수 없는가).md",
-                "mode": "source",
-                "source": false
+                "file": "무제 파일 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -95,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -115,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "블로그 글 아이디어 정리/카프카 변신 (우린 우리 그 자체로 사랑 받을 수 없는가).md",
+                "file": "무제 파일 1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "블로그 글 아이디어 정리/카프카 변신 (우린 우리 그 자체로 사랑 받을 수 없는가).md",
+                "file": "무제 파일 1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "블로그 글 아이디어 정리/카프카 변신 (우린 우리 그 자체로 사랑 받을 수 없는가).md"
+                "file": "무제 파일 1.canvas"
               }
             }
           },
@@ -196,8 +199,9 @@
   },
   "active": "a6a5fb9165faae7c",
   "lastOpenFiles": [
-    "Spring MVC/Security.md",
     "블로그 글 아이디어 정리/카프카 변신 (우린 우리 그 자체로 사랑 받을 수 없는가).md",
+    "무제 파일 1.canvas",
+    "Spring MVC/Security.md",
     "Spring MVC/Spring Tiles 프로젝트.md",
     "Spring MVC/WebSocket.md",
     "포트폴리오 작성 할 때 쓸거.md",
@@ -223,7 +227,6 @@
     "JavaScript/ex23_event.md",
     "JavaScript/ex22_image.md",
     "JavaScript/ex21_link.md",
-    "JavaScript/ex20_collection.md",
     "Excalidraw",
     "JavaScript",
     "컴퓨터이론",
