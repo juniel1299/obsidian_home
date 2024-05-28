@@ -16,4 +16,5 @@ Spring Boot 프로젝트 구조
 - src/main/resources 
 	- static
 	- templates
-	- application.properties
+	- application.properties + 
+		- 스프링 부트의ㅏ 대부분 설정
