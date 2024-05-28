@@ -10,4 +10,7 @@
 
 Spring Boot 프로젝트 구조 
 - src/main/java 
-	- 이전과 동일 > 자바 소스 폴더 > 패키지 + 소스
+	- 이전과 동일 > 자바 소스 폴더 > 패키지 + 소스(.java)
+	- BootBeginApplication.java > 메인 클래스 (main() 소유) , 시작점
+
+- src/main/resources 
