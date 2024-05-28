@@ -14,3 +14,6 @@ Spring Boot 프로젝트 구조
 	- BootBeginApplication.java > 메인 클래스 (main() 소유) , 시작점
 
 - src/main/resources 
+	- static
+	- templates
+	- application.properties
