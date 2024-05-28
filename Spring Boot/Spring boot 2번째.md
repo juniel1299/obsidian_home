@@ -15,4 +15,4 @@ JSP 설정
 - JSP 설정
 
 3. 파일 생성
-- com.test.bootjsp.controller >
+- com.test.bootjsp.controller > TestController.java
