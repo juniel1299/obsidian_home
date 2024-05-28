@@ -9,3 +9,10 @@ JSP 설정
 		f. testRuntimeOnly > 테스트 런타임 할 때만 사용
 		g. testImplementation > 테스트 코드 컴파일 + 런타임 사용
 		h. developmentOnly > 개발때만 사용 + 배포 할 때 제외
+
+
+2. application.yml
+- JSP 설정
+
+3. 파일 생성
+- com.test.bootjsp.controller >
