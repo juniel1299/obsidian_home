@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring MVC/Security.md",
+                "file": "Spring Boot/Spring Boot 1번째 .md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring MVC/Security.md",
+                "file": "Spring Boot/Spring Boot 1번째 .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring MVC/Security.md",
+                "file": "Spring Boot/Spring Boot 1번째 .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring MVC/Security.md"
+                "file": "Spring Boot/Spring Boot 1번째 .md"
               }
             }
           },
@@ -189,11 +189,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "408fbe75a45775cf",
+  "active": "c63bf96c3ce76c65",
   "lastOpenFiles": [
+    "Spring MVC/Security.md",
+    "Spring Boot/Spring Boot 1번째 .md",
+    "Spring Boot",
     "블로그 글 아이디어 정리/카프카 변신 (우린 우리 그 자체로 사랑 받을 수 없는가).md",
     "포트폴리오 작성 할 때 쓸거.md",
-    "Spring MVC/Security.md",
     "Spring MVC/WebSocket.md",
     "Spring MVC/REST API.md",
     "Spring MVC/Spring AOP.md",
@@ -220,14 +222,12 @@
     "JavaScript/ex31_content.md",
     "JavaScript/ex30_DOM.md",
     "JSP/기초.md",
-    "JavaScript/ex29_timer.md",
     "Excalidraw",
     "JavaScript",
     "컴퓨터이론",
     "알고리즘 정리/탐색/이진 탐색 예시 문제",
     "알고리즘 정리/탐색/BFS 예시 문제",
     "알고리즘 정리/선형구조/큐 예시 문제",
-    "알고리즘 정리/브루트포스(Brute Force)/예시 문제",
     "알고리즘 정리/이미지 폴더/DFS 이미지.gif",
     "알고리즘 정리/이미지 폴더/BFS 이미지.gif",
     "알고리즘 정리/이미지 폴더/그리디 알고리즘 이미지.png",
