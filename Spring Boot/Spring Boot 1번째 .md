@@ -18,7 +18,8 @@ Spring Boot 프로젝트 구조
 		- 정적 웹 자원(HTML,CSS,JavaScript,이미지 등)
 		- 루트 컨텍스트 밑에 바로 적으면 됨 
 	- templates
-		- 
+		- 이전의 views 폴더 
+		- 뷰 파일 저장 
 	- application.properties + Java Configuration
 		- 스프링 부트의 대부분 설정
 		- application.properties
