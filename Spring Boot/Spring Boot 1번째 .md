@@ -28,3 +28,7 @@ Spring Boot 프로젝트 구조
 - src/test/java
 	- 단위 테스트
 	- 단위 테스트를 위한 설정이 이미 완료
+
+- build.gradle
+	- Gradle 빌드 도구의 설정 파일
+	- pom.xml 과 같은 역할  
