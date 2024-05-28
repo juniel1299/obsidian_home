@@ -24,3 +24,7 @@ Spring Boot 프로젝트 구조
 		- 스프링 부트의 대부분 설정
 		- application.properties
 		- application.yml
+
+- src/test/java
+	- 단위 테스트
+	- 단위 테스트를 위한 설정이 이미 완료
