@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Boot/Spring boot 2번째.md",
+                "file": "Spring Boot/Thymeleaf.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring Boot/Spring boot 2번째.md",
+                "file": "Spring Boot/Thymeleaf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring Boot/Spring boot 2번째.md",
+                "file": "Spring Boot/Thymeleaf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Boot/Spring boot 2번째.md"
+                "file": "Spring Boot/Thymeleaf.md"
               }
             }
           },
@@ -191,8 +191,9 @@
   },
   "active": "c63bf96c3ce76c65",
   "lastOpenFiles": [
-    "Spring Boot/Spring Boot 1번째 .md",
     "Spring Boot/Spring boot 2번째.md",
+    "Spring Boot/Thymeleaf.md",
+    "Spring Boot/Spring Boot 1번째 .md",
     "Spring MVC/Security.md",
     "Spring Boot",
     "블로그 글 아이디어 정리/카프카 변신 (우린 우리 그 자체로 사랑 받을 수 없는가).md",
@@ -221,7 +222,6 @@
     "JavaScript/ex35_manipulation.md",
     "JavaScript/ex34_event.md",
     "JavaScript/ex31_content.md",
-    "JavaScript/ex30_DOM.md",
     "Excalidraw",
     "JavaScript",
     "컴퓨터이론",
