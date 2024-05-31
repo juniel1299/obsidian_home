@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Boot/Thymeleaf.md",
+                "file": "Spring Boot/JPA.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring Boot/Thymeleaf.md",
+                "file": "Spring Boot/JPA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring Boot/Thymeleaf.md",
+                "file": "Spring Boot/JPA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Boot/Thymeleaf.md"
+                "file": "Spring Boot/JPA.md"
               }
             }
           },
@@ -191,11 +191,12 @@
   },
   "active": "c63bf96c3ce76c65",
   "lastOpenFiles": [
+    "Spring Boot/Thymeleaf.md",
+    "Spring Boot/JPA.md",
     "무제 파일 1.canvas",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2024-05-27 18.16.42.excalidraw.md",
     "Spring Boot/Spring boot 2번째.md",
-    "Spring Boot/Thymeleaf.md",
     "Spring Boot/Spring Boot 1번째 .md",
     "Spring MVC/Security.md",
     "Spring Boot",
