@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "773630bc7d519ae0",
+        "id": "c06cc844041f0142",
         "type": "tabs",
         "children": [
           {
-            "id": "c63bf96c3ce76c65",
+            "id": "be536cb588e295a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Boot/JPA.md",
+                "file": "알고리즘 정리/1)정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring Boot/JPA.md",
+                "file": "알고리즘 정리/1)정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring Boot/JPA.md",
+                "file": "알고리즘 정리/1)정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Boot/JPA.md"
+                "file": "알고리즘 정리/1)정리.md"
               }
             }
           },
@@ -189,10 +189,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c63bf96c3ce76c65",
+  "active": "be536cb588e295a8",
   "lastOpenFiles": [
-    "Spring Boot/Thymeleaf.md",
+    "알고리즘 정리/이미지 폴더/버블정렬이미지.gif",
+    "알고리즘 정리/이미지 폴더/배열 이미지.png",
+    "알고리즘 정리/이미지 폴더/데크 이미지.png",
+    "알고리즘 정리/이미지 폴더/무방향 그래프 이미지.png",
+    "알고리즘 정리/이미지 폴더/가중치 그래프 이미지.png",
     "Spring Boot/JPA.md",
+    "Spring Boot/Thymeleaf.md",
     "무제 파일 1.canvas",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2024-05-27 18.16.42.excalidraw.md",
@@ -222,7 +227,6 @@
     "무제 파일.canvas",
     "0419.md",
     "JavaScript/ex37_variable.md",
-    "JavaScript/ex36_axis.md",
     "Excalidraw",
     "JavaScript",
     "컴퓨터이론",
@@ -234,10 +238,6 @@
     "알고리즘 정리/이미지 폴더/그리디 알고리즘 이미지.png",
     "알고리즘 정리/이미지 폴더/이진 탐색 이미지.png",
     "알고리즘 정리/이미지 폴더/선형(순차) 탐색 이미지.gif",
-    "알고리즘 정리/이미지 폴더/원형큐 이미지.jpg",
-    "알고리즘 정리/이미지 폴더/인접리스트.png",
-    "알고리즘 정리/이미지 폴더/인접행렬.png",
-    "알고리즘 정리/이미지 폴더/가중치 그래프 이미지.png",
-    "알고리즘 정리/이미지 폴더/방향 그래프.png"
+    "알고리즘 정리/이미지 폴더/원형큐 이미지.jpg"
   ]
 }
