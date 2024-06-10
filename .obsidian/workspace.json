@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Boot/JWT.md",
+                "file": "Spring Boot/OAuth 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring Boot/JWT.md",
+                "file": "Spring Boot/OAuth 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring Boot/JWT.md",
+                "file": "Spring Boot/OAuth 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Boot/JWT.md"
+                "file": "Spring Boot/OAuth 2.md"
               }
             }
           },
@@ -191,8 +191,9 @@
   },
   "active": "be536cb588e295a8",
   "lastOpenFiles": [
-    "Spring Boot/JPA.md",
     "Spring Boot/JWT.md",
+    "Spring Boot/OAuth 2.md",
+    "Spring Boot/JPA.md",
     "Spring Boot/Spring Boot 1번째 .md",
     "Spring Boot/Spring boot 2번째.md",
     "Spring Boot/Thymeleaf.md",
@@ -227,7 +228,6 @@
     "Spaces/Home",
     "Spaces",
     "무제 파일.canvas",
-    "0419.md",
     "Excalidraw",
     "JavaScript",
     "컴퓨터이론",
