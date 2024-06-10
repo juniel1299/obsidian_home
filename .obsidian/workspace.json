@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cfe024700c1db8a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "면접 준비.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring Boot/OAuth 2.md",
+                "file": "면접 준비.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring Boot/OAuth 2.md",
+                "file": "면접 준비.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Boot/OAuth 2.md"
+                "file": "면접 준비.md"
               }
             }
           },
@@ -189,9 +202,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ff3185faa3cfddfb",
+  "active": "cfe024700c1db8a5",
   "lastOpenFiles": [
     "Spring Boot/OAuth 2.md",
+    "면접 준비.md",
     "Spring Boot/JWT.md",
     "Spring Boot/JPA.md",
     "Spring Boot/Spring Boot 1번째 .md",
@@ -224,7 +238,6 @@
     "Spring MVC/Spring Tiles 프로젝트.md",
     "Spring MVC/Code 프로젝트.md",
     "Spring MVC",
-    "JavaScript/ex08_string.md",
     "Spaces/Home",
     "Spaces",
     "무제 파일.canvas",
