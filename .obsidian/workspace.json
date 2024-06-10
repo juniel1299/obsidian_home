@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,7 +212,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "408fbe75a45775cf",
+  "active": "cfe024700c1db8a5",
   "lastOpenFiles": [
     "Spring Boot/OAuth 2.md",
     "면접 준비.md",
