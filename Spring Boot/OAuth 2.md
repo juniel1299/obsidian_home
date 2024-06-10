@@ -10,4 +10,9 @@
 3. 파일 생성
 - com.test.oauth2.controller  > MainController.java
 						> MyController.java
-						>  
+- templates    > index.html
+			> my.html
+			> inc > header.html
+			
+
+
