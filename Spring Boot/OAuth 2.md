@@ -6,3 +6,8 @@
 
 2. 데이터베이스 의존성 주석
 - build.gradle
+
+3. 파일 생성
+- com.test.oauth2.controller  > MainController.java
+						> MyController.java
+						>  
