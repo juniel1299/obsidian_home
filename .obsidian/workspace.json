@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘 정리/1)정리.md",
+                "file": "Spring Boot/JWT.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 정리/1)정리.md",
+                "file": "Spring Boot/JWT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 정리/1)정리.md",
+                "file": "Spring Boot/JWT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 정리/1)정리.md"
+                "file": "Spring Boot/JWT.md"
               }
             }
           },
@@ -191,18 +191,20 @@
   },
   "active": "be536cb588e295a8",
   "lastOpenFiles": [
+    "Spring Boot/JPA.md",
+    "Spring Boot/JWT.md",
+    "Spring Boot/Spring Boot 1번째 .md",
+    "Spring Boot/Spring boot 2번째.md",
+    "Spring Boot/Thymeleaf.md",
+    "알고리즘 정리/1)정리.md",
     "알고리즘 정리/이미지 폴더/버블정렬이미지.gif",
     "알고리즘 정리/이미지 폴더/배열 이미지.png",
     "알고리즘 정리/이미지 폴더/데크 이미지.png",
     "알고리즘 정리/이미지 폴더/무방향 그래프 이미지.png",
     "알고리즘 정리/이미지 폴더/가중치 그래프 이미지.png",
-    "Spring Boot/JPA.md",
-    "Spring Boot/Thymeleaf.md",
     "무제 파일 1.canvas",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2024-05-27 18.16.42.excalidraw.md",
-    "Spring Boot/Spring boot 2번째.md",
-    "Spring Boot/Spring Boot 1번째 .md",
     "Spring MVC/Security.md",
     "Spring Boot",
     "블로그 글 아이디어 정리/카프카 변신 (우린 우리 그 자체로 사랑 받을 수 없는가).md",
@@ -226,7 +228,6 @@
     "Spaces",
     "무제 파일.canvas",
     "0419.md",
-    "JavaScript/ex37_variable.md",
     "Excalidraw",
     "JavaScript",
     "컴퓨터이론",
@@ -237,7 +238,6 @@
     "알고리즘 정리/이미지 폴더/BFS 이미지.gif",
     "알고리즘 정리/이미지 폴더/그리디 알고리즘 이미지.png",
     "알고리즘 정리/이미지 폴더/이진 탐색 이미지.png",
-    "알고리즘 정리/이미지 폴더/선형(순차) 탐색 이미지.gif",
-    "알고리즘 정리/이미지 폴더/원형큐 이미지.jpg"
+    "알고리즘 정리/이미지 폴더/선형(순차) 탐색 이미지.gif"
   ]
 }
