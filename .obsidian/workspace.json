@@ -4,45 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a407f33ed470d14a",
+        "id": "9acaf2c3cae929c7",
         "type": "tabs",
         "children": [
           {
-            "id": "ff3185faa3cfddfb",
+            "id": "65d3cacdcd617fc1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring Boot/OAuth 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfe024700c1db8a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "면접 준비.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0911ae60a2a43bf",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -133,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "면접 준비.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "면접 준비.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "면접 준비.md"
-              }
+              "state": {}
             }
           },
           {
@@ -212,7 +181,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cfe024700c1db8a5",
+  "active": "65d3cacdcd617fc1",
   "lastOpenFiles": [
     "Spring Boot/OAuth 2.md",
     "면접 준비.md",
