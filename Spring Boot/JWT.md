@@ -5,3 +5,7 @@ JWT 발급
 
 JWT 검증 
 - com.test.jwt.auth > JWTFilter.java
+
+
+- REST API 서버 (인증 JWT)
+  - Client > Angular, React, Vue 등 , Ajax Client
