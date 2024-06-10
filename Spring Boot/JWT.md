@@ -9,3 +9,7 @@ JWT 검증
 
 - REST API 서버 (인증 JWT)
   - Client > Angular, React, Vue 등 , Ajax Client
+
+
+### 인증 토큰 vs 리프레시 토큰 
+
