@@ -40,4 +40,4 @@
 
 9. 로그인 완료 처리 
 -  com.test.oauth2.dto > UserDTO.java
-					> CustomO
+					> CustomOAuth2User.java
