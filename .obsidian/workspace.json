@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "하이젠헬스케어_스크립트.md",
+                "file": "면접 준비.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "하이젠헬스케어_스크립트.md",
+                "file": "면접 준비.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "하이젠헬스케어_스크립트.md"
+                "file": "면접 준비.md"
               }
             }
           },
@@ -214,10 +214,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "64b6be2c240bf461",
+  "active": "719a865e3eb19946",
   "lastOpenFiles": [
-    "면접 준비.md",
     "하이젠헬스케어_스크립트.md",
+    "면접 준비.md",
     "Spring Boot/OAuth 2.md",
     "Spring Boot/JWT.md",
     "Spring Boot/JPA.md",
