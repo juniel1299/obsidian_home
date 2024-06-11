@@ -17,4 +17,7 @@
 
 
 
-- 인증 필터가 동작
+- 인증 필터가 동작하는 주소(관습)
+	- 처음 요청하는 로그인 시도 URL
+	  - OAuth2AuthorizationRequestRedirectFilter
+		  - /oauth2/authorization/서비스명
