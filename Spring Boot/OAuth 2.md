@@ -35,3 +35,4 @@
 8. OAuth2UserService 응답 받기
 - 인증 토큰 받은 뒤 리소스 서버로부터 개인 정보를 받는다
 - com.test.oauth2.service > CustomOAuth2UserService
+
