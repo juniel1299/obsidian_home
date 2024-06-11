@@ -41,3 +41,9 @@
 9. 로그인 완료 처리 
 -  com.test.oauth2.dto > UserDTO.java
 					> CustomOAuth2User.java
+					
+
+10. 유저 정보 > DB 저장 
+- com.test.oauth2.entity > UserEntity.java
+- com.test.oauth2.repository > UserRepository.java
+
