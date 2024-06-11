@@ -36,3 +36,8 @@
 - 인증 토큰 받은 뒤 리소스 서버로부터 개인 정보를 받는다
 - com.test.oauth2.service > CustomOAuth2UserService
 - com.test.oauth2.dto > 
+
+
+9. 로그인 완료 처리 
+-  com.test.oauth2.dto > UserDTO.java
+					> CustomO
