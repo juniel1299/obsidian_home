@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘 정리/브루트포스(Brute Force)/예시 문제/28447 마라탕 재료 고르기.md",
+                "file": "알고리즘 정리/선형구조/리스트(List).md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 정리/브루트포스(Brute Force)/예시 문제/28447 마라탕 재료 고르기.md",
+                "file": "알고리즘 정리/선형구조/리스트(List).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 정리/브루트포스(Brute Force)/예시 문제/28447 마라탕 재료 고르기.md",
+                "file": "알고리즘 정리/선형구조/리스트(List).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 정리/브루트포스(Brute Force)/예시 문제/28447 마라탕 재료 고르기.md"
+                "file": "알고리즘 정리/선형구조/리스트(List).md"
               }
             }
           },
@@ -196,6 +196,17 @@
   },
   "active": "327174f9a88bad6f",
   "lastOpenFiles": [
+    "알고리즘 정리/선형구조/데크(Deque).md",
+    "알고리즘 정리/선형구조/큐 예시 문제/큐 예시 문제.md",
+    "알고리즘 정리/선형구조/큐 예시 문제/14729 칠무해.md",
+    "알고리즘 정리/선형구조/큐 예시 문제/14698 전생했더니 슬라임 연구자였던 건에 대하여 (Hard).md",
+    "알고리즘 정리/빅 오 표기법/빅오 표기법(big-O notation).md",
+    "알고리즘 정리/비선형구조/트리(Tree).md",
+    "알고리즘 정리/비선형구조/비선형구조 정리.md",
+    "알고리즘 정리/비선형구조/그래프(Graph).md",
+    "알고리즘 정리/브루트포스(Brute Force)/브루트 포스(Brute Force).md",
+    "알고리즘 정리/브루트포스(Brute Force)/예시 문제/예시 문제 정리.md",
+    "알고리즘 정리/브루트포스(Brute Force)/예시 문제/28447 마라탕 재료 고르기.md",
     "알고리즘 정리/부분 배열 응용 알고리즘/부분 배열 응용 알고리즘 정리.md",
     "알고리즘 정리/부분 배열 응용 알고리즘/슬라이딩 윈도우 알고리즘(Sliding Window).md",
     "알고리즘 정리/부분 배열 응용 알고리즘/투포인터 알고리즘(Two Pointers).md",
@@ -211,19 +222,8 @@
     "알고리즘 정리/구현 문제/예시 문제/18109 도깨비불.md",
     "알고리즘 정리/1)정리.md",
     "면접 준비.md",
-    "하이젠헬스케어_스크립트.md",
-    "Spring Boot/OAuth 2.md",
-    "Spring Boot/JWT.md",
-    "Spring Boot/JPA.md",
-    "0419.md",
-    "JavaScript/ex08_string.md",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
-    "포트폴리오 작성 할 때 쓸거.md",
-    "README.md",
-    "conflict-files-obsidian-git.md",
-    "Excalidraw/Drawing 2024-05-27 18.16.42.excalidraw.md",
-    "블로그 글 아이디어 정리/카프카 변신 (우린 우리 그 자체로 사랑 받을 수 없는가).md",
     "Spring MVC",
     "Excalidraw",
     "JavaScript",
