@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "27c8e65c718252e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "플레이투게더_스크립트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdf9b992e08c9776",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "플레이투게더_스크립트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,7 +181,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "bdf9b992e08c9776",
+  "active": "408fbe75a45775cf",
   "lastOpenFiles": [
     "알고리즘 정리/정렬/합병정렬 , 병합정렬(Merge Sort).md",
     "알고리즘 정리/정렬/퀵 정렬 (Quick Sort).md",
