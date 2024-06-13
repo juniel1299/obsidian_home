@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "면접 준비.md",
+                "file": "알고리즘 정리/정렬/버블 정렬(Bubble Sort).md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "면접 준비.md",
+                "file": "알고리즘 정리/정렬/버블 정렬(Bubble Sort).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "면접 준비.md",
+                "file": "알고리즘 정리/정렬/버블 정렬(Bubble Sort).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "면접 준비.md"
+                "file": "알고리즘 정리/정렬/버블 정렬(Bubble Sort).md"
               }
             }
           },
@@ -208,6 +208,7 @@
   },
   "active": "bdf9b992e08c9776",
   "lastOpenFiles": [
+    "면접 준비.md",
     "플레이투게더_스크립트.md",
     "하이젠헬스케어_스크립트.md",
     "자바정리/2024-01-20-Method Overloading.md",
@@ -233,7 +234,6 @@
     "알고리즘 정리/탐색/이진 탐색 예시 문제/2110 공유기.md",
     "알고리즘 정리/최단거리 알고리즘/Astar 알고리즘.md",
     "알고리즘 정리/최단거리 알고리즘/최단거리 알고리즘 정리.md",
-    "알고리즘 정리/최단거리 알고리즘/다익스트라 알고리즘(Dijkstra).md",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
     "Spring MVC",
