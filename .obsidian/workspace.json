@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "하이젠헬스케어_스크립트.md",
+                "file": "면접 준비.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "플레이투게더_스크립트.md",
+                "file": "면접 준비.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "플레이투게더_스크립트.md",
+                "file": "면접 준비.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "플레이투게더_스크립트.md"
+                "file": "면접 준비.md"
               }
             }
           },
@@ -181,8 +181,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "408fbe75a45775cf",
+  "active": "168b0ee4519239d0",
   "lastOpenFiles": [
+    "플레이투게더_스크립트.md",
     "알고리즘 정리/정렬/합병정렬 , 병합정렬(Merge Sort).md",
     "알고리즘 정리/정렬/퀵 정렬 (Quick Sort).md",
     "알고리즘 정리/정렬/정렬 알고리즘 정리.md",
@@ -194,7 +195,6 @@
     "알고리즘 정리/최단거리 알고리즘/최단거리 알고리즘 정리.md",
     "알고리즘 정리/최단거리 알고리즘/다익스트라 알고리즘(Dijkstra).md",
     "면접 준비.md",
-    "플레이투게더_스크립트.md",
     "하이젠헬스케어_스크립트.md",
     "자바정리/2024-01-20-Method Overloading.md",
     "노트북 파일 정리/바탕화면.md",
