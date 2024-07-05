@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0aab9b2cda655a1d",
+        "id": "844d22f7f40fc4fa",
         "type": "tabs",
         "children": [
           {
-            "id": "41ca3c9d43719dc6",
+            "id": "956241f118616c34",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -80,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,7 +173,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "41ca3c9d43719dc6",
+  "active": "408fbe75a45775cf",
   "lastOpenFiles": [
     "면접 준비.md",
     "플레이투게더_스크립트.md",
