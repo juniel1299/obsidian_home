@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "실전 자바 정리/스코프.md",
+                "file": "토비의 스프링 부트 - 이해와 원리/스프링.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "실전 자바 정리/스코프.md",
+                "file": "토비의 스프링 부트 - 이해와 원리/스프링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "실전 자바 정리/스코프.md",
+                "file": "토비의 스프링 부트 - 이해와 원리/스프링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "실전 자바 정리/스코프.md"
+                "file": "토비의 스프링 부트 - 이해와 원리/스프링.md"
               }
             }
           },
@@ -183,8 +183,10 @@
   },
   "active": "956241f118616c34",
   "lastOpenFiles": [
-    "실전 자바 정리/자바 실행 과정 .md",
     "실전 자바 정리/스코프.md",
+    "토비의 스프링 부트 - 이해와 원리/스프링.md",
+    "토비의 스프링 부트 - 이해와 원리",
+    "실전 자바 정리/자바 실행 과정 .md",
     "실전 자바 정리",
     "면접 준비.md",
     "플레이투게더_스크립트.md",
@@ -209,7 +211,6 @@
     "자바정리/2024-01-07-Java-Type.md",
     "알고리즘 정리/1)정리.md",
     "알고리즘 정리/플로이드 워셜/플로이드 워셜.md",
-    "알고리즘 정리/탐색/탐색 정리.md",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
     "Spring MVC",
@@ -220,7 +221,6 @@
     "알고리즘 정리/탐색/BFS 예시 문제",
     "알고리즘 정리/선형구조/큐 예시 문제",
     "알고리즘 정리/브루트포스(Brute Force)/예시 문제",
-    "알고리즘 정리/구현 문제/예시 문제",
     "알고리즘 정리/이미지 폴더/DFS 이미지.gif",
     "알고리즘 정리/이미지 폴더/BFS 이미지.gif",
     "알고리즘 정리/이미지 폴더/그리디 알고리즘 이미지.png",
