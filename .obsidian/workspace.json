@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "토비의 스프링 부트 - 이해와 원리/스프링.md",
+                "file": "실전 자바 정리/스코프.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "토비의 스프링 부트 - 이해와 원리/스프링.md",
+                "file": "실전 자바 정리/스코프.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "토비의 스프링 부트 - 이해와 원리/스프링.md",
+                "file": "실전 자바 정리/스코프.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "토비의 스프링 부트 - 이해와 원리/스프링.md"
+                "file": "실전 자바 정리/스코프.md"
               }
             }
           },
@@ -183,8 +183,8 @@
   },
   "active": "956241f118616c34",
   "lastOpenFiles": [
-    "실전 자바 정리/스코프.md",
     "토비의 스프링 부트 - 이해와 원리/스프링.md",
+    "실전 자바 정리/스코프.md",
     "토비의 스프링 부트 - 이해와 원리",
     "실전 자바 정리/자바 실행 과정 .md",
     "실전 자바 정리",
