@@ -16,7 +16,9 @@
                 "file": "실전 자바 정리/스코프.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "스코프"
             }
           }
         ]
@@ -44,7 +46,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -54,7 +58,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -70,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화되지 않음"
             }
           },
           {
@@ -78,11 +88,13 @@
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
-              "state": {}
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -110,7 +122,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "스코프의 백링크"
             }
           },
           {
@@ -121,7 +135,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -133,7 +149,9 @@
                 "file": "실전 자바 정리/스코프.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "스코프의 나가는 링크"
             }
           },
           {
@@ -143,7 +161,9 @@
               "type": "outline",
               "state": {
                 "file": "실전 자바 정리/스코프.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "스코프 개요"
             }
           },
           {
@@ -151,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화되지 않음"
             }
           },
           {
@@ -159,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화되지 않음"
             }
           }
         ],
@@ -171,18 +195,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "956241f118616c34",
   "lastOpenFiles": [
+    "Spaces/Home",
+    "Spaces",
     "토비의 스프링 부트 - 이해와 원리/스프링.md",
     "실전 자바 정리/스코프.md",
     "토비의 스프링 부트 - 이해와 원리",
@@ -210,7 +236,6 @@
     "자바정리/2024-01-13-식별자(표기법).md",
     "자바정리/2024-01-07-Java-Type.md",
     "알고리즘 정리/1)정리.md",
-    "알고리즘 정리/플로이드 워셜/플로이드 워셜.md",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
     "Spring MVC",
@@ -220,7 +245,6 @@
     "알고리즘 정리/탐색/이진 탐색 예시 문제",
     "알고리즘 정리/탐색/BFS 예시 문제",
     "알고리즘 정리/선형구조/큐 예시 문제",
-    "알고리즘 정리/브루트포스(Brute Force)/예시 문제",
     "알고리즘 정리/이미지 폴더/DFS 이미지.gif",
     "알고리즘 정리/이미지 폴더/BFS 이미지.gif",
     "알고리즘 정리/이미지 폴더/그리디 알고리즘 이미지.png",
