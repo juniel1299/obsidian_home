@@ -4,49 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "844d22f7f40fc4fa",
+        "id": "ed522cb4204c6dff",
         "type": "tabs",
         "children": [
           {
-            "id": "956241f118616c34",
+            "id": "035a1c5976ff6d76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "실전 자바 정리/스코프.md",
-                "mode": "source",
-                "source": false
+                "path": "/"
               },
               "icon": "lucide-file",
-              "title": "스코프"
-            }
-          },
-          {
-            "id": "c297544486260b84",
-            "type": "leaf",
-            "state": {
-              "type": "mk-uri-view",
-              "state": {
-                "path": "https://www.make.md/static/latest.md"
-              },
-              "icon": "lucide-file",
-              "title": "https://www.make.md/static/latest.md"
-            }
-          },
-          {
-            "id": "dd120aa61e0cbc9d",
-            "type": "leaf",
-            "state": {
-              "type": "mk-uri-view",
-              "state": {
-                "path": "https://www.make.md/static/GetStarted.md"
-              },
-              "icon": "lucide-file",
-              "title": "https://www.make.md/static/GetStarted.md"
+              "title": "Vault"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd120aa61e0cbc9d",
+  "active": "035a1c5976ff6d76",
   "lastOpenFiles": [
     "실전 자바 정리/스코프.md",
     "Spaces/Home",
