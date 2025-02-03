@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/e.md",
+                "file": "React/리액.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "e"
+              "title": "리액"
             }
           }
         ]
@@ -148,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/e.md",
+                "file": "React/리액.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "e 의 개요"
+              "title": "리액 의 개요"
             }
           },
           {
@@ -209,8 +209,9 @@
   },
   "active": "484a1220cda493b1",
   "lastOpenFiles": [
+    "React/리액.md",
+    "React/리액트.md",
     "무제.canvas",
-    "React/e.md",
     "Excalidraw/Drawing 2025-02-03 16.23.38.excalidraw.md",
     "React/React.md",
     "React",
