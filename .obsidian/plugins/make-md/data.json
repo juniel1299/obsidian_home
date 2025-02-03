@@ -38,7 +38,9 @@
     "/",
     null,
     "obsidian",
-    null
+    null,
+    "//React",
+    "//JavaScript"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Spaces",
