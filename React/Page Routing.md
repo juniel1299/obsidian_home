@@ -17,4 +17,8 @@ Multi Page Application (MPA) , 서버가 여러개의 페이지를 가지고 있
 
 
 React 에선 Single Page Application (SPA) 를 통해 이동함 
-페이지 이동 매끄러우
+페이지 이동 매끄럽고 , 서버에 부하가 적음 
+
+페이지는 index.html 1개만 가지고 컴포넌트를 통해 화면을 구성함 
+
+브라우저에서 어떤 요청을 하더라도 index.html을 반환하기 때문에 장
