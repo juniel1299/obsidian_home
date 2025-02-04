@@ -25,6 +25,6 @@ Context.Provider 에 넣은 함수(value={{????}})를 필요로 하는 객체들
 
 
 Context.Provider 를 두개를 생성 한 다음 
-1개는 변경 되지 않는 값을 
+1개는 변경 되지 않는 값을 (ex : create , update , delete)
+1개는 변경 되는 값을 넣어서 분리를 해준다 (ex : todos)
 
-변경 되지 않는 값은 
