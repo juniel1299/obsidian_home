@@ -23,3 +23,5 @@ React 에선 Single Page Application (SPA) 를 통해 이동함
 
 브라우저에서 어떤 요청을 하더라도 index.html을 반환하기 때문에 페이지 이동 매끄럽고 , 서버 부하가 적음 
 (html 을 반환하는게 아니라 js(jsx) 파일을 반환하기 떄문에)
+
+정확히는 index.html 은 ㅎ
