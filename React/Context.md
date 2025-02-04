@@ -16,3 +16,7 @@ Context 는 데이터 보관소 (객체) 역할을 함
 3번은 context를 통해 받아오면 됨
 
 Context.Provider 에 넣은 함수(value={{????}})를 필요로 하는 객체들은 context를 통해 데이터를 가져 올 수 있음.  
+
+
+
+단, Context를 쓰면 최적화를 따로 해줘야함 
