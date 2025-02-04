@@ -20,3 +20,6 @@ Context.Provider 에 넣은 함수(value={{????}})를 필요로 하는 객체들
 
 
 단, Context를 쓰면 최적화를 따로 해줘야함 
+(Context 분리)
+
+
