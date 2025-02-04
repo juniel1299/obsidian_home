@@ -29,3 +29,10 @@ js 파일을 bundle로 묶어서 반환 (번들파일) \[ 묶는 역할은 vite 
 브라우저에선 렌더링이 완료가 되면 bundle js file 을 실행함 
 -> React App
 
+---
+
+SPA 에선 요청 자체가 없음 
+vite 가 우선적으로 js 파일들을 묶어버림 (자바스크립트 번들 파일 )
+-> React App 
+
+페이지에서 버튼을 누르면 React App에서 찾아서 해당 화면을 띄움 
