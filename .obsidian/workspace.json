@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Page Rounting.md",
+                "file": "React/Page Routing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Page Rounting"
+              "title": "Page Routing"
             }
           }
         ]
@@ -210,7 +210,7 @@
   "active": "3d6fb83b7a66b758",
   "lastOpenFiles": [
     "React/Context.md",
-    "React/Page Rounting.md",
+    "React/Page Routing.md",
     "학교(SNS로 톡하고)/대본.md",
     "하이젠헬스케어_스크립트.md",
     "플레이투게더_스크립트.md",
