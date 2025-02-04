@@ -28,3 +28,5 @@ Context.Provider 를 두개를 생성 한 다음
 1개는 변경 되지 않는 값을 (ex : create , update , delete)
 1개는 변경 되는 값을 넣어서 분리를 해준다 (ex : todos)
 
+(변경 되는 값만 리렌더링이 되도록 해준다)
+
