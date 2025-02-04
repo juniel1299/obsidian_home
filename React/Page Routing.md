@@ -30,3 +30,5 @@ js 파일을 bundle로 묶어서 반환 (번들파일) \[ 묶는 역할은 vite 
 -> 컴포넌트 렌더링 
 
 브라우저에선 렌더링이 완료가 되면 bundle js file 을 실행함 
+-> React App
+
