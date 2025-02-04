@@ -23,3 +23,8 @@ Context.Provider 에 넣은 함수(value={{????}})를 필요로 하는 객체들
 (Context 분리 방식)
 
 
+## TodoStateContext 
+변경될 수 있는 값 
+
+## TodoDispatchContext
+변경되지 않는 값 
