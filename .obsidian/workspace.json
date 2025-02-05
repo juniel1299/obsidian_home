@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Dynamic Segments (동적 경로).md",
+                "file": "React/이미지 호출 최적화.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dynamic Segments (동적 경로)"
+              "title": "이미지 호출 최적화"
             }
           }
         ]
@@ -209,13 +209,13 @@
   },
   "active": "444d074ec85aeaf2",
   "lastOpenFiles": [
-    "React/React Router.md",
-    "React/useMemo.md",
-    "React/Context.md",
     "React/Page Routing.md",
+    "React/Context.md",
+    "React/React Router.md",
+    "React/Dynamic Segments (동적 경로).md",
+    "React/useMemo.md",
     "React/라이프 사이클클.md",
     "React/이미지 호출 최적화.md",
-    "React/Dynamic Segments (동적 경로).md",
     "React/imageFolder/스크린샷 2025-02-05 오전 10.28.45.png",
     "React/imageFolder/스크린샷 2025-02-05 오전 10.29.11.png",
     "React/imageFolder/스크린샷 2025-02-05 오전 10.22.29.png",

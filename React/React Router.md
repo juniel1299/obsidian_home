@@ -34,6 +34,3 @@ Link 라는 컴포넌트를 통해 동작함 (HTML 의 a 태그와 역할이 같
 
 변수에 경로를 넣어서 useNavigate 로 전송하면 이벤트 핸들러를 통한 경로 이동이 가능함.
 
-
-npm run build 를 터미널에 작성하면 dist 폴더 생김 -> 빌드 결과물은 npm run preview 
-( npm run dev 와 비슷하지만 포트가 다르게 열림 )
