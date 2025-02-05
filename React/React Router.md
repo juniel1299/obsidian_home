@@ -18,4 +18,4 @@ Route 로 작성
 (ex : 잘못된 경로입니다. , NotFound 화면)
 
 
-**단 Routes 컴포넌트 안에는 Rout**
+**단 Routes 컴포넌트 안에는 Route 컴포넌트만 들어갈 수 있다.**
