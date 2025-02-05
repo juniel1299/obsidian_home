@@ -11,5 +11,5 @@ main.jsx 에 App 을 BrowserRouter 로 감싸면 됨
 
 최상위는 Routes 로 감싸고 하단에 
 Route 로 작성 
--> path 는 스프링처럼 경로 적어주고 주소창에 
+-> path 는 스프링처럼 경로 적어주고 주소창에 일치하게 작성하면
 해당 jsx 를 가져오는 형태로 화면을 렌더링함 . 
