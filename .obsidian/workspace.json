@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 295
   },
   "right": {
     "id": "9bef0bdb72496ace",
@@ -209,8 +209,9 @@
   },
   "active": "444d074ec85aeaf2",
   "lastOpenFiles": [
-    "React/최적화화.md",
     "React/Web Storage.md",
+    "React/imageFolder/스크린샷 2025-02-06 오후 1.01.33.png",
+    "React/최적화화.md",
     "React/이미지 호출 최적화.md",
     "React/Page Routing.md",
     "React/Context.md",
@@ -229,7 +230,6 @@
     "React/imageFolder",
     "첨부파일 폴더/스크린샷 2025-02-05 오전 10.09.42.png",
     "첨부파일 폴더/스크린샷 2025-02-05 오전 9.48.16.png",
-    "첨부파일 폴더/스크린샷 2025-02-05 오전 9.41.11.png",
     "학교(SNS로 톡하고)/대본.md",
     "하이젠헬스케어_스크립트.md",
     "플레이투게더_스크립트.md",
@@ -250,7 +250,6 @@
     "Spaces",
     "토비의 스프링 부트 - 이해와 원리/스프링.md",
     "토비의 스프링 부트 - 이해와 원리",
-    "실전 자바 정리/자바 실행 과정 .md",
     "실전 자바 정리",
     "무제 파일.canvas",
     "무제 파일 1.canvas",

@@ -39,7 +39,8 @@
     null,
     "obsidian",
     null,
-    "//React"
+    "//React",
+    "//React/React/imageFolder"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Spaces",
