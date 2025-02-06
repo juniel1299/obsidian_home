@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/ETC.md",
+                "file": "JavaScript/무제 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ETC"
+              "title": "무제 1"
             }
           }
         ]
@@ -209,8 +209,10 @@
   },
   "active": "444d074ec85aeaf2",
   "lastOpenFiles": [
-    "React/Web Storage.md",
+    "JavaScript/무제.md",
+    "JavaScript/무제 1.md",
     "React/ETC.md",
+    "React/Web Storage.md",
     "React/imageFolder/스크린샷 2025-02-06 오후 1.11.02.png",
     "React/imageFolder/스크린샷 2025-02-06 오후 1.05.51.png",
     "React/imageFolder/스크린샷 2025-02-06 오후 1.04.18.png",
@@ -246,10 +248,8 @@
     "React/React.md",
     "React",
     "무제.md",
-    "실전 자바 정리/스코프.md",
     "Spaces/Home",
     "Spaces",
-    "토비의 스프링 부트 - 이해와 원리/스프링.md",
     "토비의 스프링 부트 - 이해와 원리",
     "실전 자바 정리",
     "무제 파일.canvas",
