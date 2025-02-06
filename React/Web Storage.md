@@ -26,3 +26,6 @@ JSON.stringify 로 문자열로 바꿔서 사용해야한다 .
 JSON.parse(localStorage.getItem('키값')); 이런식으로 불러와야 문자가 아닌 객체가 들어온다.
 
 ![[스크린샷 2025-02-06 오후 1.11.02.png]]
+
+
+localStorage.removeItem('키값'); 을 통해 지울 수 있음
