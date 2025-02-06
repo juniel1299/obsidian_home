@@ -3,5 +3,9 @@
 
 웹 스토리지 사용 시 
 저장 시 : localStorage.setItem(키값 , 밸류값)
-꺼낼 시 ;localStorage.getItem(키값 , 밸류값)
+꺼낼 시 : localStorage.getItem(키값 , 밸류값)
+
+
+
+웹ㅇ
 
