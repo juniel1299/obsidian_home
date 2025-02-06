@@ -23,4 +23,6 @@ JSON.stringify 로 문자열로 바꿔서 사용해야한다 .
 
 단, stringify 로 문자열로 바꾼 후 get을 통해 불러올 때 그대로 불러오게 될 경우 객체모양을 한 문자가 들어오게 되므로 
 
-JSON.parse(localStorage.getItem(''))
+JSON.parse(localStorage.getItem('키값')); 이런식으로 불러와야 문자가 아닌 객체가 들어온다.
+
+![[스크린샷 2025-02-06 오후 1.11.02.png]]
