@@ -11,14 +11,12 @@
             "id": "444d074ec85aeaf2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "React/React Router.md",
-                "mode": "source",
-                "source": false
+                "path": "React"
               },
               "icon": "lucide-file",
-              "title": "React Router"
+              "title": "React"
             }
           }
         ]
@@ -209,9 +207,9 @@
   },
   "active": "444d074ec85aeaf2",
   "lastOpenFiles": [
+    "React/React Router.md",
     "React/Dynamic Segments (동적 경로).md",
     "React/Page Routing.md",
-    "React/React Router.md",
     "TypeScript/TypeScript.md",
     "TypeScript",
     "React/라이프 사이클클.md",
