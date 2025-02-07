@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/setting.md",
+                "file": "TypeScript/1) TypeScript .md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "setting"
+              "title": "1) TypeScript"
             }
           }
         ]
@@ -209,8 +209,8 @@
   },
   "active": "444d074ec85aeaf2",
   "lastOpenFiles": [
-    "TypeScript/1) TypeScript .md",
     "TypeScript/setting.md",
+    "TypeScript/1) TypeScript .md",
     "React/React Router.md",
     "React/Dynamic Segments (동적 경로).md",
     "React/Page Routing.md",
