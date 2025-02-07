@@ -28,3 +28,8 @@ ts-node src/index.ts 를 하면 되는데 (node 20 버전 이상부턴 에러 �
 npm install -g tsx 
 
 이후 확인 할 땐 tsx 경로 하면 됨 
+
+
+
+컴파일러 옵션 
+타입 오류를 얼마나 엄격하게 검사 할 것 인지?
