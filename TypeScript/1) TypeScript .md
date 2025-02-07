@@ -8,4 +8,9 @@ node.js : 자바스크립트 구동기(런타임)
 
 Type System : 값들을 어떤 기준으로 묶어 타입을 규정할 것인가?
 
-Number , b
+(Number , Boolean , String)
+
+
+정적 타입 시스템 : 코드 실행 이전 모든 변수의 타입을 고정적으로 결정 (Java , TypeScript)
+
+동적 타입 시스템 : 코드 실행 이후 그때 그때 마다 유동적으로 변수의 타입 결정 (Python , JavaScript)
