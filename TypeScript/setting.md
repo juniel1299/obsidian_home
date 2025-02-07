@@ -41,3 +41,6 @@ npm install -g tsx
 
 tsc --init 으로 초기화  (tsconfig.json 파일 생성)
 
+### tsconfig.json 옵션
+include : 특정 폴더를 한꺼번에 컴파일 하도록 설정 가능 
+
