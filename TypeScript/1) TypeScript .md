@@ -44,7 +44,13 @@ TypeScript 코드 작성 -> AST ( 추상 문법 트리 )로 변환 -> 타입 검
 
 ## 타입스크립트 문법 특징 
 동일한 스코프에 동일한 변수명을 사용 할 수 없음 
-ex :( 동일 영역 변수 index.ts 파일에 const a = 1; , hello.ts 파일 const a  = 1; )
+ex :( 전역 변수로 index.ts 파일에 const a = 1; , hello.ts 파일 const a  = 1; )
 
 타입스크립트는 전역모듈로 보기 떄문에 같은 공간에 있다고 간주 
 
+해결 방법
+export {}; 사용하면 격리된 모듈로 타입스크립트가 인식함 . ( import 또는 export 를 모든 파일에 작성)
+
+또는 
+
+moduleDetection : 
