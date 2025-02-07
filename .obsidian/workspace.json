@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/1) TypeScript .md",
+                "file": "TypeScript/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1) TypeScript"
+              "title": "Untitled"
             }
           }
         ]
@@ -210,6 +210,7 @@
   "active": "444d074ec85aeaf2",
   "lastOpenFiles": [
     "TypeScript/1) TypeScript .md",
+    "TypeScript/Untitled.md",
     "React/React Router.md",
     "React/Dynamic Segments (동적 경로).md",
     "React/Page Routing.md",
@@ -247,7 +248,6 @@
     "0415.md",
     "React/리액트 라이프 사이클클.md",
     "무제.canvas",
-    "Excalidraw/Drawing 2025-02-03 16.23.38.excalidraw.md",
     "React",
     "Spaces/Home",
     "Spaces",
