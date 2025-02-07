@@ -20,3 +20,7 @@ tsc src/index.ts (경로) 하게 되면 컴파일 결과 값이 자바스크립�
 
 ts-node src/index.ts 를 하면 되는데 (node 20 버전 이상부턴 에러 남)
 
+
+
+**node 20 이후 사용법**
+일괄적으로 확인 할 땐
