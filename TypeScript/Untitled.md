@@ -9,7 +9,7 @@ number literal Type 서브타입 (자식 타입)
 
 예시 
 
-가능한 경우 (업 캐스팅)
+모든 상황에 가능한 경우 (업 캐스팅)
 ```typescript
 
 let num1 : number = 10;
@@ -19,7 +19,7 @@ num1 = num2;
 ```
 
 
-불가능한 경우(다운 캐스팅)
+대부분 불가능한 경우(다운 캐스팅)
 ```typescript
 
 let num1 : number = 10;
