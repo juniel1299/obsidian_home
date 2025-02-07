@@ -53,7 +53,8 @@ target :타입스크립트 ->  자바스크립트 전환 될 떄 자바스크립
 module : ts 에서 js로 바꿀 때 해당하는 모듈의 문법으로 변환시킴
 outDir : ts 에서 js 바꿀 때 js 파일 위치 지정
 strict : 엄격한 타입 검사 모드 (js -> ts 마이그레이션 시 끔)
-moduleD
+moduleDetecion : 전역 모듈로 검사하는 타입스크립트 특성으로 인해 오류 나는 것을 해결함 
+(그냥 자동으로 export{} 를 파일 마다 붙임 )
 {
 	"compilerOptions": {
 	"target" : "ES5",
