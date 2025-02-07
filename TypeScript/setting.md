@@ -3,3 +3,6 @@
 npm i @types/node 를 통해 타입스크립트 내용 설치 
 
 npm install typescript -g 를 통해 타입스크립트 컴파일러 설치 (컴퓨터 전체)
+
+tsc -v 를 통해 타입스크립트 버전 확인 가능
+
