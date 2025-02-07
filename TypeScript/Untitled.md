@@ -9,10 +9,11 @@ number literal Type 서브타입 (자식 타입)
 
 예시 
 
-```TypeScript
+```typescript
 
 let num1 : number = 10;
 let num2 : 10 = 10;
 
 num2 = num1;
 ```
+

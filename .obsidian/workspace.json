@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b34c0e46e80b91d",
+        "id": "23b999e3e819449c",
         "type": "tabs",
         "children": [
           {
-            "id": "444d074ec85aeaf2",
+            "id": "2f874757de5f8b21",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -207,11 +207,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "444d074ec85aeaf2",
+  "active": "2f874757de5f8b21",
   "lastOpenFiles": [
-    "TypeScript/Type.md",
-    "TypeScript/Untitled.md",
     "TypeScript/1) TypeScript .md",
+    "TypeScript/Untitled.md",
+    "TypeScript/Type.md",
     "TypeScript/setting.md",
     "React/React Router.md",
     "React/Dynamic Segments (동적 경로).md",
