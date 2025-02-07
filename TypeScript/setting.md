@@ -6,3 +6,5 @@ npm install typescript -g 를 통해 타입스크립트 컴파일러 설치 (컴
 
 tsc -v 를 통해 타입스크립트 버전 확인 가능
 
+tsc src/index.ts (경로) 하게 되면 컴파일 결과 값이 자바스크립트 파일로 나옴.
+(결과 값이 나오게 되면 number 는 의)
