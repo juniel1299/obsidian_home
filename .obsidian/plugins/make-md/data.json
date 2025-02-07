@@ -35,10 +35,10 @@
   "showRibbon": true,
   "deleteFileOption": "system-trash",
   "expandedSpaces": [
-    "/",
     null,
     "obsidian",
     null,
+    "/",
     "//React"
   ],
   "expandFolderOnClick": true,
