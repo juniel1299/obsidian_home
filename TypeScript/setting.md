@@ -24,3 +24,7 @@ ts-node src/index.ts 를 하면 되는데 (node 20 버전 이상부턴 에러 �
 
 **node 20 이후 사용법**
 일괄적으로 확인 할 땐
+
+npm install -g tsx 
+
+이후 확인 할 땐 tsx 경로 하면 됨 
