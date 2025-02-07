@@ -53,4 +53,4 @@ export {}; 사용하면 격리된 모듈로 타입스크립트가 인식함 . ( 
 
 또는 
 
-moduleDetection : 
+moduleDetection : force 를 tsconfig.json 작성
