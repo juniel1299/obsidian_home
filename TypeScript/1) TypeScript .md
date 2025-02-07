@@ -44,4 +44,5 @@ TypeScript 코드 작성 -> AST ( 추상 문법 트리 )로 변환 -> 타입 검
 
 ## 타입스크립트 문법 특징 
 동일한 스코프에 동일한 변수명을 사용 할 수 없음 
-ex : 동일 레벨 index.ts 파일에 const a = 1; , hello.ts = 1; )
+ex :( 동일 레벨 index.ts 파일에 const a = 1; , hello.ts 파일 const a  = 1; )
+
