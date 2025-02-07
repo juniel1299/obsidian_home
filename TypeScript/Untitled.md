@@ -6,3 +6,10 @@ number literal Type 서브타입 (자식 타입)
 
 자식 타입을 부모 타입 취급은 가능하지만 
 부모 타입을 자식 타입 취급은 불가능함. 
+
+예시 
+
+```TypeScript
+
+let num1:number = 
+```
