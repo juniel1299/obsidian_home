@@ -37,4 +37,4 @@ Type System : 값들을 어떤 기준으로 묶어 타입을 규정할 것인가
 
 JavaScript 코드 작성 -> AST ( 추상 문법 트리 )로 변환 -> AST를 **바이트 코드**로 변환
 
-TypeScript 코드 작성 -> AST ( 추상 문법 트리 )로 변환 -> 타입 검사 (Type Checking) (검사 실패 시 )
+TypeScript 코드 작성 -> AST ( 추상 문법 트리 )로 변환 -> 타입 검사 (Type Checking) (검사 실패 시 컴파일 종료) -> 검사를 통과하면 AST를 JavaSCript 로 변환 함 (이후 동일)
