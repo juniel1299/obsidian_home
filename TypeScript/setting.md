@@ -56,7 +56,7 @@ strict : 엄격한 타입 검사 모드 (js -> ts 마이그레이션 시 끔)
 moduleDetecion : 전역 모듈로 검사하는 타입스크립트 특성으로 인해 오류 나는 것을 해결함 
 (그냥 자동으로 export{} 를 파일 마다 붙임 )
 ts-node  의 esm : esm 모듈로 돌아가게 하는 내용 (**단 , 20버전 이상부턴 안 됨 .**)
-(**20 이상은 skipLibCheck를 이용**) -> 사용 시 u
+(**20 이상은 skipLibCheck를 이용**) -> 사용 시 undici-types 같은 에러가 더 이상 안 발생함.
 {
 	"compilerOptions": {
 		"target" : "ES5",
