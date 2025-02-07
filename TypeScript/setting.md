@@ -52,7 +52,7 @@ include : 특정 폴더를 한꺼번에 컴파일 하도록 설정 가능
 target :타입스크립트 ->  자바스크립트 전환 될 떄 자바스크립트 버전 설정 (ESNext 는 가장 최신 버전 가져옴)
 module : ts 에서 js로 바꿀 때 해당하는 모듈의 문법으로 변환시킴
 outDir : ts 에서 js 바꿀 때 js 파일 위치 지정
-strict : 엄격한 타입 검사 모드 (js -> ts 마이그레이션 시 ㅋ)
+strict : 엄격한 타입 검사 모드 (js -> ts 마이그레이션 시 끔)
 {
 	"compilerOptions": {
 	"target" : "ES5",
