@@ -105,13 +105,7 @@ type Guest = {
 
 };
 
-  
-  
-
 type User = Admin | Member | Guest;
-
-  
-  
 
 // Admin -> {name} 님이 현재 {kickCount}번 강퇴했습니다.
 
@@ -121,61 +115,29 @@ type User = Admin | Member | Guest;
 
 function login(user : User){
 
-  
-
 switch(user.tag){
 
 	case "ADMIN" :
 	
 	{
-	
 		console.log(`${user.name}님 ${user.kickCount} 번 강퇴했습니다.`);
-		
 		break;
-	
 	}
 	
 	case "MEMBER" :
 	
 	{
-	
 		console.log(`${user.name}님 ${user.point} 번 강퇴했습니다.`);
-		
 		break;
-	
 	}
 	
 	case "GUEST" :
 	
 	{
-	
 		console.log(`${user.name}님 ${user.visitCount} 번 강퇴했습니다.`);
-		
 		break;
-	
 	}
-	
 	break;
-	
 	}
-	
-	if(user.tag === 'ADMIN'){
-	
-	console.log(`${user.name}님 ${user.kickCount} 번 강퇴했습니다.`);
-	
-	}
-	
-	else if('point' in user){
-	
-	console.log(`${user.name}님 ${user.point} 번 강퇴했습니다.`);
-	
-	}
-	
-	else if ('visitCount' in user){
-	
-	console.log(`${user.name}님 ${user.visitCount} 번 강퇴했습니다.`);
-	
-	}
-
 }
 ```
