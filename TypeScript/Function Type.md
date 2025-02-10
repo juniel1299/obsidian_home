@@ -10,5 +10,8 @@ function func(a:number , b:number) : number {
 }
 
 // 람다식
-function func1()
+const func1 = (a1:number , b1:number) : number => a+b;
+
+//함수의 매개변수 (선택적 매개변수)
+//
 ```
