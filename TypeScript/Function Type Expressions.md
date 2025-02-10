@@ -12,4 +12,6 @@ const divide : Operation = (a,b) => a / b;
 ```
 
 ## 호출 시그니처 (콜 시그니처)
+```typeScript
 
+```
