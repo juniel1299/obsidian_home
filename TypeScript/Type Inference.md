@@ -20,4 +20,4 @@ const num = 10; 을 작성하게 되면 리터럴 타입으로 저장이 되며
 let 은 변경되는 값에 대한 변수 선언 
 const 는 변경되지 않는 값에 대한 변수 선언이므로 
 
-const num = 10; 은 
+const num = 10; 은 리터럴 , let num = 10; 은 number로 타입을 추론하게 된다.
