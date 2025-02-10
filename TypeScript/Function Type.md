@@ -30,6 +30,7 @@ function getSum(...rest : number[]){
 }
 
 getSum(1,2,3);
-// 만약 개수를 정하고 싶으면 ...rest : number
+// 만약 개수를 정하고 싶으면 ...rest : number[number, number] 
+// 즉 튜플 형식으로 주면 된다.
 
 ```
