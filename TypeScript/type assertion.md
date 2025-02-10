@@ -18,13 +18,14 @@ unknown 은 모든 타입을 다 받을 수 있기 때문에 중간에 두게 �
 (단, 타입스크립트의 메리트는 없어진다..)
 
 ## const 단언 
-
+```typeScript
 let cat = {
-
-name : 'ㅇㅇ',
-
-color : '22'
-
+	name : 'ㅇㅇ',
+	color : '22'
 } as const;
+```
 자바스크립트 기본 문법 const 의 특징 (변하지 않는 것에 대한 내용)
--> 즉 readonly 적용됨
+-> 즉 객체 내에 있는 값들에 readonly 적용됨
+
+// Non Null 단언
+
