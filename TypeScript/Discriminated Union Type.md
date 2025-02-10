@@ -135,4 +135,39 @@ switch(user.tag){
 -> 구분자로 쓸 수 있음.
 
 
-만약 키 값이 다 다른 경우
+## 키 값이 다 다른 경우
+```typeScript
+const loading : AsyncTask = {
+
+	state : 'LOADING',
+
+};
+
+  
+
+const failed : AsyncTask = {
+
+	state : 'FAILED',
+	
+	error : {
+	
+		message : "오류",
+	
+	},
+
+};
+
+  
+
+const success : AsyncTask = {
+
+	state : "SUCCESS",
+	
+	response : {
+	
+		data : "ㅇㅇ",
+	
+	},
+};
+```
+이렇게 각자 키 값이 다르면 또 ! 를 붙이면서 진행하게 되는데 그러면 관리
