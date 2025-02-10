@@ -222,39 +222,40 @@ type AsyncTask = LoadingTask | FailedTask | SuccessTask;
 
 function processResult(task : AsyncTask) {
 
-switch(task.state){
+	switch(task.state){
 
-case "LOADING" :
+		case "LOADING" :
 
-{
+		{
 
-console.log('로딩중');
+			console.log('로딩중');
 
-break;
+			break;
 
-}
+		}
 
-case "FAILED" :
+		case "FAILED" :
+		
+		{
+		
+			console.log(`에러 발생 ${task.error.message}`);
+			
+			break;
+		
+		}
+		
+		case "SUCCESS" :
+		
+		{
+		
+			console.log(`${task.response.data}`);
+			
+			break;
+		
+		}
 
-{
-
-console.log(`에러 발생 ${task.error.message}`);
-
-break;
-
-}
-
-case "SUCCESS" :
-
-{
-
-console.log(`${task.response.data}`);
-
-break;
-
-}
-
-}
+	}
 
 }
 ```
+
