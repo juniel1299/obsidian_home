@@ -14,4 +14,28 @@ const divide : Operation = (a,b) => a / b;
 ## 호출 시그니처 (콜 시그니처)
 ```typeScript
 
+// 객체처럼 중괄호 안에 담아서 보낼 수 있음 그리고 name 처럼 추가로 더 넣을 수 도 있음.
+type Operation2 = {
+
+	(a : number , b : number) : number;
+
+	name : string;
+
+};
+
+  
+
+const add2 : Operation2 = (a,b) => a + b;
+
+const minus2 : Operation2 = (a,b) => a - b;
+
+const multiply2 : Operation2 = (a,b) => a * b;
+
+const divide2 : Operation2 = (a,b) => a / b;
+
+  
+
+// 하이브리드 타입
+
+add2.name
 ```
