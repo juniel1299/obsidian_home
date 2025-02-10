@@ -72,37 +72,25 @@ function login(user : User){
 
 ```typeScript
 type Admin = {
-
 	tag : 'ADMIN';
-	
 	name : string;
-	
 	kickCount : number;
-
 };
 
   
 
 type Member = {
-
 	tag : 'MEMBER';
-	
 	name : string;
-	
 	point : number;
-
 };
 
   
 
 type Guest = {
-
 	tag : 'GUEST';
-	
-	name : string;
-	
+	name : string;	
 	visitCount : number;
-
 };
 
 type User = Admin | Member | Guest;
@@ -141,3 +129,6 @@ switch(user.tag){
 	}
 }
 ```
+
+리터럴 타입 특성을 이용하게 되면 
+리터럴 타입 = 교집합이 없음  
