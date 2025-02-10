@@ -170,4 +170,91 @@ const success : AsyncTask = {
 	},
 };
 ```
-이렇게 각자 키 값이 다르면 또 ! 를 붙이면서 진행하게 되는데 그러면 관리
+이렇게 각자 키 값이 다르면 또 ! 를 붙이면서 진행하게 되는데 그러면 관리가 어려워짐 
+
+이럴땐 각각의 타입을 선언해주자. 
+```typeScript
+type LoadingTask = {
+
+	state : "LOADING"
+
+};
+
+  
+
+type FailedTask = {
+
+	state : "FAILED",
+	
+	error : {
+	
+		message : string;
+	
+	}
+
+}
+
+  
+
+type SuccessTask = {
+
+	state : "SUCCESS",
+	
+	response : {
+	
+		data : string;
+	
+	}
+
+}
+
+  
+
+type AsyncTask = LoadingTask | FailedTask | SuccessTask;
+
+// 로딩중 -> 콘솔 로딩중 출력
+
+// 실패 -> 실패 메세지 출력
+
+// 성공 -> 데이터 출력
+
+  
+
+function processResult(task : AsyncTask) {
+
+switch(task.state){
+
+case "LOADING" :
+
+{
+
+console.log('로딩중');
+
+break;
+
+}
+
+case "FAILED" :
+
+{
+
+console.log(`에러 발생 ${task.error.message}`);
+
+break;
+
+}
+
+case "SUCCESS" :
+
+{
+
+console.log(`${task.response.data}`);
+
+break;
+
+}
+
+}
+
+}
+```
