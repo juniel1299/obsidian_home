@@ -259,3 +259,6 @@ function processResult(task : AsyncTask) {
 }
 ```
 
+각각의 type 선언 진행하고 각각의 타입을 하나의 타입 안에 넣어주면 된다 . 
+
+그렇게 되면 state 키 값을 기준으로 메서드가 아예 안 잡힘 -> ? ! 이런 or 타입을 넣지 않아줘도 되고 관리도 쉬움
