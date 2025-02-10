@@ -33,9 +33,8 @@ const multiply2 : Operation2 = (a,b) => a * b;
 
 const divide2 : Operation2 = (a,b) => a / b;
 
-  
-
 // 하이브리드 타입
 
 add2.name
 ```
+
