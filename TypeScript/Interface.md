@@ -83,3 +83,44 @@ interface Dog extends Animal {
 };
 ```
 이런식으로 상속 받은 것을 자바의 오버라이딩처럼 할 수 있다
+
+## 다중 확장 
+```typeScript
+
+interface Animal {
+
+	name : string;
+	
+	age : number;
+
+};
+
+interface Dog extends Animal {
+
+	isBark : boolean;
+
+};  
+
+interface Cat extends Animal {
+
+	isScratch : boolean;
+
+};
+interface DogCat extends Dog, Cat {
+
+}
+
+  
+
+const dogCat : DogCat = {
+
+	name : "",
+	
+	age : 11,
+	
+	isBark : true,
+	
+	isScratch : true,
+
+}
+```
