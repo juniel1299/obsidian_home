@@ -48,5 +48,36 @@ type Person = {
 	age : number,
 };
 
+function func(value : number | string | Date | Person) {
 
+	if(typeof value === 'number'){
+	
+		console.log(value.toFixed());
+	
+	}
+	
+	else if (typeof value === 'string'){
+	
+		console.log(value.toUpperCase());
+	
+	}
+	
+	else if (value instanceof Date){
+	
+		console.log(value.getTime());
+	
+	}
+	
+	else if (value && "age" in value) {
+	
+		console.log(`${value.name} 은 ${value.age} 살 입니다.`);
+	
+	}
+
+};
 ```
+
+value && "age in value" 라는 조건을 걸게 되면 
+
+value 가 없을 때 null 이 나오는 예외도 막을 수 있고 
+
