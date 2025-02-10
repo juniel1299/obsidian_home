@@ -29,3 +29,11 @@ let cat = {
 
 // Non Null 단언
 
+```typeScript
+
+type Post = {
+title:string,
+author?:string,
+}
+```
+
