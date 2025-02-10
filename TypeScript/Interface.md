@@ -17,4 +17,51 @@ interface A {
 객체의 구조를 정의하는데 특화된 문법으로 상속이나 합침 같은 특수 기능도 존재함. 
 
 ## 확장 
-extends 를 붙이면 ㄱㅅ
+extends 를 붙이면 상속을 할 수 있다.
+
+```typeScript
+interface Animal {
+
+	name : string;
+	
+	age : number;
+
+};
+
+  
+
+interface Dog extends Animal {
+
+	isBark : boolean;
+
+};
+
+  
+
+interface Cat extends Animal {
+
+	isScratch : boolean;
+
+};
+
+interface Chicken extends Animal {
+
+	isFly : boolean;
+
+};
+
+  
+  
+
+const dog : Dog = {
+
+	name : 'ㅇㅇ',
+	
+	age : 11,
+	
+	isBark : true,
+
+}
+```
+이렇게 확장을 할 수 있으며 
+만약 일부 타입 선언에서만 다른 
