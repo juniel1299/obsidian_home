@@ -17,6 +17,13 @@ const func1 = (a1:number , b1:number) : number => a+b;
 // 필수적 매개변수는 선ㅌ책적 매개변수 뒤로 갈 수 없음. 
 
 function introduce (name = 'ㅇㅇ',tall? : number) {
-	console.log(`dd${name}`)
+	console.log(`dd${name}${number}`);
+};
+
+introduce('ㅇㅇ'); // ? 로 인해 or 조건 (있어도 되고 없어도 되는)이므로 가능
+
+// 정해지지 않은 개수의 값을 받을 때 
+function getSum(...rest : number[]){
+
 }
 ```
