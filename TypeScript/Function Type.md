@@ -24,6 +24,12 @@ introduce('ㅇㅇ'); // ? 로 인해 or 조건 (있어도 되고 없어도 되�
 
 // 정해지지 않은 개수의 값을 받을 때 
 function getSum(...rest : number[]){
-
+	let sum = 0;
+	rest.forEach((it) => (sum += it));
+	return sum;
 }
+
+getSum(1,2,3);
+// 만약 개수를 정하고 싶으면 ...rest : number
+
 ```
