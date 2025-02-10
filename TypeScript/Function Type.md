@@ -12,6 +12,11 @@ function func(a:number , b:number) : number {
 // 람다식
 const func1 = (a1:number , b1:number) : number => a+b;
 
-//함수의 매개변수 (선택적 매개변수)
-//
+// 함수의 매개변수 (선택적 매개변수)
+// 선택적 매개변수 (? 또는 ! 붙는거)는 무조건 맨 뒤로 가야한다.
+// 필수적 매개변수는 선ㅌ책적 매개변수 뒤로 갈 수 없음. 
+
+function introduce (name = 'ㅇㅇ',tall? : number) {
+	console.log(`dd${name}`)
+}
 ```
