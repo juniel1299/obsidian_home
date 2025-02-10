@@ -64,4 +64,22 @@ const dog : Dog = {
 }
 ```
 이렇게 확장을 할 수 있으며 
-만약 일부 타입 선언에서만 다른 
+만약 일부 타입 선언에서만 다른 타입을 가져오고 싶으면 
+```typeScript
+interface Animal {
+
+	name : string;
+	
+	age : number;
+
+};
+
+  
+
+interface Dog extends Animal {
+	name : number;
+	isBark : boolean;
+
+};
+```
+이런식으로 상속 받은 것을 자바의 오버라이딩처럼 할 수 있다
