@@ -49,4 +49,4 @@ const len : number = post.author!.length;
 (len 은 number 타입 주석을 가지고 있으나 author? 이므로 있을 수 도 있고 없을 수 도 있기 때문에 )
 (없다면 undefined 가 나오기 때문에 number 가 아님 ...)
 
-typeScript 에선 author! 
+author! 이렇게 쓰게되면 있을 수 도 잇고 없을 수 도 있다는 내용으로 받아서 정상적으로 동작함.
