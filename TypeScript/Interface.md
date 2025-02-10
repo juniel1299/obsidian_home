@@ -124,3 +124,8 @@ const dogCat : DogCat = {
 
 }
 ```
+
+Dog , Cat은 Animal 을 상속 받고  (name, age)
+DogCat은 Dog 와 Cat 을 상속 받아 (isBark , isScratch)
+위의 코드처럼 확장 할 수 있다.
+
