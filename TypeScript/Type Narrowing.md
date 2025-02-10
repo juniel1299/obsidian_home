@@ -21,6 +21,7 @@ function func(value : number | string) {
 };
 
 ```
+## 일반적이지 않은 타입
 
 
 타입스크립트는 typeof 를 통해 위에 내용은 number , 아래 내용은 string 이라고 추론함 . 
@@ -38,3 +39,4 @@ else if (value instanceof Date){
 }
 ```
 
+## 내가 만든 타입 
