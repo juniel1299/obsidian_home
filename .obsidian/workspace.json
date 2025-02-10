@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/Discriminated Union Type.md",
+                "file": "TypeScript/Function Type.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Discriminated Union Type"
+              "title": "Function Type"
             }
           }
         ]
@@ -209,8 +209,9 @@
   },
   "active": "2f874757de5f8b21",
   "lastOpenFiles": [
-    "TypeScript/Type Narrowing.md",
     "TypeScript/Discriminated Union Type.md",
+    "TypeScript/Function Type.md",
+    "TypeScript/Type Narrowing.md",
     "TypeScript/type assertion.md",
     "TypeScript/Type Inference.md",
     "TypeScript/1) TypeScript .md",
@@ -246,7 +247,6 @@
     "학교(SNS로 톡하고)/대본.md",
     "하이젠헬스케어_스크립트.md",
     "플레이투게더_스크립트.md",
-    "React/리액트.md",
     "무제.canvas",
     "React",
     "Spaces/Home",
