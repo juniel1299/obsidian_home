@@ -45,4 +45,8 @@ let post : Post = {
 const len : number = post.author!.length;
 ```
 
-자바스크립트가 가지고 있는 옵셔널 체이닝으로 잗
+자바스크립트가 가지고 있는 옵셔널 체이닝으로 자동적으로 author? 가 붙게 되는데 이 경우 에러가 뜸
+(len 은 number 타입 주석을 가지고 있으나 author? 이므로 있을 수 도 있고 없을 수 도 있기 때문에 )
+(없다면 undefined 가 나오기 때문에 number 가 아님 ...)
+
+typeScript 에선 author! 
