@@ -27,3 +27,14 @@ function func(value : number | string) {
 (if문 밖에서 찍으면 number | string 타입으로 찍힘..)
 
 들어오는 타입에 따라 조건문을 통해 두 갈랫길을 만들 수 있음.
+
+만약 node 에서 제공하는 Date 타입을 받기 위해선 
+조건문에 value instanceof Date  작성 해야함.
+```typeScript
+else if (value instanceof Date){
+
+	console.log(value.getTime());
+
+}
+```
+
