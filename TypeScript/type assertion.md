@@ -11,4 +11,9 @@
 ### 타입 단언 규칙을 깨는 방법 
 let num3 = 10 as unknown as string; 
 
-num3 
+num3 은 number 이고 규칙을 string으로 넣게 되면 에러가 나는데 
+unknown 을 중간에 한 번 거쳐서 들어가게 되면
+
+unknown 은 모든 타입을 다 받을 수 있기 때문에 중간에 두게 되면 에러 없이 동작한다. 
+(단, 타입스크립트의 메리트는 없어진다..)
+
