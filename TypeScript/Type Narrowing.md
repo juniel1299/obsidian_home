@@ -40,3 +40,13 @@ else if (value instanceof Date){
 ```
 
 ## 내가 만든 타입 
+내가 만든 타입에 따라 동작이 다르게 하기 위해선 
+
+```typeScript
+type Person = {
+	name : string,
+	age : number,
+};
+
+
+```
