@@ -32,8 +32,17 @@ let cat = {
 ```typeScript
 
 type Post = {
-title:string,
-author?:string,
-}
+	title : string,
+	author? : string,
+};
+
+let post : Post = {
+	title : 'ㅇㅇ',
+	author : 'ㅇㅈㅇ',
+};
+
+//const len : number = post.author?.length;
+const len : number = post.author!.length;
 ```
 
+자바스크립트가 가지고 있는 옵셔널 체이닝으로 잗
