@@ -168,3 +168,75 @@ getPropertyKey(person, "name");
 keyof 타입 을 사용하게 될 경우 해당 타입 또는 타입 선언된 내부 데이터를 다 가져옴 
 
 typeof 를 타입 정의 시에 사용하게 되면 해당 타입들을 추출 할 수 있음.
+```typeScript
+  
+interface User {
+	id : number;
+	
+	name : string;
+	
+	age : number;
+}
+
+  
+
+type PartialUser = {
+
+[key in 'id' | 'name' | 'age'] : User[key];
+
+}
+
+  
+
+type BooleanUser = {
+
+[key in keyof User] : boolean;
+
+}
+
+  
+
+type ReadonlyUser = {
+
+readonly [key in keyof User]: User[key];
+
+}
+
+  
+
+// 한명의 유저 정보를 불러오는 기능
+
+function fetchUser():User{
+
+return{
+
+id : 1,
+
+name : 'ㅈㅈ',
+
+age : 22,
+
+};
+
+}
+
+// 한명의 유저 정보를 수정하는 기능
+
+function updateUser(user : User){
+
+//수정하는 기능
+
+  
+
+}
+
+updateUser({
+
+id : 1,
+
+name : "ddd",
+
+age : 22,
+
+});
+```
