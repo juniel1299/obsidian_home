@@ -172,7 +172,8 @@ forEach(arr2, (it) =>{
 
 forEach(['123','456'], (it) =>{
 
-it;
+	it;
 
 })
 ```
+forEach의 경우 
