@@ -207,18 +207,16 @@ let keyPair2 : KeyPair<boolean,string[]> = {
 
 // 인덱스 시그니처
 interface NumberMap {
-
-[key : string] : number;
-
+	[key : string] : number;
 }
 
   
 
 let numberMap1 : NumberMap = {
 
-key : 11,
-
-key2 : 131
+	key : 11,
+	
+	key2 : 131
 
 };
 
@@ -226,7 +224,7 @@ key2 : 131
 
 interface Map<V>{
 
-[key : string] : V;
+	[key : string] : V;
 
 }
 
@@ -234,7 +232,7 @@ interface Map<V>{
 
 let stringMap : Map<string> = {
 
-key : "value",
+	key : "value",
 
 };
 
@@ -242,7 +240,7 @@ key : "value",
 
 let booleanMap : Map<boolean> = {
 
-key:true,
+	key:true,
 
 };
 
@@ -254,7 +252,7 @@ key:true,
 
 type Map2<V> = {
 
-[key: string] : V;
+	[key: string] : V;
 
 };
 
@@ -262,7 +260,7 @@ type Map2<V> = {
 
 let stringMap2 : Map2 <string> = {
 
-key: "hello"
+	key: "hello"
 
 };
 
@@ -276,9 +274,9 @@ key: "hello"
 
 interface Student {
 
-type : 'student';
-
-school : string;
+	type : 'student';
+	
+	school : string;
 
 };
 
@@ -286,9 +284,9 @@ school : string;
 
 interface Developer {
 
-type : 'developer';
-
-skill : string;
+	type : 'developer';
+	
+	skill : string;
 
 };
 
@@ -296,9 +294,9 @@ skill : string;
 
 interface User<T> {
 
-name : string;
-
-profile : Student | Developer;
+	name : string;
+	
+	profile : Student | Developer;
 
 }
 
@@ -306,11 +304,11 @@ profile : Student | Developer;
 
 function goToSchool(user:User<Student>){
 
-if(user.profile.type !== 'student'){
-
-console.log('???');
-
-return;
+	if(user.profile.type !== 'student'){
+	
+	console.log('???');
+	
+	return;
 
 }
 
