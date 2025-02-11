@@ -121,3 +121,8 @@ const post:PostList[0] = {
 printAuthorInfo(post.author);
 ```
 interface를 사용하지 않을 경우 type 끝나는지점에 \[] 작성
+
+PostList\[0] 은 리터럴 넘버 타입 (숫자 아님..)
+
+PostList\[number]\["author"] 순서대로 추출해야함 ;;
+
