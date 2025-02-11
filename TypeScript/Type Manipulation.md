@@ -141,3 +141,5 @@ type Tup2 = Tup[2];
 type TupNum = Tup[number];
 ```
 
+## keyof 연산자
+
