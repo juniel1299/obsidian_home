@@ -52,9 +52,9 @@ a : T , b : T 가 되는데
 -> 그러므로 U 로 변수 하나를 더 주어서 string, number 로 바꿔 가져갈 수 있음
 
 ```typeScript
-function returnFirstValue(data:any){
+function returnFirstValue<T>(data:T[]){
 
-	return data[0];
+return data[0];
 
 }
 let num = returnFirstValue([0,1,2]);
