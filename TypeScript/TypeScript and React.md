@@ -11,3 +11,6 @@ sudo chown -R $(whoami)
 
 
 이후 
+
+npm i @types/node @types/react @types/react-dom @types/jest 작성
+
