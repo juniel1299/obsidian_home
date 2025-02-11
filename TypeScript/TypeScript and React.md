@@ -14,3 +14,4 @@ sudo chown -R $(whoami)
 
 npm i @types/node @types/react @types/react-dom @types/jest 작성
 
+@types 형태의 라이브러리를 Definitely Types라 부름 
