@@ -107,4 +107,5 @@ let var3 = getLength({length : 10});
 let var4 = getLength(10);
 ```
 
-length 가 존재하는 경우만 전달하도록 하기 위해선 extend
+length 가 존재하는 경우만 전달하도록 하기 위해선 extends 를 통해 확장하여 진행한다 
+( 그러므로 var4 는 에러 )
