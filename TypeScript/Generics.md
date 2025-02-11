@@ -61,5 +61,5 @@ let num = returnFirstValue([0,1,2]);
 
 let str = returnFirstValue(["dd",'ww']);
 ```
-해당 코드 진행 시 값은 0 , dd가 나옴 (0번째 위치 배열 값)
+T\[] 작성하지 않으면 언노운으로 잡힘 . (배열인지 알 수 없음 -> 에러남)
 
