@@ -141,4 +141,5 @@ map(['hi','hello'],(it) => it.toUpperCase());
 
 map(['hi','hello'],(it) => parseInt(it));
 ```
-map 의 값을 
+map 의 값을 number , string 두개의 타입을 받기 위해 T, U 필요함
+
