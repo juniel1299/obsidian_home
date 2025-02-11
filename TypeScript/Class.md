@@ -162,3 +162,40 @@ class Employee {
 ## 인터페이스와 클래스 
 그냥 스프링 할 때랑 똑같음 ...
 
+```typeScript
+interface CharacterInterface {
+
+	name : string;
+	
+	moveSpeed : number;
+	
+	move() : void;
+
+}
+
+  
+
+class Charater implements CharacterInterface{
+
+	name : string;
+	
+	moveSpeed: number;
+
+  
+
+	constructor(name : string, moveSpeed : number){
+	
+		this.name = name;
+		
+		this.moveSpeed = moveSpeed;
+	
+	}
+
+	move() : void {
+
+		console.log(`${this.moveSpeed}ㅇㅇㅇ`);
+
+	}
+
+}
+```
