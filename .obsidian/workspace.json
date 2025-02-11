@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/TypeScript and React.md",
+                "file": "TypeScript/Type Manipulation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TypeScript and React"
+              "title": "Type Manipulation"
             }
           }
         ]
@@ -209,8 +209,9 @@
   },
   "active": "2f874757de5f8b21",
   "lastOpenFiles": [
-    "TypeScript/Type Manipulation.md",
+    "TypeScript/1) TypeScript .md",
     "TypeScript/TypeScript and React.md",
+    "TypeScript/Type Manipulation.md",
     "TypeScript/Generics.md",
     "TypeScript/Class.md",
     "TypeScript/Interface.md",
@@ -222,7 +223,6 @@
     "TypeScript/Type Narrowing.md",
     "TypeScript/type assertion.md",
     "TypeScript/Type Inference.md",
-    "TypeScript/1) TypeScript .md",
     "TypeScript/Untitled.md",
     "TypeScript/Type.md",
     "TypeScript/setting.md",
