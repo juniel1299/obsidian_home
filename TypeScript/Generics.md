@@ -80,4 +80,4 @@ let num = returnFirstValue([0,1,2]);
 let str = returnFirstValue([1,"dd",'ww']);
 ```
 
-응용하게 되면 첫번째는 T 나머지 요소는 
+응용하게 되면 첫번째는 T 나머지 요소는 모르겠다 + 배열을 명시해줌
