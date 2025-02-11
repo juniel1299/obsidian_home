@@ -442,4 +442,4 @@ postRequest.then((post) => {
 
 })
 ```
-function 자체에 타입과 제네릭을 설정해 post 
+function 자체에 타입과 제네릭을 설정해 post 를 호출할 때 타입 에러가 발생하지 않도록 할 수 있다.
