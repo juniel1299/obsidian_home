@@ -39,9 +39,32 @@ class Employee {
 		console.log('일함');
 	}
 };
+
+
+class ExecutiveOfficer extends Employee {
+
+	//필드
+	
+	officeNumber : number;
+	
+	  
+	
+	//생성자
+	
+	constructor(name:string,age:number,position:string,officeNumber:number){
+	
+		super(name,age,position);
+		
+		this.officeNumber = officeNumber;
+	
+	}
+
+}
+const employeeB = new Employee("ㅇㅇ",22,"ㅇㅇ");
 ```
 
-생성자를 만들지 않으면 초기값이 없어서 에러가 발생 (만약 "" 같은 null을 넣어도 가능은 하지만 일반적으로 생성자 사용)
+생성자를 만들지 않으면 초기값이 없어서 에러가 발생
+(만약 "" 같은 null을 넣어도 가능은 하지만 일반적으로 생성자 사용)
 
 또한 클래스는 그 자체로 타입으로 사용이 가능함 
 ( const employeeB = new Employee )  
