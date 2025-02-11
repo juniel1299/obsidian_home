@@ -351,3 +351,4 @@ const studentUser : User<Student> = {
 
 goToSchool(developer1);
 ```
+## 제네릭 클래스
