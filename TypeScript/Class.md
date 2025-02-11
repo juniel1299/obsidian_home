@@ -208,7 +208,9 @@ class Charater implements CharacterInterface{
 
   
 
-	constructor(public name : string, public moveSpeed : number){}
+	constructor(
+		public name : string, public moveSpeed : number
+	){}
 	
 	move() : void {
 	
@@ -219,5 +221,6 @@ class Charater implements CharacterInterface{
 }
 ```
 당연히 생략 가능
+(만약 private 필드가 필요 할 경우 private extra: string 추가 . )
 
 
