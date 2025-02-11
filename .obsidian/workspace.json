@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/Type Manipulation.md",
+                "file": "TypeScript/Type.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Type Manipulation"
+              "title": "Type"
             }
           }
         ]
@@ -209,23 +209,23 @@
   },
   "active": "2f874757de5f8b21",
   "lastOpenFiles": [
-    "TypeScript/1) TypeScript .md",
-    "TypeScript/TypeScript and React.md",
-    "TypeScript/Type Manipulation.md",
-    "TypeScript/Generics.md",
-    "TypeScript/Class.md",
-    "TypeScript/Interface.md",
-    "TypeScript/User-Defined Type Guards.md",
-    "TypeScript/Function OverLoading.md",
-    "TypeScript/Function Type Expressions.md",
-    "TypeScript/Function Type.md",
-    "TypeScript/Discriminated Union Type.md",
-    "TypeScript/Type Narrowing.md",
+    "TypeScript/setting.md",
     "TypeScript/type assertion.md",
     "TypeScript/Type Inference.md",
+    "TypeScript/Type Narrowing.md",
+    "TypeScript/Discriminated Union Type.md",
+    "TypeScript/Function Type.md",
+    "TypeScript/Function Type Expressions.md",
+    "TypeScript/Function OverLoading.md",
+    "TypeScript/User-Defined Type Guards.md",
+    "TypeScript/Interface.md",
+    "TypeScript/Class.md",
+    "TypeScript/Generics.md",
+    "TypeScript/Type Manipulation.md",
+    "TypeScript/1) TypeScript .md",
+    "TypeScript/TypeScript and React.md",
     "TypeScript/Untitled.md",
     "TypeScript/Type.md",
-    "TypeScript/setting.md",
     "React/React Router.md",
     "React/Dynamic Segments (동적 경로).md",
     "React/Page Routing.md",
