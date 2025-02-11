@@ -81,4 +81,6 @@ const employeeC : Employee = {
 그로 인해 이렇게 타입을 줄 수도 있음 . 
 
 ## 접근 제어자 
-- 
+- 타입스크립트에서 존재하는 기능 (자바스크립트 x)
+- 그냥 자바의 public , private , protected 생각하면 됨 
+
