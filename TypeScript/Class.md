@@ -143,8 +143,7 @@ class Employee {
 
 //생성자
 
-	constructor(public name:string, private age:number, protected position:string) {
-	}
+	constructor(public name:string, private age:number, protected position:string) {}
 
   
 
