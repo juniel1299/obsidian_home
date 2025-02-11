@@ -37,5 +37,15 @@ let arr = func<[number,number,number]>([1,2,3]);
 (단, 자바처럼 ? 같은 와일드 카드가 없음)
 
 ## 타입 변수 응용
-```type
+```typeScript
+function swap<T, U>(a:T,b:U){
+
+	return [b,a];
+
+}
+const [a,b] = swap ("1",2);
 ```
+
+기존처럼 \<T> 진행하게 될 시 
+a : T , b : T 가 되는데 
+그럼 "1" 로 인해 string 타입을 가지게 됨 -> 그러므로 U 로 변수 하나를 더 주어서 string, number 로 바꿈
