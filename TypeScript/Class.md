@@ -23,29 +23,31 @@ position : string;
 
   
 
-//생성자
+	//생성자
 
-constructor(name:string, age:number, position:string) {
-
-this.name = name;
-
-this.age = age;
-
-this.position = position;
-
-}
+	constructor(name:string, age:number, position:string) {
+	
+		this.name = name;
+		
+		this.age = age;
+		
+		this.position = position;
+	
+	}
 
   
 
 //메서드
 
-work(){
-
-console.log('일함');
-
-}
+	work(){
+	
+		console.log('일함');
+	
+	}
 
 };
 ```
 
-생성자를 만들지 않으면 초기값이 없어서 에러가 발생 (만약 "" )
+생성자를 만들지 않으면 초기값이 없어서 에러가 발생 (만약 "" 같은 null을 넣어도 가능은 하지만 일반저긍로 생성자 사용)
+
+또한 
