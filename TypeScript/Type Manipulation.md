@@ -138,4 +138,6 @@ type Tup1 = Tup[1];
 
 type Tup2 = Tup[2];
 
+type TupNum = Tup[number];
 ```
+
