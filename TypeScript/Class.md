@@ -201,4 +201,23 @@ class Charater implements CharacterInterface{
 ```
 스프링과 똑같이 implements 로 인터페이스를 받아와서 작성 가능 . 
 ```typeScript
+
+  
+
+class Charater implements CharacterInterface{
+
+  
+
+	constructor(public name : string, public moveSpeed : number){}
+	
+	move() : void {
+	
+		console.log(`${this.moveSpeed}ㅇㅇㅇ`);
+
+	}
+
+}
 ```
+당연히 생략 가능
+
+
