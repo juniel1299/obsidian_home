@@ -67,4 +67,6 @@ printAuthorInfo(post.author);
 
 속성이 추가가 될 수록 계속 넣어주지 않고 배열처럼 \['author] 적으면 
 Post 에서 추가해도 따로 function 부분에 추가 할 필요가 없음 
-()
+(특정 속성 타입만 빼오는 방법)
+
+
