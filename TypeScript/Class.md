@@ -138,3 +138,31 @@ employeeB.position = 'ㅂㅂ';
 ```
 즉 위의 코드를 예시로 이 코드들은 age , position 에서 에러 발생. 
 
+```typeScript
+class Employee {
+
+//생성자
+
+	constructor(public name:string, private age:number, protected position:string) {
+
+		this.name = name;
+		
+		this.age = age;
+		
+		this.position = position;
+
+	}
+
+  
+
+//메서드
+
+	work(){
+	
+		console.log('일함');
+	
+	}
+
+};
+```
+필드를 생략하고 생ㅅ
