@@ -165,3 +165,6 @@ const person = {
 
 getPropertyKey(person, "name");
 ```
+keyof 타입 을 사용하게 될 경우 해당 타입 또는 타입 선언된 내부 데이터를 다 가져옴 
+
+typeof 를 타입 정의 시에 ㅅ
