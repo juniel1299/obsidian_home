@@ -13,13 +13,13 @@
 
 class Employee {
 
-//필드
-
-name: string;
-
-age : number;
-
-position : string;
+	//필드
+	
+	name: string;
+	
+	age : number;
+	
+	position : string;
 
   
 
@@ -34,20 +34,13 @@ position : string;
 		this.position = position;
 	
 	}
-
-  
-
-//메서드
-
+	//메서드
 	work(){
-	
 		console.log('일함');
-	
 	}
-
 };
 ```
 
-생성자를 만들지 않으면 초기값이 없어서 에러가 발생 (만약 "" 같은 null을 넣어도 가능은 하지만 일반저긍로 생성자 사용)
+생성자를 만들지 않으면 초기값이 없어서 에러가 발생 (만약 "" 같은 null을 넣어도 가능은 하지만 일반적으로 생성자 사용)
 
 또한 
