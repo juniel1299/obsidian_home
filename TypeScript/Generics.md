@@ -36,3 +36,6 @@ let arr = func<[number,number,number]>([1,2,3]);
 
 (단, 자바처럼 ? 같은 와일드 카드가 없음)
 
+## 타입 변수 응용
+```type
+```
