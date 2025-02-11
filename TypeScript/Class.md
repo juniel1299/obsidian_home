@@ -45,4 +45,4 @@ class Employee {
 
 또한 클래스는 그 자체로 타입으로 사용이 가능함 
 ( const employeeB = new Employee )  
-employeeB 의 타입은 Employee 가 됨 
+해당 내용으로 인해 employeeB 의 타입은 Employee 가 됨 
