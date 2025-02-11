@@ -223,4 +223,5 @@ class Charater implements CharacterInterface{
 당연히 생략 가능
 (만약 private 필드가 필요 할 경우 private extra: string 추가 . )
 
-
+interface 는 제약 조건을 의미 
+implements 는 제약 조건을 적용한다 생각하면 된다.
