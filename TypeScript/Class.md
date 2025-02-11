@@ -158,3 +158,6 @@ class Employee {
 };
 ```
 필드를 생략하고 생성자에 public , protected , public 붙이는 것도 가능함. + this 문법 또한 생략 가능
+
+## 인터페이스와 클래스 
+스프링 할 때랑 똑같음 ...
