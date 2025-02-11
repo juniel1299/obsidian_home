@@ -79,3 +79,6 @@ const employeeC : Employee = {
 ```
 
 그로 인해 이렇게 타입을 줄 수도 있음 . 
+
+## 접근 제어자 
+- 
