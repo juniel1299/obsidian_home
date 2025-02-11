@@ -9,3 +9,43 @@
 자바랑 거의 같음 ..
 
 # 타입스크립트의 클래스
+```typeScript
+
+class Employee {
+
+//필드
+
+name: string;
+
+age : number;
+
+position : string;
+
+  
+
+//생성자
+
+constructor(name:string, age:number, position:string) {
+
+this.name = name;
+
+this.age = age;
+
+this.position = position;
+
+}
+
+  
+
+//메서드
+
+work(){
+
+console.log('일함');
+
+}
+
+};
+```
+
+생성자를 만들지 않으면 초기값이 없어서 에러가 발생 (만약 "" )
