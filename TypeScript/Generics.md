@@ -81,3 +81,30 @@ let str = returnFirstValue([1,"dd",'ww']);
 ```
 
 응용하게 되면 첫번째는 T 나머지 요소는 모르겠다 + 배열을 명시해줌
+
+
+```typeScript
+function getLength<T extends {length : number}>(data: T){
+
+	return data.length;
+
+}
+
+  
+
+let var1 = getLength([1,2,3]);
+
+  
+
+let var2 = getLength("12345");
+
+  
+
+let var3 = getLength({length : 10});
+
+  
+
+let var4 = getLength(10);
+```
+
+length 가 존재하는 경우만 전달하도록 하기 위해선 extend
