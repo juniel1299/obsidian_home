@@ -129,3 +129,12 @@ public 이면 모든 곳에서 수정 가능 (접근 가능)
 private 면 해당하는 클래스 내부에서만 수정 가능 (접근 가능)
 protected 면 상속 관계에서만 수정 가능 (접근 가능)
 
+```typeScript
+employeeB.age = 13;
+
+employeeB.name = 'ㅈㅈ';
+
+employeeB.position = 'ㅂㅂ';
+```
+즉 위의 코드를 예시로 이 코드들은 age , position 에서 에러 발생. 
+
