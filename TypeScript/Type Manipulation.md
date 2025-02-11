@@ -12,3 +12,55 @@
 스트링 리터럴 타입을 기반으로 정해진 문자열만 포함하는 타입
 
 
+## 인덱스드 엑세스 타입 
+```typeScript
+interface Post {
+
+title:string;
+
+content:string;
+
+author: {
+
+id:number;
+
+name:string;
+
+age:number;
+
+};
+
+}
+
+  
+
+function printAuthorInfo(author: Post["author"]) {
+
+console.log(`${author.name} - ${author.id}`);
+
+}
+
+  
+
+const post:Post = {
+
+title: "제목",
+
+content : "게시글 본문",
+
+author : {
+
+id : 1,
+
+name : "dd",
+
+age : 11,
+
+},
+
+};
+
+  
+
+printAuthorInfo(post.author);
+```
