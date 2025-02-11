@@ -126,3 +126,16 @@ PostList\[0] 은 리터럴 넘버 타입 (숫자 아님..)
 
 PostList\[number]\["author"] 순서대로 추출해야함 ;;
 
+```typeScript
+//튜플 방식
+type Tup = [number,string,boolean];
+
+  
+
+type Tup0 = Tup[0];
+
+type Tup1 = Tup[1];
+
+type Tup2 = Tup[2];
+
+```
