@@ -43,4 +43,6 @@ class Employee {
 
 생성자를 만들지 않으면 초기값이 없어서 에러가 발생 (만약 "" 같은 null을 넣어도 가능은 하지만 일반적으로 생성자 사용)
 
-또한 
+또한 클래스는 그 자체로 타입으로 사용이 가능함 
+( const employeeB = new Employee )  
+employeeB 의 타입은 Employee 가 됨 
