@@ -306,15 +306,15 @@ function goToSchool(user:User<Student>){
 
 	if(user.profile.type !== 'student'){
 	
-	console.log('???');
-	
-	return;
+		console.log('???');
+		
+		return;
 
-}
+	}
 
-const school = user.profile.school;
+	const school = user.profile.school;
 
-console.log(`${school}로 완료`);
+	console.log(`${school}로 완료`);
 
 }
 
@@ -322,15 +322,12 @@ console.log(`${school}로 완료`);
 
 const developer1 : User<Developer> = {
 
-name : 'ㅇㅇ',
-
-profile : {
-
-type : "developer",
-
-skill : "TypeScript",
-
-},
+	name : 'ㅇㅇ',
+	
+	profile : {
+		type : "developer",
+		skill : "TypeScript",
+	},
 
 };
 
@@ -338,15 +335,15 @@ skill : "TypeScript",
 
 const studentUser : User<Student> = {
 
-name : 'ㅇㅇ',
-
-profile : {
-
-type : "student",
-
-school : "ㄹㄹ",
-
-},
+	name : 'ㅇㅇ',
+	
+	profile : {
+	
+		type : "student",
+		
+		school : "ㄹㄹ",
+	
+	},
 
 }
 
