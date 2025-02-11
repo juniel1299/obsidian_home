@@ -398,5 +398,48 @@ const stringList = new List(['1','2']);
 
 ## 프로미스
 ```typeScript
+interface Post {
 
+	id : number;
+	
+	title : string;
+	
+	content : string;
+
+};
+
+  
+
+function fetchPost(): Promise<Post>{
+
+	return new Promise((resolve,reject) => {
+	
+		setTimeout(() => {
+		
+			resolve({
+		
+				id : 1,
+		
+				title : 'dㅇ',
+		
+				content : 'ㄴㄹㅂ',
+		
+			});
+		
+		},3000);
+	
+	});
+
+}
+
+  
+
+const postRequest = fetchPost();
+
+postRequest.then((post) => {
+
+	post.id;
+
+})
 ```
+function 자체에 타입과 제네릭을 설정해 post 
