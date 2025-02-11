@@ -63,3 +63,21 @@ let str = returnFirstValue(["dd",'ww']);
 ```
 T\[] 작성하지 않으면 언노운으로 잡힘 . (배열인지 알 수 없음 -> 에러남)
 
+```typeScript
+function returnFirstValue<T>(data:[T, ...unknown[]]){
+
+	return data[0];
+
+}
+
+  
+  
+
+let num = returnFirstValue([0,1,2]);
+
+  
+
+let str = returnFirstValue([1,"dd",'ww']);
+```
+
+응용하게 되면 첫번째는 T 나머지 요소는 
