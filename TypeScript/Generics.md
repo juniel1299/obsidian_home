@@ -51,3 +51,15 @@ a : T , b : T 가 되는데
 그럼 "1" 로 인해 string 타입을 가지게 됨 
 -> 그러므로 U 로 변수 하나를 더 주어서 string, number 로 바꿔 가져갈 수 있음
 
+```typeScript
+function returnFirstValue(data:any){
+
+	return data[0];
+
+}
+let num = returnFirstValue([0,1,2]);
+
+let str = returnFirstValue(["dd",'ww']);
+```
+해당 코드 진행 시 값은 0 , dd가 나옴 (0번째 위치 배열 값)
+
