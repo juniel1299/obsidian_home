@@ -84,3 +84,40 @@ const employeeC : Employee = {
 - 타입스크립트에서 존재하는 기능 (자바스크립트 x)
 - 그냥 자바의 public , private , protected 생각하면 됨 
 
+```typeScript
+class Employee {
+
+	//필드
+	
+	public name: string;
+	
+	private age : number;
+	
+	protected position : string;
+
+  
+
+//생성자
+
+	constructor(name:string, age:number, position:string) {
+
+		this.name = name;
+		
+		this.age = age;
+		
+		this.position = position;
+
+	}
+
+  
+
+//메서드
+
+	work(){
+	
+		console.log('일함');
+	
+	}
+
+};
+```
