@@ -69,5 +69,55 @@ printAuthorInfo(post.author);
 Post 에서 추가해도 따로 function 부분에 추가 할 필요가 없음 
 (특정 속성 타입만 빼오는 방법)
 
-```type
+```typeScript
+type PostList = {
+
+	title:string;
+	
+	content:string;
+	
+	author: {
+	
+		id:number;
+		
+		name:string;
+		
+		age:number;
+
+	};
+
+}[];
+
+  
+
+function printAuthorInfo(author: PostList[number]["author"]) {
+
+	console.log(`${author.name} - ${author.id}`);
+
+}
+
+  
+
+const post:PostList[0] = {
+
+	title: "제목",
+	
+	content : "게시글 본문",
+	
+	author : {
+	
+		id : 1,
+		
+		name : "dd",
+		
+		age : 11,
+		
+	},
+
+};
+
+  
+
+printAuthorInfo(post.author);
 ```
+interface를 사용하지 않을 경우 type 끝나는지점에 \[] 작성
