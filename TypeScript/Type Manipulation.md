@@ -142,4 +142,26 @@ type TupNum = Tup[number];
 ```
 
 ## keyof 연산자
+```typeScript
+type Person = typeof person ; 
 
+// keyof 다음은 무조건 타입이 옴.
+function getPropertyKey(person : Person, key : keyof Person){ 
+	return person[key];
+
+}
+
+  
+
+const person = {
+
+	name : 'ㅇㅇ',
+	
+	age : 22,
+
+};
+
+  
+
+getPropertyKey(person, "name");
+```
