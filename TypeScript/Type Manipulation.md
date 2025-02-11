@@ -16,19 +16,19 @@
 ```typeScript
 interface Post {
 
-title:string;
+	title:string;
+	
+	content:string;
 
-content:string;
-
-author: {
-
-id:number;
-
-name:string;
-
-age:number;
-
-};
+	author: {
+	
+		id:number;
+		
+		name:string;
+		
+		age:number;
+	
+	};
 
 }
 
@@ -36,7 +36,7 @@ age:number;
 
 function printAuthorInfo(author: Post["author"]) {
 
-console.log(`${author.name} - ${author.id}`);
+	console.log(`${author.name} - ${author.id}`);
 
 }
 
@@ -44,19 +44,19 @@ console.log(`${author.name} - ${author.id}`);
 
 const post:Post = {
 
-title: "제목",
-
-content : "게시글 본문",
-
-author : {
-
-id : 1,
-
-name : "dd",
-
-age : 11,
-
-},
+	title: "제목",
+	
+	content : "게시글 본문",
+	
+	author : {
+	
+		id : 1,
+		
+		name : "dd",
+		
+		age : 11,
+	
+	},
 
 };
 
@@ -64,3 +64,6 @@ age : 11,
 
 printAuthorInfo(post.author);
 ```
+
+속성이 추가가 될 수록 계속 넣어주지 않고 배열처럼 \['author] 적으면 Post 에서 추가해도 따로 function 부분에 추가 할 필요가 없음 
+
