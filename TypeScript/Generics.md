@@ -112,3 +112,33 @@ length 가 존재하는 경우만 전달하도록 하기 위해선 extends 를 �
 
 ## map , forEach
 
+```typeScript
+const arr = [1,2,3];
+
+const newArr = arr.map((it) => it * 2);
+
+  
+	
+	function map<T,U>(arr:T[],callback:(item:T) => U){
+	
+		let result = [];
+	
+		for (let i = 0; i < arr.length; i++){
+	
+			result.push(callback(arr[i]));
+	
+		}
+	
+	return result;
+
+	}
+
+  
+
+map(arr, (it) => it * 2);
+
+map(['hi','hello'],(it) => it.toUpperCase());
+
+map(['hi','hello'],(it) => parseInt(it));
+```
+map 의 값을 
