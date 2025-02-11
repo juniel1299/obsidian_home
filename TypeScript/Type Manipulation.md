@@ -182,7 +182,7 @@ interface User {
 
 type PartialUser = {
 
-[key in 'id' | 'name' | 'age'] : User[key];
+	[key in 'id' | 'name' | 'age'] : User[key];
 
 }
 
@@ -190,7 +190,7 @@ type PartialUser = {
 
 type BooleanUser = {
 
-[key in keyof User] : boolean;
+	[key in keyof User] : boolean;
 
 }
 
@@ -198,7 +198,7 @@ type BooleanUser = {
 
 type ReadonlyUser = {
 
-readonly [key in keyof User]: User[key];
+	readonly [key in keyof User]: User[key];
 
 }
 
@@ -208,15 +208,15 @@ readonly [key in keyof User]: User[key];
 
 function fetchUser():User{
 
-return{
-
-id : 1,
-
-name : 'ㅈㅈ',
-
-age : 22,
-
-};
+	return{
+	
+		id : 1,
+		
+		name : 'ㅈㅈ',
+		
+		age : 22,
+	
+	};
 
 }
 
@@ -232,11 +232,13 @@ function updateUser(user : User){
 
 updateUser({
 
-id : 1,
-
-name : "ddd",
-
-age : 22,
+	id : 1,
+	
+	name : "ddd",
+	
+	age : 22,
 
 });
 ```
+key in keyof User : boolean 을 진행하게 되면 user 내부 타입 주석이 모두 boolean 으로 적용됨.
+
