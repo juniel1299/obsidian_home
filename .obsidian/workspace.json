@@ -11,14 +11,17 @@
             "id": "2f874757de5f8b21",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "TypeScript/Class.md",
-                "mode": "source",
-                "source": false
+                "file": "React/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Class"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -209,6 +212,8 @@
   },
   "active": "2f874757de5f8b21",
   "lastOpenFiles": [
+    "React/Untitled.canvas",
+    "TypeScript/Class.md",
     "TypeScript/setting.md",
     "TypeScript/Function Type Expressions.md",
     "TypeScript/User-Defined Type Guards.md",
@@ -222,7 +227,6 @@
     "TypeScript/Interface.md",
     "TypeScript/Function OverLoading.md",
     "TypeScript/Discriminated Union Type.md",
-    "TypeScript/Class.md",
     "TypeScript/Generics.md",
     "TypeScript/Type Manipulation.md",
     "TypeScript/TypeScript and React.md",
@@ -235,7 +239,6 @@
     "React/최적화.md",
     "React/Web Storage.md",
     "React/Context.md",
-    "React/ETC.md",
     "React/imageFolder/스크린샷 2025-02-06 오후 1.11.02.png",
     "React/imageFolder/스크린샷 2025-02-06 오후 1.05.51.png",
     "React/imageFolder/스크린샷 2025-02-06 오후 1.04.18.png",

@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"bec1f8ffa847e88f","x":-160,"y":-220,"width":250,"height":75,"type":"text","text":"Parent Component"}
+	],
+	"edges":[]
+}
