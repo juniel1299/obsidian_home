@@ -11,17 +11,14 @@
             "id": "2f874757de5f8b21",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "React/Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "TypeScript/Discriminated Union Type.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Discriminated Union Type"
             }
           }
         ]
@@ -212,6 +209,8 @@
   },
   "active": "2f874757de5f8b21",
   "lastOpenFiles": [
+    "React/Dynamic Segments (동적 경로).md",
+    "React/라이프 사이클클.md",
     "React/Untitled.canvas",
     "TypeScript/Class.md",
     "TypeScript/setting.md",
@@ -231,11 +230,9 @@
     "TypeScript/Type Manipulation.md",
     "TypeScript/TypeScript and React.md",
     "React/React Router.md",
-    "React/Dynamic Segments (동적 경로).md",
     "React/Page Routing.md",
     "TypeScript/TypeScript.md",
     "TypeScript",
-    "React/라이프 사이클클.md",
     "React/최적화.md",
     "React/Web Storage.md",
     "React/Context.md",
