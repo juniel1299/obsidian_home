@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"bec1f8ffa847e88f","x":-160,"y":-220,"width":250,"height":75,"type":"text","text":"Parent Component"}
+		{"id":"bec1f8ffa847e88f","x":-160,"y":-220,"width":250,"height":75,"type":"text","text":"Parent Components"},
+		{"id":"7e03f68a93d10d16","type":"text","text":"Child Components","x":-410,"y":-80,"width":250,"height":75},
+		{"id":"3677ed25e56d5273","type":"text","text":"Child Components","x":140,"y":-80,"width":250,"height":75},
+		{"id":"8cadbb483c0568dd","type":"text","text":"Child Components","x":-140,"y":-80,"width":250,"height":75}
 	],
 	"edges":[]
 }
