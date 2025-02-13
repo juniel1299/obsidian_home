@@ -26,5 +26,12 @@ c : \<string | number\>
 d : \<number | string\> (중복은 지워짐)
 
 
-```type
+```typeScript
+type Exclude <T,U> = T extends U ? never : T;
+type A = Exclude<number | string | boolean,string>;
 ```
+
+마찬가지로 이렇게 들어오면 
+A : number | never | boolean 에서 
+never는 생략되므로 
+A : \<number | boolean
