@@ -107,8 +107,9 @@ const legacyPost : Pick<Post,"title" | "content"> = {
 ```typeScript
 type Pick<T,K extends keyof T> = {
 
-[key in K]: T[key];
+	[key in K]: T[key];
 
 }
 ```
 해당 내용과 같은 내용임.
+
