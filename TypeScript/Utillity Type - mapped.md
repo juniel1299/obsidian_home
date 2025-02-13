@@ -126,5 +126,7 @@ const noTitlePost : Omit<Post,'title'> = {
 ```
 
 ```typeScript
-
+type Omit<T,K extends keyof T> = Pick<T, Exclude<keyof T,K>>;
 ```
+
+해당 내용 과 같음. 
