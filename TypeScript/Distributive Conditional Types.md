@@ -46,3 +46,12 @@ type B = Extract<number | string | boolean , string > ;
 B : \<number, string\> | \<string, string\> | \<boolean, string\>
 -> never | string | never 
 -> B : string 이 된다. 
+
+
+만약 분산적 조건부 타입을 사용하지 않고 싶다면 
+
+```typeScript
+type StringNumberSwitch<T> = [T] extends [number] ? string : number;
+```
+
+extends 양쪽에 대괄호를
