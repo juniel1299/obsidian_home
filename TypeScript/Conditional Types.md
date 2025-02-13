@@ -28,3 +28,7 @@ let varA : StringNumberSwitch<number>
 // number 적용
 let varB : StringNumberSwitch<string>
 ```
+
+```typeScript
+
+```
