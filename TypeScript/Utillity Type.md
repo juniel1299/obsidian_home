@@ -26,5 +26,5 @@ content : 'ㅇㅇ',
 
 }
 ```
-Post 타입엔 4개가 존재하는데 아직 tags , thumbnailURL 에 대한 값이 없음 
--> 
+Post 타입엔 4개가 존재하는데 아직 tags , thumbnailURL 에 대한 값이 없기 때문에 에러 
+-> Partial 을 적용하면 안에 프로퍼티가 모두 ? 가 붙은 것과 같아짐 (선택적 프로퍼티) , (에러 )
