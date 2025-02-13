@@ -29,3 +29,9 @@ type B = ReturnType<FuncB>;
 
 R 이라는 타입일 때 맞으면 R , 아니면 never 라고 생각하면 됨 . 
 
+FuncA 기준으로 
+
+T extends () => infer R 에서 
+
+1. T에 string 이 들어감
+2. 
