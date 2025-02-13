@@ -243,5 +243,15 @@ updateUser({
 key in keyof User : boolean 을 진행하게 되면 user 내부 타입 주석이 모두 boolean 으로 적용됨.
 
 ## 맵드 타입
+```typeScript
+type ReadonlyUser = {
+
+readonly [key in keyof User]: User[key];
+
+}
 ```
 
+타입 객체로 가져와야 하므로 = { 로 바꿔야함 ; 
+
+키가 될 수 있는 것들을 적은 후 , 그것에 대한 밸류를 어떤걸 가지는지 정의 
+ex ) 
