@@ -10,19 +10,17 @@
 ```typeScript
 interface Post {
 
-title: string;
-tags: string[];
-content: string;
-thumbnailURL?:string;
+	title: string;
+	tags: string[];
+	content: string;
+	thumbnailURL?:string;
 
 }
 
-  
-
 const draft: Partial<Post> = {
 
-title: 'ㅈㅈ',
-content : 'ㅇㅇ',
+	title: 'ㅈㅈ',
+	content : 'ㅇㅇ',
 
 }
 ```
@@ -30,3 +28,10 @@ Post 타입엔 4개가 존재하는데 아직 tags , thumbnailURL 에 대한 값
 -> Partial 을 적용하면 안에 프로퍼티가 모두 ? 가 붙은 것과 같아짐 (선택적 프로퍼티) , (에러 사라짐)
 
 
+```typeScript
+type Partial<T> = {
+	[key in keyof T]? : T[key]; // 인덱스드 엑세스 타입 (특정 개체에서 타입 추출)
+}
+```
+
+이것과 같은 내용임 . 
