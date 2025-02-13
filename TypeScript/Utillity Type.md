@@ -38,7 +38,7 @@ type Partial<T> = {
 
 
 ### Required\<T\>
-- Partial 과 반대로 일반 프로퍼티로 만들어버림 (선택적 프로퍼티 x)
+- Partial 과 반대로 일반 프로퍼티로 만들어버림 (선택적 프로퍼티 x) , 무조건 존재해야함
 
 ```typeScript
 const withThumbnailPost : Required<Post> = {
@@ -48,3 +48,4 @@ const withThumbnailPost : Required<Post> = {
 	thumbnailURL:'11',
 };
 ```
+
