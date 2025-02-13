@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/Conditional Types.md",
+                "file": "TypeScript/Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conditional Types"
+              "title": "Untitled 1"
             }
           }
         ]
@@ -209,8 +209,9 @@
   },
   "active": "2f874757de5f8b21",
   "lastOpenFiles": [
-    "TypeScript/Type Manipulation.md",
     "TypeScript/Conditional Types.md",
+    "TypeScript/Untitled 1.md",
+    "TypeScript/Type Manipulation.md",
     "TypeScript/Type Inference.md",
     "TypeScript/Function OverLoading.md",
     "Python/www.md",
@@ -237,7 +238,6 @@
     "React/Page Routing.md",
     "TypeScript/TypeScript.md",
     "TypeScript",
-    "React/최적화.md",
     "React/imageFolder/스크린샷 2025-02-06 오후 1.11.02.png",
     "React/imageFolder/스크린샷 2025-02-06 오후 1.05.51.png",
     "React/imageFolder/스크린샷 2025-02-06 오후 1.04.18.png",
