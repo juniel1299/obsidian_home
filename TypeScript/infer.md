@@ -50,6 +50,8 @@ type PromiseA = PromiseUnpack<Promise<number>>;
 
 type PromiseB = PromiseUnpack<Promise<string>>;
 ```
-
+A기준
 1. Promise\<number\> 가 T 자리에 들어감.
-2. infer는 
+2. infer는 서브타입을 추론하여 R 값을 찾음 (number) -> true 값을 반환 
+3. PromiseA = number
+
