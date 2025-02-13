@@ -44,4 +44,5 @@ type B = Extract<number | string | boolean , string > ;
 반대로 작성하면 
 
 B : \<number, string\> | \<string, string\> | \<boolean, string\>
--> never | string | 
+-> never | string | never 
+-> B : string 이 된다. 
