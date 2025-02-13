@@ -34,4 +34,13 @@ type A = Exclude<number | string | boolean,string>;
 마찬가지로 이렇게 들어오면 
 A : number | never | boolean 에서 
 never는 생략되므로 
-A : \<number | boolean
+A : \<number | boolean\> 이 된다
+
+```typeScript
+type Extract<T,U> = T extends U ? T : never;
+type B = Extract<number | string | boolean , string > ;
+```
+
+반대로 작성하면 
+
+B : \<\>
