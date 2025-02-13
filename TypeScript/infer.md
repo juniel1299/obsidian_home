@@ -25,6 +25,8 @@ type ReturnType<T> = T extends () => infer R ? R : never;
 type A = ReturnType<FuncA>;
 
 type B = ReturnType<FuncB>;
+
+type C = ReturnType<number>;
 ```
 
 R 이라는 타입일 때 맞으면 R , 아니면 never 라고 생각하면 됨 . 
@@ -36,6 +38,8 @@ T extends () => infer R 에서
 1. T에 string 이 들어감
 2. R이 string이 들어간다면 true 가 되기 때문에(서브타입) typeScript는 R = string 으로 추론  
 3. string : string 이므로 참 -> R 이 됨 (R = string 이므로 타입은 string)
+
+하지만 C는 현재 선언된 내용이 없음 -> 추론이 불가능함. -> false에 있는 never 가 타입으로 적용됨.
 
 
 
