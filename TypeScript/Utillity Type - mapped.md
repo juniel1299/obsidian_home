@@ -138,4 +138,5 @@ type Omit<T,K extends keyof T> = Pick<T, Exclude<keyof T,K>>;
 ```typeScript
 type Thumbnail = Record<"large" | "medium" | "small", { url: string}>;
 ```
-Record\<
+Record\<키값,{밸류:타입}\> 이렇게 작성하며 반복되는 내용을 간단하게 타입 선언 해줌 . 
+
