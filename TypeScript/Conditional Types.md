@@ -22,9 +22,9 @@ type B = ObjB extends ObjA ? number : string;
 ```typeScript
 type StringNumberSwitch<T> = T extends number ? string : number;
 
-// 
+// string 적용
 let varA : StringNumberSwitch<number>
 
-  
+// number 적용
 let varB : StringNumberSwitch<string>
 ```
