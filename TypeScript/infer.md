@@ -43,4 +43,13 @@ C 기준으로
 T 자리에 number 들어감 -> 추론이 불가능함. -> false에 있는 never 가 타입으로 적용됨.
 
 
+```typeScript
+type PromiseUnpack<T> = T extends Promise<infer R> ? R : never;
 
+type PromiseA = PromiseUnpack<Promise<number>>;
+
+type PromiseB = PromiseUnpack<Promise<string>>;
+```
+
+1. Promise\<number\> 가 T 자리에 들어감.
+2. infer는 
