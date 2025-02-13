@@ -140,3 +140,12 @@ type Thumbnail = Record<"large" | "medium" | "small", { url: string}>;
 ```
 Record\<키값,{밸류:타입}\> 이렇게 작성하며 반복되는 내용을 간단하게 타입 선언 해줌 . 
 
+```typeScript
+type Record<K extends keyof any, V> = {
+
+	[key in K]: V;
+
+};
+```
+
+해당 내용과 같음. 
