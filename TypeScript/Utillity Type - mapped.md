@@ -5,7 +5,7 @@
 - Readonly\<T\> : T 안의 객체 내에 존재하는 프로퍼티를 모두 readonly 적용
 - Required\<T\> : T 안의 객체 내 존재하는 프로퍼티를 모두 필수 프로퍼티 적용
 
-- Pick\<T,K\>
+- Pick\<T,K\> : 객체의 프로퍼티 중 내가 원하는 것만 골라서 쓸 수 있음.
 - Omit\<T,K\>
 - Record\<V,K\>
 ### Partial\<T\>
@@ -81,6 +81,10 @@ type Readonly<T> = {
 ```
 위와 같은 내용임.
 
+
+### Pick\<T,K\>
+- 내가 원하는 프로퍼티만 골라서 쓸 수 있음.
+- \<객체,사용 할 프로퍼티> 구조로 생김. 
 ```typeScript
 interface Post {
 
