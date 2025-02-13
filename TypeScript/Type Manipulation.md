@@ -246,7 +246,7 @@ key in keyof User : boolean 을 진행하게 되면 user 내부 타입 주석이
 ```typeScript
 type ReadonlyUser = {
 
-readonly [key in keyof User]: User[key];
+	readonly [key in keyof User]: User[key];
 
 }
 
@@ -270,3 +270,4 @@ function fetchUser():User{
 키가 될 수 있는 것들을 적은 후 , 그것에 대한 밸류를 어떤걸 가지는지 정의 
 ex ) \[key in 타입의키값\] : \[밸류값\];
 
+유저정보를 function 을 통해 불러올 수 있음
