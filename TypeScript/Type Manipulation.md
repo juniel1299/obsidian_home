@@ -271,3 +271,19 @@ function fetchUser():User{
 ex ) \[key in 타입의키값\] : \[밸류값\];
 
 유저정보를 function 을 통해 불러올 수 있음
+
+## 템플릿 리터럴 타입 
+
+
+```typeScript
+type Color = "red" | "black" | "green";
+
+  
+
+type Animal = 'dog' | 'cat' | 'chicken';
+
+  
+
+type ColoredAnimal = `${Color}-${Animal}`;
+```
+선언한 타입들을 리터럴을 활용해 타입을 추가로 만들 수 있다.
