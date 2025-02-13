@@ -81,5 +81,22 @@ type Readonly<T> = {
 ```
 위와 같은 내용임.
 
-```쇼
+```typeScript
+interface Post {
+
+	title: string;
+	tags: string[];
+	content: string;
+	thumbnailURL?:string;
+
+}
+
+  
+
+const legacyPost : Pick<Post,"title" | "content"> = {
+
+	title:'??',
+	content:'??!',
+
+};
 ```
