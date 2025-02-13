@@ -55,9 +55,11 @@ type ReturnType<T extends (...args: any) => any > = T extends(
 
 	...agrs : any
 	
-) => infer R
+)   => infer R
 	
 	? R
 
-: never;
+	: never;
 ```
+
+해당 내용과 같음. 
