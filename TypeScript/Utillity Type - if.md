@@ -35,3 +35,17 @@ type Extract<T,U> = T extends U ? T : never;
 
 - 함수의 반환 값 타입을 추출하는 타입
 
+```typeScript
+function FuncA(){
+	return "hello";
+};
+
+function funcB(){
+	return 10;
+};
+
+type ReturnA = ReturnType<typeof funcA>;
+
+type ReturnB = ReturnType<typeof funcB>;
+```
+
