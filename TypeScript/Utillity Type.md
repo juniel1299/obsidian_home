@@ -64,4 +64,17 @@ type Required<T> = {
 
 ```typeScript
 
+const readonlyPost: Readonly<Post> = {
+	title:'ㅇㅇ',
+	tags:[],
+	content:'ㅇㅇ',
+};
 ```
+
+```typeScript
+type Readonly<T> = {
+	readonly [key in keyof T] : T[key];
+};
+```
+위와 같은 내용임.
+
