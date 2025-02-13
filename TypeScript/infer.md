@@ -1,1 +1,2 @@
-# Inf
+# Inference (추론)
+ 
