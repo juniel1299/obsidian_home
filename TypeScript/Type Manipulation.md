@@ -243,3 +243,5 @@ updateUser({
 key in keyof User : boolean 을 진행하게 되면 user 내부 타입 주석이 모두 boolean 으로 적용됨.
 
 ## 맵드 타입
+```
+
