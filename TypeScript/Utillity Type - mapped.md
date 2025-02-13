@@ -84,7 +84,7 @@ type Readonly<T> = {
 
 ### Pick\<T,K\>
 - 내가 원하는 프로퍼티만 골라서 쓸 수 있음.
-- \<객체,사용 할 프로퍼티> 구조로 생김. 
+- \<객체,사용 할 프로퍼티\> 구조로 생김. 
 ```typeScript
 interface Post {
 
