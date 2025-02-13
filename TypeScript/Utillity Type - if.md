@@ -19,7 +19,7 @@ type Exclude<T,U> = T extends U ? never : T;
 ```
 
 ## Extract\<T,U\>
-
+- T 에서 U를 추출하는 타입 . 
 ```typeScript
 type B = Extract<string | boolean,boolean> 
 // B : boolean
@@ -30,3 +30,8 @@ type Extract<T,U> = T extends U ? T : never;
 ```
 
 위와 같은 내용임..
+
+## ReturnType\<T\>
+
+- 함수의 반환 값 타입을 추출하는 타입
+
