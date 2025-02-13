@@ -11,3 +11,9 @@
 type A = Exclude <string | boolean , boolean>; 
 ```
 
+```typeScript
+type Exclude<T,U> = T extends U ? never : T; 
+
+// 1. <string , boolean> <boolean , boolean> 
+// 2. string | never 됨 . 
+```
