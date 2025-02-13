@@ -207,10 +207,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b29f156fc19dc775",
+  "active": "2f874757de5f8b21",
   "lastOpenFiles": [
-    "TypeScript/infer.md",
+    "TypeScript/Utillity Type - if.md",
     "TypeScript/Utillity Type - mapped.md",
+    "TypeScript/infer.md",
     "TypeScript/Distributive Conditional Types.md",
     "TypeScript/Conditional Types.md",
     "TypeScript/Type Manipulation.md",
@@ -236,7 +237,6 @@
     "TypeScript/Interface.md",
     "TypeScript/Generics.md",
     "TypeScript/TypeScript and React.md",
-    "React/React Router.md",
     "TypeScript",
     "React/imageFolder/스크린샷 2025-02-06 오후 1.11.02.png",
     "React/imageFolder/스크린샷 2025-02-06 오후 1.05.51.png",
