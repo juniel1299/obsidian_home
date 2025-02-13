@@ -249,6 +249,20 @@ type ReadonlyUser = {
 readonly [key in keyof User]: User[key];
 
 }
+
+function fetchUser():User{
+
+	return{
+	
+		id : 1,
+		
+		name : 'ㅈㅈ',
+		
+		age : 22,
+	
+	};
+
+}
 ```
 
 타입 객체로 가져와야 하므로 = { 로 바꿔야함 ; 
