@@ -36,7 +36,7 @@ type Extract<T,U> = T extends U ? T : never;
 - 함수의 반환 값 타입을 추출하는 타입
 
 ```typeScript
-function FuncA(){
+function funcA(){
 	return "hello";
 };
 
@@ -44,12 +44,11 @@ function funcB(){
 	return 10;
 };
 
-//type ReturnA = ReturnType<typeof funcA>;
+type ReturnA = ReturnType<typeof funcA>;
 
 type ReturnB = ReturnType<typeof funcB>;
 ```
-
-A는 문자값을 반환하기 때문에 에러남 . 
+Asms 문자 B는 숫자를 리턴 받았기 때문에 타입은 string , nubmer 임 . 
 
 ```typeScript
 
