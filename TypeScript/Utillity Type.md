@@ -35,3 +35,6 @@ type Partial<T> = {
 ```
 
 이것과 같은 내용임 . 
+
+
+### Required\<T\>
