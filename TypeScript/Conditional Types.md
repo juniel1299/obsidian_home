@@ -30,5 +30,19 @@ let varB : StringNumberSwitch<string>
 ```
 
 ```typeScript
+function removeSpaces<T>(text : T) : T extends string ? string : undefined;
 
+function removeSpaces(text:any) {
+	if(typeof text === 'string'){
+		return text.replaceAll(" ","");
+	}
+	else{
+		return undefined;
+	}
+}
+
+let result = removeSpaces("가 나 다 라 마");
+console.log(result.toUpperCase());
 ```
+
+이렇게 하면 T 가 string이 들어오면 string 으로 인식 , 이외에는 undefined로 
