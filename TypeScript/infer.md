@@ -39,7 +39,8 @@ T extends () => infer R 에서
 2. R이 string이 들어간다면 true 가 되기 때문에(서브타입) typeScript는 R = string 으로 추론  
 3. string : string 이므로 참 -> R 이 됨 (R = string 이므로 타입은 string)
 
-하지만 C는 현재 선언된 내용이 없음 -> 추론이 불가능함. -> false에 있는 never 가 타입으로 적용됨.
+C 기준으로
+T 자리에 number 들어감 -> 추론이 불가능함. -> false에 있는 never 가 타입으로 적용됨.
 
 
 
