@@ -54,4 +54,4 @@ B : \<number, string\> | \<string, string\> | \<boolean, string\>
 type StringNumberSwitch<T> = [T] extends [number] ? string : number;
 ```
 
-extends 양쪽에 대괄호를
+extends 양쪽에 대괄호를 씌워주면 된다 . 
