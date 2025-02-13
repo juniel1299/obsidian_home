@@ -21,4 +21,10 @@ let d : StringNumberSwitch<boolean | number | string>;
 
 그렇다면 
 c 는 string , number 가 되고 이후 하나로 묶이게 됨 
-c : 
+c : \<string | number\>
+
+d : \<number | string\> (중복은 지워짐)
+
+
+```type
+```
