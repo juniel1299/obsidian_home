@@ -49,3 +49,8 @@ function funcB(){
 type ReturnB = ReturnType<typeof funcB>;
 ```
 
+A는 문자값을 반환하기 때문에 에러남 . 
+
+```typeScript
+
+```
