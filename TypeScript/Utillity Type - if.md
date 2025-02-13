@@ -48,8 +48,16 @@ type ReturnA = ReturnType<typeof funcA>;
 
 type ReturnB = ReturnType<typeof funcB>;
 ```
-Asms 문자 B는 숫자를 리턴 받았기 때문에 타입은 string , nubmer 임 . 
+Asms 문자 B는 숫자를 리턴 받았기 때문에 타입은 string , number 임 . 
 
 ```typeScript
+type ReturnType<T extends (...args: any) => any > = T extends(
 
+	...agrs : any
+	
+) => infer R
+	
+	? R
+
+: never;
 ```
