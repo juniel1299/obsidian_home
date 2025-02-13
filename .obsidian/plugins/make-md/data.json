@@ -39,7 +39,8 @@
     "obsidian",
     null,
     "/",
-    "//Python"
+    "//Python",
+    "//TypeScript"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Spaces",
