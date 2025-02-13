@@ -45,4 +45,5 @@ let result = removeSpaces("가 나 다 라 마");
 console.log(result.toUpperCase());
 ```
 
-이렇게 하면 T 가 string이 들어오면 string 으로 인식 , 이외에는 undefined로 
+이렇게 하면 T 가 string이 들어오면 string 으로 인식 , 이외에는 undefined로 빠짐 
+그리고 function 오버라이딩을 통해 받은 값을 any 로 타입 선언 후 아래 조건문을 통해 동작 실행
