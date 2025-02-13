@@ -21,5 +21,12 @@ type Exclude<T,U> = T extends U ? never : T;
 ## Extract\<T,U\>
 
 ```typeScript
-
+type B = Extract<string | boolean,boolean> 
+// B : boolean
 ```
+
+```typeScript
+type Extract<T,U> = T extends U ? T : never; 
+```
+
+위와 같은 내용임..
