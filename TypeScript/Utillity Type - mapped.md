@@ -7,7 +7,7 @@
 
 - Pick\<T,K\> : 객체의 프로퍼티 중 내가 원하는 것만 골라서 쓸 수 있음.
 - Omit\<T,K\> : 객체의 프로퍼티 중 내가 제거 할 프로퍼티를 정함.
-- Record\<K,V\> : 객체 타입을 정의 할 때 반복되는 내용을 간단하게 저
+- Record\<K,V\> : 객체 타입을 정의 할 때 반복되는 내용을 간단하게 정의 할 수 있게 해줌. 
 ### Partial\<T\>
 - 모든 객체의 프로퍼티를 선택적 프로퍼티로 바꾸는 유틸리티 타입
 ```typeScript
@@ -130,3 +130,12 @@ type Omit<T,K extends keyof T> = Pick<T, Exclude<keyof T,K>>;
 ```
 
 해당 내용 과 같음. 
+
+### Record\<K,V\>
+
+- 객체 타입을 정의 할 때 반복되는 내용을 간단하게 정의 할 수 있게 해줌. 
+
+```typeScript
+type Thumbnail = Record<"large" | "medium" | "small", { url: string}>;
+```
+Record\<
