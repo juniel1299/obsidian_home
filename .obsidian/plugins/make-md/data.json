@@ -38,7 +38,8 @@
     null,
     "obsidian",
     null,
-    "/"
+    "/",
+    "//Python"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Spaces",
