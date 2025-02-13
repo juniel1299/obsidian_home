@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/infer.md",
+                "file": "TypeScript/Utillity Type.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "infer"
+              "title": "Utillity Type"
             }
           }
         ]
@@ -210,6 +210,7 @@
   "active": "2f874757de5f8b21",
   "lastOpenFiles": [
     "TypeScript/infer.md",
+    "TypeScript/Utillity Type.md",
     "TypeScript/Distributive Conditional Types.md",
     "TypeScript/Conditional Types.md",
     "TypeScript/Type Manipulation.md",
@@ -236,7 +237,6 @@
     "TypeScript/Generics.md",
     "TypeScript/TypeScript and React.md",
     "React/React Router.md",
-    "React/Page Routing.md",
     "TypeScript",
     "React/imageFolder/스크린샷 2025-02-06 오후 1.11.02.png",
     "React/imageFolder/스크린샷 2025-02-06 오후 1.05.51.png",
