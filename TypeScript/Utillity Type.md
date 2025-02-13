@@ -8,5 +8,23 @@
 ### Partial\<T\>
 - 모든 객체의 프로퍼티를 선택적 프로퍼티로 바꾸는 유틸리티 타입
 ```typeScript
+interface Post {
 
+title: string;
+tags: string[];
+content: string;
+thumbnailURL?:string;
+
+}
+
+  
+
+const draft: Partial<Post> = {
+
+title: 'ㅈㅈ',
+content : 'ㅇㅇ',
+
+}
 ```
+Post 타입엔 4개가 존재하는데 아직 tags , thumbnailURL 에 대한 값이 없음 
+-> 
