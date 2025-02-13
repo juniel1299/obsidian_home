@@ -44,7 +44,7 @@ function funcB(){
 	return 10;
 };
 
-type ReturnA = ReturnType<typeof funcA>;
+//type ReturnA = ReturnType<typeof funcA>;
 
 type ReturnB = ReturnType<typeof funcB>;
 ```
