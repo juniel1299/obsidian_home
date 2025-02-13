@@ -5,6 +5,8 @@
 - Readonly\<T\> : T 안의 객체 내에 존재하는 프로퍼티를 모두 readonly 적용
 - Required\<T\> : T 안의 객체 내 존재하는 프로퍼티를 모두 필수 프로퍼티 적용
 
+- Pick\<T,K\>
+- Omit\<T,K\>
 ### Partial\<T\>
 - 모든 객체의 프로퍼티를 선택적 프로퍼티로 바꾸는 유틸리티 타입
 ```typeScript
