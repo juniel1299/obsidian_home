@@ -34,4 +34,7 @@ FuncA 기준으로
 T extends () => infer R 에서 
 
 1. T에 string 이 들어감
-2. 
+2. R이 string이 들어간다면 true 가 되기 때문에 typeScript는 R = string 으로 추론  
+3. string : string 이므로 참 -> R 이 됨 (R = string 이므로 타입은 string)
+
+
