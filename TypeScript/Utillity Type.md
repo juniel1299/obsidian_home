@@ -38,4 +38,13 @@ type Partial<T> = {
 
 
 ### Required\<T\>
--= 
+- Partial 과 반대로 일반 프로퍼티로 만들어버림 (선택적 프로퍼티 x)
+
+```typeScript
+const withThumbnailPost : Required<Post> = {
+	title : "ㅇㅇ",
+	tags:['ts'],
+	content:'2',
+	thumbnailURL:'11',
+};
+```
