@@ -7,6 +7,7 @@
 
 - Pick\<T,K\>
 - Omit\<T,K\>
+- Record\<V,K\>
 ### Partial\<T\>
 - 모든 객체의 프로퍼티를 선택적 프로퍼티로 바꾸는 유틸리티 타입
 ```typeScript
