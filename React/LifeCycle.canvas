@@ -13,7 +13,8 @@
 		{"id":"058e2d4dc5178838","x":-12,"y":51,"width":250,"height":60,"type":"text","text":"렌더링 할 지 하지 않을지 구분"},
 		{"id":"5c19f501b91f3837","x":-13,"y":161,"width":250,"height":60,"type":"text","text":"rendering"},
 		{"id":"d8025154af90933b","x":-14,"y":272,"width":250,"height":60,"type":"text","text":"렌더링 이전 (변경 전) 값을 저장"},
-		{"id":"8c42f99cdacb8cf4","x":-14,"y":422,"width":250,"height":60,"type":"text","text":"DOM에 바뀐 부분 upda"}
+		{"id":"8c42f99cdacb8cf4","x":-14,"y":422,"width":250,"height":60,"type":"text","text":"DOM에 바뀐 내용 적용"},
+		{"id":"e323716a5c29a6f2","x":-15,"y":573,"width":250,"height":60,"type":"text","text":"렌더링 이전 값에 대한 반환 값"}
 	],
 	"edges":[
 		{"id":"8259aba08603c1c9","fromNode":"c9efc2c3196185cd","fromSide":"bottom","toNode":"08f81301dfd57afe","toSide":"top"},
@@ -25,6 +26,7 @@
 		{"id":"271ba238c2e67474","fromNode":"a47140794ef012bf","fromSide":"bottom","toNode":"058e2d4dc5178838","toSide":"top"},
 		{"id":"3ebf447c4ad2e669","fromNode":"058e2d4dc5178838","fromSide":"bottom","toNode":"5c19f501b91f3837","toSide":"top"},
 		{"id":"fde1ed6f7286a50a","fromNode":"5c19f501b91f3837","fromSide":"bottom","toNode":"d8025154af90933b","toSide":"top"},
-		{"id":"114150870348ecb0","fromNode":"d8025154af90933b","fromSide":"bottom","toNode":"8c42f99cdacb8cf4","toSide":"top"}
+		{"id":"114150870348ecb0","fromNode":"d8025154af90933b","fromSide":"bottom","toNode":"8c42f99cdacb8cf4","toSide":"top"},
+		{"id":"4286059cdb99155b","fromNode":"8c42f99cdacb8cf4","fromSide":"bottom","toNode":"e323716a5c29a6f2","toSide":"top"}
 	]
 }
