@@ -17,7 +17,7 @@
 		{"id":"e323716a5c29a6f2","x":-15,"y":573,"width":250,"height":60,"type":"text","text":"컴포넌트 적용"},
 		{"id":"89d76874556994b2","type":"text","text":"제거","x":500,"y":-300,"width":105,"height":60},
 		{"id":"659152fae8926f6f","type":"text","text":"1. Unmount","x":427,"y":-220,"width":250,"height":50},
-		{"id":"9bcec290a4d012bc","x":427,"y":-83,"width":250,"height":60,"type":"text","text":"DOM 에 등록된 관련 "}
+		{"id":"9bcec290a4d012bc","x":427,"y":-83,"width":250,"height":60,"type":"text","text":"DOM 에 등록된 이벤트 제거"}
 	],
 	"edges":[
 		{"id":"8259aba08603c1c9","fromNode":"c9efc2c3196185cd","fromSide":"bottom","toNode":"08f81301dfd57afe","toSide":"top"},
