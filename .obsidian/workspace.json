@@ -11,17 +11,14 @@
             "id": "2f874757de5f8b21",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "React/LifeCycle.canvas",
-                "viewState": {
-                  "x": 218.180441193387,
-                  "y": 396.83981461728774,
-                  "zoom": -0.5316894531249998
-                }
+                "file": "TypeScript/Utillity Type - mapped.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "LifeCycle"
+              "icon": "lucide-file",
+              "title": "Utillity Type - mapped"
             }
           }
         ]
@@ -212,18 +209,20 @@
   },
   "active": "2f874757de5f8b21",
   "lastOpenFiles": [
+    "TypeScript/infer.md",
+    "TypeScript/Distributive Conditional Types.md",
+    "TypeScript/Conditional Types.md",
+    "TypeScript/type assertion.md",
+    "TypeScript/Untitled.md",
+    "React/LifeCycle.canvas",
     "React/Context.md",
     "React/라이프 사이클클.md",
-    "React/LifeCycle.canvas",
     "React/Props.canvas",
     "Ollama/0. Setting.md",
     "Ollama/Ollama.md",
     "Ollama",
     "TypeScript/Utillity Type - if.md",
     "TypeScript/Utillity Type - mapped.md",
-    "TypeScript/infer.md",
-    "TypeScript/Distributive Conditional Types.md",
-    "TypeScript/Conditional Types.md",
     "TypeScript/Type Manipulation.md",
     "TypeScript/Type Inference.md",
     "TypeScript/Function OverLoading.md",
@@ -237,11 +236,8 @@
     "TypeScript/Function Type Expressions.md",
     "TypeScript/User-Defined Type Guards.md",
     "TypeScript/Type.md",
-    "TypeScript/Untitled.md",
-    "TypeScript/type assertion.md",
     "TypeScript/Function Type.md",
     "TypeScript/Type Narrowing.md",
-    "TypeScript/1) TypeScript .md",
     "TypeScript",
     "React/imageFolder/스크린샷 2025-02-06 오후 1.11.02.png",
     "React/imageFolder/스크린샷 2025-02-06 오후 1.05.51.png",

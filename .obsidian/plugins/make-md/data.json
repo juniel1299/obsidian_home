@@ -39,7 +39,8 @@
     "obsidian",
     null,
     "/",
-    "//React"
+    "//React",
+    "//TypeScript"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Spaces",
