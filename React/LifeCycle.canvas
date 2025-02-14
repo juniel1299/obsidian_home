@@ -3,10 +3,12 @@
 		{"id":"c9efc2c3196185cd","x":-380,"y":-220,"width":250,"height":50,"type":"text","text":"1. Mount (탄생)"},
 		{"id":"08f81301dfd57afe","x":-380,"y":-76,"width":250,"height":60,"type":"text","text":"constructor(초기화)"},
 		{"id":"5bbedaffe42cf627","x":-307,"y":-300,"width":105,"height":60,"type":"text","text":"탄생"},
-		{"id":"3084768c8bf1ae3b","x":-380,"y":89,"width":250,"height":60,"type":"text","text":"rendering"}
+		{"id":"3084768c8bf1ae3b","x":-394,"y":80,"width":280,"height":60,"type":"text","text":"\bprops 통해 받은 데이터 state 이동"},
+		{"id":"4618fc802a41fe32","x":-379,"y":200,"width":250,"height":60,"type":"text","text":"rendering"}
 	],
 	"edges":[
 		{"id":"8259aba08603c1c9","fromNode":"c9efc2c3196185cd","fromSide":"bottom","toNode":"08f81301dfd57afe","toSide":"top"},
-		{"id":"f1677f66c380763d","fromNode":"08f81301dfd57afe","fromSide":"bottom","toNode":"3084768c8bf1ae3b","toSide":"top"}
+		{"id":"f1677f66c380763d","fromNode":"08f81301dfd57afe","fromSide":"bottom","toNode":"3084768c8bf1ae3b","toSide":"top"},
+		{"id":"5d06292d8f6ba7eb","fromNode":"3084768c8bf1ae3b","fromSide":"bottom","toNode":"4618fc802a41fe32","toSide":"top"}
 	]
 }
