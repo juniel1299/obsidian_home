@@ -1,7 +1,8 @@
 {
 	"nodes":[
 		{"id":"c9efc2c3196185cd","x":-380,"y":-220,"width":250,"height":50,"type":"text","text":"1. Mount"},
-		{"id":"08f81301dfd57afe","x":-380,"y":-76,"width":250,"height":60,"type":"text","text":"constructor"}
+		{"id":"08f81301dfd57afe","x":-380,"y":-76,"width":250,"height":60,"type":"text","text":"constructor"},
+		{"id":"5bbedaffe42cf627","x":-280,"y":-300,"width":105,"height":60,"type":"text","text":"탄생"}
 	],
 	"edges":[
 		{"id":"8259aba08603c1c9","fromNode":"c9efc2c3196185cd","fromSide":"bottom","toNode":"08f81301dfd57afe","toSide":"top"}
