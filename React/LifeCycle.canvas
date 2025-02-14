@@ -14,7 +14,7 @@
 		{"id":"5c19f501b91f3837","x":-13,"y":161,"width":250,"height":60,"type":"text","text":"rendering"},
 		{"id":"d8025154af90933b","x":-14,"y":272,"width":250,"height":60,"type":"text","text":"렌더링 이전 (변경 전) 값을 저장"},
 		{"id":"8c42f99cdacb8cf4","x":-14,"y":422,"width":250,"height":60,"type":"text","text":"DOM에 바뀐 내용 적용"},
-		{"id":"e323716a5c29a6f2","x":-15,"y":573,"width":250,"height":60,"type":"text","text":"렌더링 이전 값에 대한 반환 값"}
+		{"id":"e323716a5c29a6f2","x":-15,"y":573,"width":250,"height":60,"type":"text","text":"컴포넌트 적용"}
 	],
 	"edges":[
 		{"id":"8259aba08603c1c9","fromNode":"c9efc2c3196185cd","fromSide":"bottom","toNode":"08f81301dfd57afe","toSide":"top"},
