@@ -11,7 +11,9 @@
 		{"id":"98d9d8923b3e5589","type":"text","text":"2. Update (변경)","x":-12,"y":-220,"width":250,"height":50},
 		{"id":"a47140794ef012bf","x":-22,"y":-76,"width":270,"height":60,"type":"text","text":"prop 통해 받은 데이터 state 이동"},
 		{"id":"058e2d4dc5178838","x":-12,"y":51,"width":250,"height":60,"type":"text","text":"렌더링 할 지 하지 않을지 구분"},
-		{"id":"5c19f501b91f3837","x":-13,"y":161,"width":250,"height":60,"type":"text","text":"rendering"}
+		{"id":"5c19f501b91f3837","x":-13,"y":161,"width":250,"height":60,"type":"text","text":"rendering"},
+		{"id":"d8025154af90933b","x":-14,"y":272,"width":250,"height":60,"type":"text","text":"렌더링 이전 (변경 전) 값을 저장"},
+		{"id":"8c42f99cdacb8cf4","x":-14,"y":422,"width":250,"height":60,"type":"text","text":"DOM에 바뀐 부분 upda"}
 	],
 	"edges":[
 		{"id":"8259aba08603c1c9","fromNode":"c9efc2c3196185cd","fromSide":"bottom","toNode":"08f81301dfd57afe","toSide":"top"},
@@ -21,6 +23,8 @@
 		{"id":"b3d440ed5f57223e","fromNode":"7d253223a9d22f0e","fromSide":"bottom","toNode":"4c9e4c5cf7c477cf","toSide":"top"},
 		{"id":"5ffcf33a070a5f24","fromNode":"98d9d8923b3e5589","fromSide":"bottom","toNode":"a47140794ef012bf","toSide":"top"},
 		{"id":"271ba238c2e67474","fromNode":"a47140794ef012bf","fromSide":"bottom","toNode":"058e2d4dc5178838","toSide":"top"},
-		{"id":"3ebf447c4ad2e669","fromNode":"058e2d4dc5178838","fromSide":"bottom","toNode":"5c19f501b91f3837","toSide":"top"}
+		{"id":"3ebf447c4ad2e669","fromNode":"058e2d4dc5178838","fromSide":"bottom","toNode":"5c19f501b91f3837","toSide":"top"},
+		{"id":"fde1ed6f7286a50a","fromNode":"5c19f501b91f3837","fromSide":"bottom","toNode":"d8025154af90933b","toSide":"top"},
+		{"id":"114150870348ecb0","fromNode":"d8025154af90933b","fromSide":"bottom","toNode":"8c42f99cdacb8cf4","toSide":"top"}
 	]
 }
