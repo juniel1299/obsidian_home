@@ -16,7 +16,8 @@
 		{"id":"8c42f99cdacb8cf4","x":-14,"y":422,"width":250,"height":60,"type":"text","text":"DOM에 바뀐 내용 적용"},
 		{"id":"e323716a5c29a6f2","x":-15,"y":573,"width":250,"height":60,"type":"text","text":"컴포넌트 적용"},
 		{"id":"89d76874556994b2","type":"text","text":"제거","x":500,"y":-300,"width":105,"height":60},
-		{"id":"659152fae8926f6f","type":"text","text":"2. Update (변경)","x":427,"y":-220,"width":250,"height":50}
+		{"id":"659152fae8926f6f","type":"text","text":"1. Unmount","x":427,"y":-220,"width":250,"height":50},
+		{"id":"0a48b31da003d1ea","type":"text","text":"prop 통해 받은 데이터 state 이동","x":427,"y":-76,"width":270,"height":60}
 	],
 	"edges":[
 		{"id":"8259aba08603c1c9","fromNode":"c9efc2c3196185cd","fromSide":"bottom","toNode":"08f81301dfd57afe","toSide":"top"},
