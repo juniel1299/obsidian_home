@@ -6,7 +6,9 @@
 		{"id":"3084768c8bf1ae3b","x":-394,"y":80,"width":280,"height":60,"type":"text","text":"\bprops 통해 받은 데이터 state 이동"},
 		{"id":"4618fc802a41fe32","x":-379,"y":200,"width":250,"height":60,"type":"text","text":"rendering"},
 		{"id":"7d253223a9d22f0e","x":-379,"y":367,"width":250,"height":60,"type":"text","text":"DOM에 컴포넌트 생성"},
-		{"id":"4c9e4c5cf7c477cf","x":-379,"y":519,"width":250,"height":60,"type":"text","text":"컴포넌트에 필요한 데이터 요청 또는 DOM 속성 변경"}
+		{"id":"4c9e4c5cf7c477cf","x":-379,"y":519,"width":250,"height":60,"type":"text","text":"컴포넌트에 필요한 데이터 요청 또는 DOM 속성 변경"},
+		{"id":"ca5ee30d48770cd0","type":"text","text":"변경","x":60,"y":-300,"width":105,"height":60},
+		{"id":"98d9d8923b3e5589","type":"text","text":"1. Update (변경)","x":-12,"y":-220,"width":250,"height":50}
 	],
 	"edges":[
 		{"id":"8259aba08603c1c9","fromNode":"c9efc2c3196185cd","fromSide":"bottom","toNode":"08f81301dfd57afe","toSide":"top"},
