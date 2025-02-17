@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/Generics.md",
+                "file": "TypeScript/Type Manipulation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Generics"
+              "title": "Type Manipulation"
             }
           }
         ]
@@ -209,6 +209,11 @@
   },
   "active": "67bae2569b728c4e",
   "lastOpenFiles": [
+    "TypeScript/Function Type Expressions.md",
+    "TypeScript/Function Type.md",
+    "TypeScript/type assertion.md",
+    "TypeScript/setting.md",
+    "TypeScript/Generics.md",
     "TypeScript/Type Ranked.md",
     "TypeScript/Utillity Type - if.md",
     "React/React Router.md",
@@ -221,7 +226,6 @@
     "TypeScript/infer.md",
     "TypeScript/Distributive Conditional Types.md",
     "TypeScript/Conditional Types.md",
-    "TypeScript/type assertion.md",
     "React/LifeCycle.canvas",
     "React/라이프 사이클클.md",
     "React/Props.canvas",
@@ -235,10 +239,6 @@
     "TypeScript/Discriminated Union Type.md",
     "Python/Python.md",
     "Python",
-    "TypeScript/Class.md",
-    "TypeScript/setting.md",
-    "TypeScript/Function Type Expressions.md",
-    "TypeScript/User-Defined Type Guards.md",
     "TypeScript",
     "React/imageFolder/스크린샷 2025-02-06 오후 1.11.02.png",
     "React/imageFolder/스크린샷 2025-02-06 오후 1.05.51.png",
