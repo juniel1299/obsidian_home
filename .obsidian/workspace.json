@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/Type Ranked.md",
+                "file": "TypeScript/Generics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Type Ranked"
+              "title": "Generics"
             }
           }
         ]
@@ -209,6 +209,7 @@
   },
   "active": "67bae2569b728c4e",
   "lastOpenFiles": [
+    "TypeScript/Type Ranked.md",
     "TypeScript/Utillity Type - if.md",
     "React/React Router.md",
     "React/Web Storage.md",
@@ -221,7 +222,6 @@
     "TypeScript/Distributive Conditional Types.md",
     "TypeScript/Conditional Types.md",
     "TypeScript/type assertion.md",
-    "TypeScript/Type Ranked.md",
     "React/LifeCycle.canvas",
     "React/라이프 사이클클.md",
     "React/Props.canvas",
