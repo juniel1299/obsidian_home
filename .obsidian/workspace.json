@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/TypeScript and React.md",
+                "file": "NextJs/Pre-rendering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TypeScript and React"
+              "title": "Pre-rendering"
             }
           }
         ],
@@ -224,6 +224,8 @@
   },
   "active": "cf2ab1fea96dbe75",
   "lastOpenFiles": [
+    "NextJs/prologue.md",
+    "TypeScript/TypeScript and React.md",
     "TypeScript/Type Narrowing.md",
     "TypeScript/Type Manipulation.md",
     "TypeScript/Interface.md",
@@ -249,8 +251,6 @@
     "React/Page Routing.md",
     "React/imageFolder/imageFolder.md",
     "React/LifeCycle.canvas",
-    "NextJs/Pre-rendering.md",
-    "NextJs/prologue.md",
     "NextJs",
     "React/Props.canvas",
     "Ollama",
