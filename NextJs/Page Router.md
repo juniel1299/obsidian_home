@@ -95,6 +95,6 @@ export default function Page() {
 
 
 ## 404 페이지 
-파일명을 404.tsx 로 하면 됨 . 
+app.tsx 위치에 파일명을 404.tsx 만들면 됨 . 
 
 
