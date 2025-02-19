@@ -226,7 +226,7 @@ App.tsx 파일 import
 
 import "@/styles/globals.css"; 처럼 next.js 는 일반적인 방식으로 import 불가능 .
 
-
+css 파일명은 .module.css 로 끝나게 작성하여야한다. 
 
 ## Global Layout (글로벌 레이아웃)
 
