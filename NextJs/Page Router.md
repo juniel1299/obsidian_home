@@ -54,3 +54,30 @@ book 폴더 안에 파일명을 \[id\].tsx 로 적게 되면
 http://localhost:3000/book/1
 이렇게 쓸 수 있으며. book/\[\] 모두에게 적용됨
 
+```typeScript
+import { useRouter } from "next/router"
+
+  
+
+export default function Page() {
+
+  
+
+	const router = useRouter();
+	
+	const { id } = router.query;
+	
+	  
+	
+	return (
+	
+		<h1>
+		
+			BOOK{id}
+		
+		</h1>
+	
+	)
+
+}
+```
