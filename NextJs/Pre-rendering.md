@@ -38,18 +38,3 @@ CSR (Client Side Rendering) (리액트의 렌더링 방식) 방식의 단점을 
 
 
 
-
-### supabase 실행 
-
-초기화 : npm i 
-데이터 밀어넣기 : npx prisma db push
-
-npm run seed 
-
-npm run build
-
-서버실행 : npm run strart
-
-서버종료 : ctrl + c 
-
-npx prisma studio
