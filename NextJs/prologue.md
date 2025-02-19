@@ -34,3 +34,4 @@ npx create-next-app@\[14] \[section02]
 
 첫 번째 대괄호는 버전 , 두 번째 대괄호는 폴더명
 
+마지막 
