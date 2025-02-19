@@ -30,4 +30,4 @@ CSR (Client Side Rendering) (리액트의 렌더링 방식) 방식의 단점을 
 6. JS가 연결된 지점까지 유저에게 전달 (TTI 지점) (TTI : 상호작용이 가능한 시점)
 - FCP 가 빠름 
 
-- 이후 화면 전환에 대해서는 CSR과 동일함. (애초에 JS Bundle이 React App)
+- 이후 화면 전환에 대해서는 CSR과 동일함. (애초에 JS Bundle이 React App이기 때문에)
