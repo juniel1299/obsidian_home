@@ -228,5 +228,33 @@ import "@/styles/globals.css"; 처럼 next.js 는 일반적인 방식으로 impo
 
 ## Global Layout (글로벌 레이아웃)
 
-App.tsx는 모든 컴포넌트의 부모 컴포넌트이므로 공통은 해당 파일에서 적용하자. 
+헤더 , 푸터 같은 동일한 내용은 하나의 파일로 빼놓자 . 
+
+```typeScript
+import GlobalLayouts from "@/components/global-layout";
+
+import "@/styles/globals.css";
+
+import type { AppProps } from "next/app";
+
+  
+
+export default function App({ Component, pageProps }: AppProps) {
+
+return (
+
+<>
+
+	<GlobalLayouts>
+	
+		<Component {...pageProps} />
+	
+	</GlobalLayouts>
+	
+</>
+
+);
+
+}
+```
 
