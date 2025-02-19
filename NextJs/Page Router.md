@@ -190,3 +190,6 @@ export default function handler (
 ```
 
 next에서 제공하는 apirequest , apiresponse 를 사용하면 된다. 
+
+## CSS 
+기존 방식으로 import 불가능 . 
