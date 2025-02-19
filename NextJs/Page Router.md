@@ -144,4 +144,9 @@ export default function App({ Component, pageProps }: AppProps) {
 }
 ```
 이렇게 onClick을 이용해서 가능함. 
-replace (뒤로가기 방지하며 페이징 이동)
+push 이외에
+replace (뒤로가기 방지하며 페이지 이동)
+back (뒤로 가기)
+등등의 기능 존재 . 
+
+
