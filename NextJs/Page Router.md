@@ -182,9 +182,11 @@ export default function handler (
 
 ){
 
-const date = new Date();
-
-res.json({time:date.toLocaleString()});
+	const date = new Date();
+	
+	res.json({time:date.toLocaleString()});
 
 }
 ```
+
+next에서 제공하는 apirequest , apiresponse 를 사용하면 된다. 
