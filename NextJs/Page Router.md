@@ -86,3 +86,7 @@ export default function Page() {
 파일명을 \[...id\].tsx 로 작성 시 
 
 ![[Pasted image 20250219134457.png]]
+
+이렇게 가능 . (배열 형태로 받음 , \[999\],\[111\])
+
+아무 
