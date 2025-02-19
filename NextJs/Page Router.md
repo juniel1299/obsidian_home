@@ -26,20 +26,21 @@ export default function Page () {
 
   
 
-const router = useRouter();
+	const router = useRouter();
+	
+	  
+	
+	const { q } = router.query;
 
   
 
-const { q } = router.query;
+	return (
 
-  
+		<h1>Search{q}</h1>
+	
+	)
 
-return (
-
-<h1>Search{q}</h1>
-
-)
-
-}rt { useRouter } from "next/router";
+}
 
 ```
+![[Pasted image 20250219133632.png]]
