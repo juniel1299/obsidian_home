@@ -193,3 +193,35 @@ next에서 제공하는 apirequest , apiresponse 를 사용하면 된다.
 
 ## CSS 
 기존 방식으로 import 불가능 . 
+
+```typeScript
+import style from './index.module.css';
+
+export default function Home() {
+
+	return (
+	
+	<>
+	
+	<h1 className={style.title}>
+	
+		인덱스
+	
+	</h1>
+	
+	<h2 className={style.h2}>
+	
+		h2인덱스
+	
+	</h2>
+	
+	</>
+	
+	);
+
+}
+```
+
+App.tsx 파일 import 
+
+import "@/styles/globals.css"; 처럼 next.js 는 
