@@ -81,3 +81,8 @@ export default function Page() {
 
 }
 ```
+만약 여러개의 값을 받는 경우 
+
+파일명을 \[...id\].tsx 로 작성 시 
+
+![[Pasted image 20250219134457.png]]
