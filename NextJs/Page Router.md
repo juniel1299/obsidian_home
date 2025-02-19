@@ -230,8 +230,9 @@ import "@/styles/globals.css"; 처럼 next.js 는 일반적인 방식으로 impo
 
 헤더 , 푸터 같은 동일한 내용은 하나의 파일로 빼놓자 . 
 
-글로벌 레이아웃으로 쓸 파일
+App 파일의 컴포넌트를 GlobalLayouts 로 감싸서 헤더 , 푸터를 공유한다. 
 
+(App 파일)
 ```typeScript
 import GlobalLayouts from "@/components/global-layout";
 
@@ -254,6 +255,41 @@ return (
 		</GlobalLayouts>
 		
 	</>
+
+);
+
+}
+```
+
+global-layout.tsx 파일 
+```typeScript
+import { ReactNode } from "react";
+
+export default function GlobalLayouts({
+
+	children,
+
+}:{
+
+	children:ReactNode;
+
+}){
+
+return (
+
+<>
+
+<header>헤더</header>
+
+<main>
+
+{children}
+
+</main>
+
+<footer>푸터</footer>
+
+</>
 
 );
 
