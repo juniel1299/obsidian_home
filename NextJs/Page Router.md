@@ -16,4 +16,30 @@ App : 루트 컴포넌트 (리액트와 같음) , Component를 통해 화면 , P
 
 
 ## 입력 
-get 방식 (q?) 쿼리 스트링을 바
+get 방식 (q?) 쿼리 스트링을 받기 위해선 import 필요 
+```javaScript
+import { useRouter } from "next/router";
+
+  
+
+export default function Page () {
+
+  
+
+const router = useRouter();
+
+  
+
+const { q } = router.query;
+
+  
+
+return (
+
+<h1>Search{q}</h1>
+
+)
+
+}rt { useRouter } from "next/router";
+
+```
