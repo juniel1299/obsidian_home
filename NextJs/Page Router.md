@@ -169,3 +169,22 @@ npm run dev
 ## API
 처음 프로젝트 생성하면 생기는 API 폴더 내부의 hello.ts 구조와 같음 . 
 
+```typeScript
+import type { NextApiRequest, NextApiResponse } from "next";
+
+  
+
+export default function handler (
+
+	req:NextApiRequest,
+	
+	res:NextApiResponse,
+
+){
+
+const date = new Date();
+
+res.json({time:date.toLocaleString()});
+
+}
+```
