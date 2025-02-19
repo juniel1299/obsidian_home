@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Type Manipulation"
             }
+          },
+          {
+            "id": "cf2ab1fea96dbe75",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +87,7 @@
             }
           },
           {
-            "id": "446c75fe61346836",
+            "id": "f91f80852b5cfbb8",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -207,7 +220,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67bae2569b728c4e",
+  "active": "cf2ab1fea96dbe75",
   "lastOpenFiles": [
     "TypeScript/Function Type Expressions.md",
     "TypeScript/Function Type.md",
