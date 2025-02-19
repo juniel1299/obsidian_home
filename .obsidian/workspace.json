@@ -25,12 +25,12 @@
             "id": "cf2ab1fea96dbe75",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "mk-space",
               "state": {
-                "currentVersion": "1.8.7"
+                "path": "NextJs"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file",
+              "title": "NextJs"
             }
           }
         ],
@@ -222,6 +222,9 @@
   },
   "active": "cf2ab1fea96dbe75",
   "lastOpenFiles": [
+    "NextJs/NextJs.md",
+    "NextJs/.md",
+    "NextJs",
     "TypeScript/Function Type Expressions.md",
     "TypeScript/Function Type.md",
     "TypeScript/type assertion.md",
@@ -249,8 +252,6 @@
     "TypeScript/Type Inference.md",
     "TypeScript/Function OverLoading.md",
     "Python/www.md",
-    "TypeScript/Discriminated Union Type.md",
-    "Python/Python.md",
     "Python",
     "TypeScript",
     "React/imageFolder/스크린샷 2025-02-06 오후 1.11.02.png",
@@ -271,7 +272,6 @@
     "토비의 스프링 부트 - 이해와 원리",
     "실전 자바 정리",
     "무제 파일.canvas",
-    "무제 파일 1.canvas",
-    "Spring MVC"
+    "무제 파일 1.canvas"
   ]
 }
