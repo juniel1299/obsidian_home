@@ -166,3 +166,6 @@ ex) 현재 화면에 a , b , c 라는 링크를 탈 수 있음  -> a , b , c 에
 npm run build
 npm run dev
 
+## API
+처음 프로젝트 생성하면 생기는 API 폴더 내부의 hello.ts 구조와 같음 . 
+
