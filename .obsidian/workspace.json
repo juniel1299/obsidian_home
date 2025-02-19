@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/type assertion.md",
+                "file": "TypeScript/TypeScript and React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "type assertion"
+              "title": "TypeScript and React"
             }
           }
         ]
@@ -209,6 +209,13 @@
   },
   "active": "cf2ab1fea96dbe75",
   "lastOpenFiles": [
+    "TypeScript/User-Defined Type Guards.md",
+    "TypeScript/Type.md",
+    "TypeScript/Type Ranked.md",
+    "TypeScript/setting.md",
+    "TypeScript/Utillity Type - mapped.md",
+    "TypeScript/Utillity Type - if.md",
+    "TypeScript/type assertion.md",
     "TypeScript/infer.md",
     "TypeScript/Type Narrowing.md",
     "TypeScript/Generics.md",
@@ -228,13 +235,6 @@
     "React/React.md",
     "React/Dynamic Segments (동적 경로).md",
     "React/Context.md",
-    "React/ETC.md",
-    "React/Web Storage.md",
-    "React/이미지 호출 최적화.md",
-    "React/useMemo.md",
-    "React/최적화.md",
-    "React/라이프 사이클클.md",
-    "React/React Router.md",
     "React/LifeCycle.canvas",
     "NextJs",
     "React/Props.canvas",
