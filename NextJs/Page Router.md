@@ -52,4 +52,5 @@ export default function Page () {
 
 book 폴더 안에 파일명을 \[id\].tsx 로 적게 되면 
 http://localhost:3000/book/1
-이렇게 쓸 수 있으며 모두에게 적용됨 . book/\[\] 에 
+이렇게 쓸 수 있으며. book/\[\] 모두에게 적용됨
+
