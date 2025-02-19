@@ -98,4 +98,6 @@ export default function Page() {
 app.tsx 와 같은 경로에 파일명을 404.tsx 만들면 됨 . 
 
 
-## 프로그래매틱 페이지 이동 (Programmati)
+## 프로그래매틱 페이지 이동 (Programmatic Navigation)
+\<Link href={""} \</Link> 형식으로도 가능하지만 
+
