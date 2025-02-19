@@ -91,4 +91,10 @@ export default function Page() {
 
 아무 값도 없는 화면을 꾸미기 위해선 index.tsx 로 하거나 \[\[book.tsx\]\]  로 작성하면 아무 값도 없을 때까지 적용 가능 . 
 
+\[\[...book.tsx]] 하면 모두 대응 가능 . 
+
+
+## 404 페이지 
+파일명을 404.tsx 로 하면 됨 . 
+
 
