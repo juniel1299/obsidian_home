@@ -164,3 +164,5 @@ ex) 현재 화면에 a , b , c 라는 링크를 탈 수 있음  -> a , b , c 에
 
 
 npm run build
+npm run dev
+
