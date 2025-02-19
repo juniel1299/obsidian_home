@@ -36,3 +36,5 @@ npx create-next-app@\[14] \[section02]
 
 마지막 import alias 는 \@ 사용 시 src 경로 , \* 사용 시 와일드카드 사용할 수 있도록 적용하는 내용
 
+폴더 열기 후 npm run dev 시 접속 가능 
+
