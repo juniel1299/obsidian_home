@@ -230,6 +230,8 @@ import "@/styles/globals.css"; 처럼 next.js 는 일반적인 방식으로 impo
 
 헤더 , 푸터 같은 동일한 내용은 하나의 파일로 빼놓자 . 
 
+글로벌 레이아웃으로 쓸 파일
+
 ```typeScript
 import GlobalLayouts from "@/components/global-layout";
 
@@ -243,15 +245,15 @@ export default function App({ Component, pageProps }: AppProps) {
 
 return (
 
-<>
-
-	<GlobalLayouts>
+	<>
 	
-		<Component {...pageProps} />
-	
-	</GlobalLayouts>
-	
-</>
+		<GlobalLayouts>
+		
+			<Component {...pageProps} />
+		
+		</GlobalLayouts>
+		
+	</>
 
 );
 
