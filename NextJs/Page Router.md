@@ -228,3 +228,5 @@ import "@/styles/globals.css"; 처럼 next.js 는 일반적인 방식으로 impo
 
 ## Global Layout (글로벌 레이아웃)
 
+App.tsx는 모든 컴포넌트의 부모 컴포넌트이므로 공통은 해당 파일에서 적용하자. 
+
