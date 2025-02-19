@@ -34,3 +34,11 @@ CSR (Client Side Rendering) (리액트의 렌더링 방식) 방식의 단점을 
 
 
 결국 사전 렌더링을 통해 React App이 가진 느린 FCP 해결 + 기존 React App의 빠른 페이지 이동 가짐
+
+
+
+
+
+### supabase 실행 
+npm i 
+npx prisma db push
