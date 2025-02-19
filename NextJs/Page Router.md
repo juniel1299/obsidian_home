@@ -133,7 +133,7 @@ export default function App({ Component, pageProps }: AppProps) {
 		
 		<div>
 		
-		<button onClick={onClickButton}>/test 페이지로 이동</button>
+			<button onClick={onClickButton}>/test 페이지로 이동</button>
 		
 		</div>
 		
@@ -141,6 +141,7 @@ export default function App({ Component, pageProps }: AppProps) {
 		
 		<Component {...pageProps} /> 
 	</>;
-
 }
 ```
+이렇게 onClick을 이용해서 가능함. 
+replace (뒤로가기 방지하며 페이징 이동)
