@@ -46,6 +46,7 @@ npx prisma db push
 npm run seed 
 
 npm run build
-npm run strart
+
+서버실행 : npm run strart
 
 서버종료 : ctrl + c 
