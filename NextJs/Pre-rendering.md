@@ -50,3 +50,5 @@ npm run build
 서버실행 : npm run strart
 
 서버종료 : ctrl + c 
+
+npx prisma studio
