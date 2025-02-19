@@ -224,4 +224,7 @@ export default function Home() {
 
 App.tsx 파일 import 
 
-import "@/styles/globals.css"; 처럼 next.js 는 
+import "@/styles/globals.css"; 처럼 next.js 는 일반적인 방식으로 import 불가능 .
+
+## Global Layout (글로벌 레이아웃)
+
