@@ -298,3 +298,4 @@ export default function GlobalLayouts({
 }
 ```
 
+### 페이지 별 레이아웃 설정
