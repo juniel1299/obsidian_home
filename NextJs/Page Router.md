@@ -509,3 +509,6 @@ export default function Home(
 빌드 타임은 유연하게 발생됨
 
 ### 증분 정적 재생성(ISR)
+
+
+

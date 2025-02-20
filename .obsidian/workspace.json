@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NextJs/Pre-rendering.md",
+                "file": "NextJs/Page Router.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pre-rendering"
+              "title": "Page Router"
             }
           }
         ]
@@ -148,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NextJs/Pre-rendering.md",
+                "file": "NextJs/Page Router.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Pre-rendering 의 개요"
+              "title": "Page Router 의 개요"
             }
           },
           {
@@ -209,16 +209,16 @@
   },
   "active": "847323db47681185",
   "lastOpenFiles": [
-    "NextJs/SupaBase.md",
-    "NextJs/Page Router.md",
     "NextJs/prologue.md",
+    "NextJs/SupaBase.md",
+    "NextJs/Pre-rendering.md",
+    "NextJs/Page Router.md",
     "TypeScript/TypeScript.md",
     "첨부파일 폴더/Pasted image 20250219134457.png",
     "NextJs/images/스크린샷 2025-02-19 오후 1.36.26.png",
     "NextJs/images/images.md",
     "NextJs/images",
     "첨부파일 폴더/Pasted image 20250219133632.png",
-    "NextJs/Pre-rendering.md",
     "TypeScript/TypeScript and React.md",
     "TypeScript/User-Defined Type Guards.md",
     "TypeScript/Type.md",
