@@ -392,19 +392,13 @@ export default function App({
 	const getLayout = Component.getLayout ?? ((page :ReactNode)=> page);
 	
 	return (
-	
 		<>
-		
-		<GlobalLayouts>
-		
-		{getLayout(<Component {...pageProps} />)}
-		
-		</GlobalLayouts>
-		
+			<GlobalLayouts>
+				{getLayout(<Component {...pageProps} />)}
+			</GlobalLayouts>
 		</>
-	
 	);
-
 }
 
 ```
+풀어서 작성하면 이렇게 됨 . 
