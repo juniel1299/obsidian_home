@@ -405,5 +405,10 @@ export default function App({
 
 ## 사전 렌더링 , 데이터 패칭
 - 리액트의 데이터 패칭
-```
+1. 불러온 데이터를 저장 할 State 생성 
+2. 데이터 패칭 함수 
+```typeScript
+const fetchData = async () => {
+	co
+}
 ```
