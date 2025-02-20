@@ -606,7 +606,7 @@ Home.getLayout = (page: ReactNode) => {
 ```
 getStaticProps 로 바꾸면 SSG로 됨 . 
 (단 개발모드(dev)에서 확인 불가 확인시 npm run build )
-(SSG는 흰색 동그라미로 표시 , SSR은 함수 기호로 표시됨)
+(SSG는 흰색 원으로 표시 , SSR은 함수 기호로 표시, 아무 설정도 없으면 빈 원으로 표시됨)
 ### 증분 정적 재생성(ISR)
 
 
