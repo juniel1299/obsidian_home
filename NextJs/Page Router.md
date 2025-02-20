@@ -604,7 +604,7 @@ Home.getLayout = (page: ReactNode) => {
 
 }
 ```
-getStaticProps 로 바꾸면 
+getStaticProps 로 바꾸면 SSG로 됨 . 
 ### 증분 정적 재생성(ISR)
 
 
