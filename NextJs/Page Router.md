@@ -818,7 +818,9 @@ export default function Page({
 (blocking의 경우 화면 Props 동시에 렌더링해서 보내줌)
 (true는 Props 없이 우선 화면만 렌더링으로 먼저 보내고 Props만 따로 계산해서 렌더링)
 
-- 
+- false : 404 
+- blocking : SSR
+- true : SRR + 데이터가 없는 폴백 상태의 페이지부터 변환
 ### 증분 정적 재생성(ISR)
 
 
