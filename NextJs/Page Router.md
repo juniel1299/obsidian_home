@@ -371,7 +371,7 @@ import { ReactNode } from "react";
 
 type NextPageWithLayout = NextPage & {
 
-	getLayout : (page:ReactNode) => ReactNode;
+	getLayout? : (page:ReactNode) => ReactNode;
 
 };
 
