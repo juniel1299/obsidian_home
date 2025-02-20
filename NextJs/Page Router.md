@@ -607,6 +607,104 @@ Home.getLayout = (page: ReactNode) => {
 getStaticProps 로 바꾸면 SSG로 됨 . 
 (단 개발모드(dev)에서 확인 불가 확인시 npm run build )
 (SSG는 흰색 원으로 표시 , SSR은 함수 기호로 표시, 아무 설정도 없으면 빈 원으로 표시됨)
+
+#### 동적인 경우
+```typeScript
+import SearchableLayout from "@/components/searchable-layout";
+
+import { ReactNode, useEffect, useState } from "react";
+
+import BookItem from "@/components/book-item";
+
+import { GetServerSidePropsContext, GetStaticPathsContext, InferGetServerSidePropsType } from "next";
+
+import fetchBooks from "@/lib/fetch-books";
+
+import { useRouter } from "next/router";
+
+import { BookData } from "@/type";
+
+  
+
+// export const getStaticProps = async (context : GetStaticPathsContext) => {
+
+// // 쿼리 스트링으로 검색 가능 ..
+
+// const q = context.query.q;
+
+// const books = await fetchBooks(q as string);
+
+// return {
+
+// props : {
+
+// books,
+
+// },
+
+// }
+
+// }
+
+export default function Page () {
+
+const [books,setBooks] = useState<BookData[]>([]);
+
+const router = useRouter();
+
+const q = router.query.q;
+
+  
+
+const fetchSEarchResult = async () => {
+
+const data = await fetchBooks(q as string);
+
+setBooks(data);
+
+}
+
+useEffect(()=> {
+
+if(q){
+
+
+
+}
+
+},[q])
+
+  
+
+return (
+
+<div>
+
+{books.map((book) => (
+
+<BookItem key={book.id} {...book}/>
+
+))}
+
+</div>
+
+)
+
+}
+
+  
+  
+
+Page.getLayout = (page:ReactNode) => {
+
+return (
+
+<SearchableLayout>{page}</SearchableLayout>
+
+)
+
+}
+```
 ### 증분 정적 재생성(ISR)
 
 
