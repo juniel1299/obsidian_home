@@ -457,6 +457,42 @@ export const getServerSideProps = () => {
 	};
 
 };
+
+export default function Home({data}) {
+
+	return (
+	
+		<div className={style.container}>
+	
+		<section>
+	
+			<h3>
+	
+				지금 추천하는 도서
+	
+				{books.map((book)=> <BookItem key={book.id} {...book}/>)}
+	
+			</h3>
+	
+		</section>
+	
+		<section>
+		
+			<h3>
+			
+				등록된 모든 도서
+				
+				{books.map((book)=> <BookItem key={book.id} {...book}/>)}
+				
+			</h3>
+		
+		</section>
+	
+	</div>
+	
+	);
+
+}
 ```
 
 해당 코드를 작성하게 되면 SSR 방식으로 사전 렌더링 해옴
