@@ -458,7 +458,7 @@ export const getServerSideProps = () => {
 
 };
 
-export default function Home({data}) {
+export default function Home({data}:any) {
 
 	return (
 	
