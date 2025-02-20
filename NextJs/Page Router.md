@@ -355,3 +355,5 @@ return <SearchableLayout>{page}</SearchableLayout>
 }
 ```
 하단의 내용처럼 객체를 가져와야함 (Home 또한 객체이므로 이렇게 가져와야함.)
+
+page 를 ReactNode 
