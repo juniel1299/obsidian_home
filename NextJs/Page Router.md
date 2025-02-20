@@ -438,6 +438,7 @@ return (
 - 가장 기본적인 사전 렌더링 방식
 - 욫어이 들어올 때 마다 사전 렌더링을 진행
 ```typeScript
+
 //컴포넌트보다 먼저 실행되어서, 컴포넌트에 필요한 데이터를 불러오는 함수
 export const getServerSideProps = () => {
 
@@ -447,11 +448,11 @@ export const getServerSideProps = () => {
 	
 	return{
 	
-	props: {
-	
-	data,
-	
-	},
+		props: {
+		
+			data,
+		
+		},
 	
 	};
 
