@@ -300,3 +300,30 @@ export default function GlobalLayouts({
 
 ### 페이지 별 레이아웃 설정
 특정 페이지에서만 나오게 하기 위해선 내가 띄우고 싶은 화면에 가서 값을 보내줘야함
+```typeScript
+import { ReactNode } from "react"
+
+export default function SearchableLayout({
+
+	children,
+
+}:{
+
+	children: ReactNode;
+
+}) {
+
+	return (
+	
+		<div>
+		
+		<div>임시비서치바</div>
+		
+		{children}
+		
+		</div>
+
+	)
+
+}
+```
