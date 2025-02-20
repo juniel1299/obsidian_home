@@ -405,8 +405,6 @@ export default function App({
 
 ## 사전 렌더링 , 데이터 패칭
 - 리액트의 데이터 패칭
-1. 불러온 데이터를 저장 할 State 생성 
-2. 데이터 패칭 함수 
 ```typeScript
 const fetchData = async () => {
 	const response = await fetch('...');
@@ -415,9 +413,16 @@ const fetchData = async () => {
 };
 
 useEffect(()=> {
-fetchData();
+	fetchData();
 },[]);
 return (
 	<div>데이터 리턴</div>
 )
 ```
+
+1. 불러온 데이터를 저장 할 State 생성 
+2. 데이터 패칭 함수 
+3. 컴포넌트 마운트 시점에 fetchData 호출 (useEffect)
+4. (데이터 로딩중일때 예외처리)
+
+단점 : 초기 저
