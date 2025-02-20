@@ -814,7 +814,8 @@ export default function Page({
 만약 없으면 fallback을 통해 notfound로 보낼 수 있음
 
 없는 값은 빌드타임에 들어 갈 수 없음 
-(단 , fallback:'blocking' 으로 설정하게 되면 가능함.)
+(단 , fallback:'blocking' 또는 true 로 설정하게 되면 가능함.)
+
 ### 증분 정적 재생성(ISR)
 
 
