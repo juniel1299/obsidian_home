@@ -608,7 +608,7 @@ getStaticProps 로 바꾸면 SSG로 됨 .
 (단 개발모드(dev)에서 확인 불가 확인시 npm run build )
 (SSG는 흰색 원으로 표시 , SSR은 함수 기호로 표시, 아무 설정도 없으면 빈 원으로 표시됨)
 
-#### 동적인 경우
+#### 정적인 경우
 ```typeScript
 import SearchableLayout from "@/components/searchable-layout";
 
@@ -705,6 +705,8 @@ return (
 
 }
 ```
+#### 동적인 경우
+
 ### 증분 정적 재생성(ISR)
 
 
