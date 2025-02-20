@@ -544,17 +544,17 @@ const [allBooks, recoBooks] = await Promise.all([
 
 ])
 
-return {
-
-props: {
-
-allBooks,
-
-recoBooks,
-
-},
-
-};
+	return {
+	
+		props: {
+		
+			allBooks,
+			
+			recoBooks,
+		
+		},
+	
+	};
 
 };
 
@@ -562,37 +562,37 @@ export default function Home({allBooks,recoBooks}:InferGetServerSidePropsType<ty
 
   
 
-return (
-
-<div className={style.container}>
-
-<section>
-
-<h3>
-
-지금 추천하는 도서
-
-{recoBooks.map((book)=> <BookItem key={book.id} {...book}/>)}
-
-</h3>
-
-</section>
-
-<section>
-
-<h3>
-
-등록된 모든 도서
-
-{allBooks.map((book)=> <BookItem key={book.id} {...book}/>)}
-
-</h3>
-
-</section>
-
-</div>
-
-);
+	return (
+	
+		<div className={style.container}>
+		
+				<section>
+				
+					<h3>
+					
+						지금 추천하는 도서
+						
+						{recoBooks.map((book)=> <BookItem key={book.id} {...book}/>)}
+					
+					</h3>
+				
+				</section>
+			
+			<section>
+		
+		<h3>
+	
+	등록된 모든 도서
+	
+	{allBooks.map((book)=> <BookItem key={book.id} {...book}/>)}
+	
+	</h3>
+	
+	</section>
+	
+	</div>
+	
+	);
 
 }
 
