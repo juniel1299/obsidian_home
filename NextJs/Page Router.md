@@ -299,3 +299,4 @@ export default function GlobalLayouts({
 ```
 
 ### 페이지 별 레이아웃 설정
+특정 페이지에서만 나오
