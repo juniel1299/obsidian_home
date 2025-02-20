@@ -317,9 +317,9 @@ export default function SearchableLayout({
 	
 		<div>
 		
-		<div>임시비서치바</div>
-		
-		{children}
+			<div>임시비서치바</div>
+			
+			{children}
 		
 		</div>
 
@@ -327,3 +327,31 @@ export default function SearchableLayout({
 
 }
 ```
+해당 화면을 가져올 때 
+
+```typeScript
+import SearchableLayout from '@/components/searchable-layout';
+
+import style from './index.module.css';
+
+import { ReactNode } from 'react';
+
+export default function Home() {
+	
+	return (
+	
+		<>
+		
+		</>
+	
+	);
+
+}
+
+Home.getLayout = (page: ReactNode) => {
+
+return <SearchableLayout>{page}</SearchableLayout>
+
+}
+```
+하단의 내용처럼 가져와야함.
