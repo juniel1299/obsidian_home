@@ -580,19 +580,19 @@ export default function Home({allBooks,recoBooks}:InferGetServerSidePropsType<ty
 			
 			<section>
 		
-		<h3>
+				<h3>
 	
-	등록된 모든 도서
+					등록된 모든 도서
+					
+					{allBooks.map((book)=> <BookItem key={book.id} {...book}/>)}
+			
+				</h3>
 	
-	{allBooks.map((book)=> <BookItem key={book.id} {...book}/>)}
+			</section>
 	
-	</h3>
+		</div>
 	
-	</section>
-	
-	</div>
-	
-	);
+		);
 
 }
 
@@ -600,10 +600,11 @@ export default function Home({allBooks,recoBooks}:InferGetServerSidePropsType<ty
 
 Home.getLayout = (page: ReactNode) => {
 
-return <SearchableLayout>{page}</SearchableLayout>
+	return <SearchableLayout>{page}</SearchableLayout>
 
 }
 ```
+getStaticProps 로 바꾸면 
 ### 증분 정적 재생성(ISR)
 
 
