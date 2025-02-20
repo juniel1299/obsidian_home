@@ -409,6 +409,15 @@ export default function App({
 2. 데이터 패칭 함수 
 ```typeScript
 const fetchData = async () => {
-	co
-}
+	const response = await fetch('...');
+	const data = await response.json();
+	setState(data);
+};
+
+useEffect(()=> {
+fetchData();
+},[]);
+return (
+	<div>데이터 리턴</div>
+)
 ```
