@@ -706,6 +706,7 @@ return (
 }
 ```
 #### 동적인 경우
+getStaticPath 를 사용해야함. 
 
 ### 증분 정적 재생성(ISR)
 
