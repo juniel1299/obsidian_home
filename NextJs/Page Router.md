@@ -812,6 +812,9 @@ export default function Page({
 ```
 해당 화면에서 이동 할 수 있는 경로를 미리 알려야하기 때문에 배열에 다 담아야함 . 
 만약 없으면 fallback을 통해 notfound로 보낼 수 있음
+
+없는 값은 빌드타임에 들어 갈 수 없음 
+(단 , fallback:blocking 으로 설정하게 되면 가능함.)
 ### 증분 정적 재생성(ISR)
 
 
