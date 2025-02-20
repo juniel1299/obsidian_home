@@ -815,7 +815,7 @@ export default function Page({
 
 없는 값은 빌드타임에 들어 갈 수 없음 
 (단 , fallback:'blocking' 또는 true 로 설정하게 되면 가능함.)
-(blocking의 경우 사전 렌더링에 포함 시켜줌)
+(blocking의 경우 화면 Props 동시에 ㄹ)
 (true는 Props 없이 우선 화면만 렌더링으로 먼저 보내고 Props만 따로 계산해서 렌더링)
 ### 증분 정적 재생성(ISR)
 
