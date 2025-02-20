@@ -656,7 +656,7 @@ const q = router.query.q;
 
   
 
-const fetchSEarchResult = async () => {
+const fetchSearchResult = async () => {
 
 const data = await fetchBooks(q as string);
 
@@ -668,7 +668,7 @@ useEffect(()=> {
 
 if(q){
 
-
+fetchSearchResult();
 
 }
 
