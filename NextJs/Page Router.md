@@ -357,3 +357,54 @@ return <SearchableLayout>{page}</SearchableLayout>
 하단의 내용처럼 객체를 가져와야함 (Home 또한 객체이므로 이렇게 가져와야함.)
 
 page 를 ReactNode 라는 타입 선언하여 SearchableLayout 화면으로 감쌈
+
+```typeScript
+import GlobalLayouts from "@/components/global-layout";
+
+import "@/styles/globals.css";
+
+import { NextPage } from "next";
+
+import type { AppProps } from "next/app";
+
+import { ReactNode } from "react";
+
+type NextPageWithLayout = NextPage & {
+
+	getLayout : (page:ReactNode) => ReactNode;
+
+};
+
+  
+
+export default function App({
+
+	Component,
+	
+	pageProps
+
+}: AppProps &{
+
+	Component: NextPageWithLayout;
+
+}) {
+
+	const getLayout = Component.getLayout ?? ((page :ReactNode)=> page);
+	
+	return (
+	
+		<>
+		
+		<GlobalLayouts>
+		
+		{getLayout(<Component {...pageProps} />)}
+		
+		</GlobalLayouts>
+		
+		</>
+	
+	);
+
+}
+
+```
