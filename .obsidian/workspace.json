@@ -148,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/라이프 사이클클.md",
+                "file": "NextJs/Page Router.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "라이프 사이클클 의 개요"
+              "title": "Page Router 의 개요"
             }
           },
           {
@@ -188,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -207,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "847323db47681185",
+  "active": "804f6e808327c183",
   "lastOpenFiles": [
     "첨부파일 폴더/Pasted image 20250219134457.png",
     "NextJs/Page Router.md",
