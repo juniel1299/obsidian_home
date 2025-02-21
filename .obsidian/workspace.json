@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/최적화.md",
+                "file": "React/useMemo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "최적화"
+              "title": "useMemo"
             }
           }
         ]
@@ -148,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/최적화.md",
+                "file": "React/useMemo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "최적화 의 개요"
+              "title": "useMemo 의 개요"
             }
           },
           {
@@ -209,6 +209,7 @@
   },
   "active": "847323db47681185",
   "lastOpenFiles": [
+    "React/최적화.md",
     "React/useMemo.md",
     "React/React Router.md",
     "React/Context.md",
@@ -216,7 +217,6 @@
     "React/Dynamic Segments (동적 경로).md",
     "React/Page Routing.md",
     "React/라이프 사이클클.md",
-    "React/최적화.md",
     "React/Web Storage.md",
     "React/이미지 호출 최적화.md",
     "NextJs/Page Router.md",
