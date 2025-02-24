@@ -902,3 +902,8 @@ return(
 
 SEO 를 설정하기 위해선 import head 후 첫번째는 index.tsx 에 작성 
 두번째는 \[id\].tsx 에 해당처럼 작성 -> 값이 없는 경우 meta가 모두 빠지게 됨 . 
+
+
+만약 default 값을 넣고 싶으면 
+
+₩``
