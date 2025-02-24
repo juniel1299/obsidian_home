@@ -16,3 +16,8 @@ App Router 에선 app 폴더 아래에서 /search 폴더 아래의 page.tsx 로 
 동적 경로의 경우
 App Router는 \[id\] 폴더 아래에 page.tsx 작성하면 됨 -> book/1 , book/2 등등 .
 
+### 페이지 라우팅 설정 
+폴더명이 경로 화면은 page.tsx 로 꾸민다 .
+
+폴더명/\[id\] -> 해당 화면 
+폴더명/\[...id\] -> 해당 화면 뒤에 추가적으로 이어 붙일 수 있ㅇ므
