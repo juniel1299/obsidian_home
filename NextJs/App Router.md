@@ -9,4 +9,6 @@
 
 파일명이 page 면 페이지 역할 , layout이면 layout 역할 
 
-## 
+## 페이지 라우팅 
+Page Router 에선 pages 폴더 아래에서 ~/search -> search.tsx 파일 식이지만
+App Router 에선 app 폴더 아래에서 /search 폴더 아래의 page.tsx 
