@@ -860,3 +860,4 @@ export const getStaticProps = async () => {
 여기서 revalidate : 3 이 SSG 새로운 페이지 생성을 3초마다 한다의 의미.
 
 #### On-Demand-ISR (주문형 재 검증)
+게시글 수정이나 삭제시 즉각적으로 반응해야함 -> 
