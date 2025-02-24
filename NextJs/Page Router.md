@@ -828,3 +828,32 @@ SSG 를 통해 접속 요청시 V1 버전의 페이지 반환이 됨
 -> 내가 설정한 시간이 되면 V2 버전의 페이지 반환하고 이후에는 SSG로 V2 버전 페이지를 반환함. 
 **매우 빠른 속도로 응답이 가능하고 최신 데이터 반영이 가능하다는 SSG 와 SSR 장점을 가져옴**
 
+```typeScript
+export const getStaticProps = async () => {
+
+//컴포넌트보다 먼저 실행되어서, 컴포넌트에 필요한 데이터를 불러오는
+
+	const [allBooks, recoBooks] = await Promise.all([
+	
+		fetchBooks(),
+		
+		fetchRandomBooks(),
+	
+	])
+
+return {
+
+props: {
+
+allBooks,
+
+recoBooks,
+
+},
+
+revalidate : 3,
+
+};
+
+};
+```
