@@ -867,3 +867,18 @@ export const getStaticProps = async () => {
 
 
 ## SEO 설정하기
+
+```typeScript
+import Head from 'next/head';
+
+
+return(
+	<Head>
+		<title>한입북스</title>
+		<meta property='og:image' content='/public/thumbnail.png'/>		
+		<meta property='og:title' content='한입북스'/>
+		<meta property='og:description' content='한입 북스의 등록된 도서를 만나보세요'/>
+	</Head>
+)
+```
+
