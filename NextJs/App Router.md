@@ -76,3 +76,35 @@ JS Bundle 에 클라이언트 컴포넌트만 포함하여 동작
 그러므로 페이지 대부분을 서버 컴포넌트로 구성하고 
 클라이언트 컴포넌트 꼭 필요한 경우에만 사용 ;; 
 
+서버 컴포넌트를 클라이언트 컴포넌트로 설정하기 위해선 최상단에 'use client'; 작성해야함 . 
+
+```typeScript
+"use client"
+
+import { useEffect } from "react";
+
+import style from "./page.module.css"
+
+export default function Home() {
+	console.log('Home 컴포넌트 실행');
+	
+	  
+	
+	useEffect(()=> {});
+	
+	const secretKey = 'ㄱㄴㄷㄹ';
+	
+	  
+	
+	return (
+	
+		<div className={style.page}>
+		
+			최상단
+		
+		</div>
+	
+	);
+
+}
+```
