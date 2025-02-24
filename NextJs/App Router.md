@@ -30,3 +30,25 @@ ex ) book 폴더에 layout.tsx로 레이아웃 파일 작성 -> 하위에 폴더
 
 설정을 따로 하지 않으면 레이아웃 파일을 작성하면 기존 page.tsx에 있던건 화면에 뜨지 않음
 
+```typeScript
+import { ReactNode } from "react";
+
+export default function Layout({children}:{children:ReactNode}){
+
+	return(
+	
+		<div>
+		
+			<div>임시 서치바</div>
+			
+			{children}
+		
+		</div>
+	
+	)
+
+}
+```
+
+이렇게 불러오는 방법이 있음. 
+
