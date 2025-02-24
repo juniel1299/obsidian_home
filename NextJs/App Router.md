@@ -67,3 +67,5 @@ export default function Layout({children}:{children:ReactNode}){
 
 서버측에서만 실행되는 컴포넌트 (브라우저 실행x) 에 대해선 서버 컴포넌트로 분류 
 서버 , 브라우저 똑같이 1번씩 실행되어야 할 경우 클라이언트 컴포넌트로 분류
+
+JS Bundle 에서 클라이언트 컴포넌트만 포함해 
