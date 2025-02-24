@@ -56,3 +56,6 @@ export default function Layout({children}:{children:ReactNode}){
 폴더명을 (with-searchbar) 로 작성해야함 
 경로상에는 아무런 영향을 주지 않음 
 
+
+## React Server Component (리액트 서버 컴포넌트)
+
