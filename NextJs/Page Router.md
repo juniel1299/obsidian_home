@@ -823,4 +823,5 @@ export default function Page({
 - true : SRR + 데이터가 없는 폴백 상태의 페이지부터 변환
 ### 증분 정적 재생성(ISR)
 
-SSG 방식으로 생성된 
+- SSG 방식으로 생성된 정적 페이지를 일정 시간을 주기로 다시 생성하는 기술 .
+
