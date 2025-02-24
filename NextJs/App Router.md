@@ -52,3 +52,5 @@ export default function Layout({children}:{children:ReactNode}){
 
 이렇게 불러오는 방법이 있음. 
 
+#### 라우트 그룹
+폴더명을 ()
