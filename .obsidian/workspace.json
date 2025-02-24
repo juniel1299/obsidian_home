@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NextJs/App Router.md",
+                "file": "NextJs/prologue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "App Router"
+              "title": "prologue"
             }
           }
         ]
@@ -148,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NextJs/App Router.md",
+                "file": "NextJs/prologue.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "App Router 의 개요"
+              "title": "prologue 의 개요"
             }
           },
           {
@@ -209,8 +209,8 @@
   },
   "active": "847323db47681185",
   "lastOpenFiles": [
-    "NextJs/Page Router.md",
     "NextJs/App Router.md",
+    "NextJs/Page Router.md",
     "NextJs/SupaBase.md",
     "NextJs/Pre-rendering.md",
     "NextJs/prologue.md",
