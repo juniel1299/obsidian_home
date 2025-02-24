@@ -21,4 +21,5 @@ App Router는 \[id\] 폴더 아래에 page.tsx 작성하면 됨 -> book/1 , book
 
 폴더명/\[id\] -> book/id 에 해당하는 화면 ex)book/1 , book/100
 폴더명/\[...id\] -> 해당 화면 뒤에 추가적으로 이어 붙일 수 있음 ex) book/1/2/3/4/5
-폴더명/\[\[id\]\] -> /book 뒤에 추가 경로가 없는 경우 
+폴더명/\[\[id\]\] -> /book 뒤에 추가 경로가 없는 경우 ex) /book
+
