@@ -108,3 +108,6 @@ export default function Home() {
 
 }
 ```
+
+서버 컴포넌트의 경우 브라우저에서 실행될 코드가 포함되면 안된다 . 
+
