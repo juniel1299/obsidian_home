@@ -882,4 +882,23 @@ return(
 )
 ```
 
-SEO 를 설정하기 위해선 import head 후 해당처럼 작성하면 됨 . 
+```typeScript
+const { id, title, subTitle,description,author,publisher,coverImgUrl } = book;
+
+return(
+<Head>
+
+	<title>한입북스</title>
+	
+	<meta property='og:image' content={coverImgUrl}/>
+	
+	<meta property='og:title' content={title}/>
+	
+	<meta property='og:description' content={description}/>
+
+</Head>
+)
+```
+
+SEO 를 설정하기 위해선 import head 후 첫번째는 index.tsx 에 작성 
+두번째는 [id]
