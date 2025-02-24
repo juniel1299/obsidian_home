@@ -841,19 +841,20 @@ export const getStaticProps = async () => {
 	
 	])
 
-return {
-
-props: {
-
-allBooks,
-
-recoBooks,
-
-},
-
-revalidate : 3,
-
-};
+	return {
+	
+		props: {
+		
+			allBooks,
+			
+			recoBooks,
+		
+		},
+	
+		revalidate : 3,
+	
+	};
 
 };
 ```
+여기서 revalidate : 3 이 SSG 새로운 페이지 생성을 3초마다 한다의 의미..
