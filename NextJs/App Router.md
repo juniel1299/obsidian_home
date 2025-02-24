@@ -53,4 +53,7 @@ export default function Layout({children}:{children:ReactNode}){
 이렇게 불러오는 방법이 있음. 
 
 #### 라우트 그룹
-폴더명을 ()
+폴더명을 (with-searchbar) 로 작성해야함 
+내부에 존재하는 
+경로상에는 아무런 영향을 주지 않음 
+
