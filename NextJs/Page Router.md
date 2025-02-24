@@ -864,3 +864,6 @@ export const getStaticProps = async () => {
 즉 조건(주문) 에 대한 ISR 필요함. 
 
 또한 x초로 설정 시 불 필요한 페이지 재 생성이 발생함 
+
+
+## SEO 설정하기
