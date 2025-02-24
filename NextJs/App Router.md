@@ -71,4 +71,5 @@ export default function Layout({children}:{children:ReactNode}){
 JS Bundle 에 클라이언트 컴포넌트만 포함하여 동작
 
 서버 컴포넌트 : 서버측에서 사전 렌더링을 진행할 때 딱 1번만 실행 
-클라이언트 컴포넌트 : 사전 렌더
+클라이언트 컴포넌트 : 사전 렌더링 진행할 때 한번, 하이드레이션 진행 시 한번 총 2번 실행
+
