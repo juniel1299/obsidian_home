@@ -65,3 +65,5 @@ export default function Layout({children}:{children:ReactNode}){
 해당 기능의 경우 필요한 컴포넌트만 JS Bundle 에 담아서 전달함 
 -> JS Bundle 용량이 작음 . 
 
+서버측에서만 실행되는 컴포넌트 (브라우저 실행x) 에 대해선 서버 컴포넌트로 분류 
+서버 , 브라우저 똑같이 1번씩 실행되어야 할 경우 클라이언트 컴포넌트로 분류
