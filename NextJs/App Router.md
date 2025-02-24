@@ -61,3 +61,5 @@ export default function Layout({children}:{children:ReactNode}){
 
 해당 기능이 없을땐 필요한 컴포넌트 필요없는 컴포넌트 구분 없이 JS Bundle에 그냥 다 묶어서 전달해버림
 -> JS Bundle 용량이 너무 커져버림 ..
+
+해당 기능의 경우 필요한 컴포넌트만 J
