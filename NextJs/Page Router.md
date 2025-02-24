@@ -906,4 +906,29 @@ SEO 를 설정하기 위해선 import head 후 첫번째는 index.tsx 에 작성
 
 만약 default 값을 넣고 싶으면 
 
-₩``
+```typeScript
+if(router.isFallback){
+
+	return(
+	
+		<>
+		
+			<Head>
+			
+				<title>한입북스</title>
+				
+				<meta property='og:image' content='/thumbnail.png'/>
+				
+				<meta property='og:title' content='한입북스'/>
+				
+				<meta property='og:description' content='한입북스에 등록된 도서들을 만나보세요'/>
+			
+			</Head>
+		
+		</>
+	
+	)
+
+}
+```
+
