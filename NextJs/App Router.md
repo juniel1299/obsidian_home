@@ -25,4 +25,5 @@ App Router는 \[id\] 폴더 아래에 page.tsx 작성하면 됨 -> book/1 , book
 
 ### 레이아웃 설정
 폴더명이 경로 화면의 레이아웃은 layout.tsx 로 작성함 
-해당 폴더 하위에 setting 폴더 만들고 setting 폴더 하위에 page.tsx 작성하면 
+ex ) book 폴더에 layout.tsx로 레이아웃 파일 작성 -> 하위에 폴더를 만들어도 상위 layout.tsx 적용받음.
+만약 하위에는 새로운 layout을 적용하고 싶으면 하위 폴더에 layout.tsx 작성 -> 중첩을
