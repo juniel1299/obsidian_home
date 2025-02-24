@@ -28,4 +28,5 @@ App Router는 \[id\] 폴더 아래에 page.tsx 작성하면 됨 -> book/1 , book
 ex ) book 폴더에 layout.tsx로 레이아웃 파일 작성 -> 하위에 폴더를 만들어도 상위 layout.tsx 적용받음.
 만약 하위에는 새로운 layout을 적용하고 싶으면 하위 폴더에 layout.tsx 작성 -> 2개가 중첩으로 적용됨.
 
-레이아웃 파일을 작성하면 
+설정을 따로 하지 않으면 레이아웃 파일을 작성하면 기존 page.tsx에 있던건 화면에 뜨지 않음
+
