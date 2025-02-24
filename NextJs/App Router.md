@@ -11,4 +11,8 @@
 
 ## 페이지 라우팅 
 Page Router 에선 pages 폴더 아래에서 ~/search -> search.tsx 파일 식이지만
-App Router 에선 app 폴더 아래에서 /search 폴더 아래의 page.tsx 
+App Router 에선 app 폴더 아래에서 /search 폴더 아래의 page.tsx 로 작성해야 동일한 동작이 가능함. 
+
+동적 경로의 경우
+App Router는 \[id\] 폴더 아래에 page.tsx 작성하면 됨 -> book/1 , book/2 등등 .
+
