@@ -186,4 +186,4 @@ const response = await fetch(`~/api`, {cache : "force-cache"});
 데이터 캐시는 백엔드 서버로부터 불러온 데이터를 영구적으로 보관하기 위해 사용 (서버 가동 중에는 영구적)
 
 
-
+서버 컴포넌트 개념이 생기
