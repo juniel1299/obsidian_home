@@ -175,6 +175,6 @@ const response = await fetch(`~/api`, {cache : "force-cache"});
 ```
 등등 다양함.
 
-
+## Request Memoization (리퀘스트 메모이제이션)
 
 
