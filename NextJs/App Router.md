@@ -169,6 +169,7 @@ const response = await fetch(`~/api`, {cache : "force-cache"});
 요청의 결과를 무조건 캐싱 -> 한번 호출 된 이후로는 다시 호출되지 않음 . (옵션이 다양하게 존재)
 
 ```typeScript
-{cache: 'no-store'} // 데이터 캐시 x 
+{cache: 'no-store'} // 데이터 캐시 x 아예 캐싱을 하지 않음
+{cache: 'force-cache'} // 무조건 캐싱하는 옵션 
 ```
 
