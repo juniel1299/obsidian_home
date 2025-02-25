@@ -129,4 +129,10 @@ const person = {
 단, 함수는 직렬화가 불가능하다..
 ### RSC Payload 
 React Server Component의 순수한 데이터(결과물)
-React Server Compo
+React Server Component를 직렬화 한 결과를 의미 . 
+
+Rsc Payload 에는 서버 컴포넌트의 모든 데이터가 포함됨 
+1. 서버 컴포넌트 렌더링 결과
+2. 연결된 클라이언트 컴포넌트 위치
+3. 클라이언트 컴포넌트에게 전달하는 Props 값 
+
