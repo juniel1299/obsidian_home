@@ -142,5 +142,6 @@ Rsc Payload 에는 서버 컴포넌트의 모든 데이터가 포함됨
 앱 라우터에선 Server Component 가 추가되면서 프리페칭 시 JS Bundle + RSC Payload 전달하게됨 
 (기존엔 JS Bundle만 전달)
 
+결국 모든 페이지를 Static , Dynamic 으로 분류 -> 대부분이 Static , 서버 렌더링 필요한 경우 Dynamic
 
 
