@@ -176,5 +176,6 @@ const response = await fetch(`~/api`, {cache : "force-cache"});
 등등 다양함.
 
 ## Request Memoization (리퀘스트 메모이제이션)
+- 중복적으로 발생하는 요청들을 정리해준다. 
 
 
