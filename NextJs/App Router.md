@@ -163,3 +163,6 @@ Rsc Payload 에는 서버 컴포넌트의 모든 데이터가 포함됨
 fetch 메서드를 통해 불러온 데이터를 Next 서버에서 보관하는 기능 
 -> 영구적으로 데이터 보관 또는 특정 시간마다 업데이트 하는 것도 가능 . 
 
+```typeScript
+const response = await fetch(`~/api`, {cache})
+```
