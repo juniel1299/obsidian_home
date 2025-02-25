@@ -171,5 +171,6 @@ const response = await fetch(`~/api`, {cache : "force-cache"});
 ```typeScript
 {cache: 'no-store'} // 데이터 캐시 x 아예 캐싱을 하지 않음
 {cache: 'force-cache'} // 무조건 캐싱하는 옵션 
+{cache: '{next: {revalidate:3}}'} // 
 ```
 
