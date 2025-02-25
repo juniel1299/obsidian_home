@@ -166,5 +166,7 @@ fetch 메서드를 통해 불러온 데이터를 Next 서버에서 보관하는 
 ```typeScript
 const response = await fetch(`~/api`, {cache : "force-cache"});
 ```
-요청의 결과를 무조건 캐싱 -> 한번 호출 된 이후로는 다시 호출되지 않음 . 
+요청의 결과를 무조건 캐싱 -> 한번 호출 된 이후로는 다시 호출되지 않음 . (옵션이 다양하게 존재)
+
+
 
