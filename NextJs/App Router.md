@@ -116,5 +116,13 @@ export default function Home() {
 **((JPA 직렬화와 비슷)  객체, 배열, 클래스 등의 복잡한 구조의 데이터를 네트워크 상으로 전송하기 위해 단순한 형태로 변환하는 것)**
 
 ex 
-```ty
+```typeScript
+const person = {
+	name : 'ㄱㄴㄷ',
+	age : 10,
+};
+
+
+{"name":"ㄱㄴㄷ","age":"27"}
 ```
+위의 형태를 아래로 바꿈 . 
