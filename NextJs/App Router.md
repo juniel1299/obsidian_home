@@ -139,4 +139,7 @@ Rsc Payload 에는 서버 컴포넌트의 모든 데이터가 포함됨
 -> 그러므로 서버 컴포넌트에서 클라이언트 컴포넌트에게 직렬화 되지 않은 Props 는 전달이 안 됨.
 
 ## 네비게이팅
-앱 라우터에선 
+앱 라우터에선 Server Component 가 추가되면서 프리페칭 시 JS Bundle + RSC Payload 전달하게됨 
+(기존엔 JS Bundle만 전달)
+
+
