@@ -127,3 +127,6 @@ const person = {
 ```
 위의 형태를 아래로 바꿈 . 
 단, 함수는 직렬화가 불가능하다..
+### RSC Payload 
+React Server Component의 순수한 데이터(결과물)
+React Server Compo
