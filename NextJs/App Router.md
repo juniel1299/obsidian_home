@@ -156,4 +156,6 @@ Rsc Payload 에는 서버 컴포넌트의 모든 데이터가 포함됨
 
 기존에 getServerSideProps , getStaticProps 를 대체하게 됨 . 
 
+**데이터는 필요한 곳에서 직접 불러올 수 있도록 됨**
+
 
