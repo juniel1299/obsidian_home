@@ -164,5 +164,7 @@ fetch 메서드를 통해 불러온 데이터를 Next 서버에서 보관하는 
 -> 영구적으로 데이터 보관 또는 특정 시간마다 업데이트 하는 것도 가능 . 
 
 ```typeScript
-const response = await fetch(`~/api`, {cache})
+const response = await fetch(`~/api`, {cache : "force-cache"});
 ```
+요청의 결과를 무조건 캐싱 -> 한번 호출 된 이후로는 다시 호출되지 않음 . 
+
