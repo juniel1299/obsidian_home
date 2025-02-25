@@ -173,5 +173,8 @@ const response = await fetch(`~/api`, {cache : "force-cache"});
 {cache: 'force-cache'} // 무조건 캐싱하는 옵션 
 {cache: {next: {revalidate:3} } } //특정 시간을 주기로 캐시를 업데이트함(3초) .(ISR 비슷)
 ```
+등등 다양함.
+
+
 
 
