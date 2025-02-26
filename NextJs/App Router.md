@@ -224,4 +224,5 @@ import {cookies} from "next/headers"; // header , Params 등등
 ```typeScript
 const response = await fetch(`${process.env.NEXT_PUBLIC_API_SERVER_URL}/book/search?q=${searchParams.q}`,{cache:"force-cache"});
 ```
-검색어
+검색어를 받는 쿼리형식이기 때문에 Dynamic 일 수 밖에없음 -> 데이터 캐시만이라도 저장하기 위해서 
+cache:force-cache 작성 
