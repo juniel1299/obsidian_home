@@ -191,3 +191,6 @@ const response = await fetch(`~/api`, {cache : "force-cache"});
 
 ## Full Route Cache (풀 라우트 캐시)
 Next 서버측에서 빌드 타임에 특정 페이지의 렌더링 결과를 캐싱하는 기능 
+
+
+/a 페이지에 대해 사전 렌
