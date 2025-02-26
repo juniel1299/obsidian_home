@@ -228,4 +228,14 @@ const response = await fetch(`${process.env.NEXT_PUBLIC_API_SERVER_URL}/book/sea
 cache:force-cache 작성 
 
 - 빌드 타임에 미리 작성하는 방법도 존재 
-- 
+```typeScript
+export function generateStaticParams(){
+
+	return [{id:'1'},{id:'2'},{id:'3'}];
+
+}
+
+export default async function Page({ params, }: { params: { id: string | string[] } }) {
+```
+
+전역변수를 선언하듯이 최상단에 작성 (문)
