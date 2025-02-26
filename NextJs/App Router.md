@@ -579,6 +579,5 @@ export default function Error({error,reset}:{error:Error; reset:()=>void;}){
 
 ## Server Actions (서버 액션)
 브라우저에서 호출할 수 있는 서버에서 실행되는 비동기 함수
-
 브라우저와 서버 간의 데이터 통신을 Next 클라이언트 단에서 동작하도록 함 . 
-
+'use server' 를 통해 선언을 진행함.
