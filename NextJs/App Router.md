@@ -332,27 +332,26 @@ const books:BookData[] = await response.json();
 
 export default function Page({
 
-searchParams,
+	searchParams,
+	
+	}: {
+	
+	searchParams: {
+	
+	q?: string;
+	
+	};
+	
+	}) {
 
-}: {
-
-searchParams: {
-
-q?: string;
-
-};
-
-}) {
-
-return (
-
-<Suspense key={searchParams.q || ""} fallback={<div>로딩중</div>}>
-
-<SearchResult q={searchParams.q || ""}/>
-
-</Suspense>
-
-)
-
+	return (
+	
+		<Suspense key={searchParams.q || ""} fallback={<div>로딩중</div>}>
+		
+			<SearchResult q={searchParams.q || ""}/>
+		
+		</Suspense>
+	)
 }
 ```
+
