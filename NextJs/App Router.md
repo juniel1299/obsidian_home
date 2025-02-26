@@ -365,25 +365,33 @@ export default function BookItemSkeleton(){
 
 	return(
 	*
-	<div className={style.container}>
+		<div className={style.container}>
+		
+			<div className={style.cover_img}></div>
+		
+			<div className={style.info_container}>
+		
+			<div className={style.title}></div>
+		
+			<div className={style.subtitle}></div>
+		
+			<br/>
+		
+			<div className={style.author}></div>
+		
+		</div>
+		
+		</div>
+	)
+}
+```
+```typeScript
+import BookItemSkeleton from "./book-item-skeleton";
+
+export default function BookListSkeleton({count}:{count:number}){
 	
-	<div className={style.cover_img}></div>
-	
-	<div className={style.info_container}>
-	
-	<div className={style.title}></div>
-	
-	<div className={style.subtitle}></div>
-	
-	<br/>
-	
-	<div className={style.author}></div>
-	
-	</div>
-	
-	</div>
-	
-	)*
+	return new Array(count).fill(0).map((_,idx)=><BookItemSkeleton key={`book-item-skeleton${idx}`}/>);
 
 }
 ```
+
