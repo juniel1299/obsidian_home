@@ -357,3 +357,33 @@ export default function Page({
 
 변화하는 값을 key , 딜레이 시간동안 보여 줄 화면 fallback 을 통해 적용 .
 
+### 스켈레톤 UI 
+```typeScript
+import style from "./book-item-skeleton.module.css";
+
+export default function BookItemSkeleton(){
+
+	return(
+	*
+	<div className={style.container}>
+	
+	<div className={style.cover_img}></div>
+	
+	<div className={style.info_container}>
+	
+	<div className={style.title}></div>
+	
+	<div className={style.subtitle}></div>
+	
+	<br/>
+	
+	<div className={style.author}></div>
+	
+	</div>
+	
+	</div>
+	
+	)*
+
+}
+```
