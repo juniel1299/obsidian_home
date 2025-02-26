@@ -700,17 +700,17 @@ return(
 
 export default async function Page({ params, }: { params: { id: string } }) {
 
-return(
-
-<div className={style.container}>
-
-<BookDetail bookId={params.id}/>
-
-<ReviewEditor/>
-
-</div>
-
-)
+	return(
+	
+		<div className={style.container}>
+		
+			<BookDetail bookId={params.id}/>
+			
+			<ReviewEditor/>
+		
+		</div>
+	
+	)
 
   
 
