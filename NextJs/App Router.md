@@ -355,3 +355,5 @@ export default function Page({
 }
 ```
 
+변화하는 값을 key , 딜레이 시간동안 보여 줄 화면 fallback 을 통해 적용 .
+
