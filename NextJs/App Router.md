@@ -204,6 +204,11 @@ Dynamic Page : 특정 페이지가 접속 요청을 받을 때 마다 매번 변
 
 Dynamic Page로 설정되는 케이스 
 1. 캐시되지 않는 Data Fetching을 사용 할 경우
+```typeScript
+async function Hello(){
+	const response = await fetch("...") //
+}
+```
 
 
 
