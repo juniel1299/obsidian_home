@@ -242,3 +242,9 @@ export default async function Page({ params, }: { params: { id: string | string[
 이렇게 작성하게 되면 id값이 1,2,3 인 경우엔 Static Page로 동작 ,
 1,2,3이 아닌 경우엔 Dynamic Page로 동작
 
+```typeScript
+export const dynamicParams = false;
+```
+
+해당 코드를 작성하면 1,2,3 이외의 값은 다 404에러 발생함. (dynamic page를 사용하지 않기에)
+
