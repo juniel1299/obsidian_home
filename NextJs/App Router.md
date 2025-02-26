@@ -258,3 +258,5 @@ export const dynamic = 'auto'
 4. error : 페이지를 강제로 static 페이지 설정 (동적 페이지 렌더링 시 에러 발생 )
 
 레이아웃은 static 기능은 dynamic 이렇게 쪼갤 수 있음 . -> 기능만 불러오면 되니까 속도가 빨라짐. 
+
+## Streaming (스트리밍)
