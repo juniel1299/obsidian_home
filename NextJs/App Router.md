@@ -238,4 +238,4 @@ export function generateStaticParams(){
 export default async function Page({ params, }: { params: { id: string | string[] } }) {
 ```
 
-전역변수를 선언하듯이 최상단에 작성 (문)
+전역변수를 선언하듯이 최상단에 작성 (문자열로만 명시해야함.)
