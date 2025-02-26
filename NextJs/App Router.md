@@ -216,4 +216,5 @@ import {cookies} from "next/headers"; // header , Params 등등
 
 ```
 
-
+만약 fetch 캐시가 revalidate 3 같은 3초 뒤 캐싱 조건이 걸려있을 경우 
+풀 라우트 캐
