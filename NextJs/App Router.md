@@ -275,3 +275,84 @@ ex) 동영상 100초 짜리를 한번에 다 받으면 오래 걸리니까 우�
 - 원하는 화면에 대한 파일위치에 loading.tsx 작성하면 스트리밍시 보여줄 로딩화면 적용 할 수 있음.
 (또는 서스펜스를 사용해도 가능.)
 
+```typeScript
+import books from "@/mock/books.json";
+
+import BookItem from "@/components/book-item";
+
+import { BookData } from "@/types";
+
+import { delay } from "@/util/delay";
+
+import { Suspense } from "react";
+
+  
+
+async function SearchResult({q}: {q :string}){
+
+	await delay(1500);
+	
+	const response = await fetch(
+	
+	`${process.env.NEXT_PUBLIC_API_SERVER_URL}/book/search?q=${q}`,
+	
+	{cache:"force-cache"});
+	
+	  
+	
+	if(!response.ok){
+	
+		return <div>에러 발생</div>
+	
+	}
+
+  
+
+const books:BookData[] = await response.json();
+
+  
+
+	return (
+	
+		<div>
+		
+			{books.map((book) => (
+			
+			<BookItem key={book.id} {...book} />
+			
+			))}
+		
+		</div>
+	
+	);
+
+}
+
+  
+
+export default function Page({
+
+searchParams,
+
+}: {
+
+searchParams: {
+
+q?: string;
+
+};
+
+}) {
+
+return (
+
+<Suspense key={searchParams.q || ""} fallback={<div>로딩중</div>}>
+
+<SearchResult q={searchParams.q || ""}/>
+
+</Suspense>
+
+)
+
+}
+```
