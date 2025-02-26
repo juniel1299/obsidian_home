@@ -219,5 +219,9 @@ import {cookies} from "next/headers"; // header , Params 등등
 만약 fetch 캐시가 revalidate 3 같은 3초 뒤 캐싱 조건이 걸려있을 경우 
 풀 라우트 캐시로 화면 저장 -> 3초가 지나면 캐싱이 발생하기 때문에 풀 라우트 캐시 했던 화면의 데이터가 변화 발생 -> 데이터 캐시에서 데이터 캐시만 가져옴.
 
-
-- 데이터 캐시만 따로 저장하는 
+### Dynamic Page에서 풀 라우트 캐시
+- 데이터 캐시만 따로 저장하는 방법도 존재
+```typeScript
+const response = await fetch(`${process.env.NEXT_PUBLIC_API_SERVER_URL}/book/search?q=${searchParams.q}`,{cache:"force-cache"});
+```
+검색어
