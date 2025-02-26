@@ -647,16 +647,16 @@ return (
 	<div className={style.subTitle}>{subTitle}</div>
 	
 	<div className={style.author}>
+	
+		{author} | {publisher}
 
-{author} | {publisher}
+	</div>
 
-</div>
+	<div className={style.description}>{description}</div>
 
-<div className={style.description}>{description}</div>
+	</section>
 
-</section>
-
-);
+	);
 
 }
 
@@ -668,29 +668,29 @@ function ReviewEditor(){
 
 async function createReviewAction(formData : FormData){
 
-'use server'
+	'use server'
 
-const content = formData.get("content");
-
-const author = formData.get("author");
+	const content = formData.get("content");
+	
+	const author = formData.get("author");
 
 }
 
 return(
 
-<section>
-
-<form>
-
-<input name="content" placeholder="리뷰 내용" />
-
-<input name="author" placeholder="작성자" />
-
-<button type="submit">작성하기</button>
-
-</form>
-
-</section>
+	<section>
+	
+		<form>
+		
+			<input name="content" placeholder="리뷰 내용" />
+			
+			<input name="author" placeholder="작성자" />
+			
+			<button type="submit">작성하기</button>
+		
+		</form>
+	
+	</section>
 
 )
 
