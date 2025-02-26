@@ -577,3 +577,5 @@ export default function Error({error,reset}:{error:Error; reset:()=>void;}){
 }
 ```
 
+## Server Actions (서버 액션)
+브라우저에서 호출할 수 있는 서버에서 실행되는 비동기 함수
