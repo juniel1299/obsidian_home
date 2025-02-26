@@ -212,8 +212,9 @@ async function Hello(){
 ```
 2. 동적함수(쿠키, 헤더, 쿼리스트링)을 사용하는 컴포넌트가 있을 때 
 ```typeScript
-import {cookies} from "next/headers";
+import {cookies} from "next/headers"; // header , Params 등등 
 
 ```
+
 
 
