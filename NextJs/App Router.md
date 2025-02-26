@@ -206,7 +206,7 @@ Dynamic Page로 설정되는 케이스
 1. 캐시되지 않는 Data Fetching을 사용 할 경우
 ```typeScript
 async function Hello(){
-	const response = await fetch("...") //
+	const response = await fetch("...") //또는 cache
 }
 ```
 
