@@ -188,3 +188,6 @@ const response = await fetch(`~/api`, {cache : "force-cache"});
 
 서버 컴포넌트 개념이 모호해지면서 리퀘스트 메모이제이션이 필요로 해짐. 
 (App Router는 각각의 컴포넌트에서 각자 데이터를 요청하기 때문에)
+
+## Full Route Cache (풀 라우트 캐시)
+Next 서버측에서 빌드 타임에 특정 페이지의 렌더링 결과를 캐싱하는 기능 
