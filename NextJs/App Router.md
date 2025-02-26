@@ -249,6 +249,9 @@ export const dynamicParams = false;
 해당 코드를 작성하면 1,2,3 이외의 값은 다 404에러 발생함. (dynamic page를 사용하지 않기에)
 
 ### 화면 static , dynamic 적용 
+```typeScript
+export const dynamic = 'auto'
+```
 1. auto : 기본값 (강제 적용 x)
 2. force-dynamic : dynamic page 적용
 3. force-static : static page 적용
