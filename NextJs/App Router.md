@@ -255,4 +255,4 @@ export const dynamic = 'auto'
 1. auto : 기본값 (강제 적용 x)
 2. force-dynamic : dynamic page 적용
 3. force-static : static page 적용
-4. error : 
+4. error : 페이지를 강제로 static 페이지 설정 (설정하면 안 되는 이유 -> 빌드 오류남 )
