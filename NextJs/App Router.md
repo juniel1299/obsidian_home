@@ -238,4 +238,7 @@ export function generateStaticParams(){
 export default async function Page({ params, }: { params: { id: string | string[] } }) {
 ```
 
-전역변수를 선언하듯이 최상단에 작성 (문자열로만 명시해야함.)
+전역변수를 선언하듯이 최상단에 작성 (문자열로만 명시해야함.) 
+이렇게 작성하게 되면 id값이 1,2,3 인 경우엔 Static Page로 동작 ,
+1,2,3이 아닌 경우엔 Dynamic Page로 동작
+
