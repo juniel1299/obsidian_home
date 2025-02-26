@@ -250,4 +250,6 @@ export const dynamicParams = false;
 
 ### 화면 static , dynamic 적용 
 1. auto : 기본값 (강제 적용 x)
-2. force-
+2. force-dynamic : dynamic page 적용
+3. force-static : static page 적용
+4. error : 
