@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Dynamic Segments (동적 경로).md",
+                "file": "TypeScript/TypeScript and React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dynamic Segments (동적 경로)"
+              "title": "TypeScript and React"
             }
           }
         ]
@@ -148,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Dynamic Segments (동적 경로).md",
+                "file": "TypeScript/TypeScript and React.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Dynamic Segments (동적 경로) 의 개요"
+              "title": "TypeScript and React 의 개요"
             }
           },
           {
@@ -209,6 +209,18 @@
   },
   "active": "c13fb14e02c7c47e",
   "lastOpenFiles": [
+    "TypeScript/Utillity Type - if.md",
+    "TypeScript/infer.md",
+    "TypeScript/Interface.md",
+    "TypeScript/type assertion.md",
+    "TypeScript/Utillity Type - mapped.md",
+    "TypeScript/setting.md",
+    "TypeScript/Class.md",
+    "React/React.md",
+    "NextJs/Pre-rendering.md",
+    "NextJs/images/images.md",
+    "NextJs/NextJs.md",
+    "React/Dynamic Segments (동적 경로).md",
     "TypeScript/TypeScript.md",
     "React/useMemo.md",
     "React/라이프 사이클클.md",
@@ -219,23 +231,11 @@
     "React/React Router.md",
     "React/Page Routing.md",
     "React/Context.md",
-    "React/Dynamic Segments (동적 경로).md",
     "NextJs/App Router.md",
-    "NextJs/images/images.md",
-    "NextJs/NextJs.md",
     "NextJs/images/스크린샷 2025-02-26 오전 9.58.34.png",
     "0419.md",
     "TypeScript/Type Inference.md",
     "TypeScript/Type Manipulation.md",
-    "TypeScript/Type Narrowing.md",
-    "TypeScript/Type.md",
-    "TypeScript/TypeScript and React.md",
-    "TypeScript/Type Ranked.md",
-    "TypeScript/User-Defined Type Guards.md",
-    "TypeScript/Utillity Type - if.md",
-    "TypeScript/Utillity Type - mapped.md",
-    "TypeScript/setting.md",
-    "TypeScript/type assertion.md",
     "NextJs/images/스크린샷 2025-02-19 오후 1.36.26.png",
     "첨부파일 폴더/Pasted image 20250219134457.png",
     "NextJs/images",
