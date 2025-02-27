@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/useMemo.md",
+                "file": "React/Dynamic Segments (동적 경로).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "useMemo"
+              "title": "Dynamic Segments (동적 경로)"
             }
           }
         ]
@@ -148,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/useMemo.md",
+                "file": "React/Dynamic Segments (동적 경로).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "useMemo 의 개요"
+              "title": "Dynamic Segments (동적 경로) 의 개요"
             }
           },
           {
@@ -209,6 +209,8 @@
   },
   "active": "c13fb14e02c7c47e",
   "lastOpenFiles": [
+    "TypeScript/TypeScript.md",
+    "React/useMemo.md",
     "React/라이프 사이클클.md",
     "React/최적화.md",
     "React/이미지 호출 최적화.md",
@@ -234,8 +236,6 @@
     "TypeScript/Utillity Type - mapped.md",
     "TypeScript/setting.md",
     "TypeScript/type assertion.md",
-    "TypeScript/infer.md",
-    "TypeScript/Interface.md",
     "NextJs/images/스크린샷 2025-02-19 오후 1.36.26.png",
     "첨부파일 폴더/Pasted image 20250219134457.png",
     "NextJs/images",
