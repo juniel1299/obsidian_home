@@ -803,4 +803,4 @@ export default function Layout({
 
 ## Intercepting Route (인터셉팅 라우트)
 
-
+- 특정 이미지를 누르
