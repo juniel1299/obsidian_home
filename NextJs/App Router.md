@@ -753,8 +753,5 @@ const response = await fetch(`${process.env.NEXT_PUBLIC_API_SERVER_URL}/review/b
 revalidatePath(`review-${bookId}`);
 
 ```
-
-### 클라이언트 컴포넌트에서 서버액션
-
-
+## Parallel Route (페럴랠 라우트) (병렬)
 

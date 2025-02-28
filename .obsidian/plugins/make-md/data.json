@@ -39,7 +39,8 @@
     "obsidian",
     null,
     "/",
-    "//Semiconductor"
+    "//Semiconductor",
+    "//NextJs"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Spaces",

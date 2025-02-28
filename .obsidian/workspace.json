@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semiconductor/SemiConductor Begin.md",
+                "file": "NextJs/App Router.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SemiConductor Begin"
+              "title": "App Router"
             }
           }
         ]
@@ -148,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semiconductor/SemiConductor Begin.md",
+                "file": "NextJs/App Router.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "SemiConductor Begin 의 개요"
+              "title": "App Router 의 개요"
             }
           },
           {
@@ -207,15 +207,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24f84c4be527b7ef",
+  "active": "c13fb14e02c7c47e",
   "lastOpenFiles": [
+    "NextJs/NextJs.md",
     "Semiconductor/SemiConductor Begin.md",
     "Semiconductor/Semiconductor.md",
     "NextJs/App Router.md",
     "Semiconductor",
     "무제.md",
     "NextJs/Page Router.md",
-    "NextJs/NextJs.md",
     "TypeScript/TypeScript.md",
     "React/React.md",
     "React/ETC.md",
