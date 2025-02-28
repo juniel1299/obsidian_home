@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Page Routing.md",
+                "file": "React/ETC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Page Routing"
+              "title": "ETC"
             }
           }
         ]
@@ -148,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Page Routing.md",
+                "file": "React/ETC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Page Routing 의 개요"
+              "title": "ETC 의 개요"
             }
           },
           {
@@ -209,6 +209,9 @@
   },
   "active": "c13fb14e02c7c47e",
   "lastOpenFiles": [
+    "React/Context.md",
+    "React/Dynamic Segments (동적 경로).md",
+    "React/Page Routing.md",
     "React/React Router.md",
     "TypeScript/TypeScript and React.md",
     "TypeScript/Utillity Type - if.md",
@@ -222,7 +225,6 @@
     "NextJs/Pre-rendering.md",
     "NextJs/images/images.md",
     "NextJs/NextJs.md",
-    "React/Dynamic Segments (동적 경로).md",
     "TypeScript/TypeScript.md",
     "React/useMemo.md",
     "React/라이프 사이클클.md",
@@ -230,8 +232,6 @@
     "React/이미지 호출 최적화.md",
     "React/Web Storage.md",
     "React/ETC.md",
-    "React/Page Routing.md",
-    "React/Context.md",
     "NextJs/App Router.md",
     "NextJs/images/스크린샷 2025-02-26 오전 9.58.34.png",
     "0419.md",
