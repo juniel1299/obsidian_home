@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NextJs/App Router.md",
+                "file": "Semiconductor/SemiConductor Begin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "App Router"
+              "title": "SemiConductor Begin"
             }
           }
         ]
@@ -148,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NextJs/App Router.md",
+                "file": "Semiconductor/SemiConductor Begin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "App Router 의 개요"
+              "title": "SemiConductor Begin 의 개요"
             }
           },
           {
@@ -209,8 +209,11 @@
   },
   "active": "24f84c4be527b7ef",
   "lastOpenFiles": [
-    "무제.md",
+    "Semiconductor/SemiConductor Begin.md",
+    "Semiconductor/Semiconductor.md",
     "NextJs/App Router.md",
+    "Semiconductor",
+    "무제.md",
     "NextJs/Page Router.md",
     "NextJs/NextJs.md",
     "TypeScript/TypeScript.md",
@@ -233,8 +236,6 @@
     "React/useMemo.md",
     "React/라이프 사이클클.md",
     "React/최적화.md",
-    "React/이미지 호출 최적화.md",
-    "React/Web Storage.md",
     "NextJs/images/스크린샷 2025-02-26 오전 9.58.34.png",
     "NextJs/images/스크린샷 2025-02-19 오후 1.36.26.png",
     "첨부파일 폴더/Pasted image 20250219134457.png",
@@ -257,7 +258,6 @@
     "React",
     "Spaces/Home",
     "Spaces",
-    "토비의 스프링 부트 - 이해와 원리",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]
