@@ -68,4 +68,6 @@ Prober : 디램이 살아있는지 확인하기 위해 침으로 찌르는 작�
 
 ## 후공정
 
-다이 어태칭(Die Attach) ->   본딩 (Wire Bonding) -> 몰딩 (Molding) -> 트림 & 폼 (tri) 
+다이 어태칭(Die Attach) ->   본딩 (Wire Bonding) -> 몰딩 (Molding) -> 트림 & 폼 (trim , form) -> 패키징 테스트 -> 출하 
+
+
