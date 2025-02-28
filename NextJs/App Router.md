@@ -792,18 +792,11 @@ export default function Layout({
 			<Link href={"/parallel/setting"}>parallel/setting</Link>
 		
 		</div>
-		
-		<br />
-		
-		{sidebar}
-		
-		{feed}
-		
-		{children}
-		
+			<br />
+			{sidebar}
+			{feed}
+			{children}
 		</div>
-	
 	);
-
 }
 ```
