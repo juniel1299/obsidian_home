@@ -784,12 +784,12 @@ export default function Layout({
 		<div>
 		
 		<div>
-		
-		<Link href={"/parallel"}>parallel</Link>
-		
-		&nbsp;
-		
-		<Link href={"/parallel/setting"}>parallel/setting</Link>
+			
+			<Link href={"/parallel"}>parallel</Link>
+			
+			&nbsp;
+			
+			<Link href={"/parallel/setting"}>parallel/setting</Link>
 		
 		</div>
 		
