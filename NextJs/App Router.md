@@ -703,3 +703,24 @@ export default async function Page({ params, }: { params: { id: string } }) {
 }
 ```
 ### 재검증 
+```typeScript
+try{
+
+	const response = await fetch(`${process.env.NEXT_PUBLIC_API_SERVER_URL}/review`,{
+	
+		method:"POST",
+		
+		body : JSON.stringify({bookId, content, author})
+	
+	}
+
+);
+
+console.log(response.status);
+
+revalidatePath(`/book/${bookId}`);
+
+}
+```
+
+revalidatePath 메서드를 통해 재검증 (서버측에서 재생성) -> 
