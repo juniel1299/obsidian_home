@@ -754,3 +754,7 @@ revalidatePath(`review-${bookId}`);
 
 ```
 
+### 클라이언트 컴포넌트에서 서버액션
+
+
+
