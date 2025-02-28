@@ -753,5 +753,10 @@ const response = await fetch(`${process.env.NEXT_PUBLIC_API_SERVER_URL}/review/b
 revalidatePath(`review-${bookId}`);
 
 ```
-## Parallel Route (페럴랠 라우트) (병렬)
+## Parallel Route (페럴랠 라우트) (병렬 라우트)
+- 하나의 화면에 여러가지 페이지를 띄움 (사이드바 , 피드 헤더 등등) (page.tsx 파일)
+
+
+
+
 
