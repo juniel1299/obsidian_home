@@ -39,9 +39,7 @@
     "obsidian",
     null,
     "/",
-    "//NextJs/NextJs/images",
-    "//React",
-    "//TypeScript"
+    "//NextJs"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Spaces",
