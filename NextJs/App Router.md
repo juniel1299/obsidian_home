@@ -723,4 +723,5 @@ revalidatePath(`/book/${bookId}`);
 }
 ```
 
-revalidatePath 메서드를 통해 재검증 (서버측에서 재생성) -> 
+revalidatePath 메서드를 통해 재검증 (서버측에서 재생성) -> 자식 컴포넌트도 동시에 리렌더링됨 . 
+(Next 서버에 다시 )
