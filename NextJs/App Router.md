@@ -730,4 +730,19 @@ revalidatePath 메서드를 통해 재검증 (서버측에서 재생성) -> 자�
 1. 서버측에서만 호출 할 수 있는 메서드이므로 클라이언트 단에선 쓸 수 없음..
 2. 경로에 포함된 내용을 모든 것들을 재검증(리렌더링) -> 모든 캐시를 무효화해버림...(풀 라우트 캐시 포함)
 
+```typeScript
+//1. 특정 주소키 해당하는 페이지만 재검증 (키 값)
+revalidatePath(`/book/${bookId}`);
+//2. 특정 경로의 모든 동적 페이지 재검증 (경로)
+
+revalidatePath("/book/[id]","page");
+
+//3. 특정 레이아웃을 가지는 모든 페이지 재검증
+
+revalidatePath('/(with-search-bar)','layout');
+
+//4. 모든 페이지 재검증
+
+revalidatePath("/",'layout');
+```
 
