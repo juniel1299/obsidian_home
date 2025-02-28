@@ -207,8 +207,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c13fb14e02c7c47e",
+  "active": "24f84c4be527b7ef",
   "lastOpenFiles": [
+    "무제.md",
+    "NextJs/App Router.md",
     "NextJs/Page Router.md",
     "NextJs/NextJs.md",
     "TypeScript/TypeScript.md",
@@ -233,9 +235,7 @@
     "React/최적화.md",
     "React/이미지 호출 최적화.md",
     "React/Web Storage.md",
-    "NextJs/App Router.md",
     "NextJs/images/스크린샷 2025-02-26 오전 9.58.34.png",
-    "0419.md",
     "NextJs/images/스크린샷 2025-02-19 오후 1.36.26.png",
     "첨부파일 폴더/Pasted image 20250219134457.png",
     "NextJs/images",
