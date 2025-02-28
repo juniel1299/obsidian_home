@@ -760,4 +760,50 @@ revalidatePath(`review-${bookId}`);
 
 ![[Pasted image 20250228161423.png]]
 
-이렇게 파일 구조를 
+이렇게 파일 구조를 둠 
+
+```typeScript
+import Link from "next/link";
+
+import { ReactNode } from "react";
+
+  
+
+export default function Layout({
+	children,
+	sidebar,
+	feed,
+	}: {
+		children: ReactNode;
+		sidebar: ReactNode;
+		feed: ReactNode;
+	}) {
+	
+	return (
+	
+		<div>
+		
+		<div>
+		
+		<Link href={"/parallel"}>parallel</Link>
+		
+		&nbsp;
+		
+		<Link href={"/parallel/setting"}>parallel/setting</Link>
+		
+		</div>
+		
+		<br />
+		
+		{sidebar}
+		
+		{feed}
+		
+		{children}
+		
+		</div>
+	
+	);
+
+}
+```
