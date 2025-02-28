@@ -677,26 +677,15 @@ async function createReviewAction(formData : FormData){
 }
 
 return(
-
 	<section>
-	
 		<form>
-		
 			<input name="content" placeholder="리뷰 내용" />
-			
 			<input name="author" placeholder="작성자" />
-			
 			<button type="submit">작성하기</button>
-		
 		</form>
-	
 	</section>
-
 )
-
 }
-
-  
 
 export default async function Page({ params, }: { params: { id: string } }) {
 
@@ -711,8 +700,5 @@ export default async function Page({ params, }: { params: { id: string } }) {
 		</div>
 	
 	)
-
-  
-
 }
 ```
