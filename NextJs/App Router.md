@@ -741,5 +741,9 @@ revalidatePath('/(with-search-bar)','layout');
 revalidatePath("/",'layout');
 //5. 태그 기준, 데이터 캐시 재검증
 revalidatePath('tag');
+
+
+//5번 예시 
+
 ```
 
