@@ -64,9 +64,6 @@ BOM Query : 계층적 데이터 구조를 재귀적으로 탐색하여 부품 �
 
 Prober : 디램이 살아있는지 확인하기 위해 침으로 찌르는 작업
 
----
-
-## 후공정
 
 다이 어태칭(Die Attach) ->   본딩 (Wire Bonding) -> 몰딩 (Molding) -> 트림 & 폼 (trim , form) -> 패키징 테스트 -> 출하 
 
