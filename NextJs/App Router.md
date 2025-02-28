@@ -744,6 +744,13 @@ revalidatePath('tag');
 
 
 //5번 예시 
+const response = await fetch(`${process.env.NEXT_PUBLIC_API_SERVER_URL}/review/book/${bookId}`
+
+, {next:{tags: [`review-${bookId}`]}});
+
+
+
+revalidatePath(`review-${bookId}`);
 
 ```
 
