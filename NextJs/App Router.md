@@ -758,5 +758,6 @@ revalidatePath(`review-${bookId}`);
 - 폴더를 생성 할 때 \@폴더명 해야함.
 
 
+![[Pasted image 20250228161423.png]]
 
-
+이렇게 파일 구조를 
