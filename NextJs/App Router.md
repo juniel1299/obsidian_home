@@ -804,5 +804,6 @@ export default function Layout({
 ## Intercepting Route (인터셉팅 라우트)
 
 - 화면을 불러올 때 모달창 형식으로 기존 화면 위에 올라오는 형태 (인스타그램)
-
+- 폴더명을 (.)**가로채고 싶은 화면의 기존 폴더명** 
+- ex) 
 
