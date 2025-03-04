@@ -812,3 +812,4 @@ export default function Layout({
 
 
 
+## 이미지 최적화
