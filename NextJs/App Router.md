@@ -849,7 +849,7 @@ export default nextConfig;
 
 - Metadata 라는 값을 명시해준 후 설정하면 됨 . 
 
-정적인 ㄷ
+정적인 값을 적용 할 경우 
 ```typeScript
 export const metadata : Metadata = {
 	title:'한입 북스',
@@ -862,4 +862,5 @@ export const metadata : Metadata = {
 }
 ```
 html meta 태그를 쓴 것 처럼 자동으로 적용이 됨 . 
+
 
