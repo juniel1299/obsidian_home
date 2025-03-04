@@ -818,4 +818,12 @@ export default function Layout({
 - 현재 보는 페이지의 크기가 아닌 페이지 전체의 이미지를 불러오는 문제 , 이미지 사이즈가 실제 필요한 크기에 비해 더 큰 크기를 불러오는 문제 , 최적화되지 않은 확장자명 (jpeg) 로 불러오는 문제 등등을 해결 할 수 있음.
 
 
-
+```typeScript
+<Image 
+	src={coverImgUrl} 
+	width={80} 
+	height={105} 
+	alt={`도서 ${title}의 표지 이미지`}
+/>
+```
+이런식으로 
