@@ -847,3 +847,4 @@ export default nextConfig;
 ## 검색 엔진 최적화 (SEO)
 - 메타 데이터 설정이 필요 (페이지별로 동적으로 동작하도록..)
 
+- Metadata 라는 값을 명시해주면 자
