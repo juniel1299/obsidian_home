@@ -826,4 +826,7 @@ export default function Layout({
 	alt={`도서 ${title}의 표지 이미지`}
 />
 ```
-이런식으로 
+이런식으로 사용함 (기본 단위 px)
+
+Image 라는 컴포넌트를 사용 할 땐 next.config.ts 에 설정을 추가하지 않으면 에러 발생(보안 이슈)
+
