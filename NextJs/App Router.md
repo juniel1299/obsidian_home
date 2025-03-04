@@ -849,6 +849,7 @@ export default nextConfig;
 
 - Metadata 라는 값을 명시해준 후 설정하면 됨 . 
 
+정적인 ㄷ
 ```typeScript
 export const metadata : Metadata = {
 	title:'한입 북스',
