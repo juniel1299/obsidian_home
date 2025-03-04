@@ -847,4 +847,16 @@ export default nextConfig;
 ## 검색 엔진 최적화 (SEO)
 - 메타 데이터 설정이 필요 (페이지별로 동적으로 동작하도록..)
 
-- Metadata 라는 값을 명시해주면 자
+- Metadata 라는 값을 명시해준 후 설정하면 됨 . 
+
+```typeScript
+export const metadata : Metadata = {
+	title:'한입 북스',
+	description : '한입 북스를 만나보세요',
+	openGraph: {
+		title: '한입 북스',
+		description: '한입 북스를 만나보세요',
+		images : ['/thumbnail.png'],
+	}
+}
+```
