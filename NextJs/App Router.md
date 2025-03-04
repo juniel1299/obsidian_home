@@ -830,3 +830,17 @@ export default function Layout({
 
 Image 라는 컴포넌트를 사용 할 땐 next.config.ts 에 설정을 추가하지 않으면 에러 발생(보안 이슈)
 
+```typeScript
+import type { NextConfig } from "next";
+const nextConfig: NextConfig = {
+/* config options here */
+	images: {
+		domains: ['shopping-phinf.pstatic.net'],
+	}
+
+};
+export default nextConfig;
+```
+
+개발자 모드 에러창에 뜨는 도메인을 작성해주면 됨 .
+
