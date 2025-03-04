@@ -844,3 +844,4 @@ export default nextConfig;
 
 개발자 모드 에러창에 뜨는 도메인을 작성해주면 됨 .
 
+## 검색 엔진 최적화 (SEO)
