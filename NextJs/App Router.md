@@ -860,3 +860,5 @@ export const metadata : Metadata = {
 	}
 }
 ```
+html meta 태그를 쓴 것 처럼 자동으로 적용이 됨 . 
+
