@@ -42,7 +42,8 @@
     "//Semiconductor",
     "//React",
     "//NextJs",
-    "//Python"
+    "//Spaces",
+    "//Spaces/Spaces/Home"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Spaces",
