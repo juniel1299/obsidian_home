@@ -121,21 +121,21 @@ export default function App({ Component, pageProps }: AppProps) {
 	
 		<header>
 		
-		<Link href={'/'}>인덱스</Link>
-		
-		&nbsp;
-		
-		<Link href={'/search'}>search</Link>
-		
-		&nbsp;
-		
-		<Link href={'/book/1'}>book/1</Link>
-		
-		<div>
-		
-			<button onClick={onClickButton}>/test 페이지로 이동</button>
-		
-		</div>
+			<Link href={'/'}>인덱스</Link>
+			
+			&nbsp;
+			
+			<Link href={'/search'}>search</Link>
+			
+			&nbsp;
+			
+			<Link href={'/book/1'}>book/1</Link>
+			
+			<div>
+			
+				<button onClick={onClickButton}>/test 페이지로 이동</button>
+			
+			</div>
 		
 		</header>
 		
