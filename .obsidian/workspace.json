@@ -11,14 +11,12 @@
             "id": "c13fb14e02c7c47e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "NextJs/App Router.md",
-                "mode": "source",
-                "source": false
+                "path": "Ollama"
               },
               "icon": "lucide-file",
-              "title": "App Router"
+              "title": "Ollama"
             }
           }
         ]
@@ -148,13 +146,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NextJs/App Router.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "App Router 의 개요"
+              "title": "개요"
             }
           },
           {
@@ -209,12 +206,14 @@
   },
   "active": "c13fb14e02c7c47e",
   "lastOpenFiles": [
+    "Ollama/Ollama.md",
+    "Ollama/0. Setting.md",
+    "NextJs/App Router.md",
     "첨부파일 폴더/Pasted image 20250228161423.png",
     "NextJs/images/스크린샷 2025-02-28 오후 4.13.51.png",
     "NextJs/NextJs.md",
     "Semiconductor/SemiConductor Begin.md",
     "Semiconductor/Semiconductor.md",
-    "NextJs/App Router.md",
     "Semiconductor",
     "무제.md",
     "NextJs/Page Router.md",
@@ -236,7 +235,6 @@
     "NextJs/Pre-rendering.md",
     "NextJs/images/images.md",
     "React/useMemo.md",
-    "React/라이프 사이클클.md",
     "NextJs/images/스크린샷 2025-02-26 오전 9.58.34.png",
     "NextJs/images/스크린샷 2025-02-19 오후 1.36.26.png",
     "첨부파일 폴더/Pasted image 20250219134457.png",
@@ -252,7 +250,6 @@
     "React/imageFolder/스크린샷 2025-02-06 오후 1.05.51.png",
     "React/imageFolder/스크린샷 2025-02-06 오후 1.04.18.png",
     "React/imageFolder/스크린샷 2025-02-06 오후 1.01.33.png",
-    "React/imageFolder/스크린샷 2025-02-05 오전 10.28.45.png",
     "React/imageFolder",
     "무제.canvas",
     "React",
