@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Dynamic Segments (동적 경로).md",
+                "file": "TypeScript/TypeScript and React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dynamic Segments (동적 경로)"
+              "title": "TypeScript and React"
             }
           }
         ]
@@ -148,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Dynamic Segments (동적 경로).md",
+                "file": "TypeScript/TypeScript and React.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Dynamic Segments (동적 경로) 의 개요"
+              "title": "TypeScript and React 의 개요"
             }
           },
           {
@@ -209,32 +209,33 @@
   },
   "active": "c13fb14e02c7c47e",
   "lastOpenFiles": [
+    "TypeScript/User-Defined Type Guards.md",
+    "TypeScript/Type.md",
+    "TypeScript/Generics.md",
+    "TypeScript/Interface.md",
+    "TypeScript/Function Type Expressions.md",
+    "TypeScript/Distributive Conditional Types.md",
+    "TypeScript/Conditional Types.md",
+    "TypeScript/Function OverLoading.md",
+    "TypeScript/1) TypeScript .md",
+    "TypeScript/Discriminated Union Type.md",
+    "TypeScript/Class.md",
+    "React/Dynamic Segments (동적 경로).md",
+    "React/React.md",
+    "React/Context.md",
+    "React/ETC.md",
+    "React/Page Routing.md",
+    "React/Web Storage.md",
+    "React/React Router.md",
+    "React/Props.canvas",
+    "React/useMemo.md",
+    "React/라이프 사이클클.md",
+    "React/이미지 호출 최적화.md",
+    "React/최적화.md",
     "NextJs/Page Router.md",
     "NextJs/SupaBase.md",
     "NextJs/Pre-rendering.md",
     "NextJs/prologue.md",
-    "NextJs/App Router.md",
-    "TypeScript/TypeScript.md",
-    "TypeScript/Generics.md",
-    "TypeScript/Type Narrowing.md",
-    "TypeScript/Type Inference.md",
-    "TypeScript/Type Manipulation.md",
-    "TypeScript/Type.md",
-    "TypeScript/User-Defined Type Guards.md",
-    "TypeScript/TypeScript and React.md",
-    "TypeScript/Type Ranked.md",
-    "TypeScript/setting.md",
-    "TypeScript/Utillity Type - mapped.md",
-    "TypeScript/infer.md",
-    "TypeScript/type assertion.md",
-    "TypeScript/Utillity Type - if.md",
-    "TypeScript/Class.md",
-    "TypeScript/Discriminated Union Type.md",
-    "TypeScript/1) TypeScript .md",
-    "TypeScript/Function OverLoading.md",
-    "TypeScript/Distributive Conditional Types.md",
-    "TypeScript/Conditional Types.md",
-    "TypeScript/Function Type Expressions.md",
     "첨부파일 폴더/Pasted image 20250228161423.png",
     "NextJs/images/스크린샷 2025-02-28 오후 4.13.51.png",
     "Semiconductor",
@@ -245,7 +246,6 @@
     "첨부파일 폴더/Pasted image 20250219133632.png",
     "React/LifeCycle.canvas",
     "NextJs",
-    "React/Props.canvas",
     "Ollama",
     "Python",
     "TypeScript",
