@@ -43,7 +43,8 @@
     "//React",
     "//NextJs",
     "//Spaces",
-    "//Spaces/Spaces/Home"
+    "//Spaces/Spaces/Home",
+    "//TypeScript"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Spaces",
