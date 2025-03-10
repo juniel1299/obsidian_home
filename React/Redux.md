@@ -171,3 +171,6 @@ export default Counter;
 Recoil , Zustand 에 비해 설정해야 하는 부분이 상대적으로 많다는 단점이 존재 ...
 소규모에서 유리한 Zustand에 비해
 대규모 프로젝트 일 수록 Redux가 유리  
+
+(Zustand의 경우 설정없이 간단하게 상태 관리를 진행 -> 상태가 복잡해질수록 유지보수 어렵고 에러 발생 잦아짐)
+
