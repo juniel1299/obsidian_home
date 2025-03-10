@@ -29,3 +29,7 @@ function App() {
 ### Store
 Redux 중앙 저장소 (이 곳에서 관리를 하게 됨 .)
 
+### Action
+ 사용하는 명령어 (동작)
+
+### Reducer 
