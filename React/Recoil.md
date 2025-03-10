@@ -67,5 +67,32 @@ export default Counter;
 읽기만 할 경우 useRecoilValue , 수정만 할 땐 useSetRecoilState 사용 . 
 
 
-### 상태 ㅅ
+### 상태 수정 
+selector 이용하면 기존 상태를 가공할 수 있음 ..  
+
+```typeScript
+import { selector } from "recoil";
+import { counterState } from "./counterState";
+
+// ✅ 현재 숫자가 짝수인지 여부를 판별하는 selector
+export const isEvenState = selector({
+  key: "isEvenState",
+  get: ({ get }) => {
+    const count = get(counterState);
+    return count % 2 === 0 ? "짝수" : "홀수";
+  },
+});
+
+
+import { useRecoilValue } from "recoil";
+import { isEvenState } from "../recoil/counterSelector";
+
+const EvenCheck = () => {
+  const isEven = useRecoilValue(isEvenState); // selector 값 가져오기
+
+  return <p>✅ 현재 숫자는 {isEven} 입니다.</p>;
+};
+
+export default EvenCheck;
+```
 
