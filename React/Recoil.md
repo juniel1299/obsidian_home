@@ -40,7 +40,7 @@ export const counterState = atom({
 });
 ```
 
-### 상태 읽기 + 수정
+### 값 읽기 + 값 수정 
 useState의 개념과 매우 비슷..  
 
 Recoil에선 useRecoilState 를 사용함.. (읽기 + 수정)
@@ -67,5 +67,5 @@ export default Counter;
 읽기만 할 경우 useRecoilValue , 수정만 할 땐 useSetRecoilState 사용 . 
 
 
-### 
+### 상태 ㅅ
 
