@@ -74,3 +74,23 @@ export const { increment, decrement } = counterSlice.actions;
 export default store;
 ```
 
+## 설치 
+
+```npm
+npm install @reduxjs/toolkit react-redux 
+```
+
+Store.ts 에서 Store 생성 
+```typeScript
+import { configureStore } from "@reduxjs/toolkit";
+import counterReducer from "./counterSlice"; // 🔥 리듀서 추가
+
+export const store = configureStore({
+  reducer: {
+    counter: counterReducer, // ✅ 여러 개의 slice 추가 가능
+  },
+});
+
+export type RootState = ReturnType<typeof store.getState>;
+export type AppDispatch = typeof store.dispatch;
+```
