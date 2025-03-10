@@ -95,4 +95,53 @@ export type RootState = ReturnType<typeof store.getState>;
 export type AppDispatch = typeof store.dispatch;
 ```
 
-Slice.ts 에서 상태 변경
+Slice.ts 에서 상태 변경에 대한 상태 관리를 진행함 
+
+```typeScript
+import { createSlice, PayloadAction } from "@reduxjs/toolkit";
+
+interface CounterState {
+  count: number;
+}
+
+const initialState: CounterState = {
+  count: 0,
+};
+
+const counterSlice = createSlice({
+  name: "counter",
+  initialState,
+  reducers: {
+    increment: (state) => {
+      state.count += 1;
+    },
+    decrement: (state) => {
+      state.count -= 1;
+    },
+    setCount: (state, action: PayloadAction<number>) => {
+      state.count = action.payload;
+    },
+  },
+});
+
+export const { increment, decrement, setCount } = counterSlice.actions;
+export default counterSlice.reducer;
+```
+
+Provider를 통해 Redux 연결 
+```typeScript
+import { Provider } from "react-redux";
+import { store } from "./redux/store";
+import Counter from "./Counter";
+
+function App() {
+  return (
+    <Provider store={store}>
+      <Counter />
+    </Provider>
+  );
+}
+
+export default App;
+```
+
