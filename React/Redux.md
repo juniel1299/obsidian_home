@@ -145,4 +145,29 @@ function App() {
 export default App;
 ```
 
-Redux 상태를 가져와서 동작 할 경
+Redux 상태를 가져와서 동작 할 경우 useSelector , useDispatch 사용 
+
+```typeScript
+import { useSelector, useDispatch } from "react-redux";
+import { RootState } from "../redux/store";
+import { increment, decrement } from "../redux/counterSlice";
+
+const Counter = () => {
+  const count = useSelector((state: RootState) => state.counter.count);
+  const dispatch = useDispatch();
+
+  return (
+    <div>
+      <h1>카운터: {count}</h1>
+      <button onClick={() => dispatch(increment())}>증가</button>
+      <button onClick={() => dispatch(decrement())}>감소</button>
+    </div>
+  );
+};
+
+export default Counter;
+```
+
+Recoil , Zustand 에 비해 설정해야 하는 부분이 상대적으로 많다는 단점이 존재 ...
+
+하지만 대규모 프로젝트 일 수록 Re
