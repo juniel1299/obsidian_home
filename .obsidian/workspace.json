@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/TypeScript and React.md",
+                "file": "React/Redux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TypeScript and React"
+              "title": "Redux"
             }
           }
         ]
@@ -148,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/TypeScript and React.md",
+                "file": "React/Redux.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "TypeScript and React 의 개요"
+              "title": "Redux 의 개요"
             }
           },
           {
@@ -209,6 +209,8 @@
   },
   "active": "c13fb14e02c7c47e",
   "lastOpenFiles": [
+    "TypeScript/TypeScript and React.md",
+    "React/Redux.md",
     "TypeScript/Type.md",
     "TypeScript/Class.md",
     "TypeScript/1) TypeScript .md",
@@ -226,7 +228,6 @@
     "React/Dynamic Segments (동적 경로).md",
     "React/Context.md",
     "React/Recoil.md",
-    "TypeScript/TypeScript and React.md",
     "TypeScript/User-Defined Type Guards.md",
     "TypeScript/Generics.md",
     "TypeScript/Interface.md",
@@ -234,7 +235,6 @@
     "TypeScript/Distributive Conditional Types.md",
     "TypeScript/Conditional Types.md",
     "TypeScript/Function OverLoading.md",
-    "React/React.md",
     "React/Props.canvas",
     "첨부파일 폴더/Pasted image 20250228161423.png",
     "NextJs/images/스크린샷 2025-02-28 오후 4.13.51.png",
