@@ -80,7 +80,7 @@ export default store;
 npm install @reduxjs/toolkit react-redux 
 ```
 
-Store.ts 에서 Store 생성 
+Store.ts 에서 Store 생성 (Store.ts 를 통해서 데이터 저장이 발생하도록 함 . )
 ```typeScript
 import { configureStore } from "@reduxjs/toolkit";
 import counterReducer from "./counterSlice"; // 🔥 리듀서 추가
@@ -94,3 +94,5 @@ export const store = configureStore({
 export type RootState = ReturnType<typeof store.getState>;
 export type AppDispatch = typeof store.dispatch;
 ```
+
+Slice.ts 에서 상태 변경
