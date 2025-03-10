@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NextJs/App Router.md",
+                "file": "TypeScript/TypeScript and React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "App Router"
+              "title": "TypeScript and React"
             }
           }
         ]
@@ -148,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NextJs/App Router.md",
+                "file": "TypeScript/TypeScript and React.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "App Router 의 개요"
+              "title": "TypeScript and React 의 개요"
             }
           },
           {
@@ -209,6 +209,14 @@
   },
   "active": "c13fb14e02c7c47e",
   "lastOpenFiles": [
+    "TypeScript/Type.md",
+    "TypeScript/Class.md",
+    "TypeScript/1) TypeScript .md",
+    "TypeScript/Discriminated Union Type.md",
+    "NextJs/Pre-rendering.md",
+    "NextJs/prologue.md",
+    "NextJs/SupaBase.md",
+    "NextJs/App Router.md",
     "React/최적화.md",
     "React/Web Storage.md",
     "React/React Router.md",
@@ -220,22 +228,14 @@
     "React/Recoil.md",
     "TypeScript/TypeScript and React.md",
     "TypeScript/User-Defined Type Guards.md",
-    "TypeScript/Type.md",
     "TypeScript/Generics.md",
     "TypeScript/Interface.md",
     "TypeScript/Function Type Expressions.md",
     "TypeScript/Distributive Conditional Types.md",
     "TypeScript/Conditional Types.md",
     "TypeScript/Function OverLoading.md",
-    "TypeScript/1) TypeScript .md",
-    "TypeScript/Discriminated Union Type.md",
-    "TypeScript/Class.md",
     "React/React.md",
-    "React/ETC.md",
     "React/Props.canvas",
-    "React/이미지 호출 최적화.md",
-    "NextJs/Page Router.md",
-    "NextJs/SupaBase.md",
     "첨부파일 폴더/Pasted image 20250228161423.png",
     "NextJs/images/스크린샷 2025-02-28 오후 4.13.51.png",
     "Semiconductor",
