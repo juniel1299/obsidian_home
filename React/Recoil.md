@@ -41,4 +41,28 @@ export const counterState = atom({
 ```
 
 ### 상태 읽기 + 수정
+useState의 개념과 매우 비슷..  
+
+Recoil에선 useRecoilState 를 사용함.. (읽기 + 수정)
+
+```typeScript
+import { useRecoilState } from "recoil";
+import { counterState } from "../recoil/counterState";
+
+const Counter = () => {
+  const [count, setCount] = useRecoilState(counterState); // Recoil 전역 상태
+
+  return (
+    <div>
+      <h2>📌 현재 카운트: {count}</h2>
+      <button onClick={() => setCount(count + 1)}>➕ 증가</button>
+      <button onClick={() => setCount(count - 1)}>➖ 감소</button>
+    </div>
+  );
+};
+
+export default Counter;
+```
+
+
 
