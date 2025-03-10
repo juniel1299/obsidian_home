@@ -40,4 +40,5 @@ Action 이후 새로운 상태를 반환할 때 사용
 ## 동작 설명 
 1. 컴포넌트에서 dispatch (Action)
 2. Reducer가 action을 받아 상태 변경 
-3. 변
+3. 변경된 상태가 Store 저장 -> UI 업데이트
+
