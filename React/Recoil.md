@@ -27,4 +27,18 @@ export default App;
 ```
 
 ### 전역상태
-Recoil 내부에 
+Recoil 내부에 atom 을 이용해서 전역 상태를 선언함 . 
+(Redux의 store 개념과 비슷함)  
+
+```typeScript
+import { atom } from "recoil";
+
+// ✅ 전역 상태 (카운터 상태)
+export const counterState = atom({
+  key: "counterState", // 유니크한 key 값
+  default: 0, // 초기값
+});
+```
+
+### 상태 읽기 + 수정
+
