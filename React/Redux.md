@@ -145,3 +145,4 @@ function App() {
 export default App;
 ```
 
+Redux 상태를 가져와서 동작 할 경
