@@ -42,3 +42,35 @@ Action 이후 새로운 상태를 반환할 때 사용
 2. Reducer가 action을 받아 상태 변경 
 3. 변경된 상태가 Store 저장 -> UI 업데이트
 
+### 예시
+
+```typeScript
+import { createSlice, configureStore } from "@reduxjs/toolkit";
+
+// 1️⃣ 초기 상태
+const initialState = { count: 0 };
+
+// 2️⃣ Reducer (상태 변경 함수)
+const counterSlice = createSlice({
+  name: "counter",
+  initialState,
+  reducers: {
+    increment: (state) => {
+      state.count += 1;
+    },
+    decrement: (state) => {
+      state.count -= 1;
+    },
+  },
+});
+
+// 3️⃣ Redux Store 생성
+const store = configureStore({
+  reducer: { counter: counterSlice.reducer },
+});
+
+// 4️⃣ 액션 내보내기
+export const { increment, decrement } = counterSlice.actions;
+export default store;
+```
+
