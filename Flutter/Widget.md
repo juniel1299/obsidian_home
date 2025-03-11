@@ -5,4 +5,4 @@
 4. 동작은 void main (){ } 에서 동작 
 5. 화면에 대한 디자인은 Widget build(BuildContext context) 하단부 MaterialApp 에서 진행
 ## 메서드 
-home 을 통해 
+home 을 기준
