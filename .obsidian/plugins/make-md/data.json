@@ -40,7 +40,8 @@
     null,
     "/",
     "//React",
-    "//Spaces/Spaces/Home"
+    "//Spaces/Spaces/Home",
+    "//Flutter"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Spaces",
