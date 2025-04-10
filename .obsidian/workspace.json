@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Widget"
             }
-          },
-          {
-            "id": "9510c5a44d17677c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,12 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Flutter/Widget.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "Widget 의 개요"
             }
           },
           {
@@ -219,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9510c5a44d17677c",
+  "active": "c13fb14e02c7c47e",
   "lastOpenFiles": [
     "React/ShadowDOM.md",
     "Flutter/Setting.md",
