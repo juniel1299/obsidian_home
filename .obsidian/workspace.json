@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Widget"
             }
+          },
+          {
+            "id": "760df4e1be1d5a46",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +87,7 @@
             }
           },
           {
-            "id": "60628c9ab232513f",
+            "id": "ee99cc58b282accb",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -148,13 +161,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Widget.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Widget 의 개요"
+              "title": "개요"
             }
           },
           {
@@ -207,7 +219,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c13fb14e02c7c47e",
+  "active": "760df4e1be1d5a46",
   "lastOpenFiles": [
     "React/ShadowDOM.md",
     "Flutter/Setting.md",
