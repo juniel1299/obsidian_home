@@ -45,7 +45,6 @@ Shadow DOM은 말 그대로 DOM의 그림자.
 
 > “React는 Shadow DOM을 쓴다면서요?”
 
-  
 
 실은 **React는 Shadow DOM을 쓰지 않아.**
 
@@ -58,4 +57,32 @@ Shadow DOM은 말 그대로 DOM의 그림자.
 그러니까 “React는 Shadow DOM 기반이다”라는 말은 틀린 말!
 
 React는 Shadow DOM을 **직접 사용하지 않지만**, **커스텀 엘리먼트와 함께 쓸 수는 있어.**
+
+### **그럼 React에서 Shadow DOM을 쓰려면?**
+
+  
+
+우리는 React에서도 attachShadow() API를 직접 써서 Shadow DOM을 붙일 수 있어.
+
+하지만 좀 귀찮고 복잡하지.
+
+  
+
+그래서 보통은 외부 라이브러리를 써!
+
+  
+```jsx
+import ShadowDOM from 'react-shadow';
+
+function MyComponent() {
+  return (
+    <ShadowDOM.div>
+      <style>{`p { color: red; }`}</style>
+      <p>이건 Shadow DOM 안에 있어요!</p>
+    </ShadowDOM.div>
+  );
+}
+```
+
+이렇게 감싸주면 **p 태그는 외부 CSS 영향을 받지 않고**, 이 안에서 정의한 스타일만 적용돼.
 
