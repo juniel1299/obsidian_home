@@ -11,7 +11,7 @@
 
 내가 원치 않는 디자인이 !important 로 누군가가 올렸을 경우를 방지하기 위해 Shadow DOM 을 사용해 내가 선택한 디자인 내용들만 적중시키고 다른 디자인은 적용을 시키지 않게 할 수 있다 
 
-## Shadow DOM이 뭐야?
+### Shadow DOM이 뭐야?
   
 
 Shadow DOM은 말 그대로 DOM의 그림자.
@@ -40,11 +40,8 @@ Shadow DOM은 말 그대로 DOM의 그림자.
 
 ###  **React에서도 Shadow DOM을 쓰나?**
 
-  
-
 여기서 헷갈리기 쉬운 포인트 하나!
 
-  
 
 > “React는 Shadow DOM을 쓴다면서요?”
 
@@ -53,3 +50,12 @@ Shadow DOM은 말 그대로 DOM의 그림자.
 실은 **React는 Shadow DOM을 쓰지 않아.**
 
 우리가 흔히 말하는 React의 ’가상 DOM(Virtual DOM)’과 Shadow DOM은 완전히 **다른 개념**이야.
+|**개념**|**설명**|
+|---|---|
+|Shadow DOM|브라우저가 제공하는 실제 DOM의 캡슐화 기능. 외부 CSS 간섭 차단|
+|Virtual DOM|React가 DOM 조작 성능을 높이기 위해 사용하는 JS 객체. 변경 감지용|
+
+그러니까 “React는 Shadow DOM 기반이다”라는 말은 틀린 말!
+
+React는 Shadow DOM을 **직접 사용하지 않지만**, **커스텀 엘리먼트와 함께 쓸 수는 있어.**
+
