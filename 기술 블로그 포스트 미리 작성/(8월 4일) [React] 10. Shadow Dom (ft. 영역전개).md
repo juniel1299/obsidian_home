@@ -26,4 +26,4 @@ Shadow DOM은 말 그대로 DOM의 그림자.
 ```html
 <button class="a">버튼</button>
 ```
-이렇게 만들면 누군가가 a 태
+이렇게 만들면 누군가가 a 태그에 !important 하나 얹게 되면 영향을 받을 수 밖에 없다 
