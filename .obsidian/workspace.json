@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Flutter"
+                "path": "React"
               },
               "icon": "lucide-file",
-              "title": "Flutter"
+              "title": "React"
             }
           }
         ]
@@ -55,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -82,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -204,8 +205,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1523b5bffde2b4e7",
+  "active": "408fbe75a45775cf",
   "lastOpenFiles": [
+    "무제 1",
+    "무제",
+    "React/React.md",
+    "React/LifeCycle.canvas",
+    "0419.md",
+    "노트북 파일 정리/바탕화면.md",
     "Flutter/Flutter.md",
     "Flutter/Widget.md",
     "React/ShadowDOM.md",
@@ -229,10 +236,6 @@
     "React/React Router.md",
     "React/라이프 사이클클.md",
     "React/useMemo.md",
-    "React/Page Routing.md",
-    "React/Dynamic Segments (동적 경로).md",
-    "React/Context.md",
-    "React/Recoil.md",
     "React/Props.canvas",
     "첨부파일 폴더/Pasted image 20250228161423.png",
     "NextJs/images/스크린샷 2025-02-28 오후 4.13.51.png",
@@ -242,7 +245,6 @@
     "첨부파일 폴더/Pasted image 20250219134457.png",
     "NextJs/images",
     "첨부파일 폴더/Pasted image 20250219133632.png",
-    "React/LifeCycle.canvas",
     "NextJs",
     "Ollama",
     "Python",
@@ -254,7 +256,6 @@
     "React/imageFolder",
     "무제.canvas",
     "React",
-    "Spaces/Home",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]
