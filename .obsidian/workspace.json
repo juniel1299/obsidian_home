@@ -11,30 +11,15 @@
             "id": "c13fb14e02c7c47e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Flutter/Widget.md",
-                "mode": "source",
-                "source": false
+                "path": "Flutter"
               },
               "icon": "lucide-file",
-              "title": "Widget"
-            }
-          },
-          {
-            "id": "760df4e1be1d5a46",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "title": "Flutter"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,12 +204,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "760df4e1be1d5a46",
+  "active": "1523b5bffde2b4e7",
   "lastOpenFiles": [
+    "Flutter/Flutter.md",
+    "Flutter/Widget.md",
     "React/ShadowDOM.md",
     "Flutter/Setting.md",
-    "Flutter/Widget.md",
-    "Flutter/Flutter.md",
     "Flutter/.md",
     "Flutter",
     "NextJs/NextJs.md",
