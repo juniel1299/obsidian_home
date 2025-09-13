@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "(8월 6일) 첫 입사 일주일 (ft.네가 하이닉스고 얘가 현대야)"
             }
-          },
-          {
-            "id": "79a6c5a0cbe7fabe",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.9.12"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,12 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "기술 블로그 포스트 미리 작성/(8월 6일) 첫 입사 일주일 (ft.네가 하이닉스고 얘가 현대야).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "(8월 6일) 첫 입사 일주일 (ft.네가 하이닉스고 얘가 현대야) 의 개요"
             }
           },
           {
@@ -221,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79a6c5a0cbe7fabe",
+  "active": "c13fb14e02c7c47e",
   "lastOpenFiles": [
     "기술 블로그 포스트 미리 작성/이미지/boot.png",
     "기술 블로그 포스트 미리 작성/이미지/useLayout.png",
