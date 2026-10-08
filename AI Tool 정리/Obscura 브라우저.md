@@ -42,13 +42,22 @@ obscura fetch https://example.com --dump links
 
 # JS 렌더링 후 HTML 덤프 
 obscura fetch https://news.ycombinator.com --dump html 
+
 # 텍스트만 추출해서 파일로 저장 
 obscura fetch https://example.com --dump text --output page.txt 
+
 # 스크린샷 캡처 
 obscura fetch https://example.com --screenshot page.png 
+
 # 프록시 통해 요청 
 obscura --proxy socks5://127.0.0.1:1080 fetch https://example.com --dump text 
+
 # 동적 콘텐츠 기다리기 
 obscura fetch https://example.com --wait-until networkidle0 
-# 타임아웃 설정 (초) obscura fetch https://example.com --timeout 10
+
+# 타임아웃 설정 (초) 
+obscura fetch https://example.com --timeout 10
+
+로컬 개발 서버 접근 (SSRF 차단 방지) 
+obscura fetch http://127.0.0.1:3000 --allow-private-network --dump text
 ```
