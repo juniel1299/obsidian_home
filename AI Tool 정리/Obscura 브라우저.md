@@ -14,7 +14,11 @@ docker run -d --name obscura -p 127.0.0.1:9222:9222 h4ckf0r0day/obscura
 
 2. 사전 빌드 바이너리 다운로드
 ```cmd
-# 최신 릴리즈 확인: https://github.com/h4ckf0r0day/obscura/releases # Linux x86_64 (렌더링 + 스텔스 포함) wget https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.1/obscura-x86_64-linux-stealth.tar.gz tar xzf obscura-x86_64-linux-stealth.tar.gz ./obscura --help
+# 최신 릴리즈 확인: https://github.com/h4ckf0r0day/obscura/releases 
+# Linux x86_64 (렌더링 + 스텔스 포함) 
+wget https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.1/obscura-x86_64-linux-stealth.tar.gz 
+tar xzf obscura-x86_64-linux-stealth.tar.gz 
+./obscura --help
 ```
 
 3. 소스 컴파일 (Rust 필요)
@@ -27,3 +31,4 @@ cargo build --release -p obscura-cli --bins --features render
 # 렌더링 없음 (경량) cargo build --release -p obscura-cli --bins --no-default-features
 ```
 
+### 사용법
