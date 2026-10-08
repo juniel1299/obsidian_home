@@ -11,14 +11,12 @@
             "id": "f0fa5765530cacfc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "AI Tool 정리/Obscura 브라우저.md",
-                "mode": "source",
-                "source": false
+                "path": "Python"
               },
               "icon": "lucide-file",
-              "title": "Obscura 브라우저"
+              "title": "Python"
             }
           }
         ]
@@ -149,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Tool 정리/Obscura 브라우저.md",
+                "file": "Python/Python.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -209,10 +207,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0fa5765530cacfc",
+  "active": "a243034024069d1e",
   "lastOpenFiles": [
-    "무제.md",
+    "JavaScript/무제 1.md",
+    "JavaScript/ex37_variable.md",
+    "JavaScript/ex01_js.md",
     "AI Tool 정리/Obscura 브라우저.md",
+    "무제.md",
     "AI Tool 정리/AI Tool 정리.md",
     "AI Tool 정리",
     "기술 블로그 포스트 미리 작성/(8월 6일) 첫 입사 일주일 (ft.네가 하이닉스고 얘가 현대야).md",
@@ -246,9 +247,6 @@
     "TypeScript/Discriminated Union Type.md",
     "NextJs/Pre-rendering.md",
     "NextJs/prologue.md",
-    "NextJs/SupaBase.md",
-    "NextJs/App Router.md",
-    "React/최적화.md",
     "React/Props.canvas",
     "첨부파일 폴더/Pasted image 20250228161423.png",
     "NextJs/images/스크린샷 2025-02-28 오후 4.13.51.png",
