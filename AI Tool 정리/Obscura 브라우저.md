@@ -61,3 +61,4 @@ obscura fetch https://example.com --timeout 10
 로컬 개발 서버 접근 (SSRF 차단 방지) 
 obscura fetch http://127.0.0.1:3000 --allow-private-network --dump text
 ```
+
