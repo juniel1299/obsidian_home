@@ -1,0 +1,24 @@
+[
+  {
+    "file": "02-movie.jpg",
+    "url": "https://bnt.kod.es/data/bnt/image/2026/09/24/bnt202609240315.680x.0.jpg",
+    "saved": false,
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "03-goods.jpg",
+    "url": "https://bnt.kod.es/data/bnt/image/2026/09/24/bnt202609240316.475x.0.jpg",
+    "saved": false,
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "04-yongsan-queue.png",
+    "url": "https://cdn.ksw-news.com/news/photo/202610/3045353_3037480_532.png",
+    "saved": true
+  },
+  {
+    "file": "05-night-queue.jpg",
+    "url": "https://img.asiatoday.co.kr/file/2026y/10m/07d/2026100701000416800021341.jpg",
+    "saved": true
+  }
+]
