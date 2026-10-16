@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Obscura 브라우저"
             }
-          },
-          {
-            "id": "c120fdd1814ad299",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.14.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.14.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,6 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "AI Tool 정리/Obscura 브라우저.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -221,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c120fdd1814ad299",
+  "active": "f0fa5765530cacfc",
   "lastOpenFiles": [
     "instagram(japan)/posts/003_travel_apps/travel-apps-post.zip",
     "instagram(japan)/posts/003_travel_apps/08.png",
