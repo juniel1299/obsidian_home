@@ -7,5 +7,6 @@
   "obsidian-style-settings",
   "obsidian-git",
   "obsidian-table-generator",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-local-rest-api"
 ]
