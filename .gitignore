@@ -12,3 +12,6 @@ obsidian/workspace-mobile.json
 .obsidian/plugins/make-md/Spaces.mdb
 .makemd/superstate.mdb
 .makemd/fileCache.mdb
+
+# Local REST API: API key + TLS private keys
+.obsidian/plugins/obsidian-local-rest-api/data.json
