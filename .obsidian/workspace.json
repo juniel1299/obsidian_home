@@ -11,12 +11,14 @@
             "id": "f0fa5765530cacfc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "첨부파일 폴더/Pasted image 20250228161423.png"
+                "file": "기술 블로그 포스트 미리 작성/(10월 17일) [Next.js] Page Router vs App Router (ft. 리모델링).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250228161423"
+              "icon": "lucide-file",
+              "title": "(10월 17일) [Next.js] Page Router vs App Router (ft. 리모델링)"
             }
           }
         ]
@@ -147,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "첨부파일 폴더/Pasted image 20250228161423.png",
+                "file": "기술 블로그 포스트 미리 작성/(10월 17일) [Next.js] Page Router vs App Router (ft. 리모델링).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -209,6 +211,8 @@
   },
   "active": "f0fa5765530cacfc",
   "lastOpenFiles": [
+    "기술 블로그 포스트 미리 작성/(8월 6일) 첫 입사 일주일 (ft.네가 하이닉스고 얘가 현대야).md",
+    "첨부파일 폴더/Pasted image 20250228161423.png",
     "첨부파일 폴더/Pasted image 20250219134457.png",
     "AI Tool 정리/Obscura 브라우저.md",
     "기술 블로그 포스트 미리 작성/(10월 17일) [Next.js] Page Router vs App Router (ft. 리모델링).md",
@@ -239,8 +243,6 @@
     "instagram(japan)/posts/002_seongsu/seongsu-post.zip",
     "instagram(japan)/posts/002_seongsu/ziFbXiYB",
     "instagram(japan)/posts/002_seongsu/caption.txt",
-    "instagram(japan)/posts/002_seongsu/05.png",
-    "instagram(japan)/posts/002_seongsu/04.png",
     "instagram(japan)/posts/001_intro/제작메모.md",
     "instagram(japan)/account_setup/프로필이미지_v3_제작메모.md",
     "instagram(japan)/account_setup/프로필이미지_v2_제작메모.md",
@@ -253,7 +255,6 @@
     "JavaScript/ex37_variable.md",
     "무제.md",
     "AI Tool 정리/AI Tool 정리.md",
-    "기술 블로그 포스트 미리 작성/(8월 6일) 첫 입사 일주일 (ft.네가 하이닉스고 얘가 현대야).md",
     "기술 블로그 포스트 미리 작성/(8월 4일) [React] 10. Shadow DOM (ft. 영역전개).md",
     "React/LifeCycle.canvas",
     "React/Props.canvas",
