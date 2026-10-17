@@ -1,0 +1,24 @@
+{
+  "visuals": [
+    {
+      "file": "rainy_metro_4k.mp4",
+      "creator": "Zeki Okur",
+      "url": "https://www.pexels.com/video/raindrop-reflections-on-nighttime-metro-glass-31069867/"
+    },
+    {
+      "file": "couple_night_4k.mp4",
+      "creator": "KoolShooters",
+      "url": "https://www.pexels.com/video/a-couple-walking-in-the-street-8101855/"
+    },
+    {
+      "file": "rain_city.mp4",
+      "creator": "Ervasa",
+      "url": "https://www.pexels.com/video/rainy-night-city-traffic-through-window-35213341/"
+    }
+  ],
+  "visual_license": "https://www.pexels.com/license/",
+  "audio": "https://www.youtube.com/watch?v=gH_ThJxfSqE",
+  "audio_range": "02:09–03:10",
+  "output": "1080x1920, 30fps, 61s",
+  "japanese_title": "ありふれた偶然 (editorial translation)"
+}
