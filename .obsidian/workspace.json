@@ -11,14 +11,12 @@
             "id": "f0fa5765530cacfc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "AI Tool 정리/Obscura 브라우저.md",
-                "mode": "source",
-                "source": false
+                "file": "첨부파일 폴더/Pasted image 20250228161423.png"
               },
-              "icon": "lucide-file",
-              "title": "Obscura 브라우저"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250228161423"
             }
           }
         ]
@@ -149,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Tool 정리/Obscura 브라우저.md",
+                "file": "첨부파일 폴더/Pasted image 20250228161423.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -211,6 +209,8 @@
   },
   "active": "f0fa5765530cacfc",
   "lastOpenFiles": [
+    "첨부파일 폴더/Pasted image 20250219134457.png",
+    "AI Tool 정리/Obscura 브라우저.md",
     "기술 블로그 포스트 미리 작성/(10월 17일) [Next.js] Page Router vs App Router (ft. 리모델링).md",
     "이력서 및 포트폴리오/원본/이력서.docx.md",
     "이력서 및 포트폴리오/원본/경력기술서09.docx.md",
@@ -251,12 +251,10 @@
     "Python/Python.md",
     "JavaScript/무제 1.md",
     "JavaScript/ex37_variable.md",
-    "AI Tool 정리/Obscura 브라우저.md",
     "무제.md",
     "AI Tool 정리/AI Tool 정리.md",
     "기술 블로그 포스트 미리 작성/(8월 6일) 첫 입사 일주일 (ft.네가 하이닉스고 얘가 현대야).md",
     "기술 블로그 포스트 미리 작성/(8월 4일) [React] 10. Shadow DOM (ft. 영역전개).md",
-    "React/React.md",
     "React/LifeCycle.canvas",
     "React/Props.canvas",
     "무제.canvas",
