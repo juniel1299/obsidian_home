@@ -1,0 +1,81 @@
+{
+  "audio": "https://www.youtube.com/watch?v=V2Mzp7ewg9M",
+  "range": "02:43–03:35",
+  "visuals": [
+    "https://www.youtube.com/watch?v=HpitWOyMcGY",
+    "https://www.youtube.com/watch?v=5gSKk-wwLsY"
+  ],
+  "film": "Only Yesterday",
+  "timeline": [
+    [
+      "hq",
+      3,
+      3.4,
+      5.5,
+      0.46
+    ],
+    [
+      "hq",
+      9,
+      3,
+      5,
+      0.5
+    ],
+    [
+      "old",
+      60.5,
+      4,
+      6,
+      0.5
+    ],
+    [
+      "hq",
+      12.5,
+      2.6,
+      4,
+      0.5
+    ],
+    [
+      "hq",
+      21,
+      3.5,
+      5.5,
+      0.5
+    ],
+    [
+      "old",
+      70.3,
+      3.5,
+      6,
+      0.5
+    ],
+    [
+      "hq",
+      33,
+      3.2,
+      5,
+      0.6
+    ],
+    [
+      "hq",
+      36.2,
+      3,
+      4.5,
+      0.5
+    ],
+    [
+      "old",
+      90,
+      4.5,
+      7,
+      0.5
+    ],
+    [
+      "hq",
+      3.2,
+      2.8,
+      3.5,
+      0.6
+    ]
+  ]
+}
