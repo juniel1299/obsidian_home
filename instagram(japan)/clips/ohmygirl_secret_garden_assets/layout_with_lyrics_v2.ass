@@ -1,0 +1,40 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Header,Hiragino Sans,56,&H00FFFFFF,&H00FFFFFF,&H90000000,&H80000000,-1,0,0,0,100,100,1,0,1,2,0,5,0,0,0,1
+Style: Title,Hiragino Sans,42,&H00FFFFFF,&H00FFFFFF,&H90000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,5,0,0,0,1
+Style: KO,Apple SD Gothic Neo,48,&H00FFFFFF,&H00FFFFFF,&H30000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,5,0,0,0,1
+Style: JA,Hiragino Sans,44,&H00B8E7FF,&H00FFFFFF,&H30000000,&H80000000,0,0,0,0,100,100,0,0,1,3,1,5,0,0,0,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:01:12.00,Header,,0,0,0,,{\pos(540,245)}韓国人おすすめの一曲
+Dialogue: 0,0:00:00.00,0:01:12.00,Title,,0,0,0,,{\pos(540,1610)\fs44}OH MY GIRL - 秘密の庭
+Dialogue: 0,0:00:00.00,0:00:03.58,KO,,0,0,0,,{\pos(540,1385)\fs48}아마 언젠가 말야
+Dialogue: 0,0:00:00.00,0:00:03.58,JA,,0,0,0,,{\pos(540,1455)\fs44}いつか、きっとね
+Dialogue: 0,0:00:03.58,0:00:09.50,KO,,0,0,0,,{\pos(540,1385)\fs48}이 꿈들이 현실이 되면
+Dialogue: 0,0:00:03.58,0:00:09.50,JA,,0,0,0,,{\pos(540,1455)\fs44}この夢が現実になったら
+Dialogue: 0,0:00:09.50,0:00:15.50,KO,,0,0,0,,{\pos(540,1385)\fs48}함께 나눈 순간들을 이 가능성들을
+Dialogue: 0,0:00:09.50,0:00:15.50,JA,,0,0,0,,{\pos(540,1455)\fs44}一緒に過ごした瞬間を、この可能性を
+Dialogue: 0,0:00:15.50,0:00:22.70,KO,,0,0,0,,{\pos(540,1385)\fs48}꼭 다시 기억해줘
+Dialogue: 0,0:00:15.50,0:00:22.70,JA,,0,0,0,,{\pos(540,1455)\fs44}必ずまた思い出してね
+Dialogue: 0,0:00:23.08,0:00:29.90,KO,,0,0,0,,{\pos(540,1385)\fs48}네 안에 열렸던 문틈으로 본 적이 있어
+Dialogue: 0,0:00:23.08,0:00:29.90,JA,,0,0,0,,{\pos(540,1455)\fs44}君の中に開いた扉の隙間から見たことがある
+Dialogue: 0,0:00:30.22,0:00:36.08,KO,,0,0,0,,{\pos(540,1385)\fs48}아직은 별거 아닌 풍경이지만
+Dialogue: 0,0:00:30.22,0:00:36.08,JA,,0,0,0,,{\pos(540,1455)\fs44}まだ大した景色ではないけれど
+Dialogue: 0,0:00:36.08,0:00:41.84,KO,,0,0,0,,{\pos(540,1385)\fs48}조금만 기다리면 곧 만나게 될 걸
+Dialogue: 0,0:00:36.08,0:00:41.84,JA,,0,0,0,,{\pos(540,1455)\fs44}少し待てば、きっと出会えるよ
+Dialogue: 0,0:00:41.84,0:00:47.82,KO,,0,0,0,,{\pos(540,1385)\fs48}그 안에 멋지고 놀라운 걸 심어뒀는데
+Dialogue: 0,0:00:41.84,0:00:47.82,JA,,0,0,0,,{\pos(540,1455)\fs39}その中に素敵で驚くようなものを植えておいたんだ
+Dialogue: 0,0:00:47.82,0:00:53.80,KO,,0,0,0,,{\pos(540,1385)\fs48}아직은 아무것도 안 보이지만
+Dialogue: 0,0:00:47.82,0:00:53.80,JA,,0,0,0,,{\pos(540,1455)\fs44}まだ何も見えないけれど
+Dialogue: 0,0:00:53.80,0:00:59.00,KO,,0,0,0,,{\pos(540,1385)\fs48}조금만 기다리면 알게 될 거야
+Dialogue: 0,0:00:53.80,0:00:59.00,JA,,0,0,0,,{\pos(540,1455)\fs44}少し待てば、わかるはずだよ
+Dialogue: 0,0:00:59.00,0:01:03.34,KO,,0,0,0,,{\pos(540,1385)\fs48}너의 비밀정원
+Dialogue: 0,0:00:59.00,0:01:03.34,JA,,0,0,0,,{\pos(540,1455)\fs44}君の秘密の庭
+Dialogue: 0,0:01:03.34,0:01:12.00,KO,,0,0,0,,{\pos(540,1385)\fs48}무럭무럭 어서어서 자라나 줘 beautiful
+Dialogue: 0,0:01:03.34,0:01:12.00,JA,,0,0,0,,{\pos(540,1455)\fs44}すくすく、早く育ってね、美しく

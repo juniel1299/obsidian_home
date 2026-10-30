@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Tool 정리/MCP (Model Context Protocol).md",
+                "file": "기술 블로그 포스트 미리 작성/(10월 26일) [AI] 옵시디언과 Claude 연결하기 (ft. 열쇠를 문 앞에 두고 왔다).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MCP (Model Context Protocol)"
+              "title": "(10월 26일) [AI] 옵시디언과 Claude 연결하기 (ft. 열쇠를 문 앞에 두고 왔다)"
+            }
+          },
+          {
+            "id": "3b31b14fff20c8bd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.14.5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +88,7 @@
             }
           },
           {
-            "id": "4bb53db6abadbdb7",
+            "id": "87cb859f11aa3645",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -149,7 +162,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Tool 정리/MCP (Model Context Protocol).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -209,19 +221,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0fa5765530cacfc",
+  "active": "3b31b14fff20c8bd",
   "lastOpenFiles": [
-    "instagram(japan)/clips/IU_Autumn_Morning_reel_KO_JA_v2.mp4",
-    "instagram(japan)/clips/iu_autumn_reel_assets/revision/timeline.json",
-    "instagram(japan)/clips/IU_Autumn_Morning_KO_JA_v2.srt",
-    "instagram(japan)/clips/iu_autumn_reel_assets/revision/layout.ass",
-    "instagram(japan)/clips/iu_autumn_reel_assets/revision/concat.txt",
-    "instagram(japan)/clips/iu_autumn_reel_assets/revision/shot_16.mp4",
-    "instagram(japan)/clips/iu_autumn_reel_assets/revision/shot_15.mp4",
-    "instagram(japan)/clips/iu_autumn_reel_assets/revision/shot_14.mp4",
-    "instagram(japan)/clips/iu_autumn_reel_assets/revision/shot_13.mp4",
-    "instagram(japan)/clips/iu_autumn_reel_assets/revision/shot_12.mp4",
-    "instagram(japan)/clips/iu_autumn_reel_assets/revision/shot_11.mp4",
+    "instagram(japan)/clips/sokodomo_merry_go_round_assets/soul_edit/scene_3.mp4",
+    "instagram(japan)/clips/sokodomo_merry_go_round_assets/soul_edit/sources.json",
+    "instagram(japan)/clips/SOKODOMO_Merry_Go_Round_caption_Soul.txt",
+    "instagram(japan)/clips/SOKODOMO_Merry_Go_Round_reel_KO_JA_Soul.mp4",
+    "instagram(japan)/clips/sokodomo_merry_go_round_assets/soul_edit/concat.txt",
+    "instagram(japan)/clips/sokodomo_merry_go_round_assets/soul_edit/scene_2.mp4",
+    "instagram(japan)/clips/sokodomo_merry_go_round_assets/soul_edit/scene_1.mp4",
+    "instagram(japan)/clips/sokodomo_merry_go_round_assets/soul_edit/scene_0.mp4",
+    "instagram(japan)/clips/sokodomo_merry_go_round_assets/soul_edit/build_soul_reel.py",
+    "instagram(japan)/clips/sokodomo_merry_go_round_assets/soul_edit/living.mp4",
+    "instagram(japan)/clips/sokodomo_merry_go_round_assets/soul_edit/living.mp4.part",
+    "instagram(meme)/01_소재함/트렌드/2026-10-30.md",
+    "instagram(meme)/01_소재함/트렌드/2026-10-28.md",
+    "instagram(meme)/02_제작/김정은_요가/김정은_얼굴합성_v1.png",
+    "instagram(meme)/02_제작/캐릭터/영포티/제작기록.md",
+    "instagram(meme)/02_제작/캐릭터/영포티/young-forty-v1.png",
+    "instagram(meme)/01_소재함/트렌드/2026-10-27.md",
+    "instagram(meme)/02_제작/브랜딩/프로필_제작기록.md",
+    "instagram(meme)/02_제작/브랜딩/hit-me-me-profile-v1.png",
+    "기술 블로그 포스트 미리 작성/(10월 27일) [WEB] L4 vs L7 (ft. 택배 분류).md",
+    "instagram(meme)/00_운영/레퍼런스_계정.md",
+    "instagram(meme)/01_소재함/트렌드/2026-10-26.md",
+    "instagram(meme)/AGENTS.md",
+    "기술 블로그 포스트 미리 작성/(10월 26일) [JavaScript] 이벤트 루프 (ft. 혼자 일하는 카페 사장님).md",
+    "기술 블로그 포스트 미리 작성/(10월 26일) [JavaScript] 싱글 스레드인데 어떻게 동시에 ? 이벤트 루프 (ft. 혼자 일하는 카페 사장ᄂ.md",
+    "기술 블로그 포스트 미리 작성/(10월 26일) [JavaScript] 싱글 스레드인데 어떻게 동시에 ? 이벤트 루프 (ft. 혼자 일하는 카페 사장님).md",
+    "AI Tool 정리/MCP (Model Context Protocol).md",
     "instagram(japan)/posts/007_beyond_seoul/이미지_제작메모.md",
     "instagram(japan)/posts/007_beyond_seoul/instagram/07.jpg",
     "instagram(japan)/posts/007_beyond_seoul/originals/07.png",
@@ -230,9 +258,6 @@
     "instagram(japan)/posts/007_beyond_seoul/instagram/05.jpg",
     "instagram(japan)/posts/007_beyond_seoul/originals/05.png",
     "instagram(japan)/posts/007_beyond_seoul/instagram/04.jpg",
-    "instagram(japan)/posts/007_beyond_seoul/originals/04.png",
-    "instagram(japan)/posts/007_beyond_seoul/instagram/03.jpg",
-    "instagram(japan)/posts/007_beyond_seoul/originals/03.png",
     "instagram(japan)/posts/007_beyond_seoul/카드_원고.md",
     "이력서 및 포트폴리오/원본/경력기술서09.docx.md",
     "기술 블로그 포스트 미리 작성/(10월 17일) [Next.js] Page Router vs App Router (ft. 리모델링).md",
@@ -240,23 +265,10 @@
     "AI Tool 정리/Claude 로 블로그 글 쓰기.md",
     "AI Tool 정리/Obscura 브라우저.md",
     "AI Tool 정리/옵시디언 Claude MCP 연결.md",
-    "AI Tool 정리/MCP (Model Context Protocol).md",
     "CLAUDE.md",
     "기술 블로그 포스트 미리 작성/(8월 6일) 첫 입사 일주일 (ft.네가 하이닉스고 얘가 현대야).md",
     "이력서 및 포트폴리오/원본/이력서.docx.md",
     "이력서 및 포트폴리오/원본/자기소개서09월.md",
-    "이력서 및 포트폴리오/원본/______ ____202 60920.md",
-    "이력서 및 포트폴리오/원본/___________202_60920.docx.md",
-    "이력서 및 포트폴리오/원본/_______서_2026_0920.docx.md",
-    "instagram(japan)/posts/003_travel_apps/이미지_제작메모.md",
-    "instagram(japan)/posts/003_travel_apps/게시물_원고.md",
-    "instagram(japan)/posts/002_seongsu/제작메모.md",
-    "instagram(japan)/posts/001_intro/제작메모.md",
-    "instagram(japan)/account_setup/프로필이미지_v3_제작메모.md",
-    "instagram(japan)/account_setup/프로필이미지_v2_제작메모.md",
-    "instagram(japan)/account_setup/프로필_설정.md",
-    "JavaScript/ex01_js.md",
-    "자바정리/2024-01-13-Print.md",
     "React/LifeCycle.canvas",
     "React/Props.canvas",
     "무제.canvas",

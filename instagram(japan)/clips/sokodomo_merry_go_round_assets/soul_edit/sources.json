@@ -1,0 +1,38 @@
+{
+  "film": "Soul (2020)",
+  "visual_sources": {
+    "trailer": "https://www.youtube.com/watch?v=xOsLIiBStEs",
+    "living": "https://www.youtube.com/watch?v=5i_DKxZu0aI"
+  },
+  "segments": [
+    [
+      "trailer",
+      24,
+      11,
+      22
+    ],
+    [
+      "living",
+      0,
+      23,
+      110
+    ],
+    [
+      "living",
+      88,
+      30,
+      110
+    ],
+    [
+      "purpose",
+      18,
+      5,
+      110
+    ]
+  ],
+  "audio_source": "https://www.youtube.com/watch?v=ZcGB8Yc_SlE",
+  "audio_range": "02:03–03:12",
+  "speed": 1,
+  "output": "1080x1920, 30fps, 69 seconds",
+  "lyrics": "Existing user supplied Korean and Japanese translation preserved"
+}

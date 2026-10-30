@@ -1,0 +1,32 @@
+{
+  "audio": "https://www.youtube.com/watch?v=ZcGB8Yc_SlE",
+  "audio_range": "02:03–03:12",
+  "visual": "https://www.youtube.com/watch?v=ARCQf2CEr8k",
+  "film": "Howl’s Moving Castle",
+  "segments": [
+    [
+      3,
+      18
+    ],
+    [
+      27,
+      8
+    ],
+    [
+      48,
+      15
+    ],
+    [
+      73,
+      14
+    ],
+    [
+      105,
+      14
+    ]
+  ],
+  "speed": 1,
+  "output": "1080x1920, 30fps, 69 seconds",
+  "caption_reference": "https://music.bugs.co.kr/track/32381760",
+  "lyrics": "User supplied Korean lyrics with Japanese translation"
+}

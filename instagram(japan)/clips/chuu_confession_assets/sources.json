@@ -1,0 +1,28 @@
+{
+  "audio": "https://www.youtube.com/watch?v=L2vUbK95YhY",
+  "audio_range": "02:34–03:41",
+  "visual": "https://www.youtube.com/watch?v=F9X4xYRkrMU",
+  "film": "Ditto (2022)",
+  "segments": [
+    [
+      98,
+      21
+    ],
+    [
+      125,
+      19
+    ],
+    [
+      197,
+      16
+    ],
+    [
+      55,
+      11
+    ]
+  ],
+  "speed": 1,
+  "lyrics": "User supplied Korean, Japanese translation",
+  "output": "1080x1920, 30fps, 67 seconds",
+  "caption_reference": "https://www.melon.com/album/detail.htm?albumId=11078402"
+}

@@ -1,0 +1,3 @@
+file '/Users/wonjun/Documents/obsidian_home/instagram(japan)/clips/primary_johnny_assets/scene_0.mp4'
+file '/Users/wonjun/Documents/obsidian_home/instagram(japan)/clips/primary_johnny_assets/scene_1.mp4'
+file '/Users/wonjun/Documents/obsidian_home/instagram(japan)/clips/primary_johnny_assets/scene_2.mp4'

@@ -15,3 +15,18 @@ obsidian/workspace-mobile.json
 
 # Local REST API: API key + TLS private keys
 .obsidian/plugins/obsidian-local-rest-api/data.json
+
+# Video files (all folders, case-insensitive extensions)
+*.[mM][pP]4
+*.[mM][oO][vV]
+*.[mM]4[vV]
+*.[mM][kK][vV]
+*.[aA][vV][iI]
+*.[wW][eE][bB][mM]
+*.[mM][pP][eE][gG]
+*.[mM][pP][gG]
+*.[wW][mM][vV]
+*.[fF][lL][vV]
+*.[mM][tT][sS]
+*.[mM]2[tT][sS]
+*.3[gG][pP]

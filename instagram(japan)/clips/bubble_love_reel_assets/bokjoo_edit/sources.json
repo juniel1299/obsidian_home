@@ -1,0 +1,33 @@
+{
+  "visual": "https://www.youtube.com/watch?v=Z9Gg26njM78",
+  "work": "Weightlifting Fairy Kim Bok-joo",
+  "audio": "https://www.youtube.com/watch?v=w3K9Aiftv6I",
+  "audio_range": "02:13–03:13",
+  "shots": [
+    [
+      297,
+      10
+    ],
+    [
+      437,
+      10
+    ],
+    [
+      495,
+      10
+    ],
+    [
+      585,
+      10
+    ],
+    [
+      650,
+      10
+    ],
+    [
+      688,
+      10
+    ]
+  ],
+  "playback_speed": 1
+}

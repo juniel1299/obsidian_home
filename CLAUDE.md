@@ -7,6 +7,7 @@
 - 주소: https://problem-child.tistory.com (주니엘의 개발일지)
 - 발행 글 목록: `https://problem-child.tistory.com/sitemap.xml` 에서 글 번호 확인, 각 글의 `og:title` 로 제목 확인
 - 카테고리 (티스토리는 2단계까지만 가능)
+  - AI
   - CS + WEB
   - JavaScript > React, Next.js
   - SQL(oracle)

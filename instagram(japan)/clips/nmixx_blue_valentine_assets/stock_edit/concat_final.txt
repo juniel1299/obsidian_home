@@ -1,0 +1,4 @@
+file '/Users/wonjun/Documents/obsidian_home/instagram(japan)/clips/nmixx_blue_valentine_assets/stock_edit/final_scene_0.mp4'
+file '/Users/wonjun/Documents/obsidian_home/instagram(japan)/clips/nmixx_blue_valentine_assets/stock_edit/final_scene_1.mp4'
+file '/Users/wonjun/Documents/obsidian_home/instagram(japan)/clips/nmixx_blue_valentine_assets/stock_edit/final_scene_2.mp4'
+file '/Users/wonjun/Documents/obsidian_home/instagram(japan)/clips/nmixx_blue_valentine_assets/stock_edit/final_scene_3.mp4'

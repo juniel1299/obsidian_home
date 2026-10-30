@@ -1,0 +1,40 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Header,Hiragino Sans,56,&H00FFFFFF,&H00FFFFFF,&H90000000,&H80000000,-1,0,0,0,100,100,1,0,1,2,0,5,0,0,0,1
+Style: Title,Hiragino Sans,42,&H00FFFFFF,&H00FFFFFF,&H90000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,5,0,0,0,1
+Style: KO,Apple SD Gothic Neo,48,&H00FFFFFF,&H00FFFFFF,&H30000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,5,0,0,0,1
+Style: JA,Hiragino Sans,44,&H00B8E7FF,&H00FFFFFF,&H30000000,&H80000000,0,0,0,0,100,100,0,0,1,3,1,5,0,0,0,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:01:07.00,Header,,0,0,0,,{\pos(540,245)}韓国人おすすめの一曲
+Dialogue: 0,0:00:00.00,0:01:07.00,Title,,0,0,0,,{\pos(540,1610)\fs44}チュウ - 告白
+Dialogue: 0,0:00:00.00,0:00:02.66,KO,,0,0,0,,{\pos(540,1385)\fs48}말하고 싶은데
+Dialogue: 0,0:00:00.00,0:00:02.66,JA,,0,0,0,,{\pos(540,1455)\fs44}伝えたいのに
+Dialogue: 0,0:00:02.66,0:00:07.62,KO,,0,0,0,,{\pos(540,1385)\fs48}사랑한다고 아무 말 못 하는
+Dialogue: 0,0:00:02.66,0:00:07.62,JA,,0,0,0,,{\pos(540,1455)\fs44}「愛してる」って何も言えない
+Dialogue: 0,0:00:07.62,0:00:10.32,KO,,0,0,0,,{\pos(540,1385)\fs48}내가 너무 미워
+Dialogue: 0,0:00:07.62,0:00:10.32,JA,,0,0,0,,{\pos(540,1455)\fs44}そんな自分が大嫌い
+Dialogue: 0,0:00:10.32,0:00:16.20,KO,,0,0,0,,{\pos(540,1385)\fs48}용기를 내야 해 후회하지 않게
+Dialogue: 0,0:00:10.32,0:00:16.20,JA,,0,0,0,,{\pos(540,1455)\fs44}勇気を出さなきゃ、後悔しないように
+Dialogue: 0,0:00:16.60,0:00:24.30,KO,,0,0,0,,{\pos(540,1385)\fs48}조금씩 너에게 다가가 날 고백할 거야
+Dialogue: 0,0:00:16.60,0:00:24.30,JA,,0,0,0,,{\pos(540,1455)\fs44}少しずつ近づいて、この想いを伝えるよ
+Dialogue: 0,0:00:30.78,0:00:37.30,KO,,0,0,0,,{\pos(540,1385)\fs48}Oh 용기를 내야 해 후회하지 않게
+Dialogue: 0,0:00:30.78,0:00:37.30,JA,,0,0,0,,{\pos(540,1455)\fs44}Oh 勇気を出さなきゃ、後悔しないように
+Dialogue: 0,0:00:38.00,0:00:41.86,KO,,0,0,0,,{\pos(540,1385)\fs48}조금씩 너에게 다가가
+Dialogue: 0,0:00:38.00,0:00:41.86,JA,,0,0,0,,{\pos(540,1455)\fs44}少しずつあなたに近づいて
+Dialogue: 0,0:00:41.86,0:00:45.10,KO,,0,0,0,,{\pos(540,1385)\fs48}날 고백할 거야
+Dialogue: 0,0:00:41.86,0:00:45.10,JA,,0,0,0,,{\pos(540,1455)\fs44}この想いを伝えるよ
+Dialogue: 0,0:00:45.50,0:00:49.82,KO,,0,0,0,,{\pos(540,1385)\fs48}사랑한다고 아무 말 못 하는
+Dialogue: 0,0:00:45.50,0:00:49.82,JA,,0,0,0,,{\pos(540,1455)\fs44}「愛してる」って何も言えない
+Dialogue: 0,0:00:49.82,0:00:52.75,KO,,0,0,0,,{\pos(540,1385)\fs48}내가 너무 미워
+Dialogue: 0,0:00:49.82,0:00:52.75,JA,,0,0,0,,{\pos(540,1455)\fs44}そんな自分が大嫌い
+Dialogue: 0,0:00:53.20,0:00:58.10,KO,,0,0,0,,{\pos(540,1385)\fs48}용기를 내야 해 후회하지 않게
+Dialogue: 0,0:00:53.20,0:00:58.10,JA,,0,0,0,,{\pos(540,1455)\fs44}勇気を出さなきゃ、後悔しないように
+Dialogue: 0,0:00:58.86,0:01:06.40,KO,,0,0,0,,{\pos(540,1385)\fs48}조금씩 너에게 다가가 날 고백할 거야
+Dialogue: 0,0:00:58.86,0:01:06.40,JA,,0,0,0,,{\pos(540,1455)\fs44}少しずつ近づいて、この想いを伝えるよ

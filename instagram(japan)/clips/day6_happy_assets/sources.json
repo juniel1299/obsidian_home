@@ -1,0 +1,17 @@
+{
+  "audio": "https://www.youtube.com/watch?v=sWXGbkM0tBI",
+  "audio_range": "00:34–01:26",
+  "visual": "https://www.youtube.com/watch?v=kMalrBgdRvI",
+  "film": "The Perks of Being a Wallflower",
+  "segments": [
+    [
+      28,
+      42
+    ],
+    [
+      92,
+      10
+    ]
+  ],
+  "speed": 1
+}

@@ -1,0 +1,19 @@
+{
+  "audio": "https://www.youtube.com/watch?v=upD9N8h3s6E",
+  "audio_range": "08:27–09:53",
+  "visual": "https://www.youtube.com/watch?v=t3hH1bRFm5A",
+  "film": "Past Lives (2023)",
+  "segments": [
+    [
+      0,
+      28
+    ],
+    [
+      98,
+      58
+    ]
+  ],
+  "speed": 1,
+  "lyrics_status": "User supplied Korean lyrics and Japanese translation burned in",
+  "output": "1080x1920, 30fps, 86 seconds"
+}

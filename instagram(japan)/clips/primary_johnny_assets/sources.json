@@ -1,0 +1,22 @@
+{
+  "audio": "https://www.youtube.com/watch?v=Rp2CUtl1MDI",
+  "audio_range": "02:51–03:51",
+  "visual": "https://www.youtube.com/watch?v=Yml5BbjJVGQ",
+  "film": "Her (2013)",
+  "segments": [
+    [
+      47,
+      20
+    ],
+    [
+      20,
+      16
+    ],
+    [
+      77,
+      24
+    ]
+  ],
+  "speed": 1,
+  "output": "1080x1920, 30fps, 60 seconds"
+}

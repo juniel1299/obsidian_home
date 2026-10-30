@@ -1,0 +1,24 @@
+{
+  "audio": "https://www.youtube.com/watch?v=nKvV7TgrILg",
+  "audio_range": "01:20–02:33",
+  "visuals": [
+    "https://www.youtube.com/watch?v=iUVgAwLr1GQ",
+    "https://www.youtube.com/watch?v=bBLKvPSgQ2A"
+  ],
+  "film": "500 Days of Summer",
+  "segments": [
+    [
+      "breakup",
+      0,
+      33.5,
+      "960:540:160:90"
+    ],
+    [
+      "bench",
+      90,
+      39.5,
+      "1440:810:240:135"
+    ]
+  ],
+  "speed": 1
+}

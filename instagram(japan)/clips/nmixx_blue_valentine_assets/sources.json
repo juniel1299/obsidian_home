@@ -1,0 +1,21 @@
+{
+  "audio": "https://www.youtube.com/watch?v=STPvm_hgBsQ",
+  "audio_range": "02:13–03:02",
+  "visual": "https://www.youtube.com/watch?v=K4aA8ClgS_A",
+  "film": "Eternal Sunshine of the Spotless Mind",
+  "segments": [
+    [
+      12,
+      7
+    ],
+    [
+      60,
+      20
+    ],
+    [
+      84,
+      22
+    ]
+  ],
+  "speed": 1
+}
