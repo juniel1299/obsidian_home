@@ -1,0 +1,28 @@
+{
+  "audio": "https://www.youtube.com/watch?v=Qr13kGXORrk",
+  "audio_range": "03:47–04:24",
+  "visual": "https://www.youtube.com/watch?v=PVGeM40dABA",
+  "film": "Coffee Run (2020)",
+  "project": "https://studio.blender.org/projects/coffee-run/",
+  "license_page": "https://studio.blender.org/projects/coffee-run/pages/licensing/",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "(CC) Blender Foundation | studio.blender.org",
+  "changes": "Excerpts, vertical layout, subtitles, original audio replaced",
+  "segments": [
+    [
+      17,
+      14
+    ],
+    [
+      60,
+      15
+    ],
+    [
+      149,
+      8
+    ]
+  ],
+  "speed": 1,
+  "output": "1080x1920, 30fps, 37 seconds"
+}
