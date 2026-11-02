@@ -31,5 +31,8 @@
   ],
   "speed": 1,
   "output": "1080x1920, 30fps, 60 seconds",
-  "caption_reference": "https://www.genie.co.kr/detail/albumInfo?axnm=80299530"
+  "caption_reference": "https://www.genie.co.kr/detail/albumInfo?axnm=80299530",
+  "extended_audio_range": "01:51–02:53",
+  "extended_reason": "Preserve final lyric ending",
+  "lyrics": "User supplied Korean lyrics with Japanese translation"
 }
