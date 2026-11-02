@@ -1,0 +1,35 @@
+{
+  "audio": "https://www.youtube.com/watch?v=HLLSAB4Z00Q",
+  "audio_range": "01:51–02:51",
+  "visual": "https://www.youtube.com/watch?v=-xSs_xsf5sI",
+  "film": "Us and Them (2018)",
+  "segments": [
+    [
+      0,
+      10
+    ],
+    [
+      12,
+      8
+    ],
+    [
+      31,
+      10
+    ],
+    [
+      61,
+      8
+    ],
+    [
+      79,
+      14
+    ],
+    [
+      101,
+      10
+    ]
+  ],
+  "speed": 1,
+  "output": "1080x1920, 30fps, 60 seconds",
+  "caption_reference": "https://www.genie.co.kr/detail/albumInfo?axnm=80299530"
+}
