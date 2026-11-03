@@ -1,0 +1,24 @@
+{
+  "audio": "https://www.youtube.com/watch?v=Y_nfGFZonpE",
+  "audio_range": "01:40–02:46",
+  "visual": "https://www.youtube.com/watch?v=JA2iC3kHgEM",
+  "film": "Even If This Love Disappears from the World Tonight (2022)",
+  "segments": [
+    [
+      24,
+      32
+    ],
+    [
+      0,
+      21
+    ],
+    [
+      69,
+      13
+    ]
+  ],
+  "speed": 1,
+  "lyrics": "User supplied Korean with Japanese translation",
+  "output": "1080x1920, 30fps, 66 seconds",
+  "caption_reference": "https://music.bugs.co.kr/album/8027281"
+}
