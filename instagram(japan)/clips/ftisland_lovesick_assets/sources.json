@@ -38,5 +38,9 @@
   "speed": 1,
   "lyrics": "User supplied Korean with Japanese translation",
   "output": "1080x1920, 30fps, 66 seconds",
-  "caption_reference": "https://music.bugs.co.kr/album/8027281"
+  "caption_reference": "https://music.bugs.co.kr/album/8027281",
+  "visual_sources": {
+    "even_if_love_disappears": "https://www.youtube.com/watch?v=JA2iC3kHgEM",
+    "even_if_love_disappears_teaser": "https://www.youtube.com/watch?v=Z-xXhqa6igU"
+  }
 }
