@@ -16,9 +16,9 @@ for a,b,k,j in cues:
   s+=f'Dialogue: 0,{ts(a)},{ts(b)},{style},,0,0,0,,{{\\pos(540,{y})\\fs{sz}}}{text}\n'
 (p/'layout_with_lyrics.ass').write_text(s);(p/'lyrics.json').write_text(json.dumps(cues,ensure_ascii=False,indent=2))
 (p.parent/'FTISLAND_Love_Sick_KO_JA.srt').write_text('\n\n'.join(f'{i}\n{st(a)} --> {st(b)}\n{k}\n{j}' for i,(a,b,k,j) in enumerate(cues,1))+'\n')
-shots=[('even_if_love_disappears_teaser',3,35),('even_if_love_disappears',36,4),('even_if_love_disappears',0,14),('even_if_love_disappears',69,6),('even_if_love_disappears',14,5),('even_if_love_disappears',80,2)]
+shots=[('even_if_love_disappears_teaser',3,35),('even_if_love_disappears',36,4),('even_if_love_disappears',0,14),('even_if_love_disappears',69,6),('even_if_love_disappears',53,5),('even_if_love_disappears',80,2)]
 for i,(source,start,duration) in enumerate(shots):
- vf='[0:v]fps=30,crop=1920:680:0:150,split=2[b][m];[b]scale=270:480:force_original_aspect_ratio=increase,crop=270:480,gblur=sigma=18,scale=1080:1920,eq=brightness=-0.14:saturation=0.65[bg];[m]scale=1080:382,eq=saturation=0.94[main];[bg][main]overlay=0:475,setsar=1,format=yuv420p[out]'
+ vf='[0:v]fps=30,crop=1600:600:160:150,split=2[b][m];[b]scale=270:480:force_original_aspect_ratio=increase,crop=270:480,gblur=sigma=18,scale=1080:1920,eq=brightness=-0.14:saturation=0.65[bg];[m]scale=1080:405,eq=saturation=0.94[main];[bg][main]overlay=0:475,setsar=1,format=yuv420p[out]'
  subprocess.run([f,'-y','-v','error','-ss',str(start),'-i',str(p/(source+'.mp4')),'-filter_complex_threads','2','-filter_complex',vf,'-map','[out]','-an','-t',str(duration),'-c:v','libx264','-preset','fast','-crf','17','-threads','4',str(p/f'scene_{i}.mp4')],check=True);print('Scene ready',i,flush=True)
 (p/'concat.txt').write_text(''.join(f"file '{p/f'scene_{i}.mp4'}'\n" for i in range(len(shots))))
 subprocess.run([f,'-y','-v','error','-f','concat','-safe','0','-i',str(p/'concat.txt'),'-i',str(p/'audio.m4a'),'-vf',f'ass={p}/layout_with_lyrics.ass:fontsdir=/System/Library/Fonts,format=yuv420p','-map','0:v','-map','1:a','-t','66','-r','30','-c:v','libx264','-preset','fast','-crf','17','-threads','4','-c:a','aac','-b:a','256k','-movflags','+faststart',str(p.parent/'FTISLAND_Love_Sick_reel_KO_JA.mp4')],check=True)
