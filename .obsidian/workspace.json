@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "(11월 2일) [WEB] CORS 동작 원리 (ft. 아파트 경비실)"
             }
+          },
+          {
+            "id": "57e1243edbe98a64",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.0"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.15.0"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             }
           },
           {
-            "id": "d3009f4b5d61e050",
+            "id": "ba368efa244a0296",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -164,7 +176,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "기술 블로그 포스트 미리 작성/(11월 2일) [WEB] CORS 동작 원리 (ft. 아파트 경비실).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -224,7 +235,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b31b14fff20c8bd",
+  "active": "57e1243edbe98a64",
   "lastOpenFiles": [
     "instagram(meme)/01_소재함/트렌드/2026-11-03.md",
     "instagram(japan)/clips/KIM_JIN_PYO_Sorry_reel_KO_JA_ending.mp4",
