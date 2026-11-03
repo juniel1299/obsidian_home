@@ -16,10 +16,10 @@ for a,b,k,j in cues:
   s+=f'Dialogue: 0,{ts(a)},{ts(b)},{style},,0,0,0,,{{\\pos(540,{y})\\fs{sz}}}{text}\n'
 (p/'layout_with_lyrics.ass').write_text(s);(p/'lyrics.json').write_text(json.dumps(cues,ensure_ascii=False,indent=2))
 (p.parent/'FTISLAND_Love_Sick_KO_JA.srt').write_text('\n\n'.join(f'{i}\n{st(a)} --> {st(b)}\n{k}\n{j}' for i,(a,b,k,j) in enumerate(cues,1))+'\n')
-shots=[(24,32),(0,21),(69,13)]
-for i,(start,duration) in enumerate(shots):
- vf='[0:v]fps=30,crop=1600:660:160:150,split=2[b][m];[b]scale=270:480:force_original_aspect_ratio=increase,crop=270:480,gblur=sigma=18,scale=1080:1920,eq=brightness=-0.14:saturation=0.65[bg];[m]scale=1080:446,eq=saturation=0.94[main];[bg][main]overlay=0:475,setsar=1,format=yuv420p[out]'
- subprocess.run([f,'-y','-v','error','-ss',str(start),'-i',str(p/'even_if_love_disappears.mp4'),'-filter_complex_threads','2','-filter_complex',vf,'-map','[out]','-an','-t',str(duration),'-c:v','libx264','-preset','fast','-crf','17','-threads','4',str(p/f'scene_{i}.mp4')],check=True);print('Scene ready',i,flush=True)
+shots=[('even_if_love_disappears_teaser',3,39),('even_if_love_disappears',0,14),('even_if_love_disappears',69,13)]
+for i,(source,start,duration) in enumerate(shots):
+ vf='[0:v]fps=30,crop=1920:760:0:150,split=2[b][m];[b]scale=270:480:force_original_aspect_ratio=increase,crop=270:480,gblur=sigma=18,scale=1080:1920,eq=brightness=-0.14:saturation=0.65[bg];[m]scale=1080:428,eq=saturation=0.94[main];[bg][main]overlay=0:475,setsar=1,format=yuv420p[out]'
+ subprocess.run([f,'-y','-v','error','-ss',str(start),'-i',str(p/(source+'.mp4')),'-filter_complex_threads','2','-filter_complex',vf,'-map','[out]','-an','-t',str(duration),'-c:v','libx264','-preset','fast','-crf','17','-threads','4',str(p/f'scene_{i}.mp4')],check=True);print('Scene ready',i,flush=True)
 (p/'concat.txt').write_text(''.join(f"file '{p/f'scene_{i}.mp4'}'\n" for i in range(len(shots))))
 subprocess.run([f,'-y','-v','error','-f','concat','-safe','0','-i',str(p/'concat.txt'),'-i',str(p/'audio.m4a'),'-vf',f'ass={p}/layout_with_lyrics.ass:fontsdir=/System/Library/Fonts,format=yuv420p','-map','0:v','-map','1:a','-t','66','-r','30','-c:v','libx264','-preset','fast','-crf','17','-threads','4','-c:a','aac','-b:a','256k','-movflags','+faststart',str(p.parent/'FTISLAND_Love_Sick_reel_KO_JA.mp4')],check=True)
 (p/'sources.json').write_text(json.dumps({'audio':'https://www.youtube.com/watch?v=Y_nfGFZonpE','audio_range':'01:40–02:46','visual':'https://www.youtube.com/watch?v=JA2iC3kHgEM','film':'Even If This Love Disappears from the World Tonight (2022)','segments':shots,'speed':1,'lyrics':'User supplied Korean with Japanese translation','output':'1080x1920, 30fps, 66 seconds','caption_reference':'https://music.bugs.co.kr/album/8027281'},ensure_ascii=False,indent=2))
