@@ -11,6 +11,7 @@
   - CS + WEB
   - JavaScript > React, Next.js
   - SQL(oracle)
+  - NoSQL
   - java > Spring
   - 다양한 이야기 > 기타 이야기, 나의 코딩 관련 이야기
   - 퍼블리싱(html,css)
