@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026 면접/에이아이커넥트 면접.md",
+                "file": "2026 면접/어크로스비 면접.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "에이아이커넥트 면접"
+              "title": "어크로스비 면접"
             }
           }
         ],
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026 면접/에이아이커넥트 면접.md",
+                "file": "2026 면접/어크로스비 면접.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -240,9 +240,10 @@
   },
   "active": "57e1243edbe98a64",
   "lastOpenFiles": [
+    "2026 면접/에이아이커넥트 면접.md",
+    "2026 면접/어크로스비 면접.md",
     "2026 면접/자기소개 .md",
     "2026 면접/자기소개.md",
-    "2026 면접/에이아이커넥트 면접.md",
     "2026 면접/자기소개개.md",
     "2026 면접/2026 면접.md",
     "0415.md",
@@ -285,7 +286,6 @@
     "instagram(japan)/posts/009_mild_korean_food/originals/03.png",
     "instagram(japan)/posts/009_mild_korean_food/카드_원고.md",
     "instagram(meme)/01_소재함/트렌드/2026-10-30.md",
-    "instagram(meme)/01_소재함/트렌드/2026-10-28.md",
     "React/LifeCycle.canvas",
     "React/Props.canvas",
     "무제.canvas",
