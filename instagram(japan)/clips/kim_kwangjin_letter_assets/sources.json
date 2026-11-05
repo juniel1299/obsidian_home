@@ -1,0 +1,24 @@
+{
+  "audio": "https://www.youtube.com/watch?v=ts6a_GAoghA",
+  "audio_range": "03:20–04:18",
+  "visual": "https://www.youtube.com/watch?v=tvneMVSrvbU",
+  "film": "Love Letter (1995), restoration trailer",
+  "segments": [
+    [
+      3,
+      9
+    ],
+    [
+      19,
+      35
+    ],
+    [
+      68,
+      14
+    ]
+  ],
+  "speed": 1,
+  "lyrics": "User supplied Korean with Japanese translation",
+  "output": "1080x1920, 30fps, 58 seconds",
+  "song_credit_reference": "https://music.bugs.co.kr/track/6458340"
+}
