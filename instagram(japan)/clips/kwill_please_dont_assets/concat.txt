@@ -1,4 +1,5 @@
 file '/Users/wonjun/Documents/obsidian_home/instagram(japan)/clips/kwill_please_dont_assets/scene_0.mp4'
-file '/Users/wonjun/Documents/obsidian_home/instagram(japan)/clips/kwill_please_dont_assets/scene_1.mp4'
+file '/Users/wonjun/Documents/obsidian_home/instagram(japan)/clips/kwill_please_dont_assets/scene_1a.mp4'
+file '/Users/wonjun/Documents/obsidian_home/instagram(japan)/clips/kwill_please_dont_assets/scene_1b.mp4'
 file '/Users/wonjun/Documents/obsidian_home/instagram(japan)/clips/kwill_please_dont_assets/scene_2.mp4'
 file '/Users/wonjun/Documents/obsidian_home/instagram(japan)/clips/kwill_please_dont_assets/scene_3.mp4'
