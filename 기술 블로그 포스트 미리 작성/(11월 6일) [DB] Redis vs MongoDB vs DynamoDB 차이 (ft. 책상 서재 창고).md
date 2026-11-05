@@ -1,12 +1,13 @@
-## 둘 다 NoSQL 인데 ?
+## 셋 다 NoSQL 인데 ?
 
-채용 공고를 보면 Redis 와 MongoDB 가 나란히 적혀 있다.
-둘 다 NoSQL 이니까 비슷한 DB 처럼 보이지만, 사실 **쓰임새가 꽤 다르다.**
+채용 공고를 보면 Redis , MongoDB , DynamoDB 가 나란히 적혀 있다.
+셋 다 NoSQL 이니까 비슷한 DB 처럼 보이지만, 사실 **쓰임새가 꽤 다르다.**
 
-책상과 서재로 생각하면 쉽다.
+책상 , 서재 , 무인 창고로 생각하면 쉽다.
 
 - **Redis** : 책상 위. 손만 뻗으면 바로 닿지만 **공간이 좁다**
 - **MongoDB** : 서재. 찾는 데 조금 더 걸리지만 **많이 보관하고 , 목차로 찾을 수 있다**
+- **DynamoDB** : 무인 창고. 보관함 번호만 대면 **얼마나 많든 금방 꺼내주고 , 관리는 AWS 가 한다**
 
 (SQL 이 뭔지 먼저 보고 싶다면 [SQL 이란](https://problem-child.tistory.com/71) 글을 참고해 주세요)
 
@@ -19,12 +20,13 @@ SQL 을 안 쓴다는 뜻이라기보다, 테이블과 행으로 이루어진 **
 
 | 종류 | 저장 방식 | 예시 |
 |---|---|---|
-| 키-값 (Key-Value) | 키 하나에 값 하나 | **Redis** , DynamoDB |
-| 문서 (Document) | JSON 같은 문서 | **MongoDB** , Couchbase |
+| 키-값 (Key-Value) | 키 하나에 값 하나 | **Redis** , **DynamoDB** |
+| 문서 (Document) | JSON 같은 문서 | **MongoDB** , Couchbase , **DynamoDB** |
 | 컬럼 패밀리 (Column Family) | 행마다 다른 컬럼 묶음 | Cassandra , HBase |
 | 그래프 (Graph) | 노드와 관계 | Neo4j |
 
 같은 NoSQL 이어도 Redis 와 MongoDB 는 **종류부터 다르다.**
+DynamoDB 는 키-값과 문서 모델을 둘 다 지원한다.
 
 ---
 
@@ -179,6 +181,86 @@ db.posts.aggregate([
 
 ---
 
+## DynamoDB : 무인 창고
+
+**AWS 가 운영하는 완전 관리형 (서버리스) NoSQL** 이다.
+서버를 띄우거나 패치할 필요 없이, 테이블만 만들면 바로 쓴다.
+데이터가 아무리 늘어도 **키로 찾으면 응답 속도가 일정하게** 유지되도록 설계됐다.
+
+### 핵심은 기본 키
+
+테이블을 만들 때 **기본 키**를 정한다.
+
+- **파티션 키 (Partition Key)** : 데이터를 어느 저장 공간에 둘지 정하는 키 (필수)
+- **정렬 키 (Sort Key)** : 같은 파티션 키 안에서 정렬하는 키 (선택)
+
+```
+파티션 키 : userId       정렬 키 : orderedAt
+user#1                  2026-11-01T09:00:00Z   { total: 12000 }
+user#1                  2026-11-06T10:00:00Z   { total: 32000 }
+user#2                  2026-11-03T14:00:00Z   { total: 8000 }
+```
+
+"이 사용자의 최근 주문" 처럼 **파티션 키 + 정렬 키 범위**로 찾는 게 가장 잘하는 일이다.
+
+```javascript
+import { DynamoDBClient } from "@aws-sdk/client-dynamodb";
+import {
+  DynamoDBDocumentClient,
+  PutCommand,
+  QueryCommand,
+} from "@aws-sdk/lib-dynamodb";
+
+const client = DynamoDBDocumentClient.from(new DynamoDBClient({}));
+
+// 저장
+await client.send(
+  new PutCommand({
+    TableName: "Orders",
+    Item: {
+      userId: "user#1",
+      orderedAt: "2026-11-06T10:00:00Z",
+      total: 32000,
+    },
+  })
+);
+
+// user#1 의 11월 주문을 최신순으로 5개
+const { Items } = await client.send(
+  new QueryCommand({
+    TableName: "Orders",
+    KeyConditionExpression: "userId = :user AND orderedAt >= :from",
+    ExpressionAttributeValues: { ":user": "user#1", ":from": "2026-11-01" },
+    ScanIndexForward: false,  // 정렬 키 내림차순
+    Limit: 5,
+  })
+);
+```
+
+### Query 와 Scan
+
+| 방식 | 동작 | 비용 |
+|---|---|---|
+| Query | 파티션 키로 해당 데이터만 읽음 | 읽은 만큼 |
+| Scan | 테이블 전체를 읽음 | 테이블이 크면 비싸고 느림 |
+
+창고 전체를 뒤지는 Scan 은 피해야 한다.
+MongoDB 처럼 아무 필드로 찾으려면 **GSI (글로벌 보조 인덱스)** 를 만들어 두어야 한다.
+
+JOIN 이나 GROUP BY 같은 집계도 없다.
+그래서 **어떻게 조회할지를 먼저 정하고 , 거기에 맞춰 키를 설계**한다.
+SQL 처럼 테이블부터 만들고 쿼리를 나중에 생각하면 고생한다.
+
+### 알아둘 특징
+
+- 아이템 하나의 최대 크기는 **400KB** (MongoDB 16MB 보다 훨씬 작다)
+- 읽기 기본값은 **최종 일관성**이다. 방금 쓴 값이 바로 안 보일 수 있고 , 필요하면 강한 일관성 읽기를 고를 수 있다 (GSI 는 불가)
+- 요금은 **읽기 / 쓰기 양과 저장 용량** 기준이다. 사용한 만큼 내는 온디맨드와 , 미리 용량을 정하는 프로비저닝 방식이 있다
+- TTL 은 시간이 지나면 **백그라운드에서** 지운다. 만료 직후 바로 사라진다고 믿으면 안 된다
+- **AWS 에서만** 쓸 수 있다. 다른 클라우드로 옮기려면 코드와 데이터 모델을 바꿔야 한다
+
+---
+
 ## 어떤 데이터를 어디에 ?
 
 | 데이터 | 어울리는 곳 | 이유 |
@@ -190,11 +272,15 @@ db.posts.aggregate([
 | 게시글 , 상품 , 프로필 | MongoDB | 구조가 다양하고 영구 보관 |
 | 로그 , 이벤트 기록 | MongoDB | 양이 많고 필드가 자주 바뀜 |
 | 조건 검색 , 통계 | MongoDB | 쿼리 , 인덱스 , 집계 |
+| 사용자별 주문 , 장바구니 | DynamoDB | 키로 조회 , 트래픽이 늘어도 일정한 응답 |
+| IoT , 게임 상태 등 대량 쓰기 | DynamoDB | 서버 관리 없이 확장 |
+| Lambda 기반 서버리스 앱의 저장소 | DynamoDB | 서버 없이 , 쓴 만큼 과금 |
 
-판단 기준은 두 개면 충분하다.
+판단 기준은 세 개면 충분하다.
 
 - **키만 알면 되고 , 사라져도 다시 만들 수 있다** → Redis
 - **조건으로 찾아야 하고 , 사라지면 안 된다** → MongoDB
+- **조회 패턴이 정해져 있고 , 사라지면 안 되고 , 운영을 AWS 에 맡기고 싶다** → DynamoDB
 
 ### 대시보드 데이터를 Redis 에 넣어도 될까 ?
 
@@ -237,32 +323,37 @@ async function getPost(id) {
 원본이 바뀌면 캐시와 값이 달라질 수 있다.
 그래서 수정할 때 캐시를 지우거나, TTL 을 짧게 잡아서 **언젠가는 맞춰지도록** 한다.
 
+DynamoDB 앞에 Redis 를 둬도 같은 구조다. AWS 는 DynamoDB 전용 캐시인 **DAX** 도 제공한다.
+
 ---
 
-## Redis vs MongoDB
+## Redis vs MongoDB vs DynamoDB
 
-| 항목 | Redis | MongoDB |
-|---|---|---|
-| 종류 | 키-값 저장소 | 문서 DB |
-| 주 저장 위치 | 메모리 | 디스크 (일부 메모리 캐시) |
-| 데이터 형태 | String , Hash , List , Set , Sorted Set 등 | BSON 문서 |
-| 조회 방식 | 기본적으로 키로 조회 | 필드 조건 쿼리 , 집계 |
-| 인덱스 | 키 기반 (별도 구조는 직접 설계) | 필드별 보조 인덱스 |
-| 저장 용량 | 메모리 크기가 한계 | 디스크 크기만큼 , 샤딩으로 확장 |
-| 속도 | 매우 빠름 | 빠름 (Redis 보다는 느림) |
-| 영속성 | 선택 (RDB , AOF) | 기본 |
-| 데이터 만료 | 키마다 TTL | TTL 인덱스 |
-| 주 용도 | 캐시 , 세션 , 랭킹 , 분산 락 | 서비스 주 데이터 저장 |
-| 비유 | 책상 위 | 서재 |
+| 항목 | Redis | MongoDB | DynamoDB |
+|---|---|---|---|
+| 종류 | 키-값 저장소 | 문서 DB | 키-값 + 문서 DB |
+| 주 저장 위치 | 메모리 | 디스크 (일부 메모리 캐시) | AWS 관리 저장소 (SSD) |
+| 데이터 형태 | String , Hash , List , Set , Sorted Set 등 | BSON 문서 | 아이템 (속성 묶음) |
+| 조회 방식 | 기본적으로 키로 조회 | 필드 조건 쿼리 , 집계 | 파티션 키 + 정렬 키 조회 |
+| 인덱스 | 키 기반 (별도 구조는 직접 설계) | 필드별 보조 인덱스 | GSI , LSI |
+| 저장 용량 | 메모리 크기가 한계 | 디스크 크기만큼 , 샤딩으로 확장 | 사실상 자동 확장 |
+| 값 / 문서 크기 제한 | 값 하나 512MB | 문서 하나 16MB | 아이템 하나 400KB |
+| 속도 | 매우 빠름 | 빠름 (Redis 보다는 느림) | 키 조회 시 빠르고 일정함 |
+| 영속성 | 선택 (RDB , AOF) | 기본 | 기본 |
+| 데이터 만료 | 키마다 TTL | TTL 인덱스 | TTL 속성 (백그라운드 삭제) |
+| 운영 | 직접 또는 관리형 서비스 | 직접 또는 관리형 (Atlas) | AWS 가 전부 (서버리스) |
+| 주 용도 | 캐시 , 세션 , 랭킹 , 분산 락 | 서비스 주 데이터 저장 | 조회 패턴이 정해진 대규모 서비스 |
+| 비유 | 책상 위 | 서재 | 무인 창고 |
 
 ---
 
 ## 정리
 
-- 둘 다 NoSQL 이지만 Redis 는 **키-값** , MongoDB 는 **문서** DB 다
+- 셋 다 NoSQL 이지만 Redis 는 **키-값** , MongoDB 는 **문서** , DynamoDB 는 **키-값 + 문서** DB 다
 - **Redis** 는 메모리에 둬서 빠르다 → 캐시 , 세션 , 랭킹처럼 키로 찾는 데이터에 좋다
 - **MongoDB** 는 디스크에 문서로 저장한다 → 조건 검색과 집계가 필요한 주 데이터에 좋다
+- **DynamoDB** 는 AWS 가 운영한다 → 조회 패턴이 정해진 대규모 데이터에 좋고 , **키 설계가 전부**다
 - Redis 는 메모리가 비싸니 **큰 원본 데이터를 전부 넣는 용도가 아니다**
-- 실제로는 MongoDB 를 원본으로 , Redis 를 캐시로 **같이** 쓰는 구조가 흔하다
+- 실제로는 MongoDB 나 DynamoDB 를 원본으로 , Redis 를 캐시로 **같이** 쓰는 구조가 흔하다
 
-자주 쓰는 건 책상에, 오래 둘 건 서재에.
+자주 쓰는 건 책상에, 오래 둘 건 서재에, 많은 건 번호 붙여 창고에.
