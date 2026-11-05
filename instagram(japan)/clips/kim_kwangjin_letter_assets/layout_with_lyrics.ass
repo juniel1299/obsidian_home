@@ -1,0 +1,34 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Header,Hiragino Sans,56,&H00FFFFFF,&H00FFFFFF,&H90000000,&H80000000,-1,0,0,0,100,100,1,0,1,2,0,5,0,0,0,1
+Style: Title,Hiragino Sans,42,&H00FFFFFF,&H00FFFFFF,&H90000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,5,0,0,0,1
+Style: KO,Apple SD Gothic Neo,48,&H00FFFFFF,&H00FFFFFF,&H30000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,5,0,0,0,1
+Style: JA,Hiragino Sans,44,&H00B8E7FF,&H00FFFFFF,&H30000000,&H80000000,0,0,0,0,100,100,0,0,1,3,1,5,0,0,0,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:58.00,Header,,0,0,0,,{\pos(540,245)}韓国人おすすめの一曲
+Dialogue: 0,0:00:00.00,0:00:58.00,Title,,0,0,0,,{\pos(540,1610)\fs44}キム・グァンジン - 手紙
+Dialogue: 0,0:00:00.00,0:00:07.80,KO,,0,0,0,,{\pos(540,1385)\fs48}오 사랑한 사람이여
+Dialogue: 0,0:00:00.00,0:00:07.80,JA,,0,0,0,,{\pos(540,1455)\fs44}ああ、愛した人よ
+Dialogue: 0,0:00:08.60,0:00:13.80,KO,,0,0,0,,{\pos(540,1385)\fs48}더 이상 못 보아도
+Dialogue: 0,0:00:08.60,0:00:13.80,JA,,0,0,0,,{\pos(540,1455)\fs44}もう会えなくても
+Dialogue: 0,0:00:14.30,0:00:19.88,KO,,0,0,0,,{\pos(540,1385)\fs48}사실 그대 있음으로
+Dialogue: 0,0:00:14.30,0:00:19.88,JA,,0,0,0,,{\pos(540,1455)\fs44}あなたがいてくれたから
+Dialogue: 0,0:00:19.88,0:00:25.60,KO,,0,0,0,,{\pos(540,1385)\fs48}힘겨운 날들을 견뎌 왔음에
+Dialogue: 0,0:00:19.88,0:00:25.60,JA,,0,0,0,,{\pos(540,1455)\fs44}つらい日々を耐えてこられたことに
+Dialogue: 0,0:00:25.60,0:00:29.50,KO,,0,0,0,,{\pos(540,1385)\fs48}감사하오
+Dialogue: 0,0:00:25.60,0:00:29.50,JA,,0,0,0,,{\pos(540,1455)\fs44}感謝しています
+Dialogue: 0,0:00:30.78,0:00:36.38,KO,,0,0,0,,{\pos(540,1385)\fs48}좋은 사람 만나오
+Dialogue: 0,0:00:30.78,0:00:36.38,JA,,0,0,0,,{\pos(540,1455)\fs44}どうか素敵な人に出会ってください
+Dialogue: 0,0:00:36.38,0:00:44.10,KO,,0,0,0,,{\pos(540,1385)\fs48}사는 동안 날 잊고 사시오
+Dialogue: 0,0:00:36.38,0:00:44.10,JA,,0,0,0,,{\pos(540,1455)\fs44}これからは私を忘れて生きてください
+Dialogue: 0,0:00:44.56,0:00:50.68,KO,,0,0,0,,{\pos(540,1385)\fs48}진정 행복하길 바라겠소
+Dialogue: 0,0:00:44.56,0:00:50.68,JA,,0,0,0,,{\pos(540,1455)\fs44}心から幸せを願っています
+Dialogue: 0,0:00:50.68,0:00:58.00,KO,,0,0,0,,{\pos(540,1385)\fs48}이 맘만 가져가오
+Dialogue: 0,0:00:50.68,0:00:58.00,JA,,0,0,0,,{\pos(540,1455)\fs44}この想いだけ、受け取ってください
