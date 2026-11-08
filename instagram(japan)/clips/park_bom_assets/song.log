@@ -1,0 +1,9 @@
+[youtube] Extracting URL: https://youtu.be/YUE3QBM0Mrc
+[youtube] YUE3QBM0Mrc: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] YUE3QBM0Mrc: Downloading visionos player API JSON
+[youtube] YUE3QBM0Mrc: Downloading m3u8 information
+[info] YUE3QBM0Mrc: Downloading 1 format(s): 140
+[download] Destination: song.m4a
+[download]   0.0% of    3.60MiB at  Unknown B/s ETA Unknown[download]   0.1% of    3.60MiB at  Unknown B/s ETA Unknown[download]   0.2% of    3.60MiB at  Unknown B/s ETA Unknown[download]   0.4% of    3.60MiB at   12.65MiB/s ETA 00:00  [download]   0.8% of    3.60MiB at   22.41MiB/s ETA 00:00[download]   1.7% of    3.60MiB at    4.61MiB/s ETA 00:00[download]   3.4% of    3.60MiB at    5.52MiB/s ETA 00:00[download]   6.9% of    3.60MiB at    6.95MiB/s ETA 00:00[download]  13.8% of    3.60MiB at    9.82MiB/s ETA 00:00[download]  27.7% of    3.60MiB at   14.47MiB/s ETA 00:00[download]  55.5% of    3.60MiB at   21.94MiB/s ETA 00:00[download] 100.0% of    3.60MiB at   29.42MiB/s ETA 00:00[download] 100% of    3.60MiB in 00:00:00 at 16.37MiB/s  
+WARNING: YUE3QBM0Mrc: writing DASH m4a. Only some players support this container. Install ffmpeg to fix this automatically
