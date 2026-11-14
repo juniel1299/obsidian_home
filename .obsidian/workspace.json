@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "(11월 13일) [DB] DB 설계할 때 고려할 것 (ft. 이사 짐 싸기)"
             }
+          },
+          {
+            "id": "a995f0833075e018",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.15.1"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -104,7 +116,7 @@
             }
           },
           {
-            "id": "7032219858da855f",
+            "id": "0e378aabc18bdd2d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -178,7 +190,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "기술 블로그 포스트 미리 작성/(11월 13일) [DB] DB 설계할 때 고려할 것 (ft. 이사 짐 싸기).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -238,7 +249,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57e1243edbe98a64",
+  "active": "a995f0833075e018",
   "lastOpenFiles": [
     "instagram(meme)/01_소재함/트렌드/2026-11-13.md",
     "instagram(japan)/clips/Davichi_Dont_Say_Goodbye_Worst_Person_caption.txt",
