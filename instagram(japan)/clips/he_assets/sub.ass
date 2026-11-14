@@ -1,0 +1,40 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Header,Hiragino Sans,56,&H00FFFFFF,&H00FFFFFF,&H90000000,&H80000000,-1,0,0,0,100,100,1,0,1,2,0,5,0,0,0,1
+Style: Title,Hiragino Sans,42,&H00FFFFFF,&H00FFFFFF,&H90000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,5,0,0,0,1
+Style: KO,Apple SD Gothic Neo,48,&H00FFFFFF,&H00FFFFFF,&H30000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,5,0,0,0,1
+Style: JA,Hiragino Sans,44,&H00B8E7FF,&H00FFFFFF,&H30000000,&H80000000,0,0,0,0,100,100,0,0,1,3,1,5,0,0,0,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:01:10.00,Header,,0,0,0,,{\pos(540,245)}韓国人おすすめの一曲
+Dialogue: 0,0:00:00.00,0:01:10.00,Title,,0,0,0,,{\pos(540,1610)\fs38}イ・スンチョル - My Love
+Dialogue: 0,0:00:00.00,0:00:04.10,KO,,0,0,0,,{\pos(540,1385)}Oh 햇살이 밝은 아침보다
+Dialogue: 0,0:00:00.00,0:00:04.10,JA,,0,0,0,,{\pos(540,1455)}Oh 日差しのまぶしい朝より
+Dialogue: 0,0:00:04.10,0:00:08.80,KO,,0,0,0,,{\pos(540,1385)}밤의 달빛이 어울려요
+Dialogue: 0,0:00:04.10,0:00:08.80,JA,,0,0,0,,{\pos(540,1455)}夜の月明かりが似合うね
+Dialogue: 0,0:00:09.00,0:00:12.90,KO,,0,0,0,,{\pos(540,1385)}이별의 그 입맞춤
+Dialogue: 0,0:00:09.00,0:00:12.90,JA,,0,0,0,,{\pos(540,1455)}さよならの口づけは
+Dialogue: 0,0:00:12.90,0:00:18.45,KO,,0,0,0,,{\pos(540,1385)}잠시 접어둔 채 이대로 이렇게
+Dialogue: 0,0:00:12.90,0:00:18.45,JA,,0,0,0,,{\pos(540,1455)}ひとまずしまって このままでいよう
+Dialogue: 0,0:00:18.45,0:00:23.66,KO,,0,0,0,,{\pos(540,1385)}힘껏 안아줄게 널 그리고 말할게
+Dialogue: 0,0:00:18.45,0:00:23.66,JA,,0,0,0,,{\pos(540,1455)}君をぎゅっと抱きしめて 伝えるよ
+Dialogue: 0,0:00:23.66,0:00:30.10,KO,,0,0,0,,{\pos(540,1385)}나 이렇게 너를 외치면서 My love
+Dialogue: 0,0:00:23.66,0:00:30.10,JA,,0,0,0,,{\pos(540,1455)}こうして君を呼びながら My love
+Dialogue: 0,0:00:30.66,0:00:35.66,KO,,0,0,0,,{\pos(540,1385)}넌 보지 못할 내 마지막 눈물
+Dialogue: 0,0:00:30.66,0:00:35.66,JA,,0,0,0,,{\pos(540,1455)}君が見ることのない 僕の最後の涙
+Dialogue: 0,0:00:35.66,0:00:40.70,KO,,0,0,0,,{\pos(540,1385)}힘껏 안아줄게 널 그리고 보낼게
+Dialogue: 0,0:00:35.66,0:00:40.70,JA,,0,0,0,,{\pos(540,1455)}君をぎゅっと抱きしめて 見送るよ
+Dialogue: 0,0:00:40.70,0:00:47.10,KO,,0,0,0,,{\pos(540,1385)}나 또 한번 너를 외치면서 My love
+Dialogue: 0,0:00:40.70,0:00:47.10,JA,,0,0,0,,{\pos(540,1455)}もう一度君を呼びながら My love
+Dialogue: 0,0:00:47.10,0:00:53.34,KO,,0,0,0,,{\pos(540,1385)}넌 듣지 못할 사랑한단 내 말
+Dialogue: 0,0:00:47.10,0:00:53.34,JA,,0,0,0,,{\pos(540,1455)}君には届かない 僕の「愛してる」
+Dialogue: 0,0:00:54.12,0:01:02.34,KO,,0,0,0,,{\pos(540,1385)}괜찮아 그 말은 안쓰러운 거짓말야
+Dialogue: 0,0:00:54.12,0:01:02.34,JA,,0,0,0,,{\pos(540,1455)}「大丈夫」なんて 痛々しい嘘だよ
+Dialogue: 0,0:01:02.86,0:01:10.00,KO,,0,0,0,,{\pos(540,1385)}애쓰면서 웃어도 우린 그저 눈물만
+Dialogue: 0,0:01:02.86,0:01:10.00,JA,,0,0,0,,{\pos(540,1455)}無理して笑っても 僕らはただ涙がこぼれる
