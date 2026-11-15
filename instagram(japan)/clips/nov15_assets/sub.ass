@@ -1,0 +1,60 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Header,Hiragino Sans,56,&H00FFFFFF,&H00FFFFFF,&H90000000,&H80000000,-1,0,0,0,100,100,1,0,1,2,0,5,0,0,0,1
+Style: Title,Hiragino Sans,42,&H00FFFFFF,&H00FFFFFF,&H90000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,5,0,0,0,1
+Style: KO,Apple SD Gothic Neo,48,&H00FFFFFF,&H00FFFFFF,&H30000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,5,0,0,0,1
+Style: JA,Hiragino Sans,44,&H00B8E7FF,&H00FFFFFF,&H30000000,&H80000000,0,0,0,0,100,100,0,0,1,3,1,5,0,0,0,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:01:16.00,Header,,0,0,0,,{\pos(540,245)}韓国人おすすめの一曲
+Dialogue: 0,0:00:00.00,0:01:16.00,Title,,0,0,0,,{\pos(540,1610)\fs38}サニーヒル - Goodbye To Romance
+Dialogue: 0,0:00:00.00,0:00:02.64,KO,,0,0,0,,{\pos(540,1385)}결혼은 했을까,
+Dialogue: 0,0:00:00.00,0:00:02.64,JA,,0,0,0,,{\pos(540,1455)}結婚したのかな
+Dialogue: 0,0:00:02.64,0:00:05.80,KO,,0,0,0,,{\pos(540,1385)}혹시 내 이름 기억할까
+Dialogue: 0,0:00:02.64,0:00:05.80,JA,,0,0,0,,{\pos(540,1455)}私の名前、覚えてるかな
+Dialogue: 0,0:00:05.96,0:00:11.00,KO,,0,0,0,,{\pos(540,1385)}그 동네에 여전히 살고 있을까
+Dialogue: 0,0:00:05.96,0:00:11.00,JA,,0,0,0,,{\pos(540,1455)}今もあの街に住んでいるのかな
+Dialogue: 0,0:00:11.16,0:00:15.70,KO,,0,0,0,,{\pos(540,1385)}키는 거기서 크긴 했을까
+Dialogue: 0,0:00:11.16,0:00:15.70,JA,,0,0,0,,{\pos(540,1455)}あれから背は伸びたのかな
+Dialogue: 0,0:00:16.18,0:00:20.50,KO,,0,0,0,,{\pos(540,1385)}이 좋은 기억으로 남길래
+Dialogue: 0,0:00:16.18,0:00:20.50,JA,,0,0,0,,{\pos(540,1455)}このまま素敵な思い出にしておくね
+Dialogue: 0,0:00:20.50,0:00:22.36,KO,,0,0,0,,{\pos(540,1385)}그래서 Goodbye
+Dialogue: 0,0:00:20.50,0:00:22.36,JA,,0,0,0,,{\pos(540,1455)}だから Goodbye
+Dialogue: 0,0:00:22.36,0:00:24.90,KO,,0,0,0,,{\pos(540,1385)}나의 로맨스여 Goodbye
+Dialogue: 0,0:00:22.36,0:00:24.90,JA,,0,0,0,,{\pos(540,1455)}私の恋よ Goodbye
+Dialogue: 0,0:00:24.90,0:00:28.26,KO,,0,0,0,,{\pos(540,1385)}바로 어제처럼 느껴지는
+Dialogue: 0,0:00:24.90,0:00:28.26,JA,,0,0,0,,{\pos(540,1455)}つい昨日のことみたいに思える
+Dialogue: 0,0:00:28.26,0:00:31.00,KO,,0,0,0,,{\pos(540,1385)}그때 그 시간들
+Dialogue: 0,0:00:28.26,0:00:31.00,JA,,0,0,0,,{\pos(540,1455)}あの頃のひととき
+Dialogue: 0,0:00:31.00,0:00:32.76,KO,,0,0,0,,{\pos(540,1385)}이제는 Goodbye
+Dialogue: 0,0:00:31.00,0:00:32.76,JA,,0,0,0,,{\pos(540,1455)}もう Goodbye
+Dialogue: 0,0:00:32.76,0:00:35.44,KO,,0,0,0,,{\pos(540,1385)}나의 로맨스여 Goodbye
+Dialogue: 0,0:00:32.76,0:00:35.44,JA,,0,0,0,,{\pos(540,1455)}私の恋よ Goodbye
+Dialogue: 0,0:00:35.44,0:00:41.60,KO,,0,0,0,,{\pos(540,1385)}기다림조차도 아름답던 처음 그 떨림도
+Dialogue: 0,0:00:35.44,0:00:41.60,JA,,0,0,0,,{\pos(540,1455)\fs36}待つ時間さえ愛おしかった あの初めてのときめきも
+Dialogue: 0,0:00:41.60,0:00:47.06,KO,,0,0,0,,{\pos(540,1385)}이젠 Goodbye Goodbye
+Dialogue: 0,0:00:41.60,0:00:47.06,JA,,0,0,0,,{\pos(540,1455)}もう Goodbye Goodbye
+Dialogue: 0,0:00:47.06,0:00:48.64,KO,,0,0,0,,{\pos(540,1385)}It's time for goodbye
+Dialogue: 0,0:00:47.06,0:00:48.64,JA,,0,0,0,,{\pos(540,1455)}さよならを言う時だね
+Dialogue: 0,0:00:48.64,0:00:51.60,KO,,0,0,0,,{\pos(540,1385)}나의 로맨스여 Goodbye
+Dialogue: 0,0:00:48.64,0:00:51.60,JA,,0,0,0,,{\pos(540,1455)}私の恋よ Goodbye
+Dialogue: 0,0:00:51.60,0:00:54.54,KO,,0,0,0,,{\pos(540,1385)}바로 어제처럼 느껴지는
+Dialogue: 0,0:00:51.60,0:00:54.54,JA,,0,0,0,,{\pos(540,1455)}つい昨日のことみたいに思える
+Dialogue: 0,0:00:54.54,0:00:57.42,KO,,0,0,0,,{\pos(540,1385)}그때 그 시간들
+Dialogue: 0,0:00:54.54,0:00:57.42,JA,,0,0,0,,{\pos(540,1455)}あの頃のひととき
+Dialogue: 0,0:00:57.42,0:00:59.20,KO,,0,0,0,,{\pos(540,1385)}이제는 Goodbye
+Dialogue: 0,0:00:57.42,0:00:59.20,JA,,0,0,0,,{\pos(540,1455)}もう Goodbye
+Dialogue: 0,0:00:59.20,0:01:01.82,KO,,0,0,0,,{\pos(540,1385)}나의 로맨스여 Goodbye
+Dialogue: 0,0:00:59.20,0:01:01.82,JA,,0,0,0,,{\pos(540,1455)}私の恋よ Goodbye
+Dialogue: 0,0:01:01.82,0:01:07.94,KO,,0,0,0,,{\pos(540,1385)}기다림조차도 아름답던 처음 그 떨림도
+Dialogue: 0,0:01:01.82,0:01:07.94,JA,,0,0,0,,{\pos(540,1455)\fs36}待つ時間さえ愛おしかった あの初めてのときめきも
+Dialogue: 0,0:01:07.94,0:01:13.02,KO,,0,0,0,,{\pos(540,1385)}이젠 Goodbye Goodbye
+Dialogue: 0,0:01:07.94,0:01:13.02,JA,,0,0,0,,{\pos(540,1455)}もう Goodbye Goodbye
+Dialogue: 0,0:01:13.02,0:01:16.00,KO,,0,0,0,,{\pos(540,1385)}나의 Memory
+Dialogue: 0,0:01:13.02,0:01:16.00,JA,,0,0,0,,{\pos(540,1455)}私の思い出
