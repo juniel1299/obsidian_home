@@ -1,0 +1,8 @@
+[youtube] Extracting URL: https://youtu.be/aXc9DVfLTGo
+[youtube] aXc9DVfLTGo: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] aXc9DVfLTGo: Downloading visionos player API JSON
+[youtube] aXc9DVfLTGo: Downloading m3u8 information
+[info] aXc9DVfLTGo: Downloading 1 format(s): 137
+[download] Destination: film.mp4
+[download]   0.0% of    9.00MiB at  Unknown B/s ETA Unknown[download]   0.0% of    9.00MiB at  Unknown B/s ETA Unknown[download]   0.1% of    9.00MiB at  Unknown B/s ETA Unknown[download]   0.2% of    9.00MiB at  Unknown B/s ETA Unknown[download]   0.3% of    9.00MiB at    1.96MiB/s ETA 00:04  [download]   0.7% of    9.00MiB at    2.16MiB/s ETA 00:04[download]   1.4% of    9.00MiB at    2.95MiB/s ETA 00:03[download]   2.8% of    9.00MiB at    4.00MiB/s ETA 00:02[download]   5.5% of    9.00MiB at    6.22MiB/s ETA 00:01[download]  11.1% of    9.00MiB at   10.18MiB/s ETA 00:00[download]  22.2% of    9.00MiB at   13.18MiB/s ETA 00:00[download]  44.4% of    9.00MiB at   20.95MiB/s ETA 00:00[download]  88.9% of    9.00MiB at   16.44MiB/s ETA 00:00[download] 100.0% of    9.00MiB at   18.40MiB/s ETA 00:00[download] 100% of    9.00MiB in 00:00:00 at 9.69MiB/s   
